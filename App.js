@@ -8,6 +8,7 @@ import { Ionicons } from '@expo/vector-icons';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 
 import { ThemeProvider, useTheme } from './src/utils/theme';
+import { initNotifications } from './src/utils/notifications';
 import OnboardingScreen from './src/screens/OnboardingScreen';
 import HomeScreen from './src/screens/HomeScreen';
 import SubjectScreen from './src/screens/SubjectScreen';
@@ -146,6 +147,7 @@ function AppContent() {
       setShowOnboarding(val !== 'true');
       setLoading(false);
     });
+    initNotifications();
   }, []);
 
   if (loading) {

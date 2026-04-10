@@ -34,6 +34,12 @@ export async function saveAnswer(subjectId, questionId, isCorrect) {
   // Update streak
   await recordActivity();
 
+  // Update notification badge
+  try {
+    const { updateStreakNotification } = require('./notifications');
+    updateStreakNotification();
+  } catch {}
+
   return progress;
 }
 

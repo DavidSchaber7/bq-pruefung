@@ -6,6 +6,7 @@ import {
 import { useFocusEffect } from '@react-navigation/native';
 import { getStats, getExamHistory, getSettings, saveSettings, resetAllData } from '../utils/storage';
 import { useTheme } from '../utils/theme';
+import { toggleNotifications } from '../utils/notifications';
 
 export default function SettingsScreen() {
   const { dark, colors, toggle: toggleDarkMode } = useTheme();
@@ -172,14 +173,25 @@ export default function SettingsScreen() {
 
         {/* Settings */}
         <Text style={[styles.section, { color: colors.textSecondary }]}>Einstellungen</Text>
-        <TouchableOpacity style={card} onPress={toggleDarkMode} activeOpacity={0.7}>
-          <View style={styles.row}>
+        <View style={card}>
+          <TouchableOpacity style={[styles.row, { borderBottomWidth: StyleSheet.hairlineWidth, borderBottomColor: colors.border }]} onPress={toggleDarkMode} activeOpacity={0.7}>
             <Text style={[styles.rowLabel, { color: colors.text }]}>Dark Mode</Text>
-            <View style={[styles.toggle, { backgroundColor: dark ? colors.brand : (dark ? '#2A3F47' : '#E5E5E5') }]}>
+            <View style={[styles.toggle, { backgroundColor: dark ? colors.brand : '#E5E5E5' }]}>
               <View style={[styles.toggleThumb, dark && styles.toggleThumbOn]} />
             </View>
-          </View>
-        </TouchableOpacity>
+          </TouchableOpacity>
+          <TouchableOpacity style={styles.row} onPress={async () => {
+            const enabled = !(settings.notificationsEnabled !== false);
+            const result = await toggleNotifications(enabled);
+            setSettingsState((p) => ({ ...p, notificationsEnabled: result || enabled }));
+            if (!result && enabled) Alert.alert('Benachrichtigungen', 'Bitte erlaube Benachrichtigungen in den Geräte-Einstellungen.');
+          }} activeOpacity={0.7}>
+            <Text style={[styles.rowLabel, { color: colors.text }]}>Erinnerungen</Text>
+            <View style={[styles.toggle, { backgroundColor: settings.notificationsEnabled !== false ? colors.brand : '#E5E5E5' }]}>
+              <View style={[styles.toggleThumb, settings.notificationsEnabled !== false && styles.toggleThumbOn]} />
+            </View>
+          </TouchableOpacity>
+        </View>
 
         <View style={styles.actionRow}>
           <TouchableOpacity style={[styles.actionBtn, { backgroundColor: colors.card, borderColor: dark ? colors.border : '#ECECEC' }]} onPress={handleShare}>
