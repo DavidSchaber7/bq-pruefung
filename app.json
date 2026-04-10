@@ -33,8 +33,9 @@
       "favicon": "./assets/favicon.png"
     },
     "extra": {
-      "privacyUrl": "https://davidschaber7.github.io/bq-pruefung/#datenschutz",
-      "supportUrl": "https://davidschaber7.github.io/bq-pruefung/#support"
+      "eas": {
+        "projectId": ""
+      }
     }
   }
 }
