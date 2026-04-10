@@ -6,10 +6,10 @@
       "id": "zib-001",
       "text": "Was kennzeichnet einen autoritären Führungsstil?",
       "options": [
-        "Mitarbeiter entscheiden selbst",
+        "Keine Vorgaben",
         "Führungskraft entscheidet allein",
         "Gruppenkonsens",
-        "Keine Vorgaben"
+        "Mitarbeiter entscheiden selbst"
       ],
       "correct": 1,
       "explanation": "Beim autoritären Führungsstil trifft die Führungskraft alle Entscheidungen allein und erwartet deren Befolgung.",
@@ -22,11 +22,11 @@
       "text": "Was kennzeichnet den kooperativen Führungsstil?",
       "options": [
         "Alleinige Entscheidung der FK",
-        "Mitarbeiter werden einbezogen",
+        "Keine Kommunikation",
         "Vollständige Selbstbestimmung",
-        "Keine Kommunikation"
+        "Mitarbeiter werden einbezogen"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Beim kooperativen Stil bezieht die Führungskraft Mitarbeiter in Entscheidungsprozesse ein.",
       "difficulty": 1,
       "topic": "Führungsstile",
@@ -36,12 +36,12 @@
       "id": "zib-003",
       "text": "Was bedeutet Laissez-faire-Führung?",
       "options": [
-        "Strenge Kontrolle",
-        "FK greift kaum ein, MA handeln frei",
+        "Führung nach Kennzahlen",
         "Demokratische Abstimmung",
-        "Führung nach Kennzahlen"
+        "FK greift kaum ein, MA handeln frei",
+        "Strenge Kontrolle"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Beim Laissez-faire-Stil hält sich die FK zurück und überlässt den MA die Entscheidungsfreiheit.",
       "difficulty": 1,
       "topic": "Führungsstile",
@@ -51,12 +51,12 @@
       "id": "zib-004",
       "text": "Was ist Management by Objectives?",
       "options": [
+        "Führung durch Delegation",
         "Führung durch Anweisungen",
         "Führung durch Zielvereinbarungen",
-        "Führung durch Ausnahmeregeln",
-        "Führung durch Delegation"
+        "Führung durch Ausnahmeregeln"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "MbO nach Drucker: Führung durch gemeinsam vereinbarte Ziele. MA haben Freiheit bei der Zielerreichung.",
       "difficulty": 1,
       "topic": "Führungsstile",
@@ -67,11 +67,11 @@
       "text": "Was ist Management by Exception?",
       "options": [
         "Führung durch Ziele",
-        "Eingriff nur bei Abweichungen",
         "Führung durch Delegation",
+        "Eingriff nur bei Abweichungen",
         "Führung durch Motivation"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "MbE: Die FK greift nur bei Abweichungen von Normen ein. Routineentscheidungen treffen die MA selbst.",
       "difficulty": 2,
       "topic": "Führungsstile",
@@ -81,12 +81,12 @@
       "id": "zib-006",
       "text": "Was ist Management by Delegation?",
       "options": [
-        "Übertragung von Aufgaben, Kompetenzen, Verantwortung",
         "Nur Zielführung",
+        "Totale Kontrolle",
         "Nur Ausnahmeführung",
-        "Totale Kontrolle"
+        "Übertragung von Aufgaben, Kompetenzen, Verantwortung"
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": "MbD überträgt Aufgaben, Kompetenzen und Verantwortung an Mitarbeiter.",
       "difficulty": 1,
       "topic": "Führungsstile",
@@ -97,11 +97,11 @@
       "text": "Was beschreibt das Verhaltensgitter nach Blake/Mouton?",
       "options": [
         "Nur Menschenorientierung",
-        "Kombination Sach- und Menschenorientierung im 9x9-Raster",
         "Nur Aufgabenorientierung",
-        "Zeitliche Planung"
+        "Zeitliche Planung",
+        "Kombination Sach- und Menschenorientierung im 9x9-Raster"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Das Grid ordnet Führungsstile ein: x=Sachorientierung, y=Menschenorientierung. Ideal: 9,9 (Team-Management).",
       "difficulty": 2,
       "topic": "Führungsstile",
@@ -111,12 +111,12 @@
       "id": "zib-008",
       "text": "Was ist situatives Führen nach Hersey/Blanchard?",
       "options": [
+        "Nur in Krisen führen",
         "Immer gleicher Stil",
         "Anpassung an den Reifegrad der Mitarbeiter",
-        "Nur in Krisen führen",
         "Rotation der Führung"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Das Reifegradmodell passt den Stil (telling, selling, participating, delegating) an die Reife der MA an.",
       "difficulty": 2,
       "topic": "Führungsstile",
@@ -126,12 +126,12 @@
       "id": "zib-009",
       "text": "Welcher Stil für hoch motivierte, kompetente MA?",
       "options": [
-        "Telling",
         "Selling",
-        "Participating",
-        "Delegating"
+        "Telling",
+        "Delegating",
+        "Participating"
       ],
-      "correct": 3,
+      "correct": 2,
       "explanation": "Bei hohem Reifegrad ist Delegieren optimal: wenig Aufgaben- und wenig Beziehungsverhalten.",
       "difficulty": 2,
       "topic": "Führungsstile",
@@ -143,8 +143,8 @@
       "options": [
         "Minimale Führung",
         "Max. Sach- UND Menschenorientierung",
-        "Nur Sachorientierung",
-        "Nur Menschenorientierung"
+        "Nur Menschenorientierung",
+        "Nur Sachorientierung"
       ],
       "correct": 1,
       "explanation": "9,9 (Team-Management) kombiniert hohe Aufgaben- mit hoher Mitarbeiterorientierung.",
@@ -156,12 +156,12 @@
       "id": "zib-011",
       "text": "Welche Bedürfnisebene steht bei Maslow oben?",
       "options": [
+        "Selbstverwirklichung",
         "Sicherheit",
         "Soziale Bedürfnisse",
-        "Wertschätzung",
-        "Selbstverwirklichung"
+        "Wertschätzung"
       ],
-      "correct": 3,
+      "correct": 0,
       "explanation": "Maslows Pyramide: 1.Physiologisch, 2.Sicherheit, 3.Sozial, 4.Wertschätzung, 5.Selbstverwirklichung.",
       "difficulty": 1,
       "topic": "Motivation",
@@ -171,12 +171,12 @@
       "id": "zib-012",
       "text": "Was sind Hygienefaktoren nach Herzberg?",
       "options": [
-        "Erzeugen Zufriedenheit",
         "Verhindern Unzufriedenheit, motivieren aber nicht",
-        "Reinigungsvorschriften",
-        "Gesundheitsmaßnahmen"
+        "Erzeugen Zufriedenheit",
+        "Gesundheitsmaßnahmen",
+        "Reinigungsvorschriften"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Herzberg: Hygienefaktoren (Gehalt, Bedingungen) verhindern Unzufriedenheit. Motivatoren erzeugen Zufriedenheit.",
       "difficulty": 1,
       "topic": "Motivation",
@@ -186,10 +186,10 @@
       "id": "zib-013",
       "text": "Was sind Motivatoren nach Herzberg?",
       "options": [
-        "Gehalt und Sozialleistungen",
+        "Arbeitsplatzsicherheit",
         "Anerkennung, Verantwortung, Aufstieg",
-        "Arbeitsbedingungen",
-        "Arbeitsplatzsicherheit"
+        "Gehalt und Sozialleistungen",
+        "Arbeitsbedingungen"
       ],
       "correct": 1,
       "explanation": "Motivatoren beziehen sich auf den Arbeitsinhalt: Anerkennung, Verantwortung, die Arbeit selbst.",
@@ -201,12 +201,12 @@
       "id": "zib-014",
       "text": "Was besagt McGregors Theorie X?",
       "options": [
-        "Menschen sind motiviert",
-        "Menschen sind arbeitsunwillig, brauchen Kontrolle",
+        "Menschen sind kreativ",
         "Menschen suchen Verantwortung",
-        "Menschen sind kreativ"
+        "Menschen sind arbeitsunwillig, brauchen Kontrolle",
+        "Menschen sind motiviert"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Theorie X: Mensch ist arbeitsscheu, muss kontrolliert werden. Führt zu autoritärem Stil.",
       "difficulty": 1,
       "topic": "Motivation",
@@ -216,12 +216,12 @@
       "id": "zib-015",
       "text": "Was besagt Theorie Y?",
       "options": [
-        "Menschen brauchen Kontrolle",
-        "Menschen sind motiviert und suchen Verantwortung",
+        "Nur Geld motiviert",
         "Menschen vermeiden Arbeit",
-        "Nur Geld motiviert"
+        "Menschen brauchen Kontrolle",
+        "Menschen sind motiviert und suchen Verantwortung"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Theorie Y: Mensch ist engagiert, kreativ und verantwortungsbereit. Führt zu kooperativem Stil.",
       "difficulty": 1,
       "topic": "Motivation",
@@ -231,12 +231,12 @@
       "id": "zib-016",
       "text": "Was ist intrinsische Motivation?",
       "options": [
-        "Durch Gehalt",
-        "Aus der Tätigkeit selbst",
+        "Durch Angst",
         "Durch Vorgesetzten",
-        "Durch Angst"
+        "Aus der Tätigkeit selbst",
+        "Durch Gehalt"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Intrinsische Motivation: Freude an der Arbeit, Interesse, Neugier. Nachhaltiger als extrinsische.",
       "difficulty": 1,
       "topic": "Motivation",
@@ -246,12 +246,12 @@
       "id": "zib-017",
       "text": "Was ist extrinsische Motivation?",
       "options": [
-        "Durch die Arbeit selbst",
         "Durch äußere Anreize (Gehalt, Lob, Beförderung)",
         "Durch Selbstverwirklichung",
+        "Durch die Arbeit selbst",
         "Durch Teamgeist"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Extrinsische Motivation durch äußere Faktoren: Geld, Anerkennung, Status, Beförderung.",
       "difficulty": 1,
       "topic": "Motivation",
@@ -263,8 +263,8 @@
       "options": [
         "Bedürfnishierarchie",
         "Motivation = Erwartung × Instrumentalität × Valenz",
-        "Zwei-Faktoren-Modell",
-        "Theorie X und Y"
+        "Theorie X und Y",
+        "Zwei-Faktoren-Modell"
       ],
       "correct": 1,
       "explanation": "VIE-Theorie: Valenz (Wert) × Instrumentalität (Leistung→Ergebnis) × Erwartung (eigene Fähigkeit).",
@@ -276,12 +276,12 @@
       "id": "zib-019",
       "text": "Was ist das 4-Ohren-Modell?",
       "options": [
-        "4 Zuhörer",
-        "Jede Nachricht hat 4 Ebenen: Sache, Beziehung, Selbstkundgabe, Appell",
         "4 Kommunikationswege",
-        "4 Phasen"
+        "4 Phasen",
+        "4 Zuhörer",
+        "Jede Nachricht hat 4 Ebenen: Sache, Beziehung, Selbstkundgabe, Appell"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Schulz von Thun: Sachinhalt, Selbstkundgabe, Beziehung, Appell in jeder Nachricht.",
       "difficulty": 1,
       "topic": "Kommunikation",
@@ -292,11 +292,11 @@
       "text": "1. Axiom nach Watzlawick?",
       "options": [
         "Man muss immer kommunizieren",
-        "Man kann nicht nicht kommunizieren",
         "Kommunikation ist nur verbal",
+        "Man kann nicht nicht kommunizieren",
         "Nur Sender bestimmt"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Watzlawicks 1. Axiom: Man kann nicht nicht kommunizieren. Jedes Verhalten hat Mitteilungscharakter.",
       "difficulty": 1,
       "topic": "Kommunikation",
@@ -306,12 +306,12 @@
       "id": "zib-021",
       "text": "Was ist aktives Zuhören?",
       "options": [
-        "Nur schweigen",
         "Aufmerksames Zuhören mit Rückmeldung und Paraphrasieren",
         "Gleichzeitig arbeiten",
+        "Nur schweigen",
         "Sofort Ratschläge geben"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Aktives Zuhören nach Rogers: volle Aufmerksamkeit, Paraphrasieren, Nachfragen, empathisches Verstehen.",
       "difficulty": 1,
       "topic": "Kommunikation",
@@ -336,12 +336,12 @@
       "id": "zib-023",
       "text": "Welche Feedback-Regel ist korrekt?",
       "options": [
-        "Pauschal und allgemein",
-        "Konkret, zeitnah und beschreibend",
         "Nur jährlich",
-        "Vor der ganzen Gruppe"
+        "Vor der ganzen Gruppe",
+        "Pauschal und allgemein",
+        "Konkret, zeitnah und beschreibend"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Gutes Feedback: konkret, zeitnah, beschreibend, verhaltensbezogen, Ich-Form, unter vier Augen.",
       "difficulty": 1,
       "topic": "Kommunikation",
@@ -351,10 +351,10 @@
       "id": "zib-024",
       "text": "Was ist ein Konflikt?",
       "options": [
-        "Meinungsverschiedenheit ohne Emotionen",
-        "Unvereinbarkeit von Interessen mit emotionaler Beteiligung",
         "Nur körperliche Auseinandersetzung",
-        "Ein Managementinstrument"
+        "Unvereinbarkeit von Interessen mit emotionaler Beteiligung",
+        "Ein Managementinstrument",
+        "Meinungsverschiedenheit ohne Emotionen"
       ],
       "correct": 1,
       "explanation": "Konflikt: mind. 2 Parteien, unvereinbare Handlungstendenzen, emotional wahrgenommen.",
@@ -381,12 +381,12 @@
       "id": "zib-026",
       "text": "Was ist Mediation?",
       "options": [
-        "Gerichtsverfahren",
         "Vermittlung durch neutralen Dritten",
-        "Kündigung",
-        "Disziplinargespräch"
+        "Gerichtsverfahren",
+        "Disziplinargespräch",
+        "Kündigung"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Mediation: freiwillige Konfliktlösung mit allparteilichem Mediator für einvernehmliche Lösung.",
       "difficulty": 1,
       "topic": "Konfliktmanagement",
@@ -396,12 +396,12 @@
       "id": "zib-027",
       "text": "Was ist eine Win-Win-Lösung?",
       "options": [
-        "Einer gewinnt, einer verliert",
-        "Beide profitieren",
         "Beide verlieren",
-        "Kompromiss ohne Zufriedenheit"
+        "Kompromiss ohne Zufriedenheit",
+        "Beide profitieren",
+        "Einer gewinnt, einer verliert"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Win-Win: beide Parteien profitieren. Nachhaltigste Konfliktlösung.",
       "difficulty": 1,
       "topic": "Konfliktmanagement",
@@ -413,8 +413,8 @@
       "options": [
         "Einmaliger Streit",
         "Systematische Schikane über längeren Zeitraum",
-        "Konstruktive Kritik",
-        "Meinungsverschiedenheit"
+        "Meinungsverschiedenheit",
+        "Konstruktive Kritik"
       ],
       "correct": 1,
       "explanation": "Mobbing: systematisches Anfeinden über mind. 6 Monate. AG hat Fürsorgepflicht.",
@@ -426,12 +426,12 @@
       "id": "zib-029",
       "text": "Teamphasen nach Tuckman?",
       "options": [
+        "Initiierung, Planung, Durchführung, Abschluss",
         "PDCA",
         "Forming, Storming, Norming, Performing",
-        "Initiierung, Planung, Durchführung, Abschluss",
         "Analyse, Synthese, Evaluation"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Tuckman: Forming (Orientierung), Storming (Konflikte), Norming (Regeln), Performing (Leistung).",
       "difficulty": 1,
       "topic": "Gruppenarbeit",
@@ -441,12 +441,12 @@
       "id": "zib-030",
       "text": "Was passiert in der Storming-Phase?",
       "options": [
-        "Team lernt sich kennen",
         "Konflikte um Rollen und Arbeitsweisen",
         "Team arbeitet effizient",
+        "Team lernt sich kennen",
         "Team löst sich auf"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Storming: Konflikte, Machtkämpfe. Normal und notwendig für Teamentwicklung.",
       "difficulty": 1,
       "topic": "Gruppenarbeit",
@@ -458,8 +458,8 @@
       "options": [
         "Hierarchische Positionen",
         "Verschiedene Verhaltensrollen im Team",
-        "Arbeitsschichten",
-        "Gehaltsstufen"
+        "Gehaltsstufen",
+        "Arbeitsschichten"
       ],
       "correct": 1,
       "explanation": "Belbin: 9 Rollen in 3 Kategorien: handlungs-, kommunikations- und wissensorientiert.",
@@ -471,12 +471,12 @@
       "id": "zib-032",
       "text": "Was ist Gruppendynamik?",
       "options": [
-        "Statische Struktur",
-        "Wechselseitige Beeinflussung in einer Gruppe",
+        "Hierarchische Führung",
         "Einzelarbeit",
-        "Hierarchische Führung"
+        "Wechselseitige Beeinflussung in einer Gruppe",
+        "Statische Struktur"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Gruppendynamik: soziale Prozesse und Kräfte in Gruppen: Normen, Rollen, Zusammenhalt.",
       "difficulty": 1,
       "topic": "Gruppenarbeit",
@@ -486,12 +486,12 @@
       "id": "zib-033",
       "text": "Was ist Groupthink?",
       "options": [
-        "Brainstorming",
         "Fehlentscheidungen durch Konformitätsdruck",
-        "Effiziente Teamarbeit",
-        "Individuelle Entscheidung"
+        "Brainstorming",
+        "Individuelle Entscheidung",
+        "Effiziente Teamarbeit"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Groupthink (Janis): kritisches Denken wird zugunsten von Harmonie unterdrückt → schlechte Entscheidungen.",
       "difficulty": 2,
       "topic": "Gruppenarbeit",
@@ -501,12 +501,12 @@
       "id": "zib-034",
       "text": "Was ist Coaching?",
       "options": [
-        "Frontalunterricht",
-        "Individuelle Begleitung zur Entwicklung",
         "Gruppentherapie",
-        "Disziplinarmaßnahme"
+        "Disziplinarmaßnahme",
+        "Frontalunterricht",
+        "Individuelle Begleitung zur Entwicklung"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Coaching: individueller Beratungsprozess zur Selbstreflexion und Lösungsfindung.",
       "difficulty": 1,
       "topic": "Personalentwicklung",
@@ -517,11 +517,11 @@
       "text": "Was ist Mentoring?",
       "options": [
         "Kurzzeittraining",
+        "Prüfung",
         "Langfristige Begleitung durch erfahrene Person",
-        "Bewerbungsgespräch",
-        "Prüfung"
+        "Bewerbungsgespräch"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Mentoring: längerfristige 1:1-Beziehung, erfahrener Mentor berät weniger erfahrenen Mentee.",
       "difficulty": 1,
       "topic": "Personalentwicklung",
@@ -531,12 +531,12 @@
       "id": "zib-036",
       "text": "Training on the job?",
       "options": [
-        "Akademie-Weiterbildung",
-        "Lernen direkt am Arbeitsplatz",
         "Fernstudium",
-        "Selbststudium"
+        "Selbststudium",
+        "Akademie-Weiterbildung",
+        "Lernen direkt am Arbeitsplatz"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Training on the job: Qualifizierung am Arbeitsplatz: Einarbeitung, Job Rotation, Projektarbeit.",
       "difficulty": 1,
       "topic": "Personalentwicklung",
@@ -546,12 +546,12 @@
       "id": "zib-037",
       "text": "Training off the job?",
       "options": [
-        "Am Arbeitsplatz lernen",
         "Weiterbildung außerhalb (Seminare, Lehrgänge)",
         "Urlaub",
-        "Arbeitslosigkeit"
+        "Arbeitslosigkeit",
+        "Am Arbeitsplatz lernen"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Training off the job: außerhalb des Arbeitsplatzes: Seminare, Workshops, Konferenzen.",
       "difficulty": 1,
       "topic": "Personalentwicklung",
@@ -562,11 +562,11 @@
       "text": "Was regelt das BetrVG?",
       "options": [
         "Arbeitszeiten",
-        "Mitbestimmung des Betriebsrats",
+        "Sozialversicherung",
         "Kündigungsschutz",
-        "Sozialversicherung"
+        "Mitbestimmung des Betriebsrats"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Das BetrVG regelt die Zusammenarbeit AG-BR und Mitwirkungs-/Mitbestimmungsrechte der AN.",
       "difficulty": 1,
       "topic": "Arbeitsrecht",
@@ -591,12 +591,12 @@
       "id": "zib-040",
       "text": "BR-Mitbestimmung bei welchen Themen?",
       "options": [
+        "Forschung",
         "Unternehmensstrategie",
-        "Soziale Angelegenheiten (Arbeitszeit, Urlaub, Lohn)",
         "Produktdesign",
-        "Forschung"
+        "Soziale Angelegenheiten (Arbeitszeit, Urlaub, Lohn)"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "§ 87 BetrVG: Mitbestimmung bei Arbeitszeit, Urlaub, Überwachung, Sozialeinrichtungen u.a.",
       "difficulty": 2,
       "topic": "Arbeitsrecht",
@@ -608,8 +608,8 @@
       "options": [
         "Jugendverein",
         "Interessenvertretung junger AN und Azubis",
-        "Ausbildungsinstitut",
-        "Gewerkschaft"
+        "Gewerkschaft",
+        "Ausbildungsinstitut"
       ],
       "correct": 1,
       "explanation": "JAV (§§ 60-73 BetrVG): Vertretung jugendlicher AN (unter 18) und Azubis (unter 25).",
@@ -622,11 +622,11 @@
       "text": "Was regelt das ArbZG?",
       "options": [
         "Urlaubsanspruch",
-        "Höchstarbeitszeit, Pausen, Ruhezeiten",
         "Kündigungsfristen",
-        "Mindestlohn"
+        "Mindestlohn",
+        "Höchstarbeitszeit, Pausen, Ruhezeiten"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "ArbZG: max. 8h/Tag (10h möglich), Pausen (30min ab 6h), 11h Ruhezeit.",
       "difficulty": 1,
       "topic": "Arbeitsrecht",
@@ -638,8 +638,8 @@
       "options": [
         "6 Stunden",
         "8 Stunden (verlängerbar auf 10)",
-        "10 Stunden",
-        "12 Stunden"
+        "12 Stunden",
+        "10 Stunden"
       ],
       "correct": 1,
       "explanation": "§ 3 ArbZG: 8h, verlängerbar auf 10h bei 6-Monats-Durchschnitt von 8h.",
@@ -651,12 +651,12 @@
       "id": "zib-044",
       "text": "Was ist das AGG?",
       "options": [
+        "Handelsgesetz",
         "Tarifvertragsgesetz",
         "Schutz vor Diskriminierung",
-        "Wettbewerbsrecht",
-        "Handelsgesetz"
+        "Wettbewerbsrecht"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "AGG (2006): Schutz vor Benachteiligung wegen Rasse, Geschlecht, Religion, Behinderung, Alter, sex. Identität.",
       "difficulty": 1,
       "topic": "Arbeitsrecht",
@@ -666,12 +666,12 @@
       "id": "zib-045",
       "text": "Was ist eine Gefährdungsbeurteilung?",
       "options": [
+        "Kostenschätzung",
         "Leistungsbeurteilung",
         "Systematische Ermittlung von Arbeitsplatzgefährdungen",
-        "Personalbeurteilung",
-        "Kostenschätzung"
+        "Personalbeurteilung"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "§ 5 ArbSchG: Systematische Ermittlung und Bewertung aller Gefährdungen mit Schutzmaßnahmen.",
       "difficulty": 1,
       "topic": "Gesundheitsmanagement",
@@ -696,10 +696,10 @@
       "id": "zib-047",
       "text": "Psychische Belastungsfaktoren?",
       "options": [
-        "Nur körperliche Gefahren",
+        "Nur Schichtarbeit",
         "Zeitdruck, Überforderung, Konflikte, mangelnde Anerkennung",
         "Nur Lärm",
-        "Nur Schichtarbeit"
+        "Nur körperliche Gefahren"
       ],
       "correct": 1,
       "explanation": "Psychische Belastungen: Arbeitsintensität, Zeitdruck, fehlende Spielräume, Konflikte.",
@@ -711,12 +711,12 @@
       "id": "zib-048",
       "text": "Was ist Ergonomie?",
       "options": [
-        "Zeitmanagement",
         "Anpassung der Arbeitsbedingungen an den Menschen",
-        "Maschinenwartung",
-        "Personalplanung"
+        "Zeitmanagement",
+        "Personalplanung",
+        "Maschinenwartung"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Ergonomie gestaltet Arbeitssysteme menschengerecht: Arbeitsplatz, Beleuchtung, Sitzhaltung.",
       "difficulty": 1,
       "topic": "Gesundheitsmanagement",
@@ -726,10 +726,10 @@
       "id": "zib-049",
       "text": "FK-Rolle beim Arbeitsschutz?",
       "options": [
-        "Keine Verantwortung",
+        "Nur Betriebsarzt zuständig",
         "Verantwortung für Sicherheit und Gesundheit der MA",
         "Nur bei Unfällen",
-        "Nur Betriebsarzt zuständig"
+        "Keine Verantwortung"
       ],
       "correct": 1,
       "explanation": "FK hat Unternehmerpflichten: Unterweisung, Gefährdungsbeurteilung, PSA, Vorbildfunktion.",
@@ -742,11 +742,11 @@
       "text": "Was ist Work-Life-Balance?",
       "options": [
         "Nur Freizeit",
-        "Ausgewogenes Verhältnis Beruf und Privatleben",
+        "Sabbatical",
         "Überstunden",
-        "Sabbatical"
+        "Ausgewogenes Verhältnis Beruf und Privatleben"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Work-Life-Balance: Gleichgewicht zwischen Beruf und Privat. Maßnahmen: Flexibilität, Homeoffice, Teilzeit.",
       "difficulty": 1,
       "topic": "Gesundheitsmanagement",
@@ -756,12 +756,12 @@
       "id": "zib-051",
       "text": "Was versteht man unter Personalbedarfsplanung?",
       "options": [
+        "Kündigungsplanung",
         "Urlaubsplanung",
-        "Ermittlung des quantitativen und qualitativen Personalbedarfs",
         "Gehaltsabrechnung",
-        "Kündigungsplanung"
+        "Ermittlung des quantitativen und qualitativen Personalbedarfs"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Personalbedarfsplanung ermittelt wie viele MA (quantitativ) mit welchen Qualifikationen (qualitativ) benötigt werden.",
       "difficulty": 1,
       "topic": "Personalentwicklung",
@@ -771,12 +771,12 @@
       "id": "zib-052",
       "text": "Was ist Job Rotation?",
       "options": [
-        "Kündigung",
         "Systematischer Arbeitsplatzwechsel zur Qualifizierung",
+        "Stellenabbau",
         "Schichtarbeit",
-        "Stellenabbau"
+        "Kündigung"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Job Rotation: MA wechseln systematisch zwischen verschiedenen Arbeitsplätzen für breitere Qualifikation.",
       "difficulty": 1,
       "topic": "Personalentwicklung",
@@ -786,12 +786,12 @@
       "id": "zib-053",
       "text": "Was ist Job Enrichment?",
       "options": [
-        "Arbeitsplatzabbau",
-        "Aufgabenbereicherung durch höherwertige Aufgaben",
         "Gehaltserhöhung",
-        "Arbeitszeitverkürzung"
+        "Arbeitszeitverkürzung",
+        "Arbeitsplatzabbau",
+        "Aufgabenbereicherung durch höherwertige Aufgaben"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Job Enrichment erweitert Aufgaben vertikal: mehr Verantwortung, Planung, Kontrolle. Steigert Motivation.",
       "difficulty": 2,
       "topic": "Personalentwicklung",
@@ -801,12 +801,12 @@
       "id": "zib-054",
       "text": "Was ist Job Enlargement?",
       "options": [
+        "Versetzung",
         "Stellenabbau",
         "Horizontale Aufgabenerweiterung auf gleichem Niveau",
-        "Beförderung",
-        "Versetzung"
+        "Beförderung"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Job Enlargement erweitert Aufgaben horizontal: mehr Tätigkeiten auf gleicher Anforderungsstufe.",
       "difficulty": 2,
       "topic": "Personalentwicklung",
@@ -816,12 +816,12 @@
       "id": "zib-055",
       "text": "Welcher Konflikttyp ist ein Rollenkonflikt?",
       "options": [
-        "Sachkonflikt",
         "Person hat widersprüchliche Erwartungen aus verschiedenen Rollen",
+        "Sachkonflikt",
         "Verteilungskonflikt",
         "Zielkonflikt"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Rollenkonflikt: widersprüchliche Erwartungen an eine Person (z.B. FK ist gleichzeitig Kollege und Vorgesetzter).",
       "difficulty": 2,
       "topic": "Konfliktmanagement",
@@ -846,12 +846,12 @@
       "id": "zib-057",
       "text": "Was ist ein Beziehungskonflikt?",
       "options": [
-        "Sachliche Meinungsverschiedenheit",
         "Konflikt auf der persönlichen/emotionalen Ebene",
+        "Aufgabenverteilung",
         "Gehaltsstreit",
-        "Aufgabenverteilung"
+        "Sachliche Meinungsverschiedenheit"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Beziehungskonflikte betreffen die persönliche Ebene: Antipathie, Misstrauen, verletzte Gefühle.",
       "difficulty": 2,
       "topic": "Konfliktmanagement",
@@ -862,11 +862,11 @@
       "text": "Was ist ein Verteilungskonflikt?",
       "options": [
         "Sachkonflikt",
-        "Streit um knappe Ressourcen (Geld, Personal, Raum)",
+        "Beziehungskonflikt",
         "Rollenkonflikt",
-        "Beziehungskonflikt"
+        "Streit um knappe Ressourcen (Geld, Personal, Raum)"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Verteilungskonflikte entstehen bei Knappheit: Budget, Personal, Bürofläche, Macht.",
       "difficulty": 1,
       "topic": "Konfliktmanagement",
@@ -891,10 +891,10 @@
       "id": "zib-060",
       "text": "Was ist Supervision?",
       "options": [
-        "Arbeitsüberwachung",
+        "Kontrolle",
         "Berufsbezogene Beratung zur Reflexion der eigenen Arbeit",
-        "Prüfung",
-        "Kontrolle"
+        "Arbeitsüberwachung",
+        "Prüfung"
       ],
       "correct": 1,
       "explanation": "Supervision: berufsbezogene Beratungsform zur Reflexion beruflichen Handelns, oft für Führungskräfte.",
@@ -908,8 +908,8 @@
       "options": [
         "Machtmissbrauch",
         "Befähigung und Ermächtigung von Mitarbeitern",
-        "Entlassung",
-        "Versetzung"
+        "Versetzung",
+        "Entlassung"
       ],
       "correct": 1,
       "explanation": "Empowerment überträgt Entscheidungsbefugnisse an MA und befähigt sie zur eigenverantwortlichen Arbeit.",
@@ -923,8 +923,8 @@
       "options": [
         "Nur Belohnung/Bestrafung",
         "Führung durch Vision, Inspiration und individuelle Förderung",
-        "Bürokratische Führung",
-        "Nur Zielvorgaben"
+        "Nur Zielvorgaben",
+        "Bürokratische Führung"
       ],
       "correct": 1,
       "explanation": "Transformationale Führung (Bass): idealisierter Einfluss, inspirierende Motivation, intellektuelle Stimulation, individuelle Beachtung.",
@@ -936,12 +936,12 @@
       "id": "zib-063",
       "text": "Was ist transaktionale Führung?",
       "options": [
-        "Visionäre Führung",
-        "Führung durch Austausch: Leistung gegen Belohnung",
         "Charismatische Führung",
-        "Partizipative Führung"
+        "Partizipative Führung",
+        "Visionäre Führung",
+        "Führung durch Austausch: Leistung gegen Belohnung"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Transaktional: klare Ziele, Belohnung bei Erreichung, Eingriff bei Abweichung. Basis-Führung.",
       "difficulty": 2,
       "topic": "Führungsstile",
@@ -951,10 +951,10 @@
       "id": "zib-064",
       "text": "Welche Bedürfnisstufe kommt bei Maslow nach Physiologisch?",
       "options": [
-        "Sozial",
+        "Selbstverwirklichung",
         "Sicherheit",
-        "Wertschätzung",
-        "Selbstverwirklichung"
+        "Sozial",
+        "Wertschätzung"
       ],
       "correct": 1,
       "explanation": "Reihenfolge: 1. Physiologisch, 2. Sicherheit (Schutz, Stabilität, Ordnung).",
@@ -966,12 +966,12 @@
       "id": "zib-065",
       "text": "Was sind soziale Bedürfnisse nach Maslow?",
       "options": [
-        "Essen und Trinken",
         "Zugehörigkeit, Freundschaft, Liebe",
-        "Anerkennung",
-        "Selbstverwirklichung"
+        "Essen und Trinken",
+        "Selbstverwirklichung",
+        "Anerkennung"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Stufe 3: soziale Bedürfnisse - Zugehörigkeit, Gemeinschaft, Freundschaft, Akzeptanz.",
       "difficulty": 1,
       "topic": "Motivation",
@@ -982,11 +982,11 @@
       "text": "Wertschätzungsbedürfnisse nach Maslow?",
       "options": [
         "Essen",
-        "Sicherheit",
         "Anerkennung, Status, Respekt, Erfolg",
+        "Sicherheit",
         "Selbstverwirklichung"
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation": "Stufe 4: Anerkennung, Wertschätzung, Status, Kompetenz, Selbstachtung.",
       "difficulty": 1,
       "topic": "Motivation",
@@ -998,10 +998,10 @@
       "options": [
         "Grundbedürfnisse",
         "Sicherheit",
-        "Entfaltung des eigenen Potenzials",
-        "Soziale Zugehörigkeit"
+        "Soziale Zugehörigkeit",
+        "Entfaltung des eigenen Potenzials"
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": "Stufe 5: Entfaltung des eigenen Potenzials, Kreativität, persönliches Wachstum.",
       "difficulty": 1,
       "topic": "Motivation",
@@ -1011,12 +1011,12 @@
       "id": "zib-068",
       "text": "Was kennzeichnet die Performing-Phase?",
       "options": [
-        "Konflikte",
+        "Auflösung",
         "Orientierung",
-        "Team arbeitet effektiv und kooperativ",
-        "Auflösung"
+        "Konflikte",
+        "Team arbeitet effektiv und kooperativ"
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": "Performing: Team arbeitet produktiv, Rollen sind klar, Zusammenarbeit ist eingespielt.",
       "difficulty": 1,
       "topic": "Gruppenarbeit",
@@ -1026,12 +1026,12 @@
       "id": "zib-069",
       "text": "Was ist die Norming-Phase?",
       "options": [
+        "Team löst sich auf",
         "Konflikte entstehen",
         "Team einigt sich auf Regeln und Normen",
-        "Team löst sich auf",
         "Team lernt sich kennen"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Norming: Konflikte werden beigelegt, Regeln/Normen etabliert, Zusammenhalt wächst.",
       "difficulty": 1,
       "topic": "Gruppenarbeit",
@@ -1041,10 +1041,10 @@
       "id": "zib-070",
       "text": "Was ist die Forming-Phase?",
       "options": [
-        "Konflikte",
+        "Auflösung",
         "Orientierung, Kennenlernen, Unsicherheit",
-        "Effektive Arbeit",
-        "Auflösung"
+        "Konflikte",
+        "Effektive Arbeit"
       ],
       "correct": 1,
       "explanation": "Forming: MA lernen sich kennen, sind unsicher, orientieren sich. Höfliche Distanz.",
@@ -1056,12 +1056,12 @@
       "id": "zib-071",
       "text": "Was ist Konformität in Gruppen?",
       "options": [
-        "Individualismus",
-        "Anpassung des Verhaltens an Gruppennormen",
+        "Konfliktvermeidung",
         "Kreativität",
-        "Konfliktvermeidung"
+        "Anpassung des Verhaltens an Gruppennormen",
+        "Individualismus"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Konformität: Tendenz, sich den Normen und Erwartungen der Gruppe anzupassen (auch gegen eigene Überzeugung).",
       "difficulty": 2,
       "topic": "Gruppenarbeit",
@@ -1073,8 +1073,8 @@
       "options": [
         "Fleißige Teamarbeit",
         "Nachlassender Einzeleinsatz in größeren Gruppen",
-        "Überstundenleistung",
-        "Teamführung"
+        "Teamführung",
+        "Überstundenleistung"
       ],
       "correct": 1,
       "explanation": "Social Loafing: In großen Gruppen sinkt der individuelle Einsatz, da Einzelleistung weniger sichtbar ist.",
@@ -1086,12 +1086,12 @@
       "id": "zib-073",
       "text": "Was ist der Risikoshift-Effekt?",
       "options": [
-        "Gruppen sind vorsichtiger",
-        "Gruppen treffen riskantere Entscheidungen als Einzelne",
         "Risiko wird eliminiert",
-        "Individuen sind riskanter"
+        "Individuen sind riskanter",
+        "Gruppen sind vorsichtiger",
+        "Gruppen treffen riskantere Entscheidungen als Einzelne"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Risikoshift: Gruppen neigen zu riskanteren Entscheidungen, da Verantwortung diffundiert.",
       "difficulty": 2,
       "topic": "Gruppenarbeit",
@@ -1101,12 +1101,12 @@
       "id": "zib-074",
       "text": "Welche Teamrolle nach Belbin ist der Koordinator?",
       "options": [
-        "Handlungsorientiert",
         "Kommunikationsorientiert - leitet und delegiert",
-        "Wissensorientiert",
-        "Gibt es nicht"
+        "Gibt es nicht",
+        "Handlungsorientiert",
+        "Wissensorientiert"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Koordinator (Chairperson): kommunikationsorientiert, erkennt Talente, delegiert, leitet Diskussion.",
       "difficulty": 2,
       "topic": "Gruppenarbeit",
@@ -1116,12 +1116,12 @@
       "id": "zib-075",
       "text": "Was ist der Macher nach Belbin?",
       "options": [
-        "Ruhiger Denker",
-        "Handlungsorientiert - treibt an, überwindet Hindernisse",
+        "Spezialist",
         "Teamarbeiter",
-        "Spezialist"
+        "Ruhiger Denker",
+        "Handlungsorientiert - treibt an, überwindet Hindernisse"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Macher (Shaper): handlungsorientiert, dynamisch, mutig, sucht Herausforderung, überwindet Hindernisse.",
       "difficulty": 2,
       "topic": "Gruppenarbeit",
@@ -1131,12 +1131,12 @@
       "id": "zib-076",
       "text": "Was ist Leistungsbeurteilung?",
       "options": [
+        "Maschinenbewertung",
         "Nur Gehaltsfindung",
-        "Systematische Bewertung der Arbeitsleistung von Mitarbeitern",
         "Prüfungskorrektur",
-        "Maschinenbewertung"
+        "Systematische Bewertung der Arbeitsleistung von Mitarbeitern"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Leistungsbeurteilung bewertet systematisch Leistung und Verhalten. Methoden: freie Beurteilung, Einstufung, Zielvereinbarung.",
       "difficulty": 1,
       "topic": "Personalentwicklung",
@@ -1146,10 +1146,10 @@
       "id": "zib-077",
       "text": "Was ist der Halo-Effekt bei Beurteilungen?",
       "options": [
-        "Korrekter Eindruck",
-        "Überstrahlungseffekt: ein Merkmal beeinflusst die Gesamtbeurteilung",
         "Strenge Beurteilung",
-        "Milde Beurteilung"
+        "Überstrahlungseffekt: ein Merkmal beeinflusst die Gesamtbeurteilung",
+        "Milde Beurteilung",
+        "Korrekter Eindruck"
       ],
       "correct": 1,
       "explanation": "Halo-Effekt: Ein positives/negatives Merkmal überstrahlt die Beurteilung aller anderen Merkmale.",
@@ -1163,8 +1163,8 @@
       "options": [
         "Geschenke verteilen",
         "Nur Leistung kurz vor Beurteilung wird berücksichtigt",
-        "Jährliche Beurteilung",
-        "Strenger Maßstab"
+        "Strenger Maßstab",
+        "Jährliche Beurteilung"
       ],
       "correct": 1,
       "explanation": "Nikolaus-Effekt (Recency): Jüngste Ereignisse werden überbewertet, ältere vergessen. Lösung: kontinuierliche Dokumentation.",
@@ -1176,12 +1176,12 @@
       "id": "zib-079",
       "text": "Was ist der Tendenz-zur-Mitte-Fehler?",
       "options": [
-        "Extreme Bewertung",
         "Vermeidung extremer Urteile, alles wird als durchschnittlich bewertet",
+        "Halo-Effekt",
         "Strenge Beurteilung",
-        "Halo-Effekt"
+        "Extreme Bewertung"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Tendenz zur Mitte: Beurteiler vermeidet extreme Noten und stuft alle MA als durchschnittlich ein.",
       "difficulty": 1,
       "topic": "Personalentwicklung",
@@ -1191,12 +1191,12 @@
       "id": "zib-080",
       "text": "Milde- vs. Strengefehler?",
       "options": [
-        "Kein Unterschied",
         "Milde: zu gute Noten; Strenge: zu schlechte Noten",
+        "Beides ist korrekt",
         "Milde = streng",
-        "Beides ist korrekt"
+        "Kein Unterschied"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Mildefehler: systematisch zu gute Beurteilung. Strengefehler: systematisch zu schlechte Beurteilung.",
       "difficulty": 1,
       "topic": "Personalentwicklung",
@@ -1221,12 +1221,12 @@
       "id": "zib-082",
       "text": "Was bedeutet SMART bei Zielen?",
       "options": [
-        "Schnell, Mutig, Aktiv, Richtig, Tüchtig",
         "Spezifisch, Messbar, Attraktiv/Akzeptiert, Realistisch, Terminiert",
+        "Schnell, Mutig, Aktiv, Richtig, Tüchtig",
         "Sicher, Modern, Automatisch, Reproduzierbar, Transparent",
         "Strategisch, Motivierend, Analytisch, Rational, Technisch"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "SMART-Ziele: Spezifisch, Messbar, Attraktiv/Akzeptiert, Realistisch, Terminiert.",
       "difficulty": 1,
       "topic": "Kommunikation",
@@ -1237,11 +1237,11 @@
       "text": "Was ist ein Kritikgespräch?",
       "options": [
         "Lobrede",
+        "Abmahnung",
         "Konstruktives Gespräch über Fehlverhalten mit Verbesserungszielen",
-        "Kündigung",
-        "Abmahnung"
+        "Kündigung"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Kritikgespräch: unter vier Augen, sachlich, konkretes Verhalten ansprechen, Ich-Botschaften, gemeinsam Lösung erarbeiten.",
       "difficulty": 2,
       "topic": "Kommunikation",
@@ -1251,12 +1251,12 @@
       "id": "zib-084",
       "text": "Was ist ein Rückkehrgespräch?",
       "options": [
-        "Urlaubsplanung",
         "Gespräch nach längerer Abwesenheit zur Wiedereingliederung",
         "Kündigungsgespräch",
-        "Vorstellungsgespräch"
+        "Vorstellungsgespräch",
+        "Urlaubsplanung"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Rückkehrgespräch: Willkommen heißen, Information über Veränderungen, Unterstützung bei Wiedereingliederung.",
       "difficulty": 1,
       "topic": "Kommunikation",
@@ -1266,10 +1266,10 @@
       "id": "zib-085",
       "text": "Was besagt Watzlawicks 2. Axiom?",
       "options": [
-        "Man kann nicht nicht kommunizieren",
-        "Kommunikation hat Inhalts- und Beziehungsaspekt",
         "Kommunikation ist symmetrisch",
-        "Kommunikation ist digital"
+        "Kommunikation hat Inhalts- und Beziehungsaspekt",
+        "Kommunikation ist digital",
+        "Man kann nicht nicht kommunizieren"
       ],
       "correct": 1,
       "explanation": "2. Axiom: Jede Kommunikation hat einen Inhalts- und einen Beziehungsaspekt. Der Beziehungsaspekt bestimmt den Inhaltsaspekt.",
@@ -1281,12 +1281,12 @@
       "id": "zib-086",
       "text": "Digitale vs. analoge Kommunikation (Watzlawick)?",
       "options": [
-        "Kein Unterschied",
-        "Digital: verbal/exakt, Analog: nonverbal/mehrdeutig",
         "Digital = Internet",
-        "Analog = veraltet"
+        "Analog = veraltet",
+        "Kein Unterschied",
+        "Digital: verbal/exakt, Analog: nonverbal/mehrdeutig"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "4. Axiom: Digital = gesprochene/geschriebene Sprache (eindeutig). Analog = Mimik, Gestik, Tonfall (mehrdeutig aber beziehungsrelevant).",
       "difficulty": 2,
       "topic": "Kommunikation",
@@ -1296,9 +1296,9 @@
       "id": "zib-087",
       "text": "Was ist symmetrische Kommunikation?",
       "options": [
-        "Ungleiche Partner",
-        "Kommunikation auf Augenhöhe, gleichartige Partner",
         "Hierarchische Kommunikation",
+        "Kommunikation auf Augenhöhe, gleichartige Partner",
+        "Ungleiche Partner",
         "Einseitige Kommunikation"
       ],
       "correct": 1,
@@ -1311,10 +1311,10 @@
       "id": "zib-088",
       "text": "Was ist das Johari-Fenster?",
       "options": [
-        "Ein Fenstertyp",
-        "Modell zur Darstellung von Selbst-/Fremdwahrnehmung in 4 Feldern",
         "Ein Kommunikationskanal",
-        "Eine Bewerbungsmethode"
+        "Modell zur Darstellung von Selbst-/Fremdwahrnehmung in 4 Feldern",
+        "Eine Bewerbungsmethode",
+        "Ein Fenstertyp"
       ],
       "correct": 1,
       "explanation": "Johari-Fenster: öffentlich (mir+anderen bekannt), blinder Fleck (nur anderen), geheim (nur mir), unbekannt (niemandem).",
@@ -1326,12 +1326,12 @@
       "id": "zib-089",
       "text": "Was ist der blinde Fleck im Johari-Fenster?",
       "options": [
-        "Was niemand weiß",
-        "Was andere über mich wissen, ich aber nicht",
+        "Was allen bekannt ist",
         "Was ich verberge",
-        "Was allen bekannt ist"
+        "Was andere über mich wissen, ich aber nicht",
+        "Was niemand weiß"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Blinder Fleck: Verhaltensweisen/Eigenschaften, die andere wahrnehmen, die mir selbst nicht bewusst sind. Feedback verkleinert ihn.",
       "difficulty": 2,
       "topic": "Kommunikation",
@@ -1357,11 +1357,11 @@
       "text": "Was ist der Betriebsarzt?",
       "options": [
         "Hausarzt",
-        "Arzt für arbeitsmedizinische Betreuung im Betrieb",
+        "Betriebsratsmitglied",
         "Notarzt",
-        "Betriebsratsmitglied"
+        "Arzt für arbeitsmedizinische Betreuung im Betrieb"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Der Betriebsarzt berät AG und AN in Arbeitsmedizin: Vorsorge, Gefährdungsbeurteilung, Wiedereingliederung (nach ASiG).",
       "difficulty": 1,
       "topic": "Gesundheitsmanagement",
@@ -1371,12 +1371,12 @@
       "id": "zib-092",
       "text": "Was ist die Fachkraft für Arbeitssicherheit (Sifa)?",
       "options": [
-        "Ein Feuerwehrmann",
         "Berät den AG in Arbeitssicherheit und Unfallverhütung",
-        "Ein Betriebsratsmitglied",
-        "Ein Versicherungsvertreter"
+        "Ein Versicherungsvertreter",
+        "Ein Feuerwehrmann",
+        "Ein Betriebsratsmitglied"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Die Sifa berät nach ASiG den AG bei Arbeitsschutz, Unfallverhütung, Gestaltung von Arbeitsplätzen und Arbeitsmitteln.",
       "difficulty": 1,
       "topic": "Gesundheitsmanagement",
@@ -1386,10 +1386,10 @@
       "id": "zib-093",
       "text": "Was ist der Arbeitsschutzausschuss (ASA)?",
       "options": [
-        "Gewerkschaftsgremium",
+        "Finanzausschuss",
         "Gremium aus AG, BR, Betriebsarzt, Sifa zur Beratung über Arbeitsschutz",
-        "Prüfungsausschuss",
-        "Finanzausschuss"
+        "Gewerkschaftsgremium",
+        "Prüfungsausschuss"
       ],
       "correct": 1,
       "explanation": "ASA (§ 11 ASiG): tagt mind. vierteljährlich. Mitglieder: AG, 2 BR-Mitglieder, Betriebsarzt, Sifa, Sicherheitsbeauftragte.",
@@ -1401,12 +1401,12 @@
       "id": "zib-094",
       "text": "Was ist eine Unterweisung im Arbeitsschutz?",
       "options": [
-        "Einmaliges Seminar",
         "Regelmäßige Information der MA über Gefährdungen und Schutzmaßnahmen",
-        "Prüfung",
-        "Zertifizierung"
+        "Einmaliges Seminar",
+        "Zertifizierung",
+        "Prüfung"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Unterweisung (§ 12 ArbSchG): AG muss MA über Gefährdungen und Schutzmaßnahmen unterweisen - bei Einstellung, Versetzung, mind. jährlich.",
       "difficulty": 1,
       "topic": "Gesundheitsmanagement",
@@ -1416,10 +1416,10 @@
       "id": "zib-095",
       "text": "Mitbestimmung des BR bei Kündigungen?",
       "options": [
-        "Keine Mitbestimmung",
+        "BR spricht Kündigungen aus",
         "BR muss vor jeder Kündigung angehört werden",
         "BR kann Kündigung verhindern",
-        "BR spricht Kündigungen aus"
+        "Keine Mitbestimmung"
       ],
       "correct": 1,
       "explanation": "§ 102 BetrVG: BR muss vor jeder Kündigung angehört werden. Ohne Anhörung ist die Kündigung unwirksam. BR kann widersprechen.",
@@ -1431,12 +1431,12 @@
       "id": "zib-096",
       "text": "Was ist das Mutterschutzgesetz?",
       "options": [
-        "Schutz aller Eltern",
         "Schutz werdender und stillender Mütter am Arbeitsplatz",
-        "Elterngeldgesetz",
-        "Kindergeldgesetz"
+        "Schutz aller Eltern",
+        "Kindergeldgesetz",
+        "Elterngeldgesetz"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "MuSchG: Schutz vor Kündigung, Beschäftigungsverbot (6 Wochen vor, 8 Wochen nach Geburt), Gefährdungsbeurteilung.",
       "difficulty": 1,
       "topic": "Arbeitsrecht",
@@ -1447,11 +1447,11 @@
       "text": "Was regelt das SGB IX für Schwerbehinderte?",
       "options": [
         "Rentenversicherung",
-        "Teilhabe und Nachteilsausgleich für schwerbehinderte Menschen",
+        "Arbeitslosenversicherung",
         "Krankenversicherung",
-        "Arbeitslosenversicherung"
+        "Teilhabe und Nachteilsausgleich für schwerbehinderte Menschen"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "SGB IX: Schwerbehinderte (ab GdB 50): 5 Tage Zusatzurlaub, besonderer Kündigungsschutz, Pflichtarbeitsplätze (5%).",
       "difficulty": 2,
       "topic": "Arbeitsrecht",
@@ -1476,12 +1476,12 @@
       "id": "zib-099",
       "text": "Welche Rechte hat der Betriebsrat bei Einstellungen?",
       "options": [
-        "Keine",
-        "Mitbestimmungsrecht - kann Zustimmung verweigern",
         "Alleiniges Entscheidungsrecht",
-        "Nur Informationsrecht"
+        "Nur Informationsrecht",
+        "Mitbestimmungsrecht - kann Zustimmung verweigern",
+        "Keine"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "§ 99 BetrVG (ab 20 MA): BR hat Zustimmungsrecht bei Einstellungen. Kann aus bestimmten Gründen verweigern.",
       "difficulty": 2,
       "topic": "Arbeitsrecht",
@@ -1491,12 +1491,12 @@
       "id": "zib-100",
       "text": "Was ist eine Betriebsvereinbarung?",
       "options": [
-        "Mündliche Absprache",
-        "Schriftliche Vereinbarung zwischen AG und BR mit normativer Wirkung",
         "Arbeitsvertrag",
-        "Tarifvertrag"
+        "Tarifvertrag",
+        "Mündliche Absprache",
+        "Schriftliche Vereinbarung zwischen AG und BR mit normativer Wirkung"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Betriebsvereinbarung (§ 77 BetrVG): schriftliche Vereinbarung AG-BR. Gilt unmittelbar und zwingend für alle AN des Betriebs.",
       "difficulty": 2,
       "topic": "Arbeitsrecht",
@@ -1506,12 +1506,12 @@
       "id": "zib-101",
       "text": "Was ist Employer Branding?",
       "options": [
-        "Produktwerbung",
         "Aufbau einer attraktiven Arbeitgebermarke",
-        "Unternehmenslogo",
-        "Firmenverkauf"
+        "Firmenverkauf",
+        "Produktwerbung",
+        "Unternehmenslogo"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Employer Branding: strategischer Aufbau einer Arbeitgebermarke zur Gewinnung und Bindung qualifizierter MA.",
       "difficulty": 2,
       "topic": "Personalentwicklung",
@@ -1521,12 +1521,12 @@
       "id": "zib-102",
       "text": "Was ist ein Assessment Center?",
       "options": [
+        "Schulungsstätte",
         "Vorstellungsgespräch",
         "Mehrstufiges Auswahlverfahren mit verschiedenen Übungen",
-        "Prüfungszentrum",
-        "Schulungsstätte"
+        "Prüfungszentrum"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "AC: strukturiertes Verfahren zur Personalauswahl/-entwicklung mit Rollenspielen, Gruppenübungen, Präsentationen, Interviews.",
       "difficulty": 2,
       "topic": "Personalentwicklung",
@@ -1537,11 +1537,11 @@
       "text": "Was ist Onboarding?",
       "options": [
         "Schifffahrt",
-        "Strukturierte Einarbeitung neuer Mitarbeiter",
         "Kündigung",
+        "Strukturierte Einarbeitung neuer Mitarbeiter",
         "Versetzung"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Onboarding: systematische Integration neuer MA: Einarbeitungsplan, Pate/Mentor, Orientierung, Feedbackgespräche.",
       "difficulty": 1,
       "topic": "Personalentwicklung",
@@ -1551,12 +1551,12 @@
       "id": "zib-104",
       "text": "Was ist ein 360-Grad-Feedback?",
       "options": [
-        "Einmaliges Feedback",
         "Beurteilung aus mehreren Perspektiven: Vorgesetzte, Kollegen, MA, Kunden",
-        "Nur Vorgesetzten-Feedback",
-        "Selbstbeurteilung"
+        "Einmaliges Feedback",
+        "Selbstbeurteilung",
+        "Nur Vorgesetzten-Feedback"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "360°-Feedback: Rückmeldung von Vorgesetzten, Kollegen, Mitarbeitern und ggf. Kunden. Umfassendes Bild der FK-Kompetenz.",
       "difficulty": 2,
       "topic": "Personalentwicklung",
@@ -1568,8 +1568,8 @@
       "options": [
         "Körperliche Fitness",
         "Psychische Widerstandsfähigkeit gegenüber Belastungen",
-        "Intelligenz",
-        "Kreativität"
+        "Kreativität",
+        "Intelligenz"
       ],
       "correct": 1,
       "explanation": "Resilienz: Fähigkeit, Krisen und Belastungen zu bewältigen und gestärkt daraus hervorzugehen. Kann gefördert werden.",
@@ -1581,12 +1581,12 @@
       "id": "zib-106",
       "text": "Was versteht man unter Burnout?",
       "options": [
-        "Kurzzeitige Müdigkeit",
-        "Zustand emotionaler, körperlicher und geistiger Erschöpfung durch Überlastung",
+        "Langeweile",
         "Motivation",
-        "Langeweile"
+        "Kurzzeitige Müdigkeit",
+        "Zustand emotionaler, körperlicher und geistiger Erschöpfung durch Überlastung"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Burnout: chronischer Erschöpfungszustand mit emotionaler Distanzierung und Leistungseinbuße. Prävention: Work-Life-Balance, Stressmanagement.",
       "difficulty": 2,
       "topic": "Gesundheitsmanagement",
@@ -1596,12 +1596,12 @@
       "id": "zib-107",
       "text": "Was ist Boreout?",
       "options": [
+        "Motivation",
         "Überarbeitung",
         "Unterforderung und Langeweile am Arbeitsplatz",
-        "Motivation",
         "Burnout"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Boreout: chronische Unterforderung führt zu Desinteresse, Frustration und Leistungsabfall. Gegenmittel: angemessene Aufgaben.",
       "difficulty": 2,
       "topic": "Gesundheitsmanagement",
@@ -1626,10 +1626,10 @@
       "id": "zib-109",
       "text": "Was ist eine Primärgruppe?",
       "options": [
-        "Große Organisation",
+        "Betriebsrat",
         "Kleine Gruppe mit engen persönlichen Beziehungen",
         "Abteilung",
-        "Betriebsrat"
+        "Große Organisation"
       ],
       "correct": 1,
       "explanation": "Primärgruppe: kleine, persönliche Gruppe (Familie, enge Kollegen). Starker Einfluss auf Verhalten und Einstellungen.",
@@ -1641,12 +1641,12 @@
       "id": "zib-110",
       "text": "Was ist Kohäsion?",
       "options": [
-        "Konflikte",
         "Zusammenhalt und Attraktivität einer Gruppe für ihre Mitglieder",
-        "Hierarchie",
-        "Konkurrenz"
+        "Konflikte",
+        "Konkurrenz",
+        "Hierarchie"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Kohäsion: Grad des Zusammenhalts. Hohe Kohäsion = starke Bindung, Zugehörigkeit, Loyalität. Kann auch Groupthink fördern.",
       "difficulty": 2,
       "topic": "Gruppenarbeit",
@@ -1656,12 +1656,12 @@
       "id": "zib-111",
       "text": "Was versteht man unter Synergie in Teams?",
       "options": [
-        "Einzelleistung",
-        "Gemeinsame Leistung übertrifft Summe der Einzelleistungen",
         "Gleichleistung",
-        "Minderleistung"
+        "Minderleistung",
+        "Einzelleistung",
+        "Gemeinsame Leistung übertrifft Summe der Einzelleistungen"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Synergie: 1+1=3. Durch Zusammenarbeit entsteht Mehrwert, der über die Summe der Einzelleistungen hinausgeht.",
       "difficulty": 1,
       "topic": "Gruppenarbeit",
@@ -1672,11 +1672,11 @@
       "text": "Was ist eine Projektgruppe?",
       "options": [
         "Dauerhafte Abteilung",
-        "Zeitlich befristetes Team für spezifische Aufgabe",
         "Vorstand",
-        "Betriebsrat"
+        "Betriebsrat",
+        "Zeitlich befristetes Team für spezifische Aufgabe"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Projektgruppe: temporäres, interdisziplinäres Team für eine definierte Aufgabe mit klarem Ziel und Enddatum.",
       "difficulty": 1,
       "topic": "Gruppenarbeit",
@@ -1701,12 +1701,12 @@
       "id": "zib-114",
       "text": "Was ist Change-Kommunikation?",
       "options": [
-        "Smalltalk",
-        "Gezielte Kommunikation bei Veränderungsprozessen im Unternehmen",
+        "Schriftwechsel",
         "Telefonat",
-        "Schriftwechsel"
+        "Smalltalk",
+        "Gezielte Kommunikation bei Veränderungsprozessen im Unternehmen"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Change-Kommunikation: Information, Beteiligung und Motivation der MA bei organisatorischen Veränderungen. Reduziert Widerstände.",
       "difficulty": 2,
       "topic": "Kommunikation",
@@ -1731,12 +1731,12 @@
       "id": "zib-116",
       "text": "Was ist ein Betriebsklima?",
       "options": [
-        "Temperatur im Gebäude",
         "Subjektiv empfundene Qualität der Zusammenarbeit im Betrieb",
+        "Heizungseinstellung",
         "Luftqualität",
-        "Heizungseinstellung"
+        "Temperatur im Gebäude"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Betriebsklima: Wahrnehmung der Arbeitsbedingungen, Zusammenarbeit, Führung, Kommunikation durch die Belegschaft.",
       "difficulty": 1,
       "topic": "Gruppenarbeit",
@@ -1746,12 +1746,12 @@
       "id": "zib-117",
       "text": "Wie beeinflusst die FK das Betriebsklima?",
       "options": [
-        "Gar nicht",
         "Durch Vorbildfunktion, Kommunikation, Wertschätzung und Fairness",
+        "Nur durch Arbeitszeit",
         "Nur durch Gehalt",
-        "Nur durch Arbeitszeit"
+        "Gar nicht"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "FK prägt Klima wesentlich: offene Kommunikation, Anerkennung, faire Behandlung, Konfliktlösung, Partizipation.",
       "difficulty": 1,
       "topic": "Führungsstile",
@@ -1761,12 +1761,12 @@
       "id": "zib-118",
       "text": "Was ist Servant Leadership?",
       "options": [
-        "Autoritäre Führung",
-        "Führungskraft dient dem Team und stellt dessen Bedürfnisse in den Vordergrund",
         "Selbstführung",
-        "Führung durch Kontrolle"
+        "Führung durch Kontrolle",
+        "Autoritäre Führung",
+        "Führungskraft dient dem Team und stellt dessen Bedürfnisse in den Vordergrund"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Servant Leadership (Greenleaf): FK sieht sich als Diener des Teams, fördert Wachstum und Wohlbefinden der MA.",
       "difficulty": 2,
       "topic": "Führungsstile",
@@ -1776,12 +1776,12 @@
       "id": "zib-119",
       "text": "Was ist Agilität in der Führung?",
       "options": [
-        "Starre Hierarchie",
         "Flexibilität, schnelle Anpassung und iteratives Arbeiten",
         "Langfristige Planung",
+        "Starre Hierarchie",
         "Bürokratie"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Agile Führung: Flexibilität, Iteration, Selbstorganisation, schnelle Reaktion auf Veränderungen. Frameworks: Scrum, Kanban.",
       "difficulty": 2,
       "topic": "Führungsstile",
@@ -1791,9 +1791,9 @@
       "id": "zib-120",
       "text": "Was regelt § 87 BetrVG?",
       "options": [
-        "Kündigungsschutz",
-        "Mitbestimmung des BR in sozialen Angelegenheiten",
         "Mutterschutz",
+        "Mitbestimmung des BR in sozialen Angelegenheiten",
+        "Kündigungsschutz",
         "Arbeitszeitgesetz"
       ],
       "correct": 1,
@@ -1806,12 +1806,12 @@
       "id": "zib-121",
       "text": "Was ist ein Sozialplan?",
       "options": [
-        "Sozialversicherung",
-        "Vereinbarung zwischen AG und BR zum Ausgleich wirtschaftlicher Nachteile bei Betriebsänderungen",
         "Sozialleistungen",
-        "Sozialbericht"
+        "Sozialbericht",
+        "Vereinbarung zwischen AG und BR zum Ausgleich wirtschaftlicher Nachteile bei Betriebsänderungen",
+        "Sozialversicherung"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "§ 112 BetrVG: Sozialplan gleicht wirtschaftliche Nachteile für AN bei Betriebsänderungen aus (z.B. Abfindungen).",
       "difficulty": 2,
       "topic": "Arbeitsrecht",
@@ -1821,12 +1821,12 @@
       "id": "zib-122",
       "text": "Was ist ein Interessenausgleich?",
       "options": [
+        "Tarifvertrag",
         "Kompromiss",
         "Vereinbarung über das Ob, Wann und Wie einer Betriebsänderung",
-        "Tarifvertrag",
         "Arbeitsvertrag"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "§ 112 BetrVG: Interessenausgleich regelt, ob und wie die geplante Betriebsänderung durchgeführt wird.",
       "difficulty": 2,
       "topic": "Arbeitsrecht",
@@ -1851,12 +1851,12 @@
       "id": "zib-124",
       "text": "Was ist innerbetriebliche Stellenausschreibung?",
       "options": [
-        "Zeitungsanzeige",
-        "Ausschreibung offener Stellen für eigene Mitarbeiter",
+        "Initiativbewerbung",
         "Headhunting",
-        "Initiativbewerbung"
+        "Ausschreibung offener Stellen für eigene Mitarbeiter",
+        "Zeitungsanzeige"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Innerbetriebliche Ausschreibung: BR hat nach § 93 BetrVG Recht, die Ausschreibung zu verlangen. Fördert interne Mobilität.",
       "difficulty": 1,
       "topic": "Arbeitsrecht",
@@ -1866,12 +1866,12 @@
       "id": "zib-125",
       "text": "Was ist Fluktuation?",
       "options": [
-        "Beförderung",
         "Häufigkeit des Personalwechsels (Austritts-/Eintrittsrate)",
+        "Weiterbildung",
         "Überstunden",
-        "Weiterbildung"
+        "Beförderung"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Fluktuation = Austritte/durchschn. Personalbestand × 100. Hohe Fluktuation signalisiert Probleme bei Zufriedenheit oder Führung.",
       "difficulty": 1,
       "topic": "Personalentwicklung",
@@ -1881,10 +1881,10 @@
       "id": "zib-126",
       "text": "Was ist Fehlzeitenmanagement?",
       "options": [
-        "Ignorierung von Fehlzeiten",
-        "Systematische Analyse und Reduzierung von Abwesenheiten",
         "Überstundenverwaltung",
-        "Urlaubsplanung"
+        "Systematische Analyse und Reduzierung von Abwesenheiten",
+        "Urlaubsplanung",
+        "Ignorierung von Fehlzeiten"
       ],
       "correct": 1,
       "explanation": "Fehlzeitenmanagement: Erfassung, Analyse und Maßnahmen zur Reduzierung von krankheits-/motivationsbedingten Fehlzeiten.",
@@ -1896,12 +1896,12 @@
       "id": "zib-127",
       "text": "Bradford-Faktor: Was misst er?",
       "options": [
-        "Umsatz",
         "Häufigkeit und Dauer von Fehlzeiten (Kurzzeit-Abwesenheiten gewichtet)",
-        "Produktivität",
-        "Zufriedenheit"
+        "Umsatz",
+        "Zufriedenheit",
+        "Produktivität"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Bradford-Faktor B = S² × D (S=Anzahl Fehlzeitperioden, D=Gesamtfehlzeitstage). Häufige Kurzfehlzeiten wiegen schwerer.",
       "difficulty": 3,
       "topic": "Gesundheitsmanagement",
@@ -1911,10 +1911,10 @@
       "id": "zib-128",
       "text": "Was ist Talentmanagement?",
       "options": [
-        "Theateragentur",
-        "Strategische Identifikation, Entwicklung und Bindung von Leistungsträgern",
         "Künstlerförderung",
-        "Sportmanagement"
+        "Strategische Identifikation, Entwicklung und Bindung von Leistungsträgern",
+        "Sportmanagement",
+        "Theateragentur"
       ],
       "correct": 1,
       "explanation": "Talentmanagement: Schlüsselpositionen identifizieren, High Potentials erkennen und gezielt fördern. Nachfolgeplanung.",
@@ -1926,12 +1926,12 @@
       "id": "zib-129",
       "text": "Was ist Nachfolgeplanung?",
       "options": [
-        "Testament",
-        "Systematische Vorbereitung von Nachfolgern für Schlüsselpositionen",
+        "Ruhestandsplanung",
         "Erbregelung",
-        "Ruhestandsplanung"
+        "Systematische Vorbereitung von Nachfolgern für Schlüsselpositionen",
+        "Testament"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Nachfolgeplanung: frühzeitige Identifikation und Entwicklung interner Kandidaten für wichtige Positionen. Sichert Wissenstransfer.",
       "difficulty": 2,
       "topic": "Personalentwicklung",
@@ -1941,12 +1941,12 @@
       "id": "zib-130",
       "text": "Was ist Wissensmanagement im Team?",
       "options": [
-        "Einzelwissen",
-        "Systematischer Austausch und Sicherung von Wissen im Team",
         "Geheimhaltung",
-        "Prüfungsvorbereitung"
+        "Prüfungsvorbereitung",
+        "Einzelwissen",
+        "Systematischer Austausch und Sicherung von Wissen im Team"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Wissensmanagement: Dokumentation, Weitergabe, Verfügbarmachung von Erfahrungswissen. Methoden: Wiki, Lessons Learned, Communities of Practice.",
       "difficulty": 2,
       "topic": "Personalentwicklung",
@@ -1957,11 +1957,11 @@
       "text": "Was ist ein Kompetenzmodell?",
       "options": [
         "Gehaltstabelle",
+        "Zeitplan",
         "Beschreibung der erforderlichen Kompetenzen für Positionen/Rollen",
-        "Organigramm",
-        "Zeitplan"
+        "Organigramm"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Kompetenzmodell definiert Soll-Kompetenzen: Fach-, Methoden-, Sozial- und Selbstkompetenz. Basis für PE-Maßnahmen.",
       "difficulty": 2,
       "topic": "Personalentwicklung",
@@ -1971,12 +1971,12 @@
       "id": "zib-132",
       "text": "Was sind die vier Kompetenzfelder?",
       "options": [
+        "Nur Sozialkompetenz",
         "Nur Fachkompetenz",
         "Fach-, Methoden-, Sozial- und Selbstkompetenz",
-        "Nur Sozialkompetenz",
         "Lesen, Schreiben, Rechnen, Sport"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Fachkompetenz: Fachwissen. Methodenkompetenz: Arbeitstechniken. Sozialkompetenz: Zusammenarbeit. Selbstkompetenz: Selbstmanagement.",
       "difficulty": 1,
       "topic": "Personalentwicklung",
@@ -1987,11 +1987,11 @@
       "text": "Was ist Mediation im Vergleich zu Schlichtung?",
       "options": [
         "Gleich",
-        "Mediation: Parteien finden selbst Lösung; Schlichtung: Dritter macht Vorschlag",
+        "Schlichtung ist freiwillig",
         "Mediation ist verbindlich",
-        "Schlichtung ist freiwillig"
+        "Mediation: Parteien finden selbst Lösung; Schlichtung: Dritter macht Vorschlag"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Mediation: Mediator hilft, eigene Lösung zu finden. Schlichtung: Schlichter unterbreitet einen Lösungsvorschlag.",
       "difficulty": 2,
       "topic": "Konfliktmanagement",
@@ -2001,10 +2001,10 @@
       "id": "zib-134",
       "text": "Was ist eine Abmahnung?",
       "options": [
-        "Kündigung",
-        "Formale Rüge mit Aufforderung zur Verhaltensänderung und Kündigungsandrohung",
         "Lob",
-        "Versetzung"
+        "Formale Rüge mit Aufforderung zur Verhaltensänderung und Kündigungsandrohung",
+        "Versetzung",
+        "Kündigung"
       ],
       "correct": 1,
       "explanation": "Abmahnung: Hinweisfunktion (konkretes Fehlverhalten), Warnfunktion (Kündigung bei Wiederholung). Schriftlich empfohlen.",
@@ -2016,12 +2016,12 @@
       "id": "zib-135",
       "text": "Voraussetzung für verhaltensbedingte Kündigung?",
       "options": [
+        "Nur Sozialplan nötig",
         "Sofortige Kündigung möglich",
-        "In der Regel vorherige Abmahnung erforderlich",
         "Keine Voraussetzung",
-        "Nur Sozialplan nötig"
+        "In der Regel vorherige Abmahnung erforderlich"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Verhaltensbedingte Kündigung: i.d.R. vorherige Abmahnung, Verhältnismäßigkeit, Interessenabwägung. BR-Anhörung zwingend.",
       "difficulty": 2,
       "topic": "Arbeitsrecht",
@@ -2031,10 +2031,10 @@
       "id": "zib-136",
       "text": "Was sind Kündigungsarten?",
       "options": [
-        "Nur fristlose",
-        "Ordentliche, außerordentliche (fristlose), Änderungskündigung",
         "Nur ordentliche",
-        "Nur mündliche"
+        "Ordentliche, außerordentliche (fristlose), Änderungskündigung",
+        "Nur mündliche",
+        "Nur fristlose"
       ],
       "correct": 1,
       "explanation": "Ordentlich: mit Frist. Außerordentlich: fristlos aus wichtigem Grund (§ 626 BGB). Änderungskündigung: mit Änderungsangebot.",
@@ -2061,12 +2061,12 @@
       "id": "zib-138",
       "text": "Pflichtverletzung des AN: Was ist eine Ermahnung?",
       "options": [
-        "Kündigung",
         "Milderes Mittel als Abmahnung: Hinweis ohne Kündigungsandrohung",
         "Abmahnung",
+        "Kündigung",
         "Versetzung"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Ermahnung: Hinweis auf Fehlverhalten OHNE Kündigungsandrohung. Weniger formell als Abmahnung.",
       "difficulty": 1,
       "topic": "Arbeitsrecht",
@@ -2076,12 +2076,12 @@
       "id": "zib-139",
       "text": "Was ist das Maßregelungsverbot?",
       "options": [
+        "Verbot von Maßnahmen",
         "Erlaubt Bestrafung",
         "AG darf AN nicht benachteiligen, weil sie Rechte ausüben",
-        "Verbot von Maßnahmen",
         "Streikverbot"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "§ 612a BGB: AG darf AN nicht benachteiligen, weil sie zulässigerweise Rechte ausüben (z.B. BR-Wahl, Beschwerderecht).",
       "difficulty": 2,
       "topic": "Arbeitsrecht",
@@ -2091,12 +2091,12 @@
       "id": "zib-140",
       "text": "Was ist emotionale Intelligenz?",
       "options": [
-        "IQ",
         "Fähigkeit, eigene und fremde Emotionen wahrzunehmen und zu steuern",
-        "Mathematische Begabung",
-        "Technisches Verständnis"
+        "Technisches Verständnis",
+        "IQ",
+        "Mathematische Begabung"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Emotionale Intelligenz (Goleman): Selbstwahrnehmung, Selbstregulierung, Motivation, Empathie, soziale Fähigkeiten.",
       "difficulty": 2,
       "topic": "Kommunikation",
@@ -2106,10 +2106,10 @@
       "id": "zib-141",
       "text": "Was ist Empathie?",
       "options": [
-        "Antipathie",
+        "Gleichgültigkeit",
         "Fähigkeit, sich in Gefühle und Sichtweisen anderer hineinzuversetzen",
         "Sympathie",
-        "Gleichgültigkeit"
+        "Antipathie"
       ],
       "correct": 1,
       "explanation": "Empathie: einfühlendes Verstehen der Situation des anderen. Wichtig für Führung, Kommunikation, Konfliktlösung.",
@@ -2121,12 +2121,12 @@
       "id": "zib-142",
       "text": "Was ist gewaltfreie Kommunikation nach Rosenberg?",
       "options": [
-        "Aggressive Kommunikation",
         "Kommunikation in 4 Schritten: Beobachtung, Gefühl, Bedürfnis, Bitte",
         "Schweigegelübde",
-        "Nur schriftlich"
+        "Nur schriftlich",
+        "Aggressive Kommunikation"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "GFK: 1. Beobachtung (ohne Bewertung), 2. Gefühl, 3. Bedürfnis dahinter, 4. Bitte (konkret, positiv formuliert).",
       "difficulty": 2,
       "topic": "Kommunikation",
@@ -2136,12 +2136,12 @@
       "id": "zib-143",
       "text": "Eisbergmodell der Kommunikation?",
       "options": [
-        "Nur verbale Ebene",
         "Ca. 20% sichtbar (Sachebene), 80% unsichtbar (Beziehungsebene)",
         "50/50 Verteilung",
-        "100% sichtbar"
+        "100% sichtbar",
+        "Nur verbale Ebene"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Eisbergmodell: Oberhalb (sichtbar): Fakten, Daten, Sachargumente. Unterhalb (unsichtbar): Gefühle, Werte, Erfahrungen, Beziehungen.",
       "difficulty": 1,
       "topic": "Kommunikation",
@@ -2151,12 +2151,12 @@
       "id": "zib-144",
       "text": "Was ist interkulturelle Kompetenz?",
       "options": [
-        "Fremdsprachenkenntnisse",
         "Fähigkeit, in interkulturellen Situationen angemessen zu handeln",
+        "Fremdsprachenkenntnisse",
         "Reiseerfahrung",
         "Auslandsstudium"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Interkulturelle Kompetenz: Verständnis für kulturelle Unterschiede, Respekt, Anpassungsfähigkeit in multikulturellen Situationen.",
       "difficulty": 2,
       "topic": "Kommunikation",
@@ -2166,12 +2166,12 @@
       "id": "zib-145",
       "text": "Was ist Compliance im Unternehmen?",
       "options": [
+        "Konformität",
         "Zustimmung",
-        "Einhaltung aller gesetzlichen Vorschriften und ethischen Standards",
         "Gehorsam",
-        "Konformität"
+        "Einhaltung aller gesetzlichen Vorschriften und ethischen Standards"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Compliance: systematische Sicherstellung der Einhaltung von Gesetzen, Richtlinien und unternehmensinternen Standards.",
       "difficulty": 1,
       "topic": "Arbeitsrecht",
@@ -2181,12 +2181,12 @@
       "id": "zib-146",
       "text": "Was ist Whistleblowing?",
       "options": [
+        "Kündigung",
         "Pfeifen",
         "Meldung von Missständen/Rechtsverstößen im Unternehmen",
-        "Kündigung",
         "Beschwerde"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Whistleblowing: Hinweis auf illegale oder unethische Praktiken. Hinweisgeberschutzgesetz schützt Meldende.",
       "difficulty": 2,
       "topic": "Arbeitsrecht",
@@ -2196,12 +2196,12 @@
       "id": "zib-147",
       "text": "Was ist eine Delegation von Verantwortung?",
       "options": [
-        "Verantwortung abgeben",
-        "Übertragung von Aufgaben UND Verantwortung an Mitarbeiter",
+        "Keine Verantwortung",
         "Nur Aufgaben übertragen",
-        "Keine Verantwortung"
+        "Verantwortung abgeben",
+        "Übertragung von Aufgaben UND Verantwortung an Mitarbeiter"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Delegation: Aufgabe + Kompetenz + Verantwortung übertragen. FK behält Führungsverantwortung (Auswahl, Kontrolle).",
       "difficulty": 1,
       "topic": "Führungsstile",
@@ -2211,10 +2211,10 @@
       "id": "zib-148",
       "text": "Was ist die Handlungsverantwortung?",
       "options": [
-        "Verantwortung der FK",
+        "Geteilte Verantwortung",
         "Verantwortung des MA für die korrekte Durchführung delegierter Aufgaben",
-        "Keine Verantwortung",
-        "Geteilte Verantwortung"
+        "Verantwortung der FK",
+        "Keine Verantwortung"
       ],
       "correct": 1,
       "explanation": "Handlungsverantwortung: MA verantwortet die Durchführung. Führungsverantwortung (Auswahl, Kontrolle) bleibt bei FK.",
@@ -2226,10 +2226,10 @@
       "id": "zib-149",
       "text": "Was ist die Generation Y (Millennials)?",
       "options": [
-        "Vor 1965 geboren",
+        "Rentner",
         "Ca. 1980-1995 geboren, digital-affin, work-life-balance-orientiert",
-        "Nach 2000 geboren",
-        "Rentner"
+        "Vor 1965 geboren",
+        "Nach 2000 geboren"
       ],
       "correct": 1,
       "explanation": "Gen Y: digital-affin, sinnorientiert, Work-Life-Balance wichtig, hinterfragt Hierarchien, sucht Feedback und Entwicklung.",
@@ -2241,12 +2241,12 @@
       "id": "zib-150",
       "text": "Was ist die Generation Z?",
       "options": [
+        "Silent Generation",
         "Baby Boomer",
-        "Ca. ab 1995 geboren, Digital Natives, Purpose-orientiert",
         "Gen X",
-        "Silent Generation"
+        "Ca. ab 1995 geboren, Digital Natives, Purpose-orientiert"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Gen Z: aufgewachsen mit Smartphone, pragmatisch, Sicherheitsbedürfnis, klare Trennung Arbeit/Freizeit, diverse Werte.",
       "difficulty": 2,
       "topic": "Personalentwicklung",
@@ -2257,11 +2257,11 @@
       "text": "Was ist ein Lerntyp?",
       "options": [
         "Einheitlicher Lernstil",
-        "Individuelle Präferenz für eine Lernmethode (visuell, auditiv, haptisch)",
         "Nur Lesen",
+        "Individuelle Präferenz für eine Lernmethode (visuell, auditiv, haptisch)",
         "Nur Zuhören"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Lerntypen nach Vester: visuell (sehen), auditiv (hören), haptisch (anfassen), intellektuell (verstehen). Meist Mischtypen.",
       "difficulty": 1,
       "topic": "Personalentwicklung",
@@ -2271,12 +2271,12 @@
       "id": "zib-152",
       "text": "Was ist E-Learning?",
       "options": [
-        "Fernstudium per Post",
         "Elektronisch unterstütztes Lernen (online, digital)",
+        "Nur E-Mail",
         "Nur Videokonferenz",
-        "Nur E-Mail"
+        "Fernstudium per Post"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "E-Learning: Lernformen mit digitalen Medien: Webinare, Lernplattformen, Videos, interaktive Module. Flexibel, ortsunabhängig.",
       "difficulty": 1,
       "topic": "Personalentwicklung",
@@ -2301,12 +2301,12 @@
       "id": "zib-154",
       "text": "Was ist ein Mitarbeitergespräch?",
       "options": [
-        "Kantine",
-        "Strukturiertes Gespräch zwischen FK und MA über Leistung, Ziele, Entwicklung",
+        "Gruppensitzung",
         "Pausengespräch",
-        "Gruppensitzung"
+        "Strukturiertes Gespräch zwischen FK und MA über Leistung, Ziele, Entwicklung",
+        "Kantine"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Regelmäßiges, strukturiertes Gespräch: Rückblick Leistung, Feedback, Zielvereinbarung, Entwicklungsperspektiven.",
       "difficulty": 1,
       "topic": "Kommunikation",
@@ -2318,8 +2318,8 @@
       "options": [
         "Nur Monolog",
         "Eröffnung, Rückblick, Feedback, Zielvereinbarung, Abschluss",
-        "Nur Kritik",
-        "Nur Lob"
+        "Nur Lob",
+        "Nur Kritik"
       ],
       "correct": 1,
       "explanation": "Strukturierte Gesprächsführung: 1. Eröffnung/Klima, 2. Rückblick, 3. Feedback, 4. Zielsetzung/Entwicklung, 5. Zusammenfassung.",
@@ -2331,9 +2331,9 @@
       "id": "zib-156",
       "text": "Was ist Impression Management?",
       "options": [
-        "Druckertechnik",
-        "Bewusste Steuerung des Eindrucks, den man auf andere macht",
         "Fotografie",
+        "Bewusste Steuerung des Eindrucks, den man auf andere macht",
+        "Druckertechnik",
         "Marketing"
       ],
       "correct": 1,
@@ -2346,9 +2346,9 @@
       "id": "zib-157",
       "text": "Was versteht man unter Organizational Citizenship Behavior?",
       "options": [
-        "Pflichterfüllung",
-        "Freiwilliges Engagement über die formale Pflicht hinaus",
         "Bürokratie",
+        "Freiwilliges Engagement über die formale Pflicht hinaus",
+        "Pflichterfüllung",
         "Passivität"
       ],
       "correct": 1,
@@ -2361,12 +2361,12 @@
       "id": "zib-158",
       "text": "Was ist der Pygmalion-Effekt?",
       "options": [
-        "Selbsterfüllende Prophezeiung: hohe Erwartungen → bessere Leistung",
-        "Negative Erwartung",
         "Keine Wirkung",
-        "Zufallseffekt"
+        "Zufallseffekt",
+        "Selbsterfüllende Prophezeiung: hohe Erwartungen → bessere Leistung",
+        "Negative Erwartung"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": "Pygmalion/Rosenthal-Effekt: Positive Erwartungen der FK an MA führen zu tatsächlich besserer Leistung (selbsterfüllende Prophezeiung).",
       "difficulty": 2,
       "topic": "Führungsstile",
@@ -2376,12 +2376,12 @@
       "id": "zib-159",
       "text": "Was ist der Golem-Effekt?",
       "options": [
-        "Positive Erwartung",
-        "Negative Erwartungen der FK → schlechtere Leistung der MA",
         "Neutraler Effekt",
-        "Motivation"
+        "Positive Erwartung",
+        "Motivation",
+        "Negative Erwartungen der FK → schlechtere Leistung der MA"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Golem-Effekt: Gegenteil von Pygmalion. Niedrige Erwartungen an MA führen zu tatsächlich schlechterer Leistung.",
       "difficulty": 2,
       "topic": "Führungsstile",
@@ -2391,12 +2391,12 @@
       "id": "zib-160",
       "text": "Was ist Lean Leadership?",
       "options": [
+        "Autoritäre Führung",
         "Bürokratische Führung",
         "FK als Coach und Problemlöser, Fokus auf Wertschöpfung und kontinuierliche Verbesserung",
-        "Autoritäre Führung",
         "Keine Führung"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Lean Leadership: FK geht zum Ort des Geschehens (Gemba), coacht MA, beseitigt Hindernisse, fördert KVP.",
       "difficulty": 2,
       "topic": "Führungsstile",
@@ -2406,9 +2406,9 @@
       "id": "zib-161",
       "text": "Was sind Arbeitgeberleistungen (Benefits)?",
       "options": [
-        "Nur Gehalt",
-        "Zusätzliche Leistungen über das Gehalt hinaus (bAV, Firmenwagen, etc.)",
         "Pflichtleistungen",
+        "Zusätzliche Leistungen über das Gehalt hinaus (bAV, Firmenwagen, etc.)",
+        "Nur Gehalt",
         "Steuerabzüge"
       ],
       "correct": 1,
@@ -2421,12 +2421,12 @@
       "id": "zib-162",
       "text": "Was ist das Entgeltfortzahlungsgesetz?",
       "options": [
-        "Urlaubsgesetz",
-        "Lohnfortzahlung im Krankheitsfall für 6 Wochen durch AG",
         "Tarifvertrag",
-        "Rentengesetz"
+        "Urlaubsgesetz",
+        "Rentengesetz",
+        "Lohnfortzahlung im Krankheitsfall für 6 Wochen durch AG"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "EFZG: AG zahlt bei unverschuldeter Arbeitsunfähigkeit 6 Wochen lang das Entgelt fort. Danach: Krankengeld (Krankenkasse).",
       "difficulty": 1,
       "topic": "Arbeitsrecht",
@@ -2436,12 +2436,12 @@
       "id": "zib-163",
       "text": "Welche Pausenregelung gilt nach ArbZG?",
       "options": [
+        "15 min pro 2h",
         "Keine Pflichtpausen",
         "30 min bei >6h, 45 min bei >9h Arbeitszeit",
-        "15 min pro 2h",
         "60 min pro 4h"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "§ 4 ArbZG: 30 Minuten Pause bei mehr als 6h, 45 Minuten bei mehr als 9h. Aufteilbar in je 15 min.",
       "difficulty": 1,
       "topic": "Arbeitsrecht",
@@ -2451,12 +2451,12 @@
       "id": "zib-164",
       "text": "Was ist Nachtarbeit nach ArbZG?",
       "options": [
-        "Arbeit nach 18 Uhr",
-        "Arbeit zwischen 23 und 6 Uhr (Bäckereien: 22-5 Uhr)",
         "Arbeit nach 20 Uhr",
-        "Arbeit nach Mitternacht"
+        "Arbeit nach Mitternacht",
+        "Arbeit nach 18 Uhr",
+        "Arbeit zwischen 23 und 6 Uhr (Bäckereien: 22-5 Uhr)"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "§ 2 ArbZG: Nachtzeit = 23-6 Uhr. Nachtarbeitnehmer haben Anspruch auf Ausgleich und arbeitsmedizinische Untersuchung.",
       "difficulty": 2,
       "topic": "Arbeitsrecht",
@@ -2466,12 +2466,12 @@
       "id": "zib-165",
       "text": "Ruhezeit nach ArbZG?",
       "options": [
-        "8 Stunden",
         "11 Stunden ununterbrochene Ruhezeit nach Arbeitsende",
+        "8 Stunden",
         "6 Stunden",
         "24 Stunden"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "§ 5 ArbZG: Mind. 11 Stunden ununterbrochene Ruhezeit nach Arbeitsende. In bestimmten Branchen auf 10h verkürzbar.",
       "difficulty": 1,
       "topic": "Arbeitsrecht",
@@ -2481,12 +2481,12 @@
       "id": "zib-166",
       "text": "Was regelt das Bundesurlaubsgesetz?",
       "options": [
-        "Arbeitszeit",
         "Mindesturlaub von 24 Werktagen (6-Tage-Woche) = 20 Arbeitstage (5-Tage-Woche)",
         "Krankheit",
-        "Rente"
+        "Rente",
+        "Arbeitszeit"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "BUrlG: Mindesturlaub 24 Werktage (6-Tage-Woche) bzw. 20 Arbeitstage (5-Tage-Woche). Voller Anspruch nach 6 Monaten.",
       "difficulty": 1,
       "topic": "Arbeitsrecht",
@@ -2496,9 +2496,9 @@
       "id": "zib-167",
       "text": "Was ist Elternzeit?",
       "options": [
-        "Urlaub",
-        "Freistellung bis zu 3 Jahre pro Kind zur Kinderbetreuung",
         "Mutterschutz",
+        "Freistellung bis zu 3 Jahre pro Kind zur Kinderbetreuung",
+        "Urlaub",
         "Pflegezeit"
       ],
       "correct": 1,
@@ -2511,12 +2511,12 @@
       "id": "zib-168",
       "text": "Was ist betriebliche Altersvorsorge (bAV)?",
       "options": [
-        "Rentenversicherung",
         "Zusätzliche Altersvorsorge über den Arbeitgeber",
-        "Krankenversicherung",
-        "Arbeitslosenversicherung"
+        "Arbeitslosenversicherung",
+        "Rentenversicherung",
+        "Krankenversicherung"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "bAV: Entgeltumwandlung oder AG-finanziert. Formen: Direktversicherung, Pensionskasse, Pensionsfonds, Unterstützungskasse.",
       "difficulty": 1,
       "topic": "Personalentwicklung",
@@ -2526,12 +2526,12 @@
       "id": "zib-169",
       "text": "Was ist die Probezeit?",
       "options": [
+        "Immer 1 Jahr",
         "Unbefristete Phase",
-        "Max. 6 Monate mit verkürzter Kündigungsfrist (2 Wochen)",
         "Immer 3 Monate",
-        "Immer 1 Jahr"
+        "Max. 6 Monate mit verkürzter Kündigungsfrist (2 Wochen)"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Probezeit max. 6 Monate (§ 622 Abs. 3 BGB). Kündigungsfrist: 2 Wochen (verkürzt). Normale Arbeitsrechte gelten.",
       "difficulty": 1,
       "topic": "Arbeitsrecht",
@@ -2541,12 +2541,12 @@
       "id": "zib-170",
       "text": "Was ist Teilzeitarbeit nach TzBfG?",
       "options": [
-        "Vollzeit",
         "Regelmäßige Arbeitszeit kürzer als bei vergleichbaren Vollzeit-AN",
         "Minijob",
+        "Vollzeit",
         "Kurzarbeit"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "§ 2 TzBfG: Teilzeit = regelmäßige Wochenarbeitszeit kürzer als bei Vollzeit-AN. Gleiche Rechte (anteilig).",
       "difficulty": 1,
       "topic": "Arbeitsrecht",
@@ -2556,9 +2556,9 @@
       "id": "zib-171",
       "text": "Was ist Kurzarbeit?",
       "options": [
-        "Teilzeitarbeit",
-        "Vorübergehende Reduzierung der Arbeitszeit bei wirtschaftlichen Schwierigkeiten",
         "Überstunden",
+        "Vorübergehende Reduzierung der Arbeitszeit bei wirtschaftlichen Schwierigkeiten",
+        "Teilzeitarbeit",
         "Schichtarbeit"
       ],
       "correct": 1,
@@ -2572,11 +2572,11 @@
       "text": "Was ist ein Tarifvertrag?",
       "options": [
         "Einzelarbeitsvertrag",
+        "Gesetz",
         "Vertrag zwischen Gewerkschaft und AG/AG-Verband über Arbeitsbedingungen",
-        "Betriebsvereinbarung",
-        "Gesetz"
+        "Betriebsvereinbarung"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Tarifvertrag regelt: Entgelt, Arbeitszeit, Urlaub, Kündigungsfristen. Gilt für Gewerkschaftsmitglieder bzw. bei Allgemeinverbindlichkeit.",
       "difficulty": 1,
       "topic": "Arbeitsrecht",
@@ -2587,11 +2587,11 @@
       "text": "Rangfolge der Rechtsquellen im Arbeitsrecht?",
       "options": [
         "Arbeitsvertrag > Gesetz",
+        "Tarifvertrag > Gesetz",
         "EU-Recht > Gesetz > Tarifvertrag > Betriebsvereinbarung > Arbeitsvertrag",
-        "Alle gleich",
-        "Tarifvertrag > Gesetz"
+        "Alle gleich"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Normenpyramide: EU > Grundgesetz > Bundesgesetze > Tarifvertrag > Betriebsvereinbarung > Arbeitsvertrag (Günstigkeitsprinzip).",
       "difficulty": 2,
       "topic": "Arbeitsrecht",
@@ -2603,8 +2603,8 @@
       "options": [
         "Immer die strengste Regel gilt",
         "Eine niedrigere Norm darf zugunsten des AN von der höheren abweichen",
-        "Immer das Gesetz gilt",
-        "AG bestimmt"
+        "AG bestimmt",
+        "Immer das Gesetz gilt"
       ],
       "correct": 1,
       "explanation": "Günstigkeitsprinzip: Abweichung von höherer Norm nur zugunsten des AN erlaubt. Z.B. TV kann mehr Urlaub als BUrlG vorsehen.",
@@ -2616,9 +2616,9 @@
       "id": "zib-175",
       "text": "Was ist Arbeitnehmerüberlassung (Zeitarbeit)?",
       "options": [
-        "Befristete Anstellung",
-        "AN ist bei Verleiher angestellt, arbeitet beim Entleiher",
         "Praktikum",
+        "AN ist bei Verleiher angestellt, arbeitet beim Entleiher",
+        "Befristete Anstellung",
         "Werkvertrag"
       ],
       "correct": 1,
@@ -2631,10 +2631,10 @@
       "id": "zib-176",
       "text": "Was ist ein Werkvertrag?",
       "options": [
-        "Arbeitsvertrag",
+        "Kaufvertrag",
         "Vertrag über die Herstellung eines Werks/Ergebnisses",
-        "Mietvertrag",
-        "Kaufvertrag"
+        "Arbeitsvertrag",
+        "Mietvertrag"
       ],
       "correct": 1,
       "explanation": "§ 631 BGB: Werkvertrag schuldet ein Ergebnis (Werk). Kein Weisungsrecht des Auftraggebers. Abgrenzung zur Arbeitnehmerüberlassung wichtig.",
@@ -2646,12 +2646,12 @@
       "id": "zib-177",
       "text": "Schwerbehindertenvertretung (SBV): Was ist ihre Aufgabe?",
       "options": [
+        "Gewerkschaft",
         "Personalvertretung",
         "Vertretung der Interessen schwerbehinderter Beschäftigter",
-        "Betriebsrat",
-        "Gewerkschaft"
+        "Betriebsrat"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "SBV (§ 177 SGB IX): Ab 5 schwerbehinderten MA zu wählen. Überwacht Eingliederung und Rechte schwerbehinderter AN.",
       "difficulty": 2,
       "topic": "Arbeitsrecht",
@@ -2661,12 +2661,12 @@
       "id": "zib-178",
       "text": "Was ist Arbeitszufriedenheit?",
       "options": [
+        "Fluktuationsrate",
         "Nur Gehalt",
-        "Positive Einstellung eines MA gegenüber seiner Arbeit und dem Arbeitsumfeld",
         "Fehlzeitenquote",
-        "Fluktuationsrate"
+        "Positive Einstellung eines MA gegenüber seiner Arbeit und dem Arbeitsumfeld"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Arbeitszufriedenheit: subjektive Bewertung der Arbeitssituation. Einflussfaktoren: Inhalt, Führung, Kollegen, Bezahlung, Entwicklung.",
       "difficulty": 1,
       "topic": "Motivation",
@@ -2676,12 +2676,12 @@
       "id": "zib-179",
       "text": "Zusammenhang Zufriedenheit und Leistung?",
       "options": [
-        "Kein Zusammenhang",
-        "Zufriedenheit fördert Engagement, aber Zusammenhang ist komplex",
+        "Zufriedenheit senkt Leistung",
         "Unzufriedene leisten mehr",
-        "Zufriedenheit senkt Leistung"
+        "Zufriedenheit fördert Engagement, aber Zusammenhang ist komplex",
+        "Kein Zusammenhang"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Der Zusammenhang ist positiv aber moderat. Zufriedene MA zeigen mehr OCB, weniger Fluktuation und Fehlzeiten.",
       "difficulty": 2,
       "topic": "Motivation",
@@ -2691,12 +2691,12 @@
       "id": "zib-180",
       "text": "Was ist ein Anreizsystem?",
       "options": [
-        "Strafkatalog",
         "Gesamtheit aller materiellen und immateriellen Anreize zur Motivation",
-        "Nur Gehalt",
-        "Nur Lob"
+        "Nur Lob",
+        "Strafkatalog",
+        "Nur Gehalt"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Anreizsysteme: materiell (Gehalt, Bonus, Firmenwagen) und immateriell (Anerkennung, Entwicklung, Verantwortung, flexible Arbeitszeit).",
       "difficulty": 1,
       "topic": "Motivation",
@@ -2706,10 +2706,10 @@
       "id": "zib-181",
       "text": "Unterschied Lob und Anerkennung?",
       "options": [
-        "Gleich",
+        "Anerkennung = Geld",
         "Lob: punktuell für Leistung; Anerkennung: grundsätzliche Wertschätzung der Person",
-        "Lob = materiell",
-        "Anerkennung = Geld"
+        "Gleich",
+        "Lob = materiell"
       ],
       "correct": 1,
       "explanation": "Lob: konkretes positives Feedback zu einer Leistung. Anerkennung: grundsätzliche Wertschätzung als Mensch und Mitarbeiter.",
@@ -2722,11 +2722,11 @@
       "text": "Was ist Stressmanagement?",
       "options": [
         "Stress ignorieren",
-        "Strategien zum Erkennen und Bewältigen von Stressoren",
         "Überstunden",
-        "Arbeitsvermeidung"
+        "Arbeitsvermeidung",
+        "Strategien zum Erkennen und Bewältigen von Stressoren"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Stressmanagement: instrumentell (Ursachen beseitigen), kognitiv (Einstellung ändern), regenerativ (Erholung, Sport, Entspannung).",
       "difficulty": 1,
       "topic": "Gesundheitsmanagement",
@@ -2737,11 +2737,11 @@
       "text": "Was ist das Belastungs-Beanspruchungsmodell?",
       "options": [
         "Arbeitsbelastung = Krankheit",
+        "Nur körperliche Belastung",
         "Belastung: objektive Einwirkung; Beanspruchung: individuelle Reaktion",
-        "Belastung = Beanspruchung",
-        "Nur körperliche Belastung"
+        "Belastung = Beanspruchung"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Belastung: äußere Faktoren (objektiv, für alle gleich). Beanspruchung: individuelle Reaktion (abhängig von Ressourcen/Bewältigungsstrategien).",
       "difficulty": 2,
       "topic": "Gesundheitsmanagement",
@@ -2751,9 +2751,9 @@
       "id": "zib-184",
       "text": "Was ist ein Sicherheitsbeauftragter?",
       "options": [
-        "Pförtner",
-        "Ehrenamtlicher MA, der AG bei Arbeitsschutz unterstützt",
         "Feuerwehrmann",
+        "Ehrenamtlicher MA, der AG bei Arbeitsschutz unterstützt",
+        "Pförtner",
         "Betriebsrat"
       ],
       "correct": 1,
@@ -2766,12 +2766,12 @@
       "id": "zib-185",
       "text": "PSA: Was bedeutet das?",
       "options": [
-        "Personalserviceagentur",
-        "Persönliche Schutzausrüstung",
         "Prüfungsserviceamt",
-        "Produktsicherheitsagentur"
+        "Produktsicherheitsagentur",
+        "Personalserviceagentur",
+        "Persönliche Schutzausrüstung"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "PSA: Schutzhelm, Schutzbrille, Gehörschutz, Sicherheitsschuhe, Handschuhe etc. AG muss bereitstellen, AN muss tragen.",
       "difficulty": 1,
       "topic": "Gesundheitsmanagement",
@@ -2781,12 +2781,12 @@
       "id": "zib-186",
       "text": "Was ist ein Arbeitssicherheitsgesetz (ASiG)?",
       "options": [
+        "Sozialversicherung",
         "Urlaubsgesetz",
-        "Regelt Bestellung von Betriebsärzten und Sicherheitsfachkräften",
         "Kündigungsschutz",
-        "Sozialversicherung"
+        "Regelt Bestellung von Betriebsärzten und Sicherheitsfachkräften"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "ASiG: AG muss Betriebsärzte und Fachkräfte für Arbeitssicherheit bestellen zur Unterstützung im Arbeitsschutz.",
       "difficulty": 1,
       "topic": "Arbeitsrecht",
@@ -2796,12 +2796,12 @@
       "id": "zib-187",
       "text": "Was ist horizontale Kommunikation?",
       "options": [
-        "Von oben nach unten",
         "Kommunikation auf gleicher Hierarchieebene",
         "Von unten nach oben",
-        "Diagonal"
+        "Diagonal",
+        "Von oben nach unten"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Horizontal: Austausch zwischen Gleichgestellten (Abteilungsleiter untereinander). Fördert Koordination und Zusammenarbeit.",
       "difficulty": 1,
       "topic": "Kommunikation",
@@ -2811,12 +2811,12 @@
       "id": "zib-188",
       "text": "Was ist vertikale Kommunikation?",
       "options": [
-        "Zwischen Gleichgestellten",
-        "Kommunikation zwischen verschiedenen Hierarchieebenen (top-down/bottom-up)",
         "Nur schriftlich",
-        "Nur mündlich"
+        "Nur mündlich",
+        "Kommunikation zwischen verschiedenen Hierarchieebenen (top-down/bottom-up)",
+        "Zwischen Gleichgestellten"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Vertikal: top-down (Anweisungen, Info) und bottom-up (Berichte, Feedback). Beide Richtungen wichtig.",
       "difficulty": 1,
       "topic": "Kommunikation",
@@ -2826,12 +2826,12 @@
       "id": "zib-189",
       "text": "Was ist der Primacy-Effekt?",
       "options": [
-        "Letzter Eindruck zählt",
-        "Erster Eindruck prägt die Gesamtbeurteilung überproportional",
+        "Kein Eindruck",
         "Mittlerer Eindruck",
-        "Kein Eindruck"
+        "Letzter Eindruck zählt",
+        "Erster Eindruck prägt die Gesamtbeurteilung überproportional"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Primacy-Effekt: erste Informationen/Eindrücke werden stärker gewichtet. Relevant bei Beurteilungen und Vorstellungsgesprächen.",
       "difficulty": 2,
       "topic": "Personalentwicklung",
@@ -2841,10 +2841,10 @@
       "id": "zib-190",
       "text": "Was ist der Recency-Effekt?",
       "options": [
-        "Erster Eindruck zählt",
-        "Letzte Informationen/Eindrücke werden stärker gewichtet",
         "Mittlerer Eindruck",
-        "Keiner"
+        "Letzte Informationen/Eindrücke werden stärker gewichtet",
+        "Keiner",
+        "Erster Eindruck zählt"
       ],
       "correct": 1,
       "explanation": "Recency-Effekt: letzte Eindrücke überwiegen. Ähnlich dem Nikolaus-Effekt bei Beurteilungen. Gegenteil von Primacy.",
@@ -2856,10 +2856,10 @@
       "id": "zib-191",
       "text": "Was ist Selbstkompetenz?",
       "options": [
-        "Fachkompetenz",
+        "Methodenkompetenz",
         "Fähigkeit zur Selbstreflexion, Selbstmotivation und Selbstorganisation",
-        "Sozialkompetenz",
-        "Methodenkompetenz"
+        "Fachkompetenz",
+        "Sozialkompetenz"
       ],
       "correct": 1,
       "explanation": "Selbstkompetenz: Zeitmanagement, Selbstmotivation, Belastbarkeit, Eigeninitiative, Lernbereitschaft, Verantwortungsbewusstsein.",
@@ -2871,12 +2871,12 @@
       "id": "zib-192",
       "text": "Was ist informelles Lernen?",
       "options": [
-        "Schulunterricht",
         "Ungeplantes Lernen durch Erfahrung und Austausch im Alltag",
         "Seminar",
+        "Schulunterricht",
         "Prüfung"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "70-20-10-Modell: 70% informell (Erfahrung), 20% sozial (Austausch), 10% formell (Seminare). Informelles Lernen ist am häufigsten.",
       "difficulty": 2,
       "topic": "Personalentwicklung",
@@ -2886,12 +2886,12 @@
       "id": "zib-193",
       "text": "Was ist laterale Führung?",
       "options": [
-        "Hierarchische Führung",
         "Führung ohne formale Weisungsbefugnis (z.B. in Projekten)",
         "Keine Führung",
+        "Hierarchische Führung",
         "Autoritäre Führung"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Laterale Führung: Einflussnahme ohne Hierarchie durch Verständigung, Vertrauen und Macht. Wichtig in Projektarbeit, Netzwerken.",
       "difficulty": 2,
       "topic": "Führungsstile",
@@ -2903,8 +2903,8 @@
       "options": [
         "Rückblickend",
         "Zukunftsorientiertes Feedback: Vorschläge für zukünftiges Verhalten",
-        "Feedback",
-        "Kritik"
+        "Kritik",
+        "Feedback"
       ],
       "correct": 1,
       "explanation": "Feedforward: statt Vergangenes zu kritisieren, werden konstruktive Vorschläge für künftiges Verhalten gemacht.",
@@ -2916,10 +2916,10 @@
       "id": "zib-195",
       "text": "Johari-Fenster: Was ist die Arena?",
       "options": [
-        "Geheimer Bereich",
+        "Unbekannter Bereich",
         "Bereich, der mir UND anderen bekannt ist (öffentlich)",
         "Blinder Fleck",
-        "Unbekannter Bereich"
+        "Geheimer Bereich"
       ],
       "correct": 1,
       "explanation": "Arena (öffentlich): Verhalten und Eigenschaften, die mir selbst und anderen bekannt sind. Ziel: Arena vergrößern durch Offenheit.",
@@ -2931,12 +2931,12 @@
       "id": "zib-196",
       "text": "Was ist Mikropolitik im Unternehmen?",
       "options": [
-        "Makroökonomie",
-        "Strategisches Handeln einzelner Akteure zur Durchsetzung eigener Interessen",
+        "Parteipolitik",
         "Unternehmenspolitik",
-        "Parteipolitik"
+        "Makroökonomie",
+        "Strategisches Handeln einzelner Akteure zur Durchsetzung eigener Interessen"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Mikropolitik: informelle Machtprozesse, taktisches Handeln, Netzwerken, Koalitionsbildung zur Interessendurchsetzung.",
       "difficulty": 3,
       "topic": "Gruppenarbeit",
@@ -2946,12 +2946,12 @@
       "id": "zib-197",
       "text": "Unterschied Gruppe vs. Team?",
       "options": [
-        "Kein Unterschied",
-        "Team: gemeinsames Ziel, komplementäre Fähigkeiten, gegenseitige Verantwortung",
+        "Team = weniger Kommunikation",
         "Gruppe = größer",
-        "Team = weniger Kommunikation"
+        "Kein Unterschied",
+        "Team: gemeinsames Ziel, komplementäre Fähigkeiten, gegenseitige Verantwortung"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Team: gemeinsames Ziel, komplementäre Kompetenzen, Synergie, gegenseitige Verantwortung. Jedes Team ist eine Gruppe, aber nicht umgekehrt.",
       "difficulty": 1,
       "topic": "Gruppenarbeit",
@@ -2962,11 +2962,11 @@
       "text": "Was ist New Work?",
       "options": [
         "Altmodisches Arbeiten",
+        "Nur Teilzeit",
         "Neue Arbeitsformen: Selbstbestimmung, Purpose, Flexibilität",
-        "Nur Homeoffice",
-        "Nur Teilzeit"
+        "Nur Homeoffice"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "New Work (Bergmann): Arbeit, die man wirklich will. Autonomie, Sinnhaftigkeit, Agilität, Remote, Coworking, Holokratie.",
       "difficulty": 2,
       "topic": "Führungsstile",
@@ -2976,9 +2976,9 @@
       "id": "zib-199",
       "text": "Was ist psychologische Sicherheit?",
       "options": [
-        "Sicherheitsdienst",
-        "Vertrauen im Team, Fehler zugeben und Meinung äußern zu können ohne Sanktionen",
         "Arbeitsschutz",
+        "Vertrauen im Team, Fehler zugeben und Meinung äußern zu können ohne Sanktionen",
+        "Sicherheitsdienst",
         "Jobsicherheit"
       ],
       "correct": 1,
@@ -2991,12 +2991,12 @@
       "id": "zib-200",
       "text": "Was ist das Peter-Prinzip?",
       "options": [
+        "Personalabbau",
         "Karriereplanung",
         "Beschäftigte werden bis zu ihrer Stufe der Inkompetenz befördert",
-        "Personalabbau",
         "Effizienzsteigerung"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Peter-Prinzip (1969): In Hierarchien steigen MA auf, bis sie eine Position erreichen, der sie nicht mehr gewachsen sind.",
       "difficulty": 2,
       "topic": "Personalentwicklung",

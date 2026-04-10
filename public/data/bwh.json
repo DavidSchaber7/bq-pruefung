@@ -21,12 +21,12 @@
       "id": "bwh-002",
       "text": "Ein Unternehmen hat fixe Kosten von 50.000 EUR und variable Stückkosten von 20 EUR. Bei einem Verkaufspreis von 45 EUR liegt der Break-even bei:",
       "options": [
-        "1.000 Stück",
         "2.000 Stück",
-        "2.500 Stück",
-        "5.000 Stück"
+        "5.000 Stück",
+        "1.000 Stück",
+        "2.500 Stück"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Break-even = Fixkosten / (Preis - var. Stückkosten) = 50.000 / (45-20) = 50.000 / 25 = 2.000 Stück.",
       "difficulty": 2,
       "topic": "Kostenrechnung",
@@ -36,12 +36,12 @@
       "id": "bwh-003",
       "text": "Was sind Einzelkosten?",
       "options": [
-        "Kosten für einzelne Mitarbeiter",
-        "Kosten, die einem Kostenträger direkt zurechenbar sind",
         "Einmalige Kosten",
-        "Kleine Beträge"
+        "Kosten für einzelne Mitarbeiter",
+        "Kleine Beträge",
+        "Kosten, die einem Kostenträger direkt zurechenbar sind"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Einzelkosten können einem Kostenträger (Produkt) direkt zugeordnet werden, z.B. Fertigungsmaterial.",
       "difficulty": 1,
       "topic": "Kostenrechnung",
@@ -51,12 +51,12 @@
       "id": "bwh-004",
       "text": "Was sind Gemeinkosten?",
       "options": [
-        "Kosten für die Gemeinschaft",
-        "Kosten, die nicht direkt einem Kostenträger zurechenbar sind",
+        "Kosten für gemeinsame Projekte",
         "Nur Verwaltungskosten",
-        "Kosten für gemeinsame Projekte"
+        "Kosten, die nicht direkt einem Kostenträger zurechenbar sind",
+        "Kosten für die Gemeinschaft"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Gemeinkosten können nicht direkt einem Kostenträger zugeordnet werden und müssen über Schlüssel verteilt werden.",
       "difficulty": 1,
       "topic": "Kostenrechnung",
@@ -66,12 +66,12 @@
       "id": "bwh-005",
       "text": "Was ist die Aufgabe der Kostenstellenrechnung?",
       "options": [
-        "Ermittlung der Gesamtkosten",
         "Verteilung der Gemeinkosten auf die Kostenstellen",
+        "Ermittlung der Gesamtkosten",
         "Berechnung des Gewinns",
         "Ermittlung der Materialkosten"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Die Kostenstellenrechnung verteilt die Gemeinkosten auf die verursachenden Bereiche (Kostenstellen) als Bindeglied zwischen Kostenarten- und Kostenträgerrechnung.",
       "difficulty": 2,
       "topic": "Kostenrechnung",
@@ -81,12 +81,12 @@
       "id": "bwh-006",
       "text": "Was ist der Betriebsabrechnungsbogen (BAB)?",
       "options": [
-        "Ein Formular für Betriebsabrechnungen",
         "Ein Tabellenwerk zur Verteilung der Gemeinkosten auf Kostenstellen",
+        "Ein Auftragsformular",
         "Eine Bilanz",
-        "Ein Auftragsformular"
+        "Ein Formular für Betriebsabrechnungen"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Der BAB ist ein Instrument zur Verteilung und Umlage der Gemeinkosten auf die einzelnen Kostenstellen.",
       "difficulty": 2,
       "topic": "Kostenrechnung",
@@ -96,10 +96,10 @@
       "id": "bwh-007",
       "text": "Wie berechnet man den Gemeinkostenzuschlagssatz?",
       "options": [
-        "Gemeinkosten / Umsatz x 100",
+        "Gewinn / Kosten x 100",
         "Gemeinkosten der Kostenstelle / Zuschlagsbasis x 100",
         "Einzelkosten / Gemeinkosten x 100",
-        "Gewinn / Kosten x 100"
+        "Gemeinkosten / Umsatz x 100"
       ],
       "correct": 1,
       "explanation": "GK-Zuschlagssatz = Gemeinkosten der Kostenstelle / Zuschlagsbasis (z.B. Fertigungslöhne) × 100%.",
@@ -111,10 +111,10 @@
       "id": "bwh-008",
       "text": "Die Materialgemeinkosten betragen 120.000 EUR, die Materialeinzelkosten 600.000 EUR. Wie hoch ist der MGK-Zuschlag?",
       "options": [
-        "10%",
         "15%",
+        "25%",
         "20%",
-        "25%"
+        "10%"
       ],
       "correct": 2,
       "explanation": "MGK-Zuschlag = 120.000 / 600.000 × 100 = 20%.",
@@ -128,8 +128,8 @@
       "options": [
         "Gewinn eines Unternehmens",
         "Erlös minus variable Kosten",
-        "Umsatz minus fixe Kosten",
-        "Kosten minus Gewinn"
+        "Kosten minus Gewinn",
+        "Umsatz minus fixe Kosten"
       ],
       "correct": 1,
       "explanation": "Deckungsbeitrag = Erlös - variable Kosten. Er zeigt, wie viel zur Deckung der Fixkosten beiträgt.",
@@ -141,10 +141,10 @@
       "id": "bwh-010",
       "text": "Ein Produkt hat einen Preis von 80 EUR und variable Kosten von 55 EUR. Wie hoch ist der Stückdeckungsbeitrag?",
       "options": [
-        "15 EUR",
+        "55 EUR",
         "25 EUR",
-        "35 EUR",
-        "55 EUR"
+        "15 EUR",
+        "35 EUR"
       ],
       "correct": 1,
       "explanation": "DB = 80 - 55 = 25 EUR pro Stück.",
@@ -156,12 +156,12 @@
       "id": "bwh-011",
       "text": "Was ist ein Kostenträger?",
       "options": [
-        "Eine Person, die Kosten verursacht",
-        "Das Produkt oder die Dienstleistung, der/dem die Kosten zugerechnet werden",
+        "Ein Lieferant",
         "Eine Kostenstelle",
-        "Ein Lieferant"
+        "Das Produkt oder die Dienstleistung, der/dem die Kosten zugerechnet werden",
+        "Eine Person, die Kosten verursacht"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Kostenträger sind die Produkte oder Leistungen, die die Kosten verursacht haben und denen sie zugerechnet werden.",
       "difficulty": 1,
       "topic": "Kostenrechnung",
@@ -171,12 +171,12 @@
       "id": "bwh-012",
       "text": "Was ist die Vollkostenrechnung?",
       "options": [
-        "Rechnung nur mit variablen Kosten",
-        "Kalkulationsverfahren, bei dem alle Kosten (fix + variabel) auf die Kostenträger verteilt werden",
+        "Umsatzberechnung",
         "Berechnung nur der fixen Kosten",
-        "Umsatzberechnung"
+        "Kalkulationsverfahren, bei dem alle Kosten (fix + variabel) auf die Kostenträger verteilt werden",
+        "Rechnung nur mit variablen Kosten"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Die Vollkostenrechnung verteilt alle Kosten auf die Kostenträger, im Gegensatz zur Teilkostenrechnung.",
       "difficulty": 2,
       "topic": "Kostenrechnung",
@@ -186,12 +186,12 @@
       "id": "bwh-013",
       "text": "Was ist der Unterschied zwischen Aufwand und Kosten?",
       "options": [
-        "Es gibt keinen",
         "Aufwand ist ein pagatorischer Begriff, Kosten ein kalkulatorischer – Kosten umfassen auch kalkulatorische Kosten",
+        "Es gibt keinen",
         "Kosten sind immer höher",
         "Aufwand ist immer höher"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Aufwand ist der Werteverzehr laut Finanzbuchhaltung, Kosten der leistungsbezogene Werteverzehr (inkl. kalkulatorischer Kosten).",
       "difficulty": 2,
       "topic": "Kostenrechnung",
@@ -201,9 +201,9 @@
       "id": "bwh-014",
       "text": "Was sind kalkulatorische Kosten?",
       "options": [
-        "Tatsächlich gezahlte Beträge",
-        "Kosten, die nicht zu Ausgaben führen oder in anderer Höhe als die Aufwendungen angesetzt werden",
         "Rabatte",
+        "Kosten, die nicht zu Ausgaben führen oder in anderer Höhe als die Aufwendungen angesetzt werden",
+        "Tatsächlich gezahlte Beträge",
         "Nur Abschreibungen"
       ],
       "correct": 1,
@@ -217,11 +217,11 @@
       "text": "Was ist die Prozesskostenrechnung?",
       "options": [
         "Eine einfache Kostenaddition",
-        "Ein Verfahren zur verursachungsgerechten Verteilung von Gemeinkosten auf Prozesse",
         "Ein Abrechnungsverfahren",
+        "Ein Verfahren zur verursachungsgerechten Verteilung von Gemeinkosten auf Prozesse",
         "Eine Gewinnberechnung"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Die Prozesskostenrechnung verteilt Gemeinkosten verursachungsgerecht anhand von Prozessen und deren Kostentreibern.",
       "difficulty": 3,
       "topic": "Kostenrechnung",
@@ -231,12 +231,12 @@
       "id": "bwh-016",
       "text": "Wie berechnet man die Selbstkosten eines Produkts in der Zuschlagskalkulation?",
       "options": [
+        "Umsatz - Gewinn",
         "Materialkosten + Gewinn",
         "Herstellkosten + Verwaltungs- und Vertriebsgemeinkosten",
-        "Nur variable Kosten",
-        "Umsatz - Gewinn"
+        "Nur variable Kosten"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Selbstkosten = Herstellkosten + Verwaltungsgemeinkosten + Vertriebsgemeinkosten.",
       "difficulty": 2,
       "topic": "Kostenrechnung",
@@ -246,12 +246,12 @@
       "id": "bwh-017",
       "text": "Was versteht man unter einem Kostenrechnungssystem?",
       "options": [
-        "Ein Buchhaltungsprogramm",
-        "Die systematische Erfassung, Verteilung und Zurechnung von Kosten",
+        "Eine Bankverbindung",
         "Ein Steuersystem",
-        "Eine Bankverbindung"
+        "Die systematische Erfassung, Verteilung und Zurechnung von Kosten",
+        "Ein Buchhaltungsprogramm"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Ein KR-System umfasst Kostenartenrechnung, Kostenstellenrechnung und Kostenträgerrechnung.",
       "difficulty": 1,
       "topic": "Kostenrechnung",
@@ -262,11 +262,11 @@
       "text": "Was ist eine Plankostenrechnung?",
       "options": [
         "Berechnung der Planungskosten",
-        "Ein Verfahren, bei dem Sollkosten vorgegeben und mit Istkosten verglichen werden",
         "Planung der Unternehmenskosten",
-        "Berechnung zukünftiger Umsätze"
+        "Berechnung zukünftiger Umsätze",
+        "Ein Verfahren, bei dem Sollkosten vorgegeben und mit Istkosten verglichen werden"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Die Plankostenrechnung gibt Sollkosten vor und vergleicht diese mit den tatsächlichen Istkosten (Soll-Ist-Vergleich).",
       "difficulty": 3,
       "topic": "Kostenrechnung",
@@ -276,10 +276,10 @@
       "id": "bwh-019",
       "text": "Was ist eine Abweichungsanalyse?",
       "options": [
-        "Analyse der Mitarbeiterfluktuation",
+        "Berechnung der Toleranzen",
         "Vergleich von Soll- und Ist-Werten zur Ermittlung von Ursachen für Kostenabweichungen",
-        "Analyse der Konkurrenz",
-        "Berechnung der Toleranzen"
+        "Analyse der Mitarbeiterfluktuation",
+        "Analyse der Konkurrenz"
       ],
       "correct": 1,
       "explanation": "Die Abweichungsanalyse ermittelt die Ursachen für Differenzen zwischen geplanten und tatsächlichen Kosten.",
@@ -291,10 +291,10 @@
       "id": "bwh-020",
       "text": "Ein Produkt hat Materialeinzelkosten von 30 EUR, Fertigungslöhne von 20 EUR, MGK-Zuschlag 15% und FGK-Zuschlag 200%. Wie hoch sind die Herstellkosten?",
       "options": [
-        "84,50 EUR",
+        "114,50 EUR",
         "94,50 EUR",
-        "104,50 EUR",
-        "114,50 EUR"
+        "84,50 EUR",
+        "104,50 EUR"
       ],
       "correct": 1,
       "explanation": "MEK 30 + MGK (30×15%=4,50) + FL 20 + FGK (20×200%=40) = 94,50 EUR.",
@@ -307,11 +307,11 @@
       "text": "Was ist eine Divisionskalkulation?",
       "options": [
         "Kalkulation für verschiedene Abteilungen",
-        "Gesamtkosten geteilt durch Stückzahl bei Einproduktfertigung",
         "Eine komplexe Kalkulation",
-        "Kalkulation für Dienstleistungen"
+        "Kalkulation für Dienstleistungen",
+        "Gesamtkosten geteilt durch Stückzahl bei Einproduktfertigung"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Die Divisionskalkulation teilt die Gesamtkosten durch die Produktionsmenge. Sie eignet sich für Massenfertigung eines Produkts.",
       "difficulty": 1,
       "topic": "Kostenrechnung",
@@ -322,11 +322,11 @@
       "text": "Die Gesamtkosten eines Betriebs betragen 500.000 EUR bei einer Produktion von 10.000 Stück. Wie hoch sind die Stückkosten?",
       "options": [
         "25 EUR",
+        "100 EUR",
         "50 EUR",
-        "75 EUR",
-        "100 EUR"
+        "75 EUR"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Stückkosten = 500.000 / 10.000 = 50 EUR.",
       "difficulty": 1,
       "topic": "Kostenrechnung",
@@ -336,12 +336,12 @@
       "id": "bwh-023",
       "text": "Was ist ein Beschäftigungsgrad?",
       "options": [
-        "Anzahl der Mitarbeiter",
         "Verhältnis von Ist-Beschäftigung zur Planbeschäftigung",
+        "Auslastung der Geschäftsführung",
         "Krankenquote",
-        "Auslastung der Geschäftsführung"
+        "Anzahl der Mitarbeiter"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Beschäftigungsgrad = Ist-Beschäftigung / Plan-(Normal-)Beschäftigung × 100%.",
       "difficulty": 2,
       "topic": "Kostenrechnung",
@@ -351,10 +351,10 @@
       "id": "bwh-024",
       "text": "Was versteht man unter Grenzkosten?",
       "options": [
-        "Die maximalen Kosten",
-        "Kosten für die Herstellung einer zusätzlichen Einheit",
         "Fixe Kosten",
-        "Die niedrigsten Kosten"
+        "Kosten für die Herstellung einer zusätzlichen Einheit",
+        "Die niedrigsten Kosten",
+        "Die maximalen Kosten"
       ],
       "correct": 1,
       "explanation": "Grenzkosten (Marginalkosten) sind die Kosten, die durch die Produktion einer zusätzlichen Einheit entstehen.",
@@ -366,12 +366,12 @@
       "id": "bwh-025",
       "text": "Was ist die kurzfristige Preisuntergrenze?",
       "options": [
-        "Der kalkulierte Verkaufspreis",
         "Die variablen Stückkosten",
+        "Der kalkulierte Verkaufspreis",
         "Die Selbstkosten",
         "Der Einkaufspreis"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Die kurzfristige Preisuntergrenze entspricht den variablen Stückkosten. Darunter sollte auch kurzfristig nicht verkauft werden.",
       "difficulty": 2,
       "topic": "Kostenrechnung",
@@ -396,12 +396,12 @@
       "id": "bwh-027",
       "text": "Was versteht man unter Fixkostendegression?",
       "options": [
-        "Steigende Fixkosten",
         "Sinkende Fixkosten pro Stück bei steigender Ausbringungsmenge",
         "Gleichbleibende Fixkosten",
+        "Steigende Fixkosten",
         "Abbau von Fixkosten"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Bei steigender Produktion verteilen sich die Fixkosten auf mehr Stücke, wodurch die fixen Stückkosten sinken.",
       "difficulty": 1,
       "topic": "Kostenrechnung",
@@ -411,12 +411,12 @@
       "id": "bwh-028",
       "text": "Ein Betrieb hat Fixkosten von 100.000 EUR und produziert 5.000 Einheiten. Wie hoch sind die fixen Stückkosten?",
       "options": [
-        "10 EUR",
+        "25 EUR",
         "15 EUR",
-        "20 EUR",
-        "25 EUR"
+        "10 EUR",
+        "20 EUR"
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": "Fixe Stückkosten = 100.000 / 5.000 = 20 EUR.",
       "difficulty": 1,
       "topic": "Kostenrechnung",
@@ -427,11 +427,11 @@
       "text": "Was ist eine mehrstufige Deckungsbeitragsrechnung?",
       "options": [
         "DB wird für mehrere Produkte berechnet",
-        "Fixkosten werden stufenweise zugeordnet: produktfix, bereichsfix, unternehmensfix",
         "DB wird monatlich berechnet",
-        "Mehrere Break-even-Points werden berechnet"
+        "Mehrere Break-even-Points werden berechnet",
+        "Fixkosten werden stufenweise zugeordnet: produktfix, bereichsfix, unternehmensfix"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Die mehrstufige DB-Rechnung ordnet die Fixkosten stufenweise zu und zeigt, welche Ebene wie zum Ergebnis beiträgt.",
       "difficulty": 3,
       "topic": "Kostenrechnung",
@@ -473,8 +473,8 @@
       "options": [
         "Berechnung des Firmenwerts",
         "Vergleich des Barwerts aller Ein- und Auszahlungen einer Investition",
-        "Berechnung des Eigenkapitals",
-        "Ermittlung der Kreditwürdigkeit"
+        "Ermittlung der Kreditwürdigkeit",
+        "Berechnung des Eigenkapitals"
       ],
       "correct": 1,
       "explanation": "Die Kapitalwertmethode (NPV) diskontiert alle zukünftigen Zahlungen auf den Gegenwartswert und vergleicht sie mit der Anfangsinvestition.",
@@ -487,11 +487,11 @@
       "text": "Wann ist eine Investition nach der Kapitalwertmethode vorteilhaft?",
       "options": [
         "Wenn der Kapitalwert negativ ist",
+        "Wenn die Kosten steigen",
         "Wenn der Kapitalwert positiv ist",
-        "Wenn der Kapitalwert null ist",
-        "Wenn die Kosten steigen"
+        "Wenn der Kapitalwert null ist"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Eine Investition ist vorteilhaft, wenn der Kapitalwert (NPV) > 0 ist.",
       "difficulty": 1,
       "topic": "Investitionsrechnung",
@@ -501,12 +501,12 @@
       "id": "bwh-034",
       "text": "Was ist der interne Zinsfuß?",
       "options": [
-        "Der Bankzins",
-        "Der Zinssatz, bei dem der Kapitalwert einer Investition genau null wird",
+        "Der Inflationsausgleich",
         "Der Diskontsatz",
-        "Der Inflationsausgleich"
+        "Der Bankzins",
+        "Der Zinssatz, bei dem der Kapitalwert einer Investition genau null wird"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Der interne Zinsfuß (IRR) ist der Zinssatz, bei dem der Kapitalwert einer Investition gleich null ist.",
       "difficulty": 2,
       "topic": "Investitionsrechnung",
@@ -516,12 +516,12 @@
       "id": "bwh-035",
       "text": "Was versteht man unter der Rentabilität einer Investition?",
       "options": [
-        "Den Umsatz",
         "Das Verhältnis von Gewinn zum eingesetzten Kapital",
-        "Die Amortisationszeit",
-        "Den Cashflow"
+        "Den Cashflow",
+        "Den Umsatz",
+        "Die Amortisationszeit"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Rentabilität = Gewinn / eingesetztes Kapital × 100%.",
       "difficulty": 1,
       "topic": "Investitionsrechnung",
@@ -531,12 +531,12 @@
       "id": "bwh-036",
       "text": "Eine Maschine erwirtschaftet 15.000 EUR Gewinn bei 100.000 EUR Kapitaleinsatz. Rentabilität?",
       "options": [
-        "10%",
-        "12,5%",
         "15%",
-        "20%"
+        "20%",
+        "10%",
+        "12,5%"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": "Rentabilität = 15.000 / 100.000 × 100 = 15%.",
       "difficulty": 1,
       "topic": "Investitionsrechnung",
@@ -548,8 +548,8 @@
       "options": [
         "Kein Unterschied",
         "Dynamische berücksichtigen den Zeitwert des Geldes, statische nicht",
-        "Statische sind genauer",
-        "Dynamische sind einfacher"
+        "Dynamische sind einfacher",
+        "Statische sind genauer"
       ],
       "correct": 1,
       "explanation": "Dynamische Verfahren (Kapitalwert, IRR) berücksichtigen den Zeitwert des Geldes durch Auf-/Abzinsung, statische nicht.",
@@ -561,10 +561,10 @@
       "id": "bwh-038",
       "text": "Was ist ein Annuitätenfaktor?",
       "options": [
-        "Ein Steuerfaktor",
-        "Ein Faktor zur Umrechnung eines einmaligen Betrags in gleich hohe jährliche Zahlungen",
         "Ein Inflationsfaktor",
-        "Ein Wechselkurs"
+        "Ein Faktor zur Umrechnung eines einmaligen Betrags in gleich hohe jährliche Zahlungen",
+        "Ein Wechselkurs",
+        "Ein Steuerfaktor"
       ],
       "correct": 1,
       "explanation": "Der Annuitätenfaktor wandelt einen einmaligen Barwert in gleichbleibende jährliche Zahlungen (Annuitäten) um.",
@@ -576,12 +576,12 @@
       "id": "bwh-039",
       "text": "Was ist der Kostenvergleich bei Investitionen?",
       "options": [
-        "Vergleich der Anschaffungspreise",
-        "Vergleich aller relevanten Kosten verschiedener Investitionsalternativen pro Periode",
         "Vergleich der Lieferantenpreise",
-        "Vergleich der Personalkosten"
+        "Vergleich der Anschaffungspreise",
+        "Vergleich der Personalkosten",
+        "Vergleich aller relevanten Kosten verschiedener Investitionsalternativen pro Periode"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Die Kostenvergleichsrechnung vergleicht die gesamten Kosten (fix + variabel) verschiedener Alternativen pro Periode.",
       "difficulty": 1,
       "topic": "Investitionsrechnung",
@@ -591,12 +591,12 @@
       "id": "bwh-040",
       "text": "Maschine A kostet 10.000 EUR/Jahr, Maschine B 12.000 EUR/Jahr bei gleicher Leistung. Welche ist vorteilhafter?",
       "options": [
-        "Maschine A",
         "Maschine B",
-        "Beide gleich",
-        "Nicht beurteilbar"
+        "Nicht beurteilbar",
+        "Maschine A",
+        "Beide gleich"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": "Bei gleicher Leistung ist die kostengünstigere Maschine A mit 10.000 EUR/Jahr vorteilhafter.",
       "difficulty": 1,
       "topic": "Investitionsrechnung",
@@ -606,12 +606,12 @@
       "id": "bwh-041",
       "text": "Was ist Leasing?",
       "options": [
-        "Kauf auf Raten",
         "Nutzungsüberlassung eines Wirtschaftsguts gegen Zahlung",
-        "Miete von Personal",
-        "Kreditaufnahme"
+        "Kreditaufnahme",
+        "Kauf auf Raten",
+        "Miete von Personal"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Leasing ist die entgeltliche Überlassung eines Wirtschaftsguts zur Nutzung für einen bestimmten Zeitraum.",
       "difficulty": 1,
       "topic": "Investitionsrechnung",
@@ -621,12 +621,12 @@
       "id": "bwh-042",
       "text": "Was ist ein Vorteil von Leasing gegenüber Kauf?",
       "options": [
-        "Immer günstiger",
         "Schonung der Liquidität und Bilanzentlastung",
-        "Steuerbefreiung",
-        "Kein Risiko"
+        "Immer günstiger",
+        "Kein Risiko",
+        "Steuerbefreiung"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Leasing schont die Liquidität (keine hohe Anfangsinvestition) und kann die Bilanz entlasten.",
       "difficulty": 2,
       "topic": "Investitionsrechnung",
@@ -636,12 +636,12 @@
       "id": "bwh-043",
       "text": "Was versteht man unter der Gewinnvergleichsrechnung?",
       "options": [
-        "Vergleich der Umsätze",
         "Vergleich der Gewinne verschiedener Investitionsalternativen",
         "Vergleich der Gehälter",
+        "Vergleich der Umsätze",
         "Vergleich der Marktanteile"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Die Gewinnvergleichsrechnung erweitert den Kostenvergleich um die Erlösseite und vergleicht die Periodengewinne.",
       "difficulty": 2,
       "topic": "Investitionsrechnung",
@@ -652,11 +652,11 @@
       "text": "Was ist ein Investitionscontrolling?",
       "options": [
         "Kontrolle der Investitionsbank",
+        "Überprüfung der Kreditwürdigkeit",
         "Überwachung und Steuerung von Investitionsprojekten hinsichtlich Zielerreichung",
-        "Prüfung der Buchhaltung",
-        "Überprüfung der Kreditwürdigkeit"
+        "Prüfung der Buchhaltung"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Investitionscontrolling überwacht Investitionsprojekte in Bezug auf Kosten, Termine und geplante Rendite.",
       "difficulty": 2,
       "topic": "Investitionsrechnung",
@@ -666,12 +666,12 @@
       "id": "bwh-045",
       "text": "Was ist eine Nutzwertanalyse?",
       "options": [
+        "Analyse des Marktwerts",
         "Analyse des Nutzerhandbuchs",
         "Bewertung von Alternativen anhand gewichteter qualitativer und quantitativer Kriterien",
-        "Analyse des Marktwerts",
         "Berechnung des Nutzungsgrads"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Die Nutzwertanalyse bewertet Alternativen systematisch anhand mehrerer gewichteter Kriterien und ermöglicht eine Rangfolge.",
       "difficulty": 2,
       "topic": "Investitionsrechnung",
@@ -681,12 +681,12 @@
       "id": "bwh-046",
       "text": "Wie berechnet man die Produktivität?",
       "options": [
-        "Output / Input",
-        "Gewinn / Umsatz",
+        "Kosten / Stück",
         "Umsatz / Mitarbeiter",
-        "Kosten / Stück"
+        "Gewinn / Umsatz",
+        "Output / Input"
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": "Produktivität = Ausbringungsmenge (Output) / Einsatzmenge (Input).",
       "difficulty": 1,
       "topic": "Betriebliche Kennzahlen",
@@ -696,12 +696,12 @@
       "id": "bwh-047",
       "text": "Wie berechnet man die Wirtschaftlichkeit?",
       "options": [
-        "Ertrag / Aufwand",
-        "Gewinn / Eigenkapital",
         "Umsatz / Kosten",
-        "Kosten / Ertrag"
+        "Gewinn / Eigenkapital",
+        "Kosten / Ertrag",
+        "Ertrag / Aufwand"
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": "Wirtschaftlichkeit = Ertrag / Aufwand bzw. Leistung / Kosten. Ein Wert > 1 bedeutet wirtschaftliches Handeln.",
       "difficulty": 1,
       "topic": "Betriebliche Kennzahlen",
@@ -711,12 +711,12 @@
       "id": "bwh-048",
       "text": "Wie berechnet man die Eigenkapitalrentabilität?",
       "options": [
-        "Eigenkapital / Gewinn",
         "Gewinn / Eigenkapital × 100",
         "Umsatz / Eigenkapital",
+        "Eigenkapital / Gewinn",
         "Fremdkapital / Eigenkapital"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "EK-Rentabilität = Gewinn / Eigenkapital × 100%.",
       "difficulty": 1,
       "topic": "Betriebliche Kennzahlen",
@@ -726,12 +726,12 @@
       "id": "bwh-049",
       "text": "Ein Unternehmen hat 200.000 EUR Gewinn bei 1 Mio. EUR Eigenkapital. EK-Rentabilität?",
       "options": [
-        "10%",
-        "15%",
         "20%",
-        "25%"
+        "25%",
+        "10%",
+        "15%"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": "EK-Rentabilität = 200.000 / 1.000.000 × 100 = 20%.",
       "difficulty": 1,
       "topic": "Betriebliche Kennzahlen",
@@ -741,12 +741,12 @@
       "id": "bwh-050",
       "text": "Was ist die Umsatzrentabilität?",
       "options": [
-        "Umsatz / Gewinn",
         "Gewinn / Umsatz × 100",
         "Kosten / Umsatz",
-        "Umsatz / Kapital"
+        "Umsatz / Kapital",
+        "Umsatz / Gewinn"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Umsatzrentabilität = Gewinn / Umsatz × 100%. Sie zeigt, wie viel Prozent des Umsatzes als Gewinn verbleiben.",
       "difficulty": 1,
       "topic": "Betriebliche Kennzahlen",
@@ -756,12 +756,12 @@
       "id": "bwh-051",
       "text": "Was ist Liquidität 1. Grades?",
       "options": [
-        "Umlaufvermögen / kurzfristige Verbindlichkeiten",
         "Zahlungsmittel / kurzfristige Verbindlichkeiten × 100",
+        "Umlaufvermögen / kurzfristige Verbindlichkeiten",
         "Eigenkapital / Fremdkapital",
         "Gewinn / Umsatz"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Liquidität 1. Grades (Barliquidität) = flüssige Mittel / kurzfristige Verbindlichkeiten × 100%. Sollwert: ca. 20%.",
       "difficulty": 2,
       "topic": "Betriebliche Kennzahlen",
@@ -772,11 +772,11 @@
       "text": "Was ist der Cashflow?",
       "options": [
         "Der Kontostand",
-        "Der Zufluss an liquiden Mitteln aus der Geschäftstätigkeit",
         "Der Umsatz",
+        "Der Zufluss an liquiden Mitteln aus der Geschäftstätigkeit",
         "Der Gewinn"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Der Cashflow zeigt den tatsächlichen Zufluss an Zahlungsmitteln und misst die Innenfinanzierungskraft.",
       "difficulty": 2,
       "topic": "Betriebliche Kennzahlen",
@@ -788,8 +788,8 @@
       "options": [
         "Verhältnis Fremdkapital zu Eigenkapital",
         "Verhältnis Gewinn zu Schulden",
-        "Höhe der Bankschulden",
-        "Kreditwürdigkeit"
+        "Kreditwürdigkeit",
+        "Höhe der Bankschulden"
       ],
       "correct": 0,
       "explanation": "Verschuldungsgrad = Fremdkapital / Eigenkapital × 100%. Er zeigt das Verhältnis von Fremd- zu Eigenfinanzierung.",
@@ -801,12 +801,12 @@
       "id": "bwh-054",
       "text": "Was sagt die Kapitalumschlagshäufigkeit aus?",
       "options": [
-        "Wie oft das Kapital verdoppelt wird",
         "Wie oft das eingesetzte Kapital durch den Umsatz umgeschlagen wird",
-        "Wie hoch die Zinsen sind",
-        "Wie schnell Rechnungen bezahlt werden"
+        "Wie oft das Kapital verdoppelt wird",
+        "Wie schnell Rechnungen bezahlt werden",
+        "Wie hoch die Zinsen sind"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Kapitalumschlag = Umsatz / Gesamtkapital. Er zeigt, wie effizient das Kapital eingesetzt wird.",
       "difficulty": 2,
       "topic": "Betriebliche Kennzahlen",
@@ -816,12 +816,12 @@
       "id": "bwh-055",
       "text": "Was ist der Return on Investment (ROI)?",
       "options": [
-        "Die Investitionsrendite als Produkt aus Umsatzrentabilität und Kapitalumschlag",
         "Der Rückfluss einer Investition in Jahren",
         "Die Eigenkapitalquote",
-        "Der Unternehmenswert"
+        "Der Unternehmenswert",
+        "Die Investitionsrendite als Produkt aus Umsatzrentabilität und Kapitalumschlag"
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": "ROI = Umsatzrentabilität × Kapitalumschlag = Gewinn / Gesamtkapital × 100%.",
       "difficulty": 2,
       "topic": "Betriebliche Kennzahlen",
@@ -831,12 +831,12 @@
       "id": "bwh-056",
       "text": "Ein Unternehmen hat 500.000 EUR Umsatz und 2 Mio. EUR Gesamtkapital. Kapitalumschlag?",
       "options": [
-        "0,15",
         "0,25",
-        "0,50",
-        "1,00"
+        "0,15",
+        "1,00",
+        "0,50"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Kapitalumschlag = 500.000 / 2.000.000 = 0,25.",
       "difficulty": 2,
       "topic": "Betriebliche Kennzahlen",
@@ -846,12 +846,12 @@
       "id": "bwh-057",
       "text": "Was ist die Anlagenintensität?",
       "options": [
-        "Anlagevermögen / Gesamtvermögen × 100",
-        "Umlaufvermögen / Anlagevermögen",
+        "Abschreibungen / Anlagevermögen",
         "Gewinn / Anlagevermögen",
-        "Abschreibungen / Anlagevermögen"
+        "Anlagevermögen / Gesamtvermögen × 100",
+        "Umlaufvermögen / Anlagevermögen"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": "Anlagenintensität = Anlagevermögen / Gesamtvermögen × 100%. Sie zeigt den Anteil des langfristig gebundenen Kapitals.",
       "difficulty": 2,
       "topic": "Betriebliche Kennzahlen",
@@ -861,12 +861,12 @@
       "id": "bwh-058",
       "text": "Was ist die Personalaufwandsquote?",
       "options": [
-        "Anzahl der Mitarbeiter / Umsatz",
         "Personalaufwand / Gesamtleistung × 100",
         "Gehalt / Arbeitszeit",
-        "Personalkosten / Materialkosten"
+        "Personalkosten / Materialkosten",
+        "Anzahl der Mitarbeiter / Umsatz"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Personalaufwandsquote = Personalaufwand / Gesamtleistung × 100%. Sie zeigt den Anteil der Personalkosten.",
       "difficulty": 2,
       "topic": "Betriebliche Kennzahlen",
@@ -877,8 +877,8 @@
       "text": "Was ist der Lagerumschlag?",
       "options": [
         "Materialverbrauch / durchschnittlicher Lagerbestand",
-        "Lagerbestand / Materialverbrauch",
         "Lagerfläche / Gesamtfläche",
+        "Lagerbestand / Materialverbrauch",
         "Anzahl Lieferungen pro Jahr"
       ],
       "correct": 0,
@@ -891,12 +891,12 @@
       "id": "bwh-060",
       "text": "Der Materialverbrauch beträgt 600.000 EUR, der durchschnittliche Lagerbestand 100.000 EUR. Lagerumschlag?",
       "options": [
-        "3",
         "4",
-        "5",
-        "6"
+        "6",
+        "3",
+        "5"
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation": "Lagerumschlag = 600.000 / 100.000 = 6.",
       "difficulty": 1,
       "topic": "Betriebliche Kennzahlen",
@@ -908,8 +908,8 @@
       "options": [
         "360 / Lagerumschlag",
         "Lagerbestand × 360",
-        "Materialverbrauch / 360",
-        "Umsatz / Lagerbestand"
+        "Umsatz / Lagerbestand",
+        "Materialverbrauch / 360"
       ],
       "correct": 0,
       "explanation": "Ø Lagerdauer = 360 Tage / Lagerumschlag.",
@@ -921,12 +921,12 @@
       "id": "bwh-062",
       "text": "Bei einem Lagerumschlag von 6, wie hoch ist die durchschnittliche Lagerdauer?",
       "options": [
-        "30 Tage",
         "45 Tage",
         "60 Tage",
+        "30 Tage",
         "90 Tage"
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation": "Ø Lagerdauer = 360 / 6 = 60 Tage.",
       "difficulty": 1,
       "topic": "Betriebliche Kennzahlen",
@@ -936,12 +936,12 @@
       "id": "bwh-063",
       "text": "Was ist die Eigenkapitalquote?",
       "options": [
-        "Eigenkapital / Fremdkapital",
         "Eigenkapital / Gesamtkapital × 100",
-        "Gewinn / Eigenkapital",
-        "Umsatz / Eigenkapital"
+        "Eigenkapital / Fremdkapital",
+        "Umsatz / Eigenkapital",
+        "Gewinn / Eigenkapital"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Eigenkapitalquote = Eigenkapital / Gesamtkapital × 100%. Sie zeigt die finanzielle Stabilität.",
       "difficulty": 1,
       "topic": "Betriebliche Kennzahlen",
@@ -951,12 +951,12 @@
       "id": "bwh-064",
       "text": "Was ist die goldene Bilanzregel?",
       "options": [
-        "Gewinn = Umsatz - Kosten",
         "Langfristiges Vermögen soll durch langfristiges Kapital gedeckt sein",
         "Aktiva = Passiva",
+        "Gewinn = Umsatz - Kosten",
         "Einnahmen > Ausgaben"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Die goldene Bilanzregel besagt: Anlagevermögen soll durch Eigenkapital + langfristiges Fremdkapital finanziert sein (Fristenkongruenz).",
       "difficulty": 2,
       "topic": "Betriebliche Kennzahlen",
@@ -966,12 +966,12 @@
       "id": "bwh-065",
       "text": "Was misst der Working Capital?",
       "options": [
-        "Den Gewinn",
-        "Umlaufvermögen minus kurzfristige Verbindlichkeiten",
         "Das Eigenkapital",
-        "Den Cashflow"
+        "Den Gewinn",
+        "Den Cashflow",
+        "Umlaufvermögen minus kurzfristige Verbindlichkeiten"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Working Capital = Umlaufvermögen - kurzfristige Verbindlichkeiten. Es zeigt die kurzfristige Zahlungsfähigkeit.",
       "difficulty": 2,
       "topic": "Betriebliche Kennzahlen",
@@ -981,12 +981,12 @@
       "id": "bwh-066",
       "text": "Was ist Eigenfinanzierung?",
       "options": [
-        "Finanzierung durch Bankkredite",
         "Finanzierung aus eigenen Mitteln (Gewinnrücklage, Einlagen)",
         "Leasing",
-        "Factoring"
+        "Factoring",
+        "Finanzierung durch Bankkredite"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Eigenfinanzierung erfolgt durch Einlagen der Gesellschafter oder einbehaltene Gewinne (Selbstfinanzierung).",
       "difficulty": 1,
       "topic": "Finanzierung",
@@ -998,8 +998,8 @@
       "options": [
         "Finanzierung durch Gewinne",
         "Finanzierung durch Aufnahme von Fremdkapital (Kredite, Anleihen)",
-        "Finanzierung durch Abschreibungen",
-        "Finanzierung durch Subventionen"
+        "Finanzierung durch Subventionen",
+        "Finanzierung durch Abschreibungen"
       ],
       "correct": 1,
       "explanation": "Fremdfinanzierung umfasst alle Formen der Kapitalaufnahme von externen Gläubigern.",
@@ -1011,9 +1011,9 @@
       "id": "bwh-068",
       "text": "Was ist Factoring?",
       "options": [
-        "Verkauf von Maschinen",
-        "Verkauf offener Forderungen an ein Factoring-Unternehmen",
         "Vermietung von Lagerflächen",
+        "Verkauf offener Forderungen an ein Factoring-Unternehmen",
+        "Verkauf von Maschinen",
         "Kauf von Rohstoffen"
       ],
       "correct": 1,
@@ -1028,8 +1028,8 @@
       "options": [
         "Kein Unterschied",
         "Kontokorrentkredit ist ein flexibler Kreditrahmen, ein Darlehen eine feste Summe mit Tilgungsplan",
-        "Darlehen ist kurzfristiger",
-        "Kontokorrentkredit hat niedrigere Zinsen"
+        "Kontokorrentkredit hat niedrigere Zinsen",
+        "Darlehen ist kurzfristiger"
       ],
       "correct": 1,
       "explanation": "Ein Kontokorrentkredit bietet einen flexiblen Kreditrahmen auf dem Geschäftskonto, ein Darlehen wird in festen Raten getilgt.",
@@ -1043,8 +1043,8 @@
       "options": [
         "Finanzierung durch externe Investoren",
         "Finanzierung aus dem betrieblichen Umsatzprozess (Gewinne, Abschreibungen, Rückstellungen)",
-        "Bankkredit",
-        "Gesellschaftereinlage"
+        "Gesellschaftereinlage",
+        "Bankkredit"
       ],
       "correct": 1,
       "explanation": "Innenfinanzierung nutzt Mittel, die im Unternehmen erwirtschaftet werden: Gewinne, Abschreibungsgegenwerte, Rückstellungen.",
@@ -1056,12 +1056,12 @@
       "id": "bwh-071",
       "text": "Was versteht man unter Leverage-Effekt?",
       "options": [
-        "Hebelwirkung der Fremdfinanzierung auf die Eigenkapitalrentabilität",
         "Preisanstieg durch Inflation",
         "Skaleneffekte",
+        "Hebelwirkung der Fremdfinanzierung auf die Eigenkapitalrentabilität",
         "Produktivitätssteigerung"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": "Der Leverage-Effekt beschreibt die Hebelwirkung: Wenn die Gesamtkapitalrentabilität höher als der FK-Zins ist, steigt die EK-Rentabilität durch mehr FK.",
       "difficulty": 3,
       "topic": "Finanzierung",
@@ -1086,12 +1086,12 @@
       "id": "bwh-073",
       "text": "Was ist Skonto?",
       "options": [
-        "Ein Aufschlag",
         "Ein Preisnachlass bei schneller Zahlung",
-        "Ein Mengenrabatt",
-        "Eine Vertragsstrafe"
+        "Eine Vertragsstrafe",
+        "Ein Aufschlag",
+        "Ein Mengenrabatt"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Skonto ist ein Preisnachlass, den der Lieferant für eine Zahlung innerhalb einer kurzen Frist gewährt (z.B. 2% bei Zahlung innerhalb 10 Tagen).",
       "difficulty": 1,
       "topic": "Finanzierung",
@@ -1101,12 +1101,12 @@
       "id": "bwh-074",
       "text": "Sollte man Skonto nutzen? Zahlungsbedingung: 2% Skonto bei Zahlung innerhalb 10 Tagen, sonst 30 Tage netto.",
       "options": [
+        "Nur bei großen Beträgen",
         "Nein, der Rabatt ist zu gering",
-        "Ja, denn der Jahreszins für das nicht genutzte Skonto beträgt ca. 36%",
         "Ist egal",
-        "Nur bei großen Beträgen"
+        "Ja, denn der Jahreszins für das nicht genutzte Skonto beträgt ca. 36%"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Effektivzins = (Skonto% / (100-Skonto%)) × (360 / (Zahlungsziel-Skontofrist)) = (2/98) × (360/20) ≈ 36,7%. Skonto nutzen ist fast immer günstiger.",
       "difficulty": 2,
       "topic": "Finanzierung",
@@ -1116,12 +1116,12 @@
       "id": "bwh-075",
       "text": "Was ist eine Bürgschaft?",
       "options": [
-        "Eine Versicherung",
         "Eine Sicherheit, bei der sich ein Dritter verpflichtet, für die Schuld eines anderen einzustehen",
-        "Ein Kredit",
-        "Eine Garantie des Staates"
+        "Eine Versicherung",
+        "Eine Garantie des Staates",
+        "Ein Kredit"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Bei einer Bürgschaft (§ 765 BGB) verpflichtet sich ein Bürge gegenüber dem Gläubiger, für die Verbindlichkeiten des Schuldners einzustehen.",
       "difficulty": 2,
       "topic": "Finanzierung",
@@ -1132,11 +1132,11 @@
       "text": "Was ist eine Kapitalerhöhung?",
       "options": [
         "Aufnahme eines Kredits",
-        "Erhöhung des Eigenkapitals durch Ausgabe neuer Anteile",
         "Gewinnausschüttung",
-        "Aktienrückkauf"
+        "Aktienrückkauf",
+        "Erhöhung des Eigenkapitals durch Ausgabe neuer Anteile"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Bei einer Kapitalerhöhung werden neue Geschäftsanteile oder Aktien ausgegeben, um das Eigenkapital zu erhöhen.",
       "difficulty": 2,
       "topic": "Finanzierung",
@@ -1146,10 +1146,10 @@
       "id": "bwh-077",
       "text": "Was versteht man unter Abschreibungsfinanzierung?",
       "options": [
-        "Finanzierung der Abschreibungen",
+        "Steuerliche Abschreibung",
         "Die über den Preis erwirtschafteten Abschreibungsgegenwerte stehen dem Unternehmen als Liquidität zur Verfügung",
-        "Kreditfinanzierung für Anlagen",
-        "Steuerliche Abschreibung"
+        "Finanzierung der Abschreibungen",
+        "Kreditfinanzierung für Anlagen"
       ],
       "correct": 1,
       "explanation": "Abschreibungen sind Kosten, die über den Verkaufspreis zurückfließen, aber nicht sofort als Ersatzinvestition benötigt werden (Kapitalfreisetzungseffekt).",
@@ -1161,9 +1161,9 @@
       "id": "bwh-078",
       "text": "Was ist eine Rückstellung?",
       "options": [
-        "Ein Sparkonto",
-        "Ein Passivposten für ungewisse Verbindlichkeiten, der Liquidität im Unternehmen bindet",
         "Ein Rücklageposten",
+        "Ein Passivposten für ungewisse Verbindlichkeiten, der Liquidität im Unternehmen bindet",
+        "Ein Sparkonto",
         "Eine Einnahme"
       ],
       "correct": 1,
@@ -1177,11 +1177,11 @@
       "text": "Was ist ein Lombardkredit?",
       "options": [
         "Ein Kredit aus der Lombardei",
+        "Ein Kontokorrentkredit",
         "Ein Kredit gegen Verpfändung von beweglichen Sachen oder Wertpapieren",
-        "Ein langfristiges Darlehen",
-        "Ein Kontokorrentkredit"
+        "Ein langfristiges Darlehen"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Beim Lombardkredit werden bewegliche Sachen oder Wertpapiere als Sicherheit verpfändet.",
       "difficulty": 2,
       "topic": "Finanzierung",
@@ -1191,12 +1191,12 @@
       "id": "bwh-080",
       "text": "Was ist eine Obligation (Anleihe)?",
       "options": [
-        "Eine vertragliche Verpflichtung",
         "Ein festverzinsliches Wertpapier zur langfristigen Fremdfinanzierung",
-        "Eine Aktie",
-        "Ein Schuldschein"
+        "Eine vertragliche Verpflichtung",
+        "Ein Schuldschein",
+        "Eine Aktie"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Anleihen sind festverzinsliche Wertpapiere, die Unternehmen oder Staaten zur langfristigen Kapitalbeschaffung ausgeben.",
       "difficulty": 2,
       "topic": "Finanzierung",
@@ -1207,11 +1207,11 @@
       "text": "Was versteht man unter Sale-and-Lease-Back?",
       "options": [
         "Verkauf und Rückkauf",
-        "Verkauf eines Wirtschaftsguts an eine Leasinggesellschaft und gleichzeitiges Zurückmieten",
         "Kauf und Vermietung",
-        "Tauschgeschäft"
+        "Tauschgeschäft",
+        "Verkauf eines Wirtschaftsguts an eine Leasinggesellschaft und gleichzeitiges Zurückmieten"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Sale-and-Lease-Back: Das Unternehmen verkauft ein Wirtschaftsgut und least es sofort zurück. Vorteil: sofortige Liquidität.",
       "difficulty": 3,
       "topic": "Finanzierung",
@@ -1222,11 +1222,11 @@
       "text": "Was ist Crowdfunding?",
       "options": [
         "Bankfinanzierung",
-        "Finanzierung durch eine Vielzahl von Kleinanlegern, oft über Internet-Plattformen",
         "Staatliche Förderung",
+        "Finanzierung durch eine Vielzahl von Kleinanlegern, oft über Internet-Plattformen",
         "Risikokapital"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Crowdfunding ist die Finanzierung durch viele Einzelpersonen, typischerweise über Online-Plattformen.",
       "difficulty": 1,
       "topic": "Finanzierung",
@@ -1236,12 +1236,12 @@
       "id": "bwh-083",
       "text": "Was ist Venture Capital?",
       "options": [
-        "Bankkredit",
-        "Risikokapital für junge, innovative Unternehmen",
         "Eigenkapital",
-        "Firmenwert"
+        "Firmenwert",
+        "Risikokapital für junge, innovative Unternehmen",
+        "Bankkredit"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Venture Capital (Wagniskapital) ist Beteiligungskapital, das Investoren jungen, risikoreichen Unternehmen zur Verfügung stellen.",
       "difficulty": 2,
       "topic": "Finanzierung",
@@ -1252,9 +1252,9 @@
       "text": "Welche Finanzierungsregel besagt, dass langfristiges Vermögen langfristig finanziert sein sollte?",
       "options": [
         "Goldene Bilanzregel",
+        "Bronze-Regel",
         "Silberne Bilanzregel",
-        "Platin-Regel",
-        "Bronze-Regel"
+        "Platin-Regel"
       ],
       "correct": 0,
       "explanation": "Die goldene Bilanzregel fordert Fristenkongruenz: langfristiges Vermögen soll durch langfristiges Kapital (EK + langfristiges FK) gedeckt sein.",
@@ -1266,12 +1266,12 @@
       "id": "bwh-085",
       "text": "Was ist ein Avalkredit?",
       "options": [
-        "Ein Barkredit",
-        "Eine Bürgschaft oder Garantie der Bank für den Kreditnehmer",
         "Ein Online-Kredit",
-        "Ein Ratenkredit"
+        "Ein Ratenkredit",
+        "Eine Bürgschaft oder Garantie der Bank für den Kreditnehmer",
+        "Ein Barkredit"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Beim Avalkredit übernimmt die Bank eine Bürgschaft oder Garantie. Es fließt kein Geld – die Bank haftet nur im Garantiefall.",
       "difficulty": 3,
       "topic": "Finanzierung",
@@ -1281,12 +1281,12 @@
       "id": "bwh-086",
       "text": "Was ist die optimale Bestellmenge?",
       "options": [
+        "Die kleinste Bestellmenge",
         "Die größtmögliche Bestellmenge",
         "Die Menge, bei der die Summe aus Bestell- und Lagerkosten minimal ist",
-        "Die kleinste Bestellmenge",
         "Die vom Lieferanten vorgegebene Menge"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Die optimale Bestellmenge (Andler-Formel) minimiert die Gesamtkosten aus Bestellkosten und Lagerhaltungskosten.",
       "difficulty": 2,
       "topic": "Materialwirtschaft",
@@ -1297,11 +1297,11 @@
       "text": "Was ist eine ABC-Analyse?",
       "options": [
         "Analyse der Buchstaben",
-        "Klassifizierung von Gütern nach Wert und Mengenanteil",
+        "Eine Qualitätsanalyse",
         "Alphabetische Sortierung",
-        "Eine Qualitätsanalyse"
+        "Klassifizierung von Gütern nach Wert und Mengenanteil"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Die ABC-Analyse klassifiziert Materialien: A-Güter (hoher Wert, geringe Menge), B-Güter (mittel), C-Güter (geringer Wert, hohe Menge).",
       "difficulty": 1,
       "topic": "Materialwirtschaft",
@@ -1326,10 +1326,10 @@
       "id": "bwh-089",
       "text": "Was ist Just-in-Time (JiT)?",
       "options": [
-        "Pünktliche Lieferung der Post",
-        "Produktionssynchrone Beschaffung ohne Lagerhaltung",
         "Schnelle Rechnungsstellung",
-        "Sofortige Bezahlung"
+        "Produktionssynchrone Beschaffung ohne Lagerhaltung",
+        "Sofortige Bezahlung",
+        "Pünktliche Lieferung der Post"
       ],
       "correct": 1,
       "explanation": "JiT bedeutet, dass Materialien genau zum Zeitpunkt der Verwendung angeliefert werden, um Lagerkosten zu vermeiden.",
@@ -1342,11 +1342,11 @@
       "text": "Was ist Kanban?",
       "options": [
         "Ein japanisches Kampfsportart",
-        "Ein Pull-Steuerungssystem für die Produktion mittels Signalkarten",
         "Ein Qualitätsstandard",
-        "Eine Maschinensorte"
+        "Eine Maschinensorte",
+        "Ein Pull-Steuerungssystem für die Produktion mittels Signalkarten"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Kanban ist ein dezentrales Steuerungssystem, bei dem die Produktion durch den Verbrauch (Pull-Prinzip) gesteuert wird.",
       "difficulty": 2,
       "topic": "Materialwirtschaft",
@@ -1356,12 +1356,12 @@
       "id": "bwh-091",
       "text": "Was ist der Sicherheitsbestand?",
       "options": [
-        "Der maximale Lagerbestand",
         "Der Mindestbestand zur Absicherung gegen Lieferverzögerungen und Bedarfsschwankungen",
         "Der durchschnittliche Bestand",
+        "Der maximale Lagerbestand",
         "Der Bestand am Jahresende"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Der Sicherheitsbestand (eiserner Bestand) schützt vor Lieferengpässen und unerwarteten Bedarfsspitzen.",
       "difficulty": 1,
       "topic": "Materialwirtschaft",
@@ -1371,12 +1371,12 @@
       "id": "bwh-092",
       "text": "Was ist der Meldebestand?",
       "options": [
+        "Der Anfangsbestand",
         "Der Bestand bei Lieferung",
-        "Der Lagerbestand, bei dem eine neue Bestellung ausgelöst wird",
         "Der Maximalbestand",
-        "Der Anfangsbestand"
+        "Der Lagerbestand, bei dem eine neue Bestellung ausgelöst wird"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Meldebestand = Tagesverbrauch × Beschaffungszeit + Sicherheitsbestand.",
       "difficulty": 2,
       "topic": "Materialwirtschaft",
@@ -1386,12 +1386,12 @@
       "id": "bwh-093",
       "text": "Was bedeutet FIFO in der Lagerhaltung?",
       "options": [
-        "First In, First Out – zuerst eingelagerte Ware wird zuerst entnommen",
         "Fast In, Fast Out",
-        "Find It, Fix It, Output",
-        "Flexible In-/Output"
+        "First In, First Out – zuerst eingelagerte Ware wird zuerst entnommen",
+        "Flexible In-/Output",
+        "Find It, Fix It, Output"
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": "FIFO: Die zuerst eingelagerten Güter werden zuerst entnommen. Wichtig bei verderblichen Waren.",
       "difficulty": 1,
       "topic": "Materialwirtschaft",
@@ -1401,12 +1401,12 @@
       "id": "bwh-094",
       "text": "Was ist eine XYZ-Analyse?",
       "options": [
-        "Analyse nach Alphabet",
         "Klassifizierung von Gütern nach der Vorhersagegenauigkeit des Verbrauchs",
         "Eine Qualitätsanalyse",
+        "Analyse nach Alphabet",
         "Eine Kostenanalyse"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "XYZ-Analyse: X=konstanter Verbrauch (gut vorhersagbar), Y=schwankend, Z=unregelmäßig (schlecht vorhersagbar).",
       "difficulty": 2,
       "topic": "Materialwirtschaft",
@@ -1416,12 +1416,12 @@
       "id": "bwh-095",
       "text": "Was ist eine Stückliste?",
       "options": [
-        "Eine Einkaufsliste",
-        "Eine geordnete Aufstellung aller Bauteile und Materialien für ein Produkt",
         "Eine Inventarliste",
-        "Eine Preisliste"
+        "Eine Preisliste",
+        "Eine geordnete Aufstellung aller Bauteile und Materialien für ein Produkt",
+        "Eine Einkaufsliste"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Die Stückliste enthält alle Einzelteile, Baugruppen und Materialien, die für die Herstellung eines Produkts benötigt werden.",
       "difficulty": 1,
       "topic": "Materialwirtschaft",
@@ -1432,11 +1432,11 @@
       "text": "Was versteht man unter Disposition?",
       "options": [
         "Personalplanung",
-        "Planung und Steuerung des Materialbedarfs",
         "Verkaufsplanung",
-        "Finanzplanung"
+        "Finanzplanung",
+        "Planung und Steuerung des Materialbedarfs"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Die Materialdisposition plant den Materialbedarf und löst Bestellungen oder Produktionsaufträge aus.",
       "difficulty": 2,
       "topic": "Materialwirtschaft",
@@ -1447,11 +1447,11 @@
       "text": "Was ist eine auftragsbezogene Beschaffung?",
       "options": [
         "Beschaffung auf Vorrat",
+        "Online-Bestellung",
         "Material wird erst bei Vorliegen eines konkreten Kundenauftrags beschafft",
-        "Sofortkauf",
-        "Online-Bestellung"
+        "Sofortkauf"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Bei auftragsbezogener (Einzelbeschaffung) wird nur bei konkretem Bedarf bestellt. Vorteil: geringe Lagerhaltung.",
       "difficulty": 2,
       "topic": "Materialwirtschaft",
@@ -1461,9 +1461,9 @@
       "id": "bwh-098",
       "text": "Was ist der Unterschied zwischen Bruttobedarf und Nettobedarf?",
       "options": [
-        "Kein Unterschied",
-        "Nettobedarf = Bruttobedarf minus Lagerbestand und offene Bestellungen",
         "Bruttobedarf ist immer kleiner",
+        "Nettobedarf = Bruttobedarf minus Lagerbestand und offene Bestellungen",
+        "Kein Unterschied",
         "Nettobedarf ist der Gesamtbedarf"
       ],
       "correct": 1,
@@ -1476,12 +1476,12 @@
       "id": "bwh-099",
       "text": "Was ist Single Sourcing?",
       "options": [
-        "Viele Lieferanten für ein Teil",
-        "Beschaffung eines Teils von nur einem Lieferanten",
         "Eigenproduktion",
-        "Online-Einkauf"
+        "Viele Lieferanten für ein Teil",
+        "Online-Einkauf",
+        "Beschaffung eines Teils von nur einem Lieferanten"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Single Sourcing: nur ein Lieferant pro Materialart. Vorteil: enge Zusammenarbeit, Risiko: hohe Abhängigkeit.",
       "difficulty": 2,
       "topic": "Materialwirtschaft",
@@ -1491,12 +1491,12 @@
       "id": "bwh-100",
       "text": "Was ist ein Konsignationslager?",
       "options": [
-        "Ein firmeneigenes Lager",
-        "Ein Lager des Lieferanten beim Kunden, Bezahlung erst bei Entnahme",
         "Ein öffentliches Lager",
-        "Ein Zolllager"
+        "Ein Zolllager",
+        "Ein firmeneigenes Lager",
+        "Ein Lager des Lieferanten beim Kunden, Bezahlung erst bei Entnahme"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Im Konsignationslager lagert der Lieferant Ware beim Kunden. Bezahlt wird erst bei Entnahme.",
       "difficulty": 2,
       "topic": "Materialwirtschaft",
@@ -1507,11 +1507,11 @@
       "text": "Tagesverbrauch 100 Stück, Beschaffungszeit 5 Tage, Sicherheitsbestand 200 Stück. Meldebestand?",
       "options": [
         "500 Stück",
-        "600 Stück",
         "700 Stück",
+        "600 Stück",
         "800 Stück"
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation": "Meldebestand = 100 × 5 + 200 = 700 Stück.",
       "difficulty": 1,
       "topic": "Materialwirtschaft",
@@ -1521,12 +1521,12 @@
       "id": "bwh-102",
       "text": "Was ist ein ERP-System?",
       "options": [
-        "Ein Energiemanagementsystem",
-        "Eine Software zur unternehmensweiten Ressourcenplanung",
+        "Ein Personalplanungstool",
         "Ein Qualitätsmanagementsystem",
-        "Ein Personalplanungstool"
+        "Eine Software zur unternehmensweiten Ressourcenplanung",
+        "Ein Energiemanagementsystem"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "ERP (Enterprise Resource Planning) ist eine integrierte Software zur Planung und Steuerung aller Unternehmensressourcen.",
       "difficulty": 1,
       "topic": "Materialwirtschaft",
@@ -1536,9 +1536,9 @@
       "id": "bwh-103",
       "text": "Was ist Make-or-Buy?",
       "options": [
-        "Entscheidung zwischen Kauf oder Miete",
-        "Entscheidung zwischen Eigenfertigung und Fremdbezug",
         "Entscheidung zwischen Verkauf und Lagerung",
+        "Entscheidung zwischen Eigenfertigung und Fremdbezug",
+        "Entscheidung zwischen Kauf oder Miete",
         "Entscheidung zwischen Online und Offline"
       ],
       "correct": 1,
@@ -1552,11 +1552,11 @@
       "text": "Was sind Beschaffungsnebenkosten?",
       "options": [
         "Der Einkaufspreis",
-        "Kosten, die zusätzlich zum Einkaufspreis anfallen (Fracht, Zoll, Versicherung)",
         "Skonto",
+        "Kosten, die zusätzlich zum Einkaufspreis anfallen (Fracht, Zoll, Versicherung)",
         "Mengenrabatte"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Beschaffungsnebenkosten sind z.B. Transportkosten, Versicherung, Zölle und Verpackungskosten.",
       "difficulty": 1,
       "topic": "Materialwirtschaft",
@@ -1567,8 +1567,8 @@
       "text": "Was versteht man unter dem Bullwhip-Effekt?",
       "options": [
         "Peitscheneffekt: kleine Nachfrageschwankungen verstärken sich entlang der Lieferkette",
-        "Ein Qualitätsproblem",
         "Preisanstieg",
+        "Ein Qualitätsproblem",
         "Lagerbestandsreduzierung"
       ],
       "correct": 0,
@@ -1581,12 +1581,12 @@
       "id": "bwh-106",
       "text": "Was sind die 4 Ps des Marketing-Mix?",
       "options": [
+        "Position, Package, Promote, Produce",
         "People, Process, Physical, Payment",
-        "Product, Price, Place, Promotion",
         "Plan, Produce, Publish, Profit",
-        "Position, Package, Promote, Produce"
+        "Product, Price, Place, Promotion"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Die 4 Ps: Product (Produkt), Price (Preis), Place (Distribution), Promotion (Kommunikation).",
       "difficulty": 1,
       "topic": "Marketing",
@@ -1596,9 +1596,9 @@
       "id": "bwh-107",
       "text": "Was versteht man unter Marktforschung?",
       "options": [
-        "Suche nach neuen Märkten",
-        "Systematische Erhebung und Analyse von Marktdaten",
         "Wettbewerbsanalyse",
+        "Systematische Erhebung und Analyse von Marktdaten",
+        "Suche nach neuen Märkten",
         "Produktentwicklung"
       ],
       "correct": 1,
@@ -1611,12 +1611,12 @@
       "id": "bwh-108",
       "text": "Was ist eine SWOT-Analyse?",
       "options": [
-        "Eine Finanzanalyse",
-        "Analyse von Stärken, Schwächen, Chancen und Risiken",
+        "Eine Personalanalyse",
         "Eine Kostenanalyse",
-        "Eine Personalanalyse"
+        "Analyse von Stärken, Schwächen, Chancen und Risiken",
+        "Eine Finanzanalyse"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "SWOT: Strengths (Stärken), Weaknesses (Schwächen), Opportunities (Chancen), Threats (Risiken).",
       "difficulty": 1,
       "topic": "Marketing",
@@ -1626,12 +1626,12 @@
       "id": "bwh-109",
       "text": "Was ist die Skimming-Preisstrategie?",
       "options": [
+        "Preise wie die Konkurrenz",
         "Dauerhaft niedrige Preise",
         "Hoher Einführungspreis, der dann schrittweise gesenkt wird",
-        "Preise wie die Konkurrenz",
         "Kostenorientierte Preise"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Skimming: hoher Anfangspreis zur Abschöpfung der Zahlungsbereitschaft, dann schrittweise Senkung.",
       "difficulty": 2,
       "topic": "Marketing",
@@ -1641,12 +1641,12 @@
       "id": "bwh-110",
       "text": "Was ist die Penetrationsstrategie?",
       "options": [
-        "Hohe Preise zum Start",
         "Niedriger Einführungspreis zur schnellen Marktdurchdringung",
         "Exklusive Vertriebsstrategie",
+        "Hohe Preise zum Start",
         "Monopolstrategie"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Penetration: niedriger Anfangspreis zur schnellen Marktdurchdringung und Erreichung hoher Marktanteile.",
       "difficulty": 2,
       "topic": "Marketing",
@@ -1656,10 +1656,10 @@
       "id": "bwh-111",
       "text": "Was ist der Produktlebenszyklus?",
       "options": [
-        "Die Haltbarkeit eines Produkts",
+        "Die Garantiezeit",
         "Die Phasen eines Produkts von Einführung bis Degeneration",
-        "Die Produktionszeit",
-        "Die Garantiezeit"
+        "Die Haltbarkeit eines Produkts",
+        "Die Produktionszeit"
       ],
       "correct": 1,
       "explanation": "Phasen: Einführung, Wachstum, Reife, Sättigung, Degeneration (Rückgang).",
@@ -1671,10 +1671,10 @@
       "id": "bwh-112",
       "text": "Was versteht man unter einer Zielgruppe?",
       "options": [
-        "Alle potenziellen Kunden",
+        "Die Wettbewerber",
         "Die definierte Gruppe von Personen, an die sich Marketingmaßnahmen richten",
         "Die Stammkunden",
-        "Die Wettbewerber"
+        "Alle potenziellen Kunden"
       ],
       "correct": 1,
       "explanation": "Eine Zielgruppe ist ein abgegrenztes Kundensegment mit ähnlichen Merkmalen und Bedürfnissen.",
@@ -1686,12 +1686,12 @@
       "id": "bwh-113",
       "text": "Was ist ein USP (Unique Selling Proposition)?",
       "options": [
-        "Ein universelles Produkt",
         "Das einzigartige Verkaufsversprechen, das ein Produkt von der Konkurrenz abhebt",
+        "Ein Markenname",
         "Ein Standardprodukt",
-        "Ein Markenname"
+        "Ein universelles Produkt"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Der USP ist das Alleinstellungsmerkmal eines Produkts oder einer Dienstleistung gegenüber dem Wettbewerb.",
       "difficulty": 1,
       "topic": "Marketing",
@@ -1701,12 +1701,12 @@
       "id": "bwh-114",
       "text": "Was versteht man unter Benchmarking?",
       "options": [
-        "Vergleich mit einer Bank",
         "Systematischer Vergleich eigener Leistungen mit den Besten der Branche",
+        "Vergleich mit einer Bank",
         "Preisvergleich",
         "Mitarbeiterbewertung"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Benchmarking ist der systematische Vergleich von Produkten, Prozessen oder Methoden mit den Klassenbesten.",
       "difficulty": 2,
       "topic": "Marketing",
@@ -1716,12 +1716,12 @@
       "id": "bwh-115",
       "text": "Was ist ein Absatzkanal?",
       "options": [
-        "Ein Fernsehkanal",
-        "Der Weg, über den ein Produkt vom Hersteller zum Endverbraucher gelangt",
+        "Ein Kommunikationsweg",
         "Ein Wasserkanal",
-        "Ein Kommunikationsweg"
+        "Der Weg, über den ein Produkt vom Hersteller zum Endverbraucher gelangt",
+        "Ein Fernsehkanal"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Absatzkanäle (Distributionskanäle) sind die Wege und Mittler, über die Produkte vertrieben werden.",
       "difficulty": 1,
       "topic": "Marketing",
@@ -1733,8 +1733,8 @@
       "options": [
         "Plan-Do-Check-Act",
         "Plan-Design-Control-Audit",
-        "Process-Define-Check-Analyze",
-        "Product-Development-Control-Assessment"
+        "Product-Development-Control-Assessment",
+        "Process-Define-Check-Analyze"
       ],
       "correct": 0,
       "explanation": "Der PDCA-Zyklus (Deming-Kreis): Plan (Planen), Do (Umsetzen), Check (Prüfen), Act (Handeln/Verbessern).",
@@ -1746,12 +1746,12 @@
       "id": "bwh-117",
       "text": "Was ist ISO 9001?",
       "options": [
-        "Eine Arbeitszeitnorm",
-        "Eine internationale Norm für Qualitätsmanagementsysteme",
+        "Eine Sicherheitsnorm",
         "Eine Umweltnorm",
-        "Eine Sicherheitsnorm"
+        "Eine internationale Norm für Qualitätsmanagementsysteme",
+        "Eine Arbeitszeitnorm"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "ISO 9001 ist die weltweit anerkannte Norm für Qualitätsmanagementsysteme und deren Zertifizierung.",
       "difficulty": 1,
       "topic": "Qualitätsmanagement",
@@ -1763,8 +1763,8 @@
       "options": [
         "Totale Qualitätsmessung",
         "Umfassendes Qualitätsmanagement, das alle Bereiche und Mitarbeiter einbezieht",
-        "Technische Qualitätsmessung",
-        "Qualitätskontrolle der Produkte"
+        "Qualitätskontrolle der Produkte",
+        "Technische Qualitätsmessung"
       ],
       "correct": 1,
       "explanation": "TQM ist ein umfassender Managementansatz, bei dem Qualität in alle Unternehmensbereiche integriert und von allen Mitarbeitern gelebt wird.",
@@ -1776,12 +1776,12 @@
       "id": "bwh-119",
       "text": "Was ist ein Audit?",
       "options": [
-        "Eine Gehaltsprüfung",
         "Eine systematische, unabhängige Untersuchung zur Bewertung der Wirksamkeit eines Systems",
+        "Ein Mitarbeitergespräch",
         "Eine Buchhaltungsprüfung",
-        "Ein Mitarbeitergespräch"
+        "Eine Gehaltsprüfung"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Ein Audit ist eine systematische Überprüfung, ob Prozesse, Systeme oder Produkte den Anforderungen entsprechen.",
       "difficulty": 2,
       "topic": "Qualitätsmanagement",
@@ -1792,11 +1792,11 @@
       "text": "Was ist ein Ishikawa-Diagramm?",
       "options": [
         "Ein Organisationsdiagramm",
-        "Ein Ursache-Wirkungs-Diagramm (Fischgrätendiagramm) zur Fehleranalyse",
+        "Ein Balkendiagramm",
         "Ein Flussdiagramm",
-        "Ein Balkendiagramm"
+        "Ein Ursache-Wirkungs-Diagramm (Fischgrätendiagramm) zur Fehleranalyse"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Das Ishikawa-Diagramm (Fischgrätendiagramm) stellt systematisch die möglichen Ursachen eines Problems dar.",
       "difficulty": 1,
       "topic": "Qualitätsmanagement",
@@ -1806,12 +1806,12 @@
       "id": "bwh-121",
       "text": "Was ist ein Pareto-Diagramm?",
       "options": [
+        "Ein Netzdiagramm",
         "Ein Kreisdiagramm",
-        "Ein Säulendiagramm, das Ursachen nach Häufigkeit sortiert (80/20-Regel)",
         "Ein Liniendiagramm",
-        "Ein Netzdiagramm"
+        "Ein Säulendiagramm, das Ursachen nach Häufigkeit sortiert (80/20-Regel)"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Das Pareto-Diagramm zeigt: ca. 80% der Probleme werden von ca. 20% der Ursachen verursacht (80/20-Regel).",
       "difficulty": 2,
       "topic": "Qualitätsmanagement",
@@ -1821,12 +1821,12 @@
       "id": "bwh-122",
       "text": "Was ist KVP (Kontinuierlicher Verbesserungsprozess)?",
       "options": [
-        "Eine einmalige Verbesserung",
         "Ein Konzept zur ständigen Verbesserung in kleinen Schritten",
         "Ein Kostensenkungsprogramm",
+        "Eine einmalige Verbesserung",
         "Eine Reorganisation"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "KVP (Kaizen) ist die ständige Verbesserung von Prozessen, Produkten und Dienstleistungen in kleinen, kontinuierlichen Schritten.",
       "difficulty": 1,
       "topic": "Qualitätsmanagement",
@@ -1836,9 +1836,9 @@
       "id": "bwh-123",
       "text": "Was ist eine Fehlermöglichkeits- und Einflussanalyse (FMEA)?",
       "options": [
-        "Eine Buchhaltungsprüfung",
-        "Eine präventive Methode zur Identifikation und Bewertung potenzieller Fehler",
         "Eine Marktanalyse",
+        "Eine präventive Methode zur Identifikation und Bewertung potenzieller Fehler",
+        "Eine Buchhaltungsprüfung",
         "Eine Personalbeurteilung"
       ],
       "correct": 1,
@@ -1851,10 +1851,10 @@
       "id": "bwh-124",
       "text": "Was bewertet die Risikoprioritätszahl (RPZ) in der FMEA?",
       "options": [
-        "Die Kosten eines Fehlers",
-        "Bedeutung × Auftretenswahrscheinlichkeit × Entdeckungswahrscheinlichkeit",
         "Nur die Schwere des Fehlers",
-        "Die Mitarbeiterzufriedenheit"
+        "Bedeutung × Auftretenswahrscheinlichkeit × Entdeckungswahrscheinlichkeit",
+        "Die Mitarbeiterzufriedenheit",
+        "Die Kosten eines Fehlers"
       ],
       "correct": 1,
       "explanation": "RPZ = B (Bedeutung) × A (Auftreten) × E (Entdeckung). Je höher der Wert, desto dringender der Handlungsbedarf.",
@@ -1866,12 +1866,12 @@
       "id": "bwh-125",
       "text": "Was ist eine SPC (Statistische Prozesskontrolle)?",
       "options": [
-        "Personalcontrolling",
-        "Überwachung von Fertigungsprozessen mit statistischen Methoden",
+        "Marktforschungsmethode",
         "Stichprobenzählung",
-        "Marktforschungsmethode"
+        "Überwachung von Fertigungsprozessen mit statistischen Methoden",
+        "Personalcontrolling"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "SPC nutzt statistische Methoden (Regelkarten) zur Überwachung und Steuerung von Fertigungsprozessen.",
       "difficulty": 2,
       "topic": "Qualitätsmanagement",
@@ -1881,12 +1881,12 @@
       "id": "bwh-126",
       "text": "Was sind die 7 Qualitätswerkzeuge (Q7)?",
       "options": [
+        "7 Zertifizierungsstufen",
         "7 Arten von Maschinen",
         "Fehlersammelliste, Histogramm, Pareto, Ishikawa, Korrelation, Qualitätsregelkarte, Brainstorming",
-        "7 Prüfverfahren",
-        "7 Zertifizierungsstufen"
+        "7 Prüfverfahren"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Die Q7: Fehlersammelliste, Histogramm, Pareto-Diagramm, Ishikawa, Korrelationsdiagramm, Regelkarte, Brainstorming/Stratifikation.",
       "difficulty": 2,
       "topic": "Qualitätsmanagement",
@@ -1897,11 +1897,11 @@
       "text": "Was versteht man unter Qualitätskosten?",
       "options": [
         "Nur Prüfkosten",
-        "Fehlerverhütungskosten + Prüfkosten + Fehlerkosten (intern + extern)",
+        "Nur Personalkosten",
         "Nur Materialkosten",
-        "Nur Personalkosten"
+        "Fehlerverhütungskosten + Prüfkosten + Fehlerkosten (intern + extern)"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Qualitätskosten = Fehlerverhütungskosten + Prüfkosten + interne Fehlerkosten + externe Fehlerkosten.",
       "difficulty": 2,
       "topic": "Qualitätsmanagement",
@@ -1911,12 +1911,12 @@
       "id": "bwh-128",
       "text": "Was ist ein Qualitätszirkel?",
       "options": [
-        "Ein Prüfsiegel",
-        "Eine kleine Gruppe von Mitarbeitern, die sich regelmäßig zur Problemlösung trifft",
+        "Eine Zertifizierungsstelle",
         "Ein Managementgremium",
-        "Eine Zertifizierungsstelle"
+        "Ein Prüfsiegel",
+        "Eine kleine Gruppe von Mitarbeitern, die sich regelmäßig zur Problemlösung trifft"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Qualitätszirkel sind kleine Gruppen von Mitarbeitern, die freiwillig und regelmäßig arbeitsplatzbezogene Probleme bearbeiten.",
       "difficulty": 1,
       "topic": "Qualitätsmanagement",
@@ -1926,10 +1926,10 @@
       "id": "bwh-129",
       "text": "Was ist Six Sigma?",
       "options": [
-        "6 Qualitätsstufen",
+        "Eine Statistiksoftware",
         "Eine Methode zur Prozessverbesserung mit dem Ziel von max. 3,4 Fehlern pro Million",
         "6 Sigma-Regeln",
-        "Eine Statistiksoftware"
+        "6 Qualitätsstufen"
       ],
       "correct": 1,
       "explanation": "Six Sigma strebt eine Fehlerrate von max. 3,4 Fehlern pro Million Möglichkeiten (DPMO) an.",
@@ -1941,12 +1941,12 @@
       "id": "bwh-130",
       "text": "Was bedeutet DMAIC im Six-Sigma-Prozess?",
       "options": [
-        "Design, Measure, Analyze, Improve, Control",
-        "Define, Measure, Analyze, Improve, Control",
         "Develop, Manage, Assess, Implement, Check",
-        "Direct, Monitor, Audit, Investigate, Correct"
+        "Design, Measure, Analyze, Improve, Control",
+        "Direct, Monitor, Audit, Investigate, Correct",
+        "Define, Measure, Analyze, Improve, Control"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "DMAIC: Define, Measure, Analyze, Improve, Control – der Kernprozess zur Verbesserung bestehender Prozesse.",
       "difficulty": 2,
       "topic": "Qualitätsmanagement",
@@ -1957,11 +1957,11 @@
       "text": "Was ist eine Prozessfähigkeit (Cp/Cpk)?",
       "options": [
         "Produktionskapazität",
-        "Ein statistisches Maß dafür, wie gut ein Prozess die Spezifikation einhält",
         "Maschinenleistung",
-        "Mitarbeiterqualifikation"
+        "Mitarbeiterqualifikation",
+        "Ein statistisches Maß dafür, wie gut ein Prozess die Spezifikation einhält"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Cp und Cpk messen, ob ein Prozess innerhalb der vorgegebenen Toleranzgrenzen liegt. Cpk ≥ 1,33 gilt als fähig.",
       "difficulty": 3,
       "topic": "Qualitätsmanagement",
@@ -1971,12 +1971,12 @@
       "id": "bwh-132",
       "text": "Was ist eine Reklamation?",
       "options": [
+        "Ein Lob",
         "Eine Werbung",
         "Eine Kundenbeschwerde über mangelhaftes Produkt oder Dienstleistung",
-        "Ein Lob",
         "Ein Verbesserungsvorschlag"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Eine Reklamation ist eine Mängelrüge des Kunden bei fehlerhafter Ware oder Dienstleistung.",
       "difficulty": 1,
       "topic": "Qualitätsmanagement",
@@ -1986,12 +1986,12 @@
       "id": "bwh-133",
       "text": "Was versteht man unter Rückverfolgbarkeit (Traceability)?",
       "options": [
+        "GPS-Ortung",
         "Kundentracking",
         "Die Fähigkeit, den Weg eines Produkts durch alle Stufen der Herstellung nachzuverfolgen",
-        "GPS-Ortung",
         "Mitarbeiterüberwachung"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Traceability ermöglicht es, die Herkunft, Verarbeitung und den Verbleib von Materialien und Produkten lückenlos nachzuvollziehen.",
       "difficulty": 2,
       "topic": "Qualitätsmanagement",
@@ -2001,12 +2001,12 @@
       "id": "bwh-134",
       "text": "Was ist Poka Yoke?",
       "options": [
-        "Eine japanische Kampfkunst",
-        "Ein Prinzip zur Fehlervermeidung durch technische Vorkehrungen",
+        "Ein Qualitätssiegel",
         "Eine Managementmethode",
-        "Ein Qualitätssiegel"
+        "Ein Prinzip zur Fehlervermeidung durch technische Vorkehrungen",
+        "Eine japanische Kampfkunst"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Poka Yoke (japanisch: Fehlervermeidung) nutzt technische Vorkehrungen, um menschliche Fehler zu verhindern.",
       "difficulty": 2,
       "topic": "Qualitätsmanagement",
@@ -2018,8 +2018,8 @@
       "options": [
         "Prüfung durch externe Zertifizierer",
         "Überprüfung der eigenen Prozesse durch eigene Mitarbeiter",
-        "Prüfung durch Kunden",
-        "Staatliche Kontrolle"
+        "Staatliche Kontrolle",
+        "Prüfung durch Kunden"
       ],
       "correct": 1,
       "explanation": "Interne Audits (1st Party) werden von eigenen, geschulten Mitarbeitern durchgeführt, um die Wirksamkeit des QMS zu überprüfen.",
@@ -2032,11 +2032,11 @@
       "text": "Was beschreibt die Aufbauorganisation eines Unternehmens?",
       "options": [
         "Die zeitliche Abfolge von Arbeitsschritten",
+        "Die Personalentwicklung",
         "Die statische Gliederung des Unternehmens in organisatorische Einheiten",
-        "Die Planung von Projekten",
-        "Die Personalentwicklung"
+        "Die Planung von Projekten"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Die Aufbauorganisation regelt die hierarchische Struktur und die Zuordnung von Aufgaben, Kompetenzen und Verantwortlichkeiten auf Stellen und Abteilungen.",
       "difficulty": 1,
       "topic": "Unternehmensorganisation",
@@ -2047,11 +2047,11 @@
       "text": "Welches Leitungssystem zeichnet sich dadurch aus, dass jeder Mitarbeiter genau einen Vorgesetzten hat?",
       "options": [
         "Mehrliniensystem",
-        "Matrixorganisation",
         "Einliniensystem",
-        "Stab-Linien-System"
+        "Stab-Linien-System",
+        "Matrixorganisation"
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation": "Im Einliniensystem nach Fayol hat jeder Mitarbeiter genau einen direkten Vorgesetzten. Dies gewährleistet klare Zuständigkeiten, kann aber zu langen Dienstwegen führen.",
       "difficulty": 1,
       "topic": "Unternehmensorganisation",
@@ -2061,10 +2061,10 @@
       "id": "bwh-138",
       "text": "Was ist ein wesentlicher Nachteil des Mehrliniensystems?",
       "options": [
-        "Lange Kommunikationswege",
-        "Kompetenzüberschneidungen und Konflikte durch mehrere Vorgesetzte",
         "Mangelnde Spezialisierung",
-        "Zu geringe Flexibilität"
+        "Kompetenzüberschneidungen und Konflikte durch mehrere Vorgesetzte",
+        "Zu geringe Flexibilität",
+        "Lange Kommunikationswege"
       ],
       "correct": 1,
       "explanation": "Im Mehrliniensystem nach Taylor hat ein Mitarbeiter mehrere fachliche Vorgesetzte. Dies ermöglicht kurze Wege, birgt aber die Gefahr von Kompetenzüberschneidungen und widersprüchlichen Anweisungen.",
@@ -2078,8 +2078,8 @@
       "options": [
         "Weisungsbefugnis gegenüber Linienstellen",
         "Beratung und Unterstützung der Linieninstanzen ohne eigene Weisungsbefugnis",
-        "Kontrolle der Mitarbeiter",
-        "Alleinige Entscheidungskompetenz"
+        "Alleinige Entscheidungskompetenz",
+        "Kontrolle der Mitarbeiter"
       ],
       "correct": 1,
       "explanation": "Stabsstellen haben eine beratende Funktion und unterstützen die Linieninstanzen bei der Entscheidungsvorbereitung, besitzen jedoch keine eigene Weisungsbefugnis.",
@@ -2091,10 +2091,10 @@
       "id": "bwh-140",
       "text": "Was kennzeichnet die Matrixorganisation?",
       "options": [
-        "Nur vertikale Weisungsbeziehungen",
+        "Keine klaren Zuständigkeiten",
         "Zweidimensionale Leitungsstruktur mit funktionaler und objektbezogener Gliederung",
-        "Ausschließlich projektorientierte Struktur",
-        "Keine klaren Zuständigkeiten"
+        "Nur vertikale Weisungsbeziehungen",
+        "Ausschließlich projektorientierte Struktur"
       ],
       "correct": 1,
       "explanation": "Die Matrixorganisation verbindet funktionale und objektorientierte (z.B. produkt- oder regionenbezogene) Gliederung. Mitarbeiter haben zwei Vorgesetzte, was hohe Koordination erfordert.",
@@ -2106,12 +2106,12 @@
       "id": "bwh-141",
       "text": "Was versteht man unter Ablauforganisation?",
       "options": [
-        "Die Festlegung der Unternehmenshierarchie",
         "Die räumliche und zeitliche Strukturierung von Arbeitsprozessen",
-        "Die Erstellung von Organigrammen",
-        "Die Festlegung von Gehältern"
+        "Die Festlegung von Gehältern",
+        "Die Festlegung der Unternehmenshierarchie",
+        "Die Erstellung von Organigrammen"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Die Ablauforganisation regelt die raum-zeitliche Strukturierung von Arbeits- und Informationsprozessen. Sie bestimmt, wer was wann wo und in welcher Reihenfolge erledigt.",
       "difficulty": 1,
       "topic": "Unternehmensorganisation",
@@ -2121,9 +2121,9 @@
       "id": "bwh-142",
       "text": "Welches Element gehört NICHT zu einer Stellenbeschreibung?",
       "options": [
+        "Vertretungsregelungen",
         "Aufgaben und Kompetenzen",
         "Über- und Unterstellungsverhältnisse",
-        "Vertretungsregelungen",
         "Persönliche Gehaltsdaten des Stelleninhabers"
       ],
       "correct": 3,
@@ -2136,12 +2136,12 @@
       "id": "bwh-143",
       "text": "Was zeigt ein Organigramm?",
       "options": [
-        "Die Ablauforganisation",
         "Die grafische Darstellung der Aufbauorganisation mit Stellen und Leitungsbeziehungen",
-        "Die Kostenstruktur",
-        "Den Produktionsplan"
+        "Den Produktionsplan",
+        "Die Ablauforganisation",
+        "Die Kostenstruktur"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Ein Organigramm ist die grafische Darstellung der Aufbauorganisation. Es zeigt Stellen, Abteilungen, Hierarchieebenen und deren Beziehungen zueinander.",
       "difficulty": 1,
       "topic": "Unternehmensorganisation",
@@ -2151,12 +2151,12 @@
       "id": "bwh-144",
       "text": "Welche Organisationsform eignet sich besonders für Unternehmen mit mehreren Produktlinien und internationaler Tätigkeit?",
       "options": [
-        "Einliniensystem",
         "Funktionale Organisation",
-        "Matrixorganisation",
-        "Handwerkliche Organisation"
+        "Einliniensystem",
+        "Handwerkliche Organisation",
+        "Matrixorganisation"
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": "Die Matrixorganisation eignet sich besonders für komplexe Unternehmen mit mehreren Produktlinien und internationaler Tätigkeit, da sie funktionale Expertise mit Produkt-/Regionsfokus verbindet.",
       "difficulty": 2,
       "topic": "Unternehmensorganisation",
@@ -2166,12 +2166,12 @@
       "id": "bwh-145",
       "text": "Was versteht man unter Prozessorganisation?",
       "options": [
-        "Nur die Dokumentation von Abläufen",
         "Die konsequente Ausrichtung der Organisation an Geschäftsprozessen statt an Funktionen",
+        "Die Verwaltung von Patenten",
         "Die Aufteilung in Profit-Center",
-        "Die Verwaltung von Patenten"
+        "Nur die Dokumentation von Abläufen"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Die Prozessorganisation richtet die Unternehmensstruktur an den wertschöpfenden Geschäftsprozessen aus. Ziel ist die Optimierung von Durchlaufzeiten, Qualität und Kundenorientierung.",
       "difficulty": 2,
       "topic": "Unternehmensorganisation",
@@ -2181,12 +2181,12 @@
       "id": "bwh-146",
       "text": "Was ist eine Instanz in der Organisationslehre?",
       "options": [
+        "Ein technisches System",
         "Jeder Mitarbeiter im Unternehmen",
         "Eine Stelle mit Leitungs- und Weisungsbefugnis",
-        "Eine externe Behörde",
-        "Ein technisches System"
+        "Eine externe Behörde"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Eine Instanz ist eine Stelle, die mit Leitungsaufgaben und Weisungsbefugnis ausgestattet ist. Sie trifft Entscheidungen und trägt Verantwortung für den zugeordneten Bereich.",
       "difficulty": 2,
       "topic": "Unternehmensorganisation",
@@ -2196,12 +2196,12 @@
       "id": "bwh-147",
       "text": "Welcher Vorteil wird dem Einliniensystem zugeschrieben?",
       "options": [
-        "Hohe Flexibilität",
         "Kurze Kommunikationswege",
-        "Klare Zuständigkeiten und eindeutige Weisungsbeziehungen",
-        "Hohe Spezialisierung"
+        "Hohe Flexibilität",
+        "Hohe Spezialisierung",
+        "Klare Zuständigkeiten und eindeutige Weisungsbeziehungen"
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": "Der Hauptvorteil des Einliniensystems liegt in den klaren, eindeutigen Weisungsbeziehungen. Jeder Mitarbeiter weiß genau, wem er unterstellt ist und wer ihm Weisungen erteilen darf.",
       "difficulty": 1,
       "topic": "Unternehmensorganisation",
@@ -2211,12 +2211,12 @@
       "id": "bwh-148",
       "text": "Was versteht man unter der Leitungsspanne?",
       "options": [
-        "Die Dauer der Betriebszugehörigkeit einer Führungskraft",
-        "Die Anzahl der einer Instanz direkt unterstellten Mitarbeiter",
+        "Die räumliche Ausdehnung des Unternehmens",
         "Den Gehaltsbereich einer Führungsposition",
-        "Die räumliche Ausdehnung des Unternehmens"
+        "Die Anzahl der einer Instanz direkt unterstellten Mitarbeiter",
+        "Die Dauer der Betriebszugehörigkeit einer Führungskraft"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Die Leitungsspanne (Kontrollspanne) bezeichnet die Anzahl der Mitarbeiter, die einer Führungskraft direkt unterstellt sind. Eine große Spanne führt zu flachen, eine kleine zu steilen Hierarchien.",
       "difficulty": 2,
       "topic": "Unternehmensorganisation",
@@ -2226,12 +2226,12 @@
       "id": "bwh-149",
       "text": "Was bedeutet Delegation im organisatorischen Kontext?",
       "options": [
-        "Die Abgabe von Aufgaben, Kompetenzen und Verantwortung an untergeordnete Stellen",
         "Die Entlassung von Mitarbeitern",
         "Die Gründung einer Tochtergesellschaft",
+        "Die Abgabe von Aufgaben, Kompetenzen und Verantwortung an untergeordnete Stellen",
         "Die Einstellung neuer Führungskräfte"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": "Delegation bedeutet die Übertragung von Aufgaben, Kompetenzen und der damit verbundenen Verantwortung von einer übergeordneten an eine untergeordnete Stelle. Sie entlastet die Führungsebene.",
       "difficulty": 1,
       "topic": "Unternehmensorganisation",
@@ -2242,9 +2242,9 @@
       "text": "Welche Aussage zur Zentralisation ist korrekt?",
       "options": [
         "Zentralisation bedeutet, dass Entscheidungen auf wenige obere Stellen konzentriert werden",
-        "Zentralisation führt immer zu schnelleren Entscheidungen",
+        "Zentralisation erhöht die Motivation der Mitarbeiter",
         "Zentralisation ist in jedem Fall der Dezentralisation überlegen",
-        "Zentralisation erhöht die Motivation der Mitarbeiter"
+        "Zentralisation führt immer zu schnelleren Entscheidungen"
       ],
       "correct": 0,
       "explanation": "Bei der Zentralisation werden Entscheidungskompetenzen auf wenige, meist höhere Stellen konzentriert. Vorteile sind einheitliche Entscheidungen, Nachteile lange Entscheidungswege und Überlastung der Spitze.",
@@ -2256,10 +2256,10 @@
       "id": "bwh-151",
       "text": "Was ist ein Profit-Center?",
       "options": [
-        "Eine Kostenstelle ohne Umsatzverantwortung",
+        "Ein reines Verwaltungsorgan",
         "Ein organisatorischer Teilbereich mit eigener Ergebnisverantwortung",
-        "Eine externe Beratungsfirma",
-        "Ein reines Verwaltungsorgan"
+        "Eine Kostenstelle ohne Umsatzverantwortung",
+        "Eine externe Beratungsfirma"
       ],
       "correct": 1,
       "explanation": "Ein Profit-Center ist ein organisatorischer Bereich, der für seinen eigenen Erfolg (Gewinn/Verlust) verantwortlich ist. Der Leiter hat Einfluss auf Erlöse und Kosten.",
@@ -2272,11 +2272,11 @@
       "text": "Was ist der Unterschied zwischen Aufgabenanalyse und Aufgabensynthese?",
       "options": [
         "Beide Begriffe sind identisch",
-        "Die Analyse zerlegt die Gesamtaufgabe, die Synthese fasst Teilaufgaben zu Stellen zusammen",
         "Die Analyse betrifft nur Kosten, die Synthese nur Erlöse",
+        "Die Analyse zerlegt die Gesamtaufgabe, die Synthese fasst Teilaufgaben zu Stellen zusammen",
         "Die Analyse ist für Großunternehmen, die Synthese für KMU"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Die Aufgabenanalyse zerlegt die Gesamtaufgabe des Unternehmens in Teilaufgaben nach Verrichtung, Objekt, Rang, Phase und Zweck. Die Aufgabensynthese fasst diese Teilaufgaben zu sinnvollen Stellen zusammen.",
       "difficulty": 2,
       "topic": "Unternehmensorganisation",
@@ -2286,12 +2286,12 @@
       "id": "bwh-153",
       "text": "Was kennzeichnet eine divisionale Organisation?",
       "options": [
-        "Gliederung nach betrieblichen Funktionen",
-        "Gliederung nach Produkten, Regionen oder Kundengruppen (Sparten)",
         "Ausschließlich Projektstruktur",
-        "Keine Hierarchie"
+        "Keine Hierarchie",
+        "Gliederung nach Produkten, Regionen oder Kundengruppen (Sparten)",
+        "Gliederung nach betrieblichen Funktionen"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Die divisionale (Sparten-)Organisation gliedert das Unternehmen nach Objekten wie Produkten, Regionen oder Kundengruppen. Jede Sparte verfügt über eigene funktionale Bereiche.",
       "difficulty": 2,
       "topic": "Unternehmensorganisation",
@@ -2301,12 +2301,12 @@
       "id": "bwh-154",
       "text": "Was versteht man unter einer Projektorganisation?",
       "options": [
-        "Die dauerhafte Grundstruktur des Unternehmens",
-        "Eine temporäre Organisationsform zur Bearbeitung einmaliger, komplexer Aufgaben",
         "Die Abteilungsstruktur",
-        "Die Verwaltung des Rechnungswesens"
+        "Die Verwaltung des Rechnungswesens",
+        "Die dauerhafte Grundstruktur des Unternehmens",
+        "Eine temporäre Organisationsform zur Bearbeitung einmaliger, komplexer Aufgaben"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Die Projektorganisation ist eine temporäre Strukturform für einmalige, zeitlich begrenzte und komplexe Aufgaben. Sie kann als reine, Stabs- oder Matrix-Projektorganisation ausgestaltet sein.",
       "difficulty": 2,
       "topic": "Unternehmensorganisation",
@@ -2316,10 +2316,10 @@
       "id": "bwh-155",
       "text": "Welches Instrument dient der Darstellung von Arbeitsabläufen in der Ablauforganisation?",
       "options": [
-        "Bilanz",
+        "Stellenbeschreibung",
         "Flussdiagramm (Flowchart)",
-        "Organigramm",
-        "Stellenbeschreibung"
+        "Bilanz",
+        "Organigramm"
       ],
       "correct": 1,
       "explanation": "Flussdiagramme (Flowcharts) stellen die zeitlich-logische Abfolge von Arbeitsschritten grafisch dar. Sie sind ein zentrales Instrument der Ablauforganisation zur Prozessvisualisierung.",
@@ -2331,12 +2331,12 @@
       "id": "bwh-156",
       "text": "Was ist die Hauptaufgabe des Controllings?",
       "options": [
-        "Kontrolle der Mitarbeiter",
-        "Planung, Steuerung und Kontrolle der Unternehmensziele sowie Informationsversorgung",
         "Buchhaltung und Jahresabschluss",
-        "Personalverwaltung"
+        "Personalverwaltung",
+        "Planung, Steuerung und Kontrolle der Unternehmensziele sowie Informationsversorgung",
+        "Kontrolle der Mitarbeiter"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Controlling ist ein Führungsinstrument, das die Planung, Steuerung und Kontrolle aller Unternehmensbereiche umfasst und das Management mit entscheidungsrelevanten Informationen versorgt.",
       "difficulty": 1,
       "topic": "Controlling",
@@ -2347,11 +2347,11 @@
       "text": "Was versteht man unter Budgetierung?",
       "options": [
         "Die Erstellung der Steuererklärung",
-        "Die wertmäßige Vorgabe von Plangrößen für organisatorische Einheiten in einer Periode",
         "Die Berechnung des Gewinns",
+        "Die wertmäßige Vorgabe von Plangrößen für organisatorische Einheiten in einer Periode",
         "Die Festlegung von Verkaufspreisen"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Budgetierung ist die Aufstellung verbindlicher Planvorgaben (Budgets) für Kosten, Erlöse oder Investitionen einzelner Bereiche für einen bestimmten Zeitraum.",
       "difficulty": 2,
       "topic": "Controlling",
@@ -2376,12 +2376,12 @@
       "id": "bwh-159",
       "text": "Welche vier Perspektiven umfasst die Balanced Scorecard nach Kaplan/Norton?",
       "options": [
-        "Finanzen, Kunden, interne Prozesse, Lernen und Entwicklung",
         "Kosten, Umsatz, Gewinn, Liquidität",
+        "Personal, Material, Maschinen, Finanzen",
         "Einkauf, Produktion, Vertrieb, Verwaltung",
-        "Personal, Material, Maschinen, Finanzen"
+        "Finanzen, Kunden, interne Prozesse, Lernen und Entwicklung"
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": "Die Balanced Scorecard (BSC) nach Kaplan/Norton betrachtet vier Perspektiven: Finanzperspektive, Kundenperspektive, interne Prozessperspektive sowie Lern- und Entwicklungsperspektive.",
       "difficulty": 2,
       "topic": "Controlling",
@@ -2391,9 +2391,9 @@
       "id": "bwh-160",
       "text": "Wie berechnet sich der Return on Investment (ROI)?",
       "options": [
-        "Umsatz / Gesamtkapital",
-        "Gewinn / Umsatz × Umsatz / Gesamtkapital (= Gewinn / Gesamtkapital × 100)",
         "Eigenkapital / Fremdkapital",
+        "Gewinn / Umsatz × Umsatz / Gesamtkapital (= Gewinn / Gesamtkapital × 100)",
+        "Umsatz / Gesamtkapital",
         "Umsatz - Kosten"
       ],
       "correct": 1,
@@ -2406,12 +2406,12 @@
       "id": "bwh-161",
       "text": "Was misst die Eigenkapitalquote?",
       "options": [
+        "Den Verschuldungsgrad",
         "Den Anteil des Fremdkapitals am Gesamtkapital",
-        "Den Anteil des Eigenkapitals am Gesamtkapital",
         "Die Verzinsung des Eigenkapitals",
-        "Den Verschuldungsgrad"
+        "Den Anteil des Eigenkapitals am Gesamtkapital"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Die Eigenkapitalquote = Eigenkapital / Gesamtkapital × 100. Sie gibt an, wie hoch der Anteil des Eigenkapitals an der Bilanzsumme ist und ist ein Indikator für die finanzielle Stabilität.",
       "difficulty": 1,
       "topic": "Controlling",
@@ -2436,12 +2436,12 @@
       "id": "bwh-163",
       "text": "Welche Art der Abweichung liegt vor, wenn mehr Material verbraucht wurde als geplant?",
       "options": [
-        "Preisabweichung",
         "Verbrauchsabweichung (Mengenabweichung)",
         "Beschäftigungsabweichung",
+        "Preisabweichung",
         "Umsatzabweichung"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Eine Verbrauchsabweichung (Mengenabweichung) liegt vor, wenn die tatsächlich verbrauchte Menge von der geplanten Menge abweicht. Sie ist Teil der Abweichungsanalyse im Controlling.",
       "difficulty": 2,
       "topic": "Controlling",
@@ -2451,10 +2451,10 @@
       "id": "bwh-164",
       "text": "Was ist das Ziel des operativen Controllings?",
       "options": [
-        "Langfristige strategische Positionierung",
-        "Kurzfristige Sicherung der Wirtschaftlichkeit und Rentabilität",
         "Entwicklung neuer Geschäftsfelder",
-        "Marktanalyse für neue Produkte"
+        "Kurzfristige Sicherung der Wirtschaftlichkeit und Rentabilität",
+        "Marktanalyse für neue Produkte",
+        "Langfristige strategische Positionierung"
       ],
       "correct": 1,
       "explanation": "Operatives Controlling konzentriert sich auf kurz- bis mittelfristige Ziele: Wirtschaftlichkeit, Rentabilität und Liquidität. Es nutzt Instrumente wie Budgetierung, Kennzahlen und Soll-Ist-Vergleiche.",
@@ -2466,12 +2466,12 @@
       "id": "bwh-165",
       "text": "Welches Instrument gehört zum strategischen Controlling?",
       "options": [
-        "Monatliche Kostenstellenberichte",
         "SWOT-Analyse und Portfolioanalyse",
         "Kassenbuch",
+        "Monatliche Kostenstellenberichte",
         "Lohnabrechnung"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Strategisches Controlling nutzt Instrumente wie SWOT-Analyse, Portfolioanalyse (BCG-Matrix), Szenarioanalyse und Benchmarking zur langfristigen Existenzsicherung und Erfolgspotenzialplanung.",
       "difficulty": 2,
       "topic": "Controlling",
@@ -2481,12 +2481,12 @@
       "id": "bwh-166",
       "text": "Was versteht man unter Benchmarking?",
       "options": [
+        "Die Einstellung neuer Mitarbeiter",
         "Die interne Budgetkontrolle",
-        "Den systematischen Vergleich von Produkten, Prozessen oder Kennzahlen mit den Besten der Branche",
         "Die Bewertung von Immobilien",
-        "Die Einstellung neuer Mitarbeiter"
+        "Den systematischen Vergleich von Produkten, Prozessen oder Kennzahlen mit den Besten der Branche"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Benchmarking ist der kontinuierliche Vergleich eigener Leistungen mit denen der besten Wettbewerber oder branchenfremder Best-Practice-Unternehmen, um Verbesserungspotenziale zu identifizieren.",
       "difficulty": 2,
       "topic": "Controlling",
@@ -2497,11 +2497,11 @@
       "text": "Wie berechnet sich die Liquidität 2. Grades?",
       "options": [
         "Flüssige Mittel / kurzfristige Verbindlichkeiten × 100",
-        "(Flüssige Mittel + kurzfristige Forderungen) / kurzfristige Verbindlichkeiten × 100",
         "Umlaufvermögen / kurzfristige Verbindlichkeiten × 100",
+        "(Flüssige Mittel + kurzfristige Forderungen) / kurzfristige Verbindlichkeiten × 100",
         "Eigenkapital / Fremdkapital × 100"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Liquidität 2. Grades (Quick Ratio) = (Flüssige Mittel + kurzfristige Forderungen) / kurzfristige Verbindlichkeiten × 100. Der Richtwert liegt bei mindestens 100%.",
       "difficulty": 2,
       "topic": "Controlling",
@@ -2511,12 +2511,12 @@
       "id": "bwh-168",
       "text": "Was ist ein Key Performance Indicator (KPI)?",
       "options": [
-        "Ein gesetzlich vorgeschriebener Bericht",
         "Eine Kennzahl zur Messung der Leistung und des Fortschritts bezüglich wichtiger Zielsetzungen",
+        "Ein gesetzlich vorgeschriebener Bericht",
         "Ein Softwareprogramm",
         "Eine Stellenbeschreibung"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "KPIs sind Schlüsselkennzahlen, die den Fortschritt bei der Erreichung wichtiger Unternehmensziele messbar machen. Sie werden im Controlling zur Steuerung und Überwachung eingesetzt.",
       "difficulty": 1,
       "topic": "Controlling",
@@ -2526,12 +2526,12 @@
       "id": "bwh-169",
       "text": "Was versteht man unter einem Deckungsbeitragsvergleich?",
       "options": [
-        "Vergleich der Gesamtkosten zweier Perioden",
         "Gegenüberstellung der Deckungsbeiträge verschiedener Produkte oder Bereiche zur Ergebnisoptimierung",
+        "Vergleich der Gesamtkosten zweier Perioden",
         "Vergleich von Ein- und Auszahlungen",
         "Vergleich der Bilanzsummen"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Der Deckungsbeitragsvergleich stellt die Deckungsbeiträge (Erlös minus variable Kosten) verschiedener Produkte, Kunden oder Bereiche gegenüber, um ergebnisoptimierende Entscheidungen zu treffen.",
       "difficulty": 2,
       "topic": "Controlling",
@@ -2556,10 +2556,10 @@
       "id": "bwh-171",
       "text": "Welche Budgetierungsmethode geht von Null aus und hinterfragt alle Kosten neu?",
       "options": [
-        "Fortschreibungsbudgetierung",
+        "Gegenstromverfahren",
         "Zero-Base-Budgeting",
-        "Top-Down-Budgetierung",
-        "Gegenstromverfahren"
+        "Fortschreibungsbudgetierung",
+        "Top-Down-Budgetierung"
       ],
       "correct": 1,
       "explanation": "Zero-Base-Budgeting beginnt bei null und hinterfragt sämtliche Kosten grundlegend neu. Im Gegensatz zur Fortschreibungsbudgetierung werden keine Vorjahreswerte als Basis genommen.",
@@ -2572,11 +2572,11 @@
       "text": "Was beschreibt das DuPont-Kennzahlensystem?",
       "options": [
         "Eine Methode zur Personalbeurteilung",
-        "Eine hierarchische Aufspaltung des ROI in Umsatzrendite und Kapitalumschlag",
         "Ein Qualitätsmanagementsystem",
-        "Eine Methode zur Preiskalkulation"
+        "Eine Methode zur Preiskalkulation",
+        "Eine hierarchische Aufspaltung des ROI in Umsatzrendite und Kapitalumschlag"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Das DuPont-Schema (ROI-Baum) zerlegt den ROI systematisch in Umsatzrendite und Kapitalumschlag, die weiter in Teilkennzahlen aufgespalten werden. So werden Ursachen für Rentabilitätsänderungen sichtbar.",
       "difficulty": 3,
       "topic": "Controlling",
@@ -2586,12 +2586,12 @@
       "id": "bwh-173",
       "text": "Ein Unternehmen hat einen Gewinn von 120.000 EUR und ein Gesamtkapital von 800.000 EUR. Wie hoch ist der ROI?",
       "options": [
-        "10%",
-        "12%",
         "15%",
-        "20%"
+        "10%",
+        "20%",
+        "12%"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": "ROI = Gewinn / Gesamtkapital × 100 = 120.000 / 800.000 × 100 = 15%. Der ROI zeigt, dass jeder eingesetzte Euro 15 Cent Gewinn erwirtschaftet.",
       "difficulty": 2,
       "topic": "Controlling",
@@ -2603,8 +2603,8 @@
       "options": [
         "Abweichung der verkauften Menge",
         "Differenz zwischen geplantem und tatsächlichem Einkaufspreis multipliziert mit der Ist-Menge",
-        "Abweichung der Maschinenauslastung",
-        "Differenz zwischen zwei Verkaufspreisen"
+        "Differenz zwischen zwei Verkaufspreisen",
+        "Abweichung der Maschinenauslastung"
       ],
       "correct": 1,
       "explanation": "Die Preisabweichung = (Ist-Preis - Plan-Preis) × Ist-Menge. Sie zeigt, inwieweit Preisänderungen bei Einkaufsmaterialien zu Kostenabweichungen geführt haben.",
@@ -2616,12 +2616,12 @@
       "id": "bwh-175",
       "text": "Welcher Richtwert gilt für die Liquidität 3. Grades?",
       "options": [
-        "Mindestens 50%",
-        "Mindestens 100%",
+        "Mindestens 300%",
         "Mindestens 200%",
-        "Mindestens 300%"
+        "Mindestens 100%",
+        "Mindestens 50%"
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation": "Liquidität 3. Grades (Current Ratio) = Umlaufvermögen / kurzfristige Verbindlichkeiten × 100. Der Richtwert liegt bei 150-200%, mindestens aber bei 200% nach der Bankers Rule.",
       "difficulty": 2,
       "topic": "Controlling",
@@ -2631,12 +2631,12 @@
       "id": "bwh-176",
       "text": "Was zeigt die Aktivseite der Bilanz?",
       "options": [
-        "Die Herkunft des Kapitals (Finanzierung)",
-        "Die Verwendung des Kapitals (Vermögen)",
         "Die Gewinn- und Verlustrechnung",
-        "Die Liquiditätsplanung"
+        "Die Liquiditätsplanung",
+        "Die Herkunft des Kapitals (Finanzierung)",
+        "Die Verwendung des Kapitals (Vermögen)"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Die Aktivseite (Mittelverwendung) zeigt das Vermögen des Unternehmens, gegliedert in Anlagevermögen und Umlaufvermögen gemäß § 266 HGB.",
       "difficulty": 1,
       "topic": "Rechnungswesen",
@@ -2646,12 +2646,12 @@
       "id": "bwh-177",
       "text": "Was steht auf der Passivseite der Bilanz?",
       "options": [
-        "Anlagevermögen und Umlaufvermögen",
         "Eigenkapital und Fremdkapital (Mittelherkunft)",
+        "Forderungen und Verbindlichkeiten",
         "Umsatzerlöse und Kosten",
-        "Forderungen und Verbindlichkeiten"
+        "Anlagevermögen und Umlaufvermögen"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Die Passivseite zeigt die Mittelherkunft: Eigenkapital (gezeichnetes Kapital, Rücklagen, Gewinn) und Fremdkapital (Rückstellungen, Verbindlichkeiten) gemäß § 266 HGB.",
       "difficulty": 1,
       "topic": "Rechnungswesen",
@@ -2661,10 +2661,10 @@
       "id": "bwh-178",
       "text": "Welche Bilanzgleichung muss immer gelten?",
       "options": [
-        "Umsatz = Kosten + Gewinn",
-        "Aktiva = Passiva (Bilanzsumme)",
         "Eigenkapital = Fremdkapital",
-        "Anlagevermögen = Umlaufvermögen"
+        "Aktiva = Passiva (Bilanzsumme)",
+        "Anlagevermögen = Umlaufvermögen",
+        "Umsatz = Kosten + Gewinn"
       ],
       "correct": 1,
       "explanation": "Die fundamentale Bilanzgleichung lautet: Summe der Aktiva = Summe der Passiva. Die Bilanzsumme muss auf beiden Seiten identisch sein, da jedes Vermögen durch Kapital finanziert ist.",
@@ -2676,12 +2676,12 @@
       "id": "bwh-179",
       "text": "Was zeigt die Gewinn- und Verlustrechnung (GuV)?",
       "options": [
-        "Die Vermögenslage zu einem Stichtag",
-        "Die Erträge und Aufwendungen einer Periode und den daraus resultierenden Jahreserfolg",
+        "Die Eigenkapitalveränderungen",
         "Die Zahlungsströme des Unternehmens",
-        "Die Eigenkapitalveränderungen"
+        "Die Vermögenslage zu einem Stichtag",
+        "Die Erträge und Aufwendungen einer Periode und den daraus resultierenden Jahreserfolg"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Die GuV ist eine Zeitraumrechnung, die alle Erträge und Aufwendungen einer Geschäftsperiode gegenüberstellt. Der Saldo ergibt den Jahresüberschuss oder -fehlbetrag (§ 275 HGB).",
       "difficulty": 1,
       "topic": "Rechnungswesen",
@@ -2691,12 +2691,12 @@
       "id": "bwh-180",
       "text": "Eine Maschine kostet 60.000 EUR und wird über 6 Jahre linear abgeschrieben. Wie hoch ist der jährliche Abschreibungsbetrag?",
       "options": [
-        "8.000 EUR",
         "10.000 EUR",
+        "6.000 EUR",
         "12.000 EUR",
-        "6.000 EUR"
+        "8.000 EUR"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Lineare Abschreibung = Anschaffungskosten / Nutzungsdauer = 60.000 / 6 = 10.000 EUR pro Jahr. Der Betrag bleibt über die gesamte Nutzungsdauer konstant.",
       "difficulty": 1,
       "topic": "Rechnungswesen",
@@ -2706,12 +2706,12 @@
       "id": "bwh-181",
       "text": "Was kennzeichnet die degressive Abschreibung?",
       "options": [
-        "Gleichbleibende jährliche Beträge",
-        "Fallende jährliche Beträge durch gleichbleibenden Prozentsatz auf den Restbuchwert",
         "Steigende jährliche Beträge",
-        "Einmalige Abschreibung im ersten Jahr"
+        "Einmalige Abschreibung im ersten Jahr",
+        "Gleichbleibende jährliche Beträge",
+        "Fallende jährliche Beträge durch gleichbleibenden Prozentsatz auf den Restbuchwert"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Bei der degressiven Abschreibung wird ein fester Prozentsatz auf den jeweiligen Restbuchwert angewendet. Die Abschreibungsbeträge sinken von Jahr zu Jahr. Sie bildet den tatsächlichen Wertverlust oft besser ab.",
       "difficulty": 2,
       "topic": "Rechnungswesen",
@@ -2721,12 +2721,12 @@
       "id": "bwh-182",
       "text": "Wer ist nach HGB zur doppelten Buchführung verpflichtet?",
       "options": [
+        "Ausschließlich Kapitalgesellschaften",
         "Nur Aktiengesellschaften",
-        "Jeder Kaufmann im Sinne des HGB (§ 238 HGB)",
         "Nur Unternehmen mit über 100 Mitarbeitern",
-        "Ausschließlich Kapitalgesellschaften"
+        "Jeder Kaufmann im Sinne des HGB (§ 238 HGB)"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Nach § 238 Abs. 1 HGB ist jeder Kaufmann verpflichtet, Bücher zu führen und seine Handelsgeschäfte nach den Grundsätzen ordnungsmäßiger Buchführung (GoB) ersichtlich zu machen.",
       "difficulty": 2,
       "topic": "Rechnungswesen",
@@ -2736,12 +2736,12 @@
       "id": "bwh-183",
       "text": "Was ist eine Inventur?",
       "options": [
-        "Die Erstellung der Steuererklärung",
         "Die körperliche Bestandsaufnahme aller Vermögensgegenstände und Schulden zu einem Stichtag",
-        "Die Berechnung des Jahresgewinns",
-        "Die Planung der Produktionsmengen"
+        "Die Planung der Produktionsmengen",
+        "Die Erstellung der Steuererklärung",
+        "Die Berechnung des Jahresgewinns"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Die Inventur ist die mengen- und wertmäßige Erfassung aller Vermögensgegenstände und Schulden durch körperliche Aufnahme (Zählen, Messen, Wiegen) oder Beleginventur (§ 240 HGB).",
       "difficulty": 1,
       "topic": "Rechnungswesen",
@@ -2751,12 +2751,12 @@
       "id": "bwh-184",
       "text": "Was ist das Inventar?",
       "options": [
-        "Ein Lagerverwaltungsprogramm",
         "Das detaillierte Bestandsverzeichnis aller Vermögensgegenstände und Schulden als Ergebnis der Inventur",
-        "Die Bilanz",
-        "Der Jahresabschluss"
+        "Der Jahresabschluss",
+        "Ein Lagerverwaltungsprogramm",
+        "Die Bilanz"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Das Inventar ist das schriftliche Verzeichnis, das alle Vermögensgegenstände und Schulden nach Art, Menge und Wert auflistet. Es bildet die Grundlage für die Bilanz (§ 240 Abs. 1 HGB).",
       "difficulty": 2,
       "topic": "Rechnungswesen",
@@ -2766,12 +2766,12 @@
       "id": "bwh-185",
       "text": "Welche Inventurverfahren gibt es?",
       "options": [
-        "Nur die Stichtagsinventur",
         "Stichtagsinventur, permanente Inventur, verlegte Inventur und Stichprobeninventur",
         "Nur die permanente Inventur",
-        "Nur Stichtagsinventur und permanente Inventur"
+        "Nur Stichtagsinventur und permanente Inventur",
+        "Nur die Stichtagsinventur"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Das HGB und die steuerlichen Vorschriften erlauben vier Inventurverfahren: Stichtagsinventur (§ 240 HGB), zeitlich verlegte Inventur, permanente Inventur und Stichprobeninventur (§ 241 HGB).",
       "difficulty": 2,
       "topic": "Rechnungswesen",
@@ -2781,10 +2781,10 @@
       "id": "bwh-186",
       "text": "Was ist ein Kontenrahmen?",
       "options": [
-        "Ein gesetzlich vorgeschriebener Jahresabschluss",
+        "Ein Organigramm der Buchhaltung",
         "Ein systematisches Verzeichnis aller Konten eines Wirtschaftszweigs als Organisationshilfe der Buchführung",
-        "Eine Steuertabelle",
-        "Ein Organigramm der Buchhaltung"
+        "Ein gesetzlich vorgeschriebener Jahresabschluss",
+        "Eine Steuertabelle"
       ],
       "correct": 1,
       "explanation": "Ein Kontenrahmen (z.B. IKR für Industrie, SKR 03/04) ist ein systematisch gegliedertes Verzeichnis aller Konten. Er dient als Vorlage für den betriebsindividuellen Kontenplan.",
@@ -2796,12 +2796,12 @@
       "id": "bwh-187",
       "text": "Welche Bestandteile hat der Jahresabschluss einer Kapitalgesellschaft mindestens?",
       "options": [
-        "Nur die Bilanz",
-        "Bilanz und GuV",
         "Bilanz, GuV und Anhang",
-        "Nur die GuV und den Lagebericht"
+        "Bilanz und GuV",
+        "Nur die GuV und den Lagebericht",
+        "Nur die Bilanz"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": "Der Jahresabschluss einer Kapitalgesellschaft besteht mindestens aus Bilanz, GuV und Anhang (§ 264 Abs. 1 HGB). Große Kapitalgesellschaften müssen zusätzlich einen Lagebericht erstellen.",
       "difficulty": 2,
       "topic": "Rechnungswesen",
@@ -2811,10 +2811,10 @@
       "id": "bwh-188",
       "text": "Was versteht man unter Aufwand in der Finanzbuchhaltung?",
       "options": [
-        "Nur Auszahlungen",
-        "Werteverzehr an Gütern und Dienstleistungen einer Periode, der das Eigenkapital mindert",
         "Nur Materialkosten",
-        "Investitionen in Anlagevermögen"
+        "Werteverzehr an Gütern und Dienstleistungen einer Periode, der das Eigenkapital mindert",
+        "Investitionen in Anlagevermögen",
+        "Nur Auszahlungen"
       ],
       "correct": 1,
       "explanation": "Aufwand ist der bewertete Güter- und Dienstleistungsverzehr einer Periode, der das Eigenkapital mindert. Er wird in der GuV erfasst und umfasst z.B. Materialaufwand, Personalaufwand, Abschreibungen.",
@@ -2826,12 +2826,12 @@
       "id": "bwh-189",
       "text": "Was ist der Unterschied zwischen Aufwand und Kosten?",
       "options": [
-        "Es gibt keinen Unterschied",
         "Aufwand ist ein pagatorischer Begriff der Finanzbuchhaltung, Kosten sind ein kalkulatorischer Begriff der Kostenrechnung",
+        "Aufwand betrifft nur Material",
         "Kosten sind immer höher als Aufwand",
-        "Aufwand betrifft nur Material"
+        "Es gibt keinen Unterschied"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Aufwand ist der periodenbezogene Werteverzehr in der Finanzbuchhaltung (GuV). Kosten sind der sachzielbezogene, bewertete Güterverzehr in der Kostenrechnung. Es gibt Unterschiede durch kalkulatorische Kosten und neutrale Aufwendungen.",
       "difficulty": 2,
       "topic": "Rechnungswesen",
@@ -2842,11 +2842,11 @@
       "text": "Was sind Rückstellungen in der Bilanz?",
       "options": [
         "Überschüssige Geldmittel",
-        "Passivposten für ungewisse Verbindlichkeiten dem Grunde oder der Höhe nach",
         "Einlagen der Gesellschafter",
+        "Passivposten für ungewisse Verbindlichkeiten dem Grunde oder der Höhe nach",
         "Aktive Rechnungsabgrenzungsposten"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Rückstellungen sind Passivposten für Verbindlichkeiten, die dem Grunde, der Höhe oder der Fälligkeit nach ungewiss sind (§ 249 HGB), z.B. Pensionsrückstellungen, Garantierückstellungen.",
       "difficulty": 2,
       "topic": "Rechnungswesen",
@@ -2856,12 +2856,12 @@
       "id": "bwh-191",
       "text": "Was besagt das Vorsichtsprinzip (§ 252 Abs. 1 Nr. 4 HGB)?",
       "options": [
-        "Gewinne sollen möglichst hoch ausgewiesen werden",
-        "Vermögensgegenstände sind im Zweifel eher niedriger, Schulden eher höher zu bewerten",
         "Alle Geschäftsvorfälle sind doppelt zu buchen",
-        "Der Jahresabschluss ist jährlich zu erstellen"
+        "Der Jahresabschluss ist jährlich zu erstellen",
+        "Vermögensgegenstände sind im Zweifel eher niedriger, Schulden eher höher zu bewerten",
+        "Gewinne sollen möglichst hoch ausgewiesen werden"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Das Vorsichtsprinzip verlangt, dass Vermögensgegenstände im Zweifel eher niedriger und Schulden eher höher zu bewerten sind. Es umfasst das Realisationsprinzip und das Imparitätsprinzip.",
       "difficulty": 2,
       "topic": "Rechnungswesen",
@@ -2871,10 +2871,10 @@
       "id": "bwh-192",
       "text": "Wie berechnet sich die Eigenkapitalrentabilität?",
       "options": [
-        "Eigenkapital / Gesamtkapital × 100",
+        "Fremdkapital / Eigenkapital × 100",
         "Gewinn / Eigenkapital × 100",
         "Umsatz / Eigenkapital × 100",
-        "Fremdkapital / Eigenkapital × 100"
+        "Eigenkapital / Gesamtkapital × 100"
       ],
       "correct": 1,
       "explanation": "Eigenkapitalrentabilität = Gewinn / Eigenkapital × 100. Sie zeigt die Verzinsung des von den Eigentümern eingesetzten Kapitals und ist eine zentrale Kennzahl für Investoren.",
@@ -2886,12 +2886,12 @@
       "id": "bwh-193",
       "text": "Was versteht man unter dem Niederstwertprinzip?",
       "options": [
-        "Vermögensgegenstände werden immer zum Anschaffungswert bilanziert",
         "Von mehreren möglichen Werten ist der niedrigste Wert für Vermögensgegenstände anzusetzen",
+        "Vermögensgegenstände werden immer zum Anschaffungswert bilanziert",
         "Schulden werden zum niedrigsten Wert angesetzt",
         "Der Gewinn wird minimiert"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Das Niederstwertprinzip ist eine Ausprägung des Vorsichtsprinzips. Bei Vermögensgegenständen ist von mehreren möglichen Werten der niedrigste anzusetzen. Im Umlaufvermögen gilt das strenge, im Anlagevermögen das gemilderte Niederstwertprinzip.",
       "difficulty": 3,
       "topic": "Rechnungswesen",
@@ -2901,12 +2901,12 @@
       "id": "bwh-194",
       "text": "Welche Aussage zur Kostenartenrechnung ist korrekt?",
       "options": [
-        "Sie ordnet Kosten den Produkten zu",
-        "Sie erfasst und gliedert alle angefallenen Kosten nach ihrer Art (Material, Personal, Abschreibungen etc.)",
+        "Sie berechnet den Verkaufspreis",
         "Sie verteilt Gemeinkosten auf Kostenstellen",
-        "Sie berechnet den Verkaufspreis"
+        "Sie erfasst und gliedert alle angefallenen Kosten nach ihrer Art (Material, Personal, Abschreibungen etc.)",
+        "Sie ordnet Kosten den Produkten zu"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Die Kostenartenrechnung beantwortet die Frage: Welche Kosten sind angefallen? Sie erfasst und gliedert alle Kosten systematisch nach Kostenarten wie Materialkosten, Personalkosten, Abschreibungen etc.",
       "difficulty": 1,
       "topic": "Rechnungswesen",
@@ -2916,12 +2916,12 @@
       "id": "bwh-195",
       "text": "Was ist die Aufgabe der Kostenstellenrechnung?",
       "options": [
-        "Ermittlung der Kostenarten",
         "Verteilung der Gemeinkosten auf die Orte ihrer Entstehung (Kostenstellen)",
+        "Ermittlung der Kostenarten",
         "Kalkulation der Stückkosten",
         "Erstellung der Bilanz"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Die Kostenstellenrechnung beantwortet die Frage: Wo sind die Kosten angefallen? Sie verteilt die Gemeinkosten mithilfe des Betriebsabrechnungsbogens (BAB) auf die einzelnen Kostenstellen.",
       "difficulty": 1,
       "topic": "Rechnungswesen",
@@ -2946,12 +2946,12 @@
       "id": "bwh-197",
       "text": "Was ist eine Rechnungsabgrenzung?",
       "options": [
-        "Die Trennung von Aufwand und Ertrag nach ihrer zeitlichen Zugehörigkeit zu einer Rechnungsperiode",
-        "Die Abgrenzung zwischen Finanzbuchhaltung und Kostenrechnung",
         "Die Unterscheidung von Ein- und Auszahlungen",
-        "Die Trennung von Anlage- und Umlaufvermögen"
+        "Die Abgrenzung zwischen Finanzbuchhaltung und Kostenrechnung",
+        "Die Trennung von Anlage- und Umlaufvermögen",
+        "Die Trennung von Aufwand und Ertrag nach ihrer zeitlichen Zugehörigkeit zu einer Rechnungsperiode"
       ],
-      "correct": 0,
+      "correct": 3,
       "explanation": "Rechnungsabgrenzungsposten (RAP) dienen der periodengerechten Zuordnung von Einnahmen und Ausgaben. Aktive RAP entstehen bei Vorauszahlungen, passive RAP bei Vorabeinnahmen (§ 250 HGB).",
       "difficulty": 2,
       "topic": "Rechnungswesen",
@@ -2961,12 +2961,12 @@
       "id": "bwh-198",
       "text": "Welche Abschreibungsmethode führt zu einem gleichmäßigen Werteverzehr über die Nutzungsdauer?",
       "options": [
-        "Degressive Abschreibung",
-        "Lineare Abschreibung",
+        "Progressive Abschreibung",
         "Leistungsabhängige Abschreibung",
-        "Progressive Abschreibung"
+        "Degressive Abschreibung",
+        "Lineare Abschreibung"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Die lineare Abschreibung verteilt die Anschaffungs- oder Herstellungskosten gleichmäßig über die Nutzungsdauer. Der jährliche Abschreibungsbetrag ist konstant: Anschaffungskosten / Nutzungsdauer.",
       "difficulty": 1,
       "topic": "Rechnungswesen",
@@ -2978,8 +2978,8 @@
       "options": [
         "Freiwillige Empfehlungen für die Buchführung",
         "Gesetzlich verankerte und aus Praxis/Wissenschaft abgeleitete Regeln für eine ordnungsgemäße Buchführung",
-        "Internationale Rechnungslegungsstandards",
-        "Steuerliche Sonderregelungen"
+        "Steuerliche Sonderregelungen",
+        "Internationale Rechnungslegungsstandards"
       ],
       "correct": 1,
       "explanation": "Die GoB sind teils gesetzlich kodifiziert (§§ 238 ff. HGB), teils aus Praxis und Wissenschaft abgeleitet. Sie umfassen u.a. Klarheit, Übersichtlichkeit, Vollständigkeit, Richtigkeit und den Grundsatz der Periodenabgrenzung.",

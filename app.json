@@ -18,7 +18,8 @@
       "buildNumber": "1",
       "infoPlist": {
         "CFBundleDisplayName": "BQ Prüfung",
-        "NSUserTrackingUsageDescription": "Diese App verwendet kein Tracking."
+        "NSUserTrackingUsageDescription": "Diese App verwendet kein Tracking.",
+        "ITSAppUsesNonExemptEncryption": false
       }
     },
     "android": {
@@ -34,8 +35,9 @@
     },
     "extra": {
       "eas": {
-        "projectId": ""
+        "projectId": "7efd5258-8b45-425e-a813-088985ac0ee6"
       }
-    }
+    },
+    "owner": "dascstudio"
   }
 }

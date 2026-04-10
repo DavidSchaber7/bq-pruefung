@@ -6,10 +6,10 @@
       "id": "rbh-001",
       "text": "Welche Kündigungsfrist gilt während der Probezeit gemäß § 622 BGB?",
       "options": [
-        "1 Woche",
-        "2 Wochen",
         "4 Wochen",
-        "6 Wochen"
+        "2 Wochen",
+        "6 Wochen",
+        "1 Woche"
       ],
       "correct": 1,
       "explanation": "Gemäß § 622 Abs. 3 BGB kann das Arbeitsverhältnis während einer vereinbarten Probezeit (max. 6 Monate) mit einer Frist von 2 Wochen gekündigt werden.",
@@ -21,12 +21,12 @@
       "id": "rbh-002",
       "text": "Wie lang darf die Probezeit bei einem Ausbildungsverhältnis höchstens dauern?",
       "options": [
-        "1 Monat",
-        "2 Monate",
+        "4 Monate",
         "3 Monate",
-        "4 Monate"
+        "1 Monat",
+        "2 Monate"
       ],
-      "correct": 3,
+      "correct": 0,
       "explanation": "Nach § 20 BBiG muss die Probezeit mindestens 1 Monat und darf höchstens 4 Monate betragen.",
       "difficulty": 2,
       "topic": "Arbeitsvertragsrecht",
@@ -36,12 +36,12 @@
       "id": "rbh-003",
       "text": "Ab welcher Betriebszugehörigkeit beträgt die Kündigungsfrist 2 Monate zum Monatsende?",
       "options": [
-        "2 Jahre",
         "5 Jahre",
+        "10 Jahre",
         "8 Jahre",
-        "10 Jahre"
+        "2 Jahre"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Nach § 622 Abs. 2 Nr. 2 BGB beträgt die Kündigungsfrist nach 5 Jahren Betriebszugehörigkeit 2 Monate zum Ende eines Kalendermonats.",
       "difficulty": 2,
       "topic": "Arbeitsvertragsrecht",
@@ -51,12 +51,12 @@
       "id": "rbh-004",
       "text": "Was ist ein wesentlicher Bestandteil eines Arbeitsvertrages?",
       "options": [
-        "Dienstwagenregelung",
         "Vereinbarung über die Arbeitsleistung",
         "Regelung zur Altersvorsorge",
+        "Dienstwagenregelung",
         "Überstundenpauschale"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Ein Arbeitsvertrag muss die wesentlichen Vertragsbedingungen enthalten, insbesondere die Art der zu leistenden Arbeit (§ 2 NachwG).",
       "difficulty": 1,
       "topic": "Arbeitsvertragsrecht",
@@ -66,12 +66,12 @@
       "id": "rbh-005",
       "text": "Welche Aussage zur Befristung eines Arbeitsvertrages ist richtig?",
       "options": [
-        "Eine Befristung bedarf keiner Form",
         "Eine Befristung bedarf der Schriftform",
         "Eine Befristung ist mündlich wirksam",
-        "Eine Befristung kann per E-Mail vereinbart werden"
+        "Eine Befristung kann per E-Mail vereinbart werden",
+        "Eine Befristung bedarf keiner Form"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Nach § 14 Abs. 4 TzBfG bedarf die Befristung eines Arbeitsvertrages zu ihrer Wirksamkeit der Schriftform.",
       "difficulty": 2,
       "topic": "Arbeitsvertragsrecht",
@@ -81,10 +81,10 @@
       "id": "rbh-006",
       "text": "Wie lange darf ein sachgrundlos befristeter Arbeitsvertrag maximal dauern?",
       "options": [
-        "6 Monate",
         "1 Jahr",
+        "3 Jahre",
         "2 Jahre",
-        "3 Jahre"
+        "6 Monate"
       ],
       "correct": 2,
       "explanation": "Gemäß § 14 Abs. 2 TzBfG ist die kalendermäßige Befristung ohne Sachgrund bis zur Dauer von 2 Jahren zulässig.",
@@ -96,9 +96,9 @@
       "id": "rbh-007",
       "text": "Welche Form muss eine Kündigung haben?",
       "options": [
-        "Mündlich",
-        "Schriftform",
         "Textform",
+        "Schriftform",
+        "Mündlich",
         "Elektronische Form"
       ],
       "correct": 1,
@@ -111,12 +111,12 @@
       "id": "rbh-008",
       "text": "Was versteht man unter dem Direktionsrecht des Arbeitgebers?",
       "options": [
-        "Das Recht, den Betriebsrat zu leiten",
         "Das Weisungsrecht bezüglich Art, Ort und Zeit der Arbeit",
-        "Das Recht, Löhne einseitig festzusetzen",
-        "Das Recht, Verträge ohne Zustimmung zu ändern"
+        "Das Recht, Verträge ohne Zustimmung zu ändern",
+        "Das Recht, den Betriebsrat zu leiten",
+        "Das Recht, Löhne einseitig festzusetzen"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Das Direktionsrecht (§ 106 GewO) ermöglicht dem Arbeitgeber, Inhalt, Ort und Zeit der Arbeitsleistung nach billigem Ermessen näher zu bestimmen.",
       "difficulty": 2,
       "topic": "Arbeitsvertragsrecht",
@@ -127,8 +127,8 @@
       "text": "Welche Angabe muss NICHT im Arbeitsvertrag nach dem Nachweisgesetz stehen?",
       "options": [
         "Beginn des Arbeitsverhältnisses",
-        "Zusammensetzung des Arbeitsentgelts",
         "Dauer des Erholungsurlaubs",
+        "Zusammensetzung des Arbeitsentgelts",
         "Name des Betriebsarztes"
       ],
       "correct": 3,
@@ -141,12 +141,12 @@
       "id": "rbh-010",
       "text": "Wann ist eine Änderungskündigung erforderlich?",
       "options": [
-        "Bei einer Gehaltserhöhung",
-        "Bei einseitiger Änderung wesentlicher Arbeitsbedingungen",
         "Bei Versetzung im Rahmen des Direktionsrechts",
-        "Bei einvernehmlicher Vertragsänderung"
+        "Bei einvernehmlicher Vertragsänderung",
+        "Bei einer Gehaltserhöhung",
+        "Bei einseitiger Änderung wesentlicher Arbeitsbedingungen"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Eine Änderungskündigung ist nötig, wenn der Arbeitgeber wesentliche Vertragsbedingungen ändern will, die nicht vom Direktionsrecht gedeckt sind.",
       "difficulty": 2,
       "topic": "Arbeitsvertragsrecht",
@@ -156,10 +156,10 @@
       "id": "rbh-011",
       "text": "Wie viele Stunden beträgt die werktägliche Höchstarbeitszeit nach dem ArbZG?",
       "options": [
-        "6 Stunden",
-        "8 Stunden",
         "10 Stunden",
-        "12 Stunden"
+        "8 Stunden",
+        "12 Stunden",
+        "6 Stunden"
       ],
       "correct": 1,
       "explanation": "Nach § 3 ArbZG darf die werktägliche Arbeitszeit 8 Stunden nicht überschreiten, kann aber auf 10 Stunden verlängert werden.",
@@ -171,12 +171,12 @@
       "id": "rbh-012",
       "text": "Ein Arbeitnehmer ist seit 8 Monaten beschäftigt. Welche Kündigungsfrist gilt?",
       "options": [
-        "2 Wochen",
-        "4 Wochen zum 15. oder Monatsende",
+        "6 Wochen zum Quartalsende",
         "1 Monat zum Monatsende",
-        "6 Wochen zum Quartalsende"
+        "4 Wochen zum 15. oder Monatsende",
+        "2 Wochen"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Nach § 622 Abs. 1 BGB beträgt die Grundkündigungsfrist 4 Wochen zum 15. oder zum Ende eines Kalendermonats.",
       "difficulty": 2,
       "topic": "Arbeitsvertragsrecht",
@@ -186,10 +186,10 @@
       "id": "rbh-013",
       "text": "Welche Pflicht hat der Arbeitnehmer bei Arbeitsunfähigkeit?",
       "options": [
-        "Sofortige Rückkehr",
+        "Keine Mitteilungspflicht",
         "Unverzügliche Anzeige und AU-Vorlage",
-        "Mitteilung erst nach 3 Tagen",
-        "Keine Mitteilungspflicht"
+        "Sofortige Rückkehr",
+        "Mitteilung erst nach 3 Tagen"
       ],
       "correct": 1,
       "explanation": "Nach § 5 EFZG muss der Arbeitnehmer die Arbeitsunfähigkeit und deren voraussichtliche Dauer unverzüglich mitteilen.",
@@ -201,12 +201,12 @@
       "id": "rbh-014",
       "text": "Wie lange besteht Anspruch auf Entgeltfortzahlung im Krankheitsfall?",
       "options": [
-        "2 Wochen",
-        "4 Wochen",
         "6 Wochen",
-        "8 Wochen"
+        "8 Wochen",
+        "4 Wochen",
+        "2 Wochen"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": "Gemäß § 3 EFZG besteht ein Anspruch auf Entgeltfortzahlung für bis zu 6 Wochen.",
       "difficulty": 1,
       "topic": "Arbeitsvertragsrecht",
@@ -218,10 +218,10 @@
       "options": [
         "Sofort",
         "Nach 2 Wochen",
-        "Nach 4 Wochen ununterbrochener Beschäftigung",
-        "Nach 3 Monaten"
+        "Nach 3 Monaten",
+        "Nach 4 Wochen ununterbrochener Beschäftigung"
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": "Nach § 3 Abs. 3 EFZG entsteht der Anspruch erst nach 4 Wochen ununterbrochener Dauer des Arbeitsverhältnisses.",
       "difficulty": 2,
       "topic": "Arbeitsvertragsrecht",
@@ -231,12 +231,12 @@
       "id": "rbh-016",
       "text": "Was versteht man unter einer Gratifikation?",
       "options": [
+        "Abfindung bei Kündigung",
         "Regelmäßige Gehaltszahlung",
-        "Sonderzuwendung des Arbeitgebers",
         "Gesetzlich vorgeschriebene Zahlung",
-        "Abfindung bei Kündigung"
+        "Sonderzuwendung des Arbeitgebers"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Eine Gratifikation ist eine freiwillige Sonderzuwendung des Arbeitgebers, z.B. Weihnachtsgeld.",
       "difficulty": 1,
       "topic": "Arbeitsvertragsrecht",
@@ -246,12 +246,12 @@
       "id": "rbh-017",
       "text": "Wie hoch ist der gesetzliche Mindesturlaub bei einer 5-Tage-Woche?",
       "options": [
-        "15 Arbeitstage",
         "20 Arbeitstage",
+        "30 Arbeitstage",
         "24 Arbeitstage",
-        "30 Arbeitstage"
+        "15 Arbeitstage"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Der gesetzliche Mindesturlaub beträgt 24 Werktage (§ 3 BUrlG), was bei einer 5-Tage-Woche 20 Arbeitstagen entspricht.",
       "difficulty": 2,
       "topic": "Arbeitsvertragsrecht",
@@ -261,12 +261,12 @@
       "id": "rbh-018",
       "text": "Wann verfällt grundsätzlich der Urlaubsanspruch?",
       "options": [
-        "Am 31. Dezember des laufenden Jahres",
         "Am 31. März des Folgejahres",
-        "Er verfällt nie",
-        "Nach 6 Monaten"
+        "Nach 6 Monaten",
+        "Am 31. Dezember des laufenden Jahres",
+        "Er verfällt nie"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": "Grundsätzlich muss Urlaub im laufenden Kalenderjahr genommen werden (§ 7 Abs. 3 BUrlG).",
       "difficulty": 2,
       "topic": "Arbeitsvertragsrecht",
@@ -276,12 +276,12 @@
       "id": "rbh-019",
       "text": "Was ist eine wesentliche Nebenpflicht des Arbeitnehmers?",
       "options": [
-        "Pflicht zur Mehrarbeit",
-        "Treuepflicht und Verschwiegenheitspflicht",
+        "Pflicht zur Weiterbildung auf eigene Kosten",
         "Pflicht zur Übernahme fremder Aufgaben",
-        "Pflicht zur Weiterbildung auf eigene Kosten"
+        "Treuepflicht und Verschwiegenheitspflicht",
+        "Pflicht zur Mehrarbeit"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Neben der Hauptleistungspflicht hat der Arbeitnehmer Nebenpflichten wie Treue- und Verschwiegenheitspflicht.",
       "difficulty": 1,
       "topic": "Arbeitsvertragsrecht",
@@ -307,11 +307,11 @@
       "text": "Was gilt bei einem mündlich geschlossenen Arbeitsvertrag?",
       "options": [
         "Er ist unwirksam",
-        "Er ist grundsätzlich wirksam",
         "Er gilt nur befristet",
-        "Er muss in 3 Tagen bestätigt werden"
+        "Er muss in 3 Tagen bestätigt werden",
+        "Er ist grundsätzlich wirksam"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Ein Arbeitsvertrag kann grundsätzlich auch mündlich wirksam geschlossen werden. Nur die Befristung bedarf der Schriftform.",
       "difficulty": 2,
       "topic": "Arbeitsvertragsrecht",
@@ -322,11 +322,11 @@
       "text": "Welches Gesetz regelt die Teilzeitarbeit?",
       "options": [
         "ArbZG",
-        "TzBfG",
+        "KSchG",
         "BetrVG",
-        "KSchG"
+        "TzBfG"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Das Teilzeit- und Befristungsgesetz (TzBfG) regelt Teilzeitarbeit und Befristung von Arbeitsverträgen.",
       "difficulty": 1,
       "topic": "Arbeitsvertragsrecht",
@@ -336,12 +336,12 @@
       "id": "rbh-023",
       "text": "Wann liegt Scheinselbstständigkeit vor?",
       "options": [
-        "Bei mehreren Auftraggebern",
         "Wenn ein vermeintlich Selbstständiger wie ein Arbeitnehmer eingegliedert ist",
+        "Wenn Rechnungen gestellt werden",
         "Bei nebenberuflicher Selbstständigkeit",
-        "Wenn Rechnungen gestellt werden"
+        "Bei mehreren Auftraggebern"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Scheinselbstständigkeit liegt vor, wenn jemand formal als Selbstständiger, tatsächlich aber weisungsgebunden und eingegliedert arbeitet.",
       "difficulty": 2,
       "topic": "Arbeitsvertragsrecht",
@@ -351,12 +351,12 @@
       "id": "rbh-024",
       "text": "Welche Karenzentschädigung ist für ein nachvertragliches Wettbewerbsverbot nötig?",
       "options": [
-        "25% des letzten Gehalts",
-        "50% des letzten Gehalts",
         "75% des letzten Gehalts",
-        "100% des letzten Gehalts"
+        "100% des letzten Gehalts",
+        "25% des letzten Gehalts",
+        "50% des letzten Gehalts"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Ein nachvertragliches Wettbewerbsverbot (§§ 74 ff. HGB) erfordert eine Karenzentschädigung von mindestens 50%.",
       "difficulty": 3,
       "topic": "Arbeitsvertragsrecht",
@@ -366,12 +366,12 @@
       "id": "rbh-025",
       "text": "Welche Folge hat ein Verstoß gegen das Maßregelungsverbot?",
       "options": [
+        "Nur Verwarnung",
         "Keine Folge",
         "Die Maßregelung ist unwirksam",
-        "Nur Verwarnung",
         "Bußgeld für den Arbeitgeber"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Ein Verstoß gegen § 612a BGB (Maßregelungsverbot) führt zur Unwirksamkeit der Maßnahme.",
       "difficulty": 3,
       "topic": "Arbeitsvertragsrecht",
@@ -381,12 +381,12 @@
       "id": "rbh-026",
       "text": "Ab wie vielen wahlberechtigten Arbeitnehmern kann ein Betriebsrat gewählt werden?",
       "options": [
-        "3",
         "5",
-        "10",
-        "20"
+        "20",
+        "3",
+        "10"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Gemäß § 1 BetrVG werden in Betrieben mit mindestens 5 ständigen wahlberechtigten Arbeitnehmern Betriebsräte gewählt.",
       "difficulty": 1,
       "topic": "Betriebsverfassungsgesetz",
@@ -396,12 +396,12 @@
       "id": "rbh-027",
       "text": "Wie oft wird der Betriebsrat regulär gewählt?",
       "options": [
-        "Jedes Jahr",
-        "Alle 2 Jahre",
+        "Alle 5 Jahre",
         "Alle 4 Jahre",
-        "Alle 5 Jahre"
+        "Alle 2 Jahre",
+        "Jedes Jahr"
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation": "Die regelmäßigen Betriebsratswahlen finden alle 4 Jahre statt (§ 13 Abs. 1 BetrVG).",
       "difficulty": 1,
       "topic": "Betriebsverfassungsgesetz",
@@ -411,12 +411,12 @@
       "id": "rbh-028",
       "text": "Bei welcher Angelegenheit hat der Betriebsrat zwingendes Mitbestimmungsrecht?",
       "options": [
-        "Einstellung von Führungskräften",
         "Festlegung der Arbeitszeit",
-        "Unternehmensstrategie",
-        "Produktentwicklung"
+        "Produktentwicklung",
+        "Einstellung von Führungskräften",
+        "Unternehmensstrategie"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Nach § 87 Abs. 1 Nr. 2 BetrVG hat der Betriebsrat zwingendes Mitbestimmungsrecht bei Beginn und Ende der täglichen Arbeitszeit.",
       "difficulty": 1,
       "topic": "Betriebsverfassungsgesetz",
@@ -426,10 +426,10 @@
       "id": "rbh-029",
       "text": "Was ist eine Betriebsvereinbarung?",
       "options": [
-        "Ein individueller Arbeitsvertrag",
+        "Eine tarifvertragliche Regelung",
         "Eine Vereinbarung zwischen Arbeitgeber und Betriebsrat mit normativer Wirkung",
-        "Eine Absprache zwischen Arbeitnehmern",
-        "Eine tarifvertragliche Regelung"
+        "Ein individueller Arbeitsvertrag",
+        "Eine Absprache zwischen Arbeitnehmern"
       ],
       "correct": 1,
       "explanation": "Eine Betriebsvereinbarung ist ein schriftlicher Vertrag zwischen AG und BR mit unmittelbarer und zwingender Wirkung (§ 77 BetrVG).",
@@ -456,12 +456,12 @@
       "id": "rbh-031",
       "text": "Wie viele BR-Mitglieder hat ein Betrieb mit 150 Arbeitnehmern?",
       "options": [
-        "3",
-        "5",
         "7",
-        "9"
+        "3",
+        "9",
+        "5"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": "Nach § 9 BetrVG besteht der BR bei 101-200 Arbeitnehmern aus 7 Mitgliedern.",
       "difficulty": 2,
       "topic": "Betriebsverfassungsgesetz",
@@ -472,11 +472,11 @@
       "text": "Was ist die Einigungsstelle?",
       "options": [
         "Ein Arbeitsgericht",
-        "Eine innerbetriebliche Schlichtungsstelle zwischen AG und BR",
+        "Eine Gewerkschaftsabteilung",
         "Eine behördliche Aufsichtsstelle",
-        "Eine Gewerkschaftsabteilung"
+        "Eine innerbetriebliche Schlichtungsstelle zwischen AG und BR"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Die Einigungsstelle (§ 76 BetrVG) ist eine innerbetriebliche Schlichtungsstelle bei Nichteinigung zwischen AG und BR.",
       "difficulty": 2,
       "topic": "Betriebsverfassungsgesetz",
@@ -501,12 +501,12 @@
       "id": "rbh-034",
       "text": "Welches Recht hat der BR bei Einstellungen (ab 21 AN)?",
       "options": [
-        "Vetorecht",
         "Zustimmungsverweigerungsrecht",
-        "Anhörungsrecht",
-        "Kein Recht"
+        "Kein Recht",
+        "Vetorecht",
+        "Anhörungsrecht"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Der BR hat nach § 99 BetrVG bei Einstellungen in Betrieben mit mehr als 20 AN ein Zustimmungsverweigerungsrecht.",
       "difficulty": 2,
       "topic": "Betriebsverfassungsgesetz",
@@ -516,12 +516,12 @@
       "id": "rbh-035",
       "text": "Was ist eine Betriebsversammlung?",
       "options": [
-        "Versammlung aller AN, einberufen durch den BR",
         "Sitzung der Geschäftsführung",
         "Gewerkschaftsversammlung im Betrieb",
+        "Versammlung aller AN, einberufen durch den BR",
         "Versammlung der Abteilungsleiter"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": "Die Betriebsversammlung wird vom BR mindestens vierteljährlich einberufen (§ 43 BetrVG).",
       "difficulty": 1,
       "topic": "Betriebsverfassungsgesetz",
@@ -531,12 +531,12 @@
       "id": "rbh-036",
       "text": "Welche Aufgabe hat der Wirtschaftsausschuss?",
       "options": [
-        "Festlegung der Gehälter",
         "Beratung über wirtschaftliche Angelegenheiten",
         "Kontrolle der Buchhaltung",
-        "Genehmigung von Investitionen"
+        "Genehmigung von Investitionen",
+        "Festlegung der Gehälter"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Der Wirtschaftsausschuss (§ 106 BetrVG) berät wirtschaftliche Angelegenheiten mit dem Unternehmer.",
       "difficulty": 2,
       "topic": "Betriebsverfassungsgesetz",
@@ -546,12 +546,12 @@
       "id": "rbh-037",
       "text": "Ab welcher Betriebsgröße wird ein Wirtschaftsausschuss gebildet?",
       "options": [
-        "50 AN",
         "100 AN",
+        "50 AN",
         "200 AN",
         "500 AN"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Nach § 106 BetrVG ist ab 100 ständig beschäftigten AN ein Wirtschaftsausschuss zu bilden.",
       "difficulty": 2,
       "topic": "Betriebsverfassungsgesetz",
@@ -562,11 +562,11 @@
       "text": "Was bedeutet vertrauensvolle Zusammenarbeit nach § 2 BetrVG?",
       "options": [
         "BR muss allem zustimmen",
-        "AG und BR arbeiten zum Wohl der AN zusammen",
         "AG bestimmt allein",
+        "AG und BR arbeiten zum Wohl der AN zusammen",
         "BR hat unbegrenzte Rechte"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "§ 2 Abs. 1 BetrVG verpflichtet AG und BR zur vertrauensvollen Zusammenarbeit zum Wohl der AN und des Betriebs.",
       "difficulty": 1,
       "topic": "Betriebsverfassungsgesetz",
@@ -576,12 +576,12 @@
       "id": "rbh-039",
       "text": "Welches Gremium vertritt Jugendliche und Azubis?",
       "options": [
-        "Der BR allein",
         "Die JAV",
-        "Der Personalrat",
-        "Die Gewerkschaft"
+        "Der BR allein",
+        "Die Gewerkschaft",
+        "Der Personalrat"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Die JAV (§§ 60 ff. BetrVG) vertritt die besonderen Interessen der jugendlichen AN und Auszubildenden.",
       "difficulty": 1,
       "topic": "Betriebsverfassungsgesetz",
@@ -591,10 +591,10 @@
       "id": "rbh-040",
       "text": "Wann kann der BR die Zustimmung zu einer Einstellung verweigern?",
       "options": [
-        "Wenn der Bewerber unsympathisch ist",
+        "Wenn der Bewerber keiner Gewerkschaft angehört",
         "Bei Verstoß gegen Gesetz oder Betriebsvereinbarung",
         "Wenn der BR grundsätzlich dagegen ist",
-        "Wenn der Bewerber keiner Gewerkschaft angehört"
+        "Wenn der Bewerber unsympathisch ist"
       ],
       "correct": 1,
       "explanation": "Nach § 99 Abs. 2 BetrVG kann der BR die Zustimmung u.a. bei Gesetzesverstößen verweigern.",
@@ -606,10 +606,10 @@
       "id": "rbh-041",
       "text": "Was ist ein Sozialplan?",
       "options": [
-        "Plan zur Sozialversicherung",
+        "Gehaltstabelle",
         "Vereinbarung zum Ausgleich wirtschaftlicher Nachteile bei Betriebsänderungen",
-        "Urlaubsplan",
-        "Gehaltstabelle"
+        "Plan zur Sozialversicherung",
+        "Urlaubsplan"
       ],
       "correct": 1,
       "explanation": "Ein Sozialplan (§ 112 BetrVG) regelt den Ausgleich wirtschaftlicher Nachteile bei Betriebsänderungen.",
@@ -621,9 +621,9 @@
       "id": "rbh-042",
       "text": "Was regelt ein Interessenausgleich?",
       "options": [
-        "Die Gehälter",
-        "Ob, wann und wie eine Betriebsänderung durchgeführt wird",
         "Urlaubsansprüche",
+        "Ob, wann und wie eine Betriebsänderung durchgeführt wird",
+        "Die Gehälter",
         "Arbeitszeitmodelle"
       ],
       "correct": 1,
@@ -636,10 +636,10 @@
       "id": "rbh-043",
       "text": "Welche Betriebsänderung ist nach § 111 BetrVG mitbestimmungspflichtig?",
       "options": [
-        "Einstellung eines Mitarbeiters",
+        "Wechsel des Steuerberaters",
         "Stilllegung wesentlicher Betriebsteile",
         "Änderung des Firmenschilds",
-        "Wechsel des Steuerberaters"
+        "Einstellung eines Mitarbeiters"
       ],
       "correct": 1,
       "explanation": "§ 111 BetrVG nennt u.a. die Stilllegung des ganzen Betriebs oder wesentlicher Betriebsteile.",
@@ -651,12 +651,12 @@
       "id": "rbh-044",
       "text": "Darf ein BR-Mitglied wegen seiner Tätigkeit benachteiligt werden?",
       "options": [
+        "Ja, bei Pflichtverletzungen",
         "Ja, bei schlechter Arbeitsleistung",
-        "Nein, das ist nach § 78 BetrVG verboten",
         "Nur mit Genehmigung",
-        "Ja, bei Pflichtverletzungen"
+        "Nein, das ist nach § 78 BetrVG verboten"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "§ 78 BetrVG verbietet die Benachteiligung von BR-Mitgliedern wegen ihrer Tätigkeit.",
       "difficulty": 1,
       "topic": "Betriebsverfassungsgesetz",
@@ -666,12 +666,12 @@
       "id": "rbh-045",
       "text": "Was ist das Initiativrecht des Betriebsrats?",
       "options": [
-        "Recht, den AG zu entlassen",
         "Recht, selbst Maßnahmen vorzuschlagen",
-        "Recht auf Gehaltseinsicht",
-        "Recht auf eigenes Büro"
+        "Recht, den AG zu entlassen",
+        "Recht auf eigenes Büro",
+        "Recht auf Gehaltseinsicht"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Das Initiativrecht ermöglicht dem BR, von sich aus Vorschläge zu machen und Verhandlungen einzuleiten.",
       "difficulty": 2,
       "topic": "Betriebsverfassungsgesetz",
@@ -681,12 +681,12 @@
       "id": "rbh-046",
       "text": "Wer trägt die Kosten der Betriebsratstätigkeit?",
       "options": [
-        "Die BR-Mitglieder",
-        "Der Arbeitgeber",
         "Die Gewerkschaft",
-        "Die Arbeitnehmer"
+        "Die BR-Mitglieder",
+        "Die Arbeitnehmer",
+        "Der Arbeitgeber"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Nach § 40 BetrVG trägt der Arbeitgeber die Kosten der BR-Tätigkeit.",
       "difficulty": 1,
       "topic": "Betriebsverfassungsgesetz",
@@ -696,10 +696,10 @@
       "id": "rbh-047",
       "text": "Darf der Betriebsrat zum Streik aufrufen?",
       "options": [
-        "Ja, jederzeit",
+        "Nur in Notfällen",
         "Nein, er unterliegt der Friedenspflicht",
         "Nur mit Zustimmung aller AN",
-        "Nur in Notfällen"
+        "Ja, jederzeit"
       ],
       "correct": 1,
       "explanation": "Der BR unterliegt der Friedenspflicht (§ 74 Abs. 2 BetrVG) und darf keine Arbeitskampfmaßnahmen durchführen.",
@@ -711,12 +711,12 @@
       "id": "rbh-048",
       "text": "Ab wie vielen AN ist ein BR-Mitglied freizustellen?",
       "options": [
-        "Ab 200 AN",
         "Ab 300 AN",
         "Ab 500 AN",
+        "Ab 200 AN",
         "Ab 1000 AN"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": "Nach § 38 BetrVG ist ab 200 AN ein BR-Mitglied von der Arbeit freizustellen.",
       "difficulty": 2,
       "topic": "Betriebsverfassungsgesetz",
@@ -726,12 +726,12 @@
       "id": "rbh-049",
       "text": "Welches Mitbestimmungsrecht hat der BR bei Überstunden?",
       "options": [
+        "Nur Anhörungsrecht",
         "Keines",
         "Informationsrecht",
-        "Zwingendes Mitbestimmungsrecht",
-        "Nur Anhörungsrecht"
+        "Zwingendes Mitbestimmungsrecht"
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": "Überstunden unterliegen dem zwingenden Mitbestimmungsrecht nach § 87 Abs. 1 Nr. 3 BetrVG.",
       "difficulty": 2,
       "topic": "Betriebsverfassungsgesetz",
@@ -741,12 +741,12 @@
       "id": "rbh-050",
       "text": "Was passiert bei mitbestimmungspflichtiger Maßnahme ohne BR-Beteiligung?",
       "options": [
-        "Nichts",
         "Die Maßnahme ist unwirksam",
         "BR kann nur protestieren",
-        "Nur Verwarnung"
+        "Nur Verwarnung",
+        "Nichts"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Maßnahmen in zwingenden Mitbestimmungsangelegenheiten ohne BR-Beteiligung sind unwirksam.",
       "difficulty": 3,
       "topic": "Betriebsverfassungsgesetz",
@@ -756,10 +756,10 @@
       "id": "rbh-051",
       "text": "Wer ist für die Durchführung der Gefährdungsbeurteilung verantwortlich?",
       "options": [
-        "Fachkraft für Arbeitssicherheit",
+        "Betriebsrat",
         "Betriebsarzt",
         "Arbeitgeber",
-        "Betriebsrat"
+        "Fachkraft für Arbeitssicherheit"
       ],
       "correct": 2,
       "explanation": "Nach § 5 ArbSchG ist der Arbeitgeber verpflichtet, eine Beurteilung der Arbeitsbedingungen durchzuführen.",
@@ -771,12 +771,12 @@
       "id": "rbh-052",
       "text": "In welchen Abständen muss eine Unterweisung der Beschäftigten erfolgen?",
       "options": [
-        "Alle 6 Monate",
         "Mindestens einmal jährlich",
+        "Nur bei Neueinstellung",
         "Alle 2 Jahre",
-        "Nur bei Neueinstellung"
+        "Alle 6 Monate"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Nach § 12 ArbSchG muss die Unterweisung bei der Einstellung, bei Veränderungen und danach mindestens jährlich wiederholt werden.",
       "difficulty": 1,
       "topic": "Arbeitsschutzrecht",
@@ -787,11 +787,11 @@
       "text": "Was regelt das Arbeitssicherheitsgesetz (ASiG)?",
       "options": [
         "Arbeitszeiten",
-        "Bestellung von Betriebsärzten und Fachkräften für Arbeitssicherheit",
+        "Urlaubsansprüche",
         "Kündigungsfristen",
-        "Urlaubsansprüche"
+        "Bestellung von Betriebsärzten und Fachkräften für Arbeitssicherheit"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Das ASiG regelt die Bestellung von Betriebsärzten und Fachkräften für Arbeitssicherheit zur Unterstützung des Arbeitgebers.",
       "difficulty": 1,
       "topic": "Arbeitsschutzrecht",
@@ -802,11 +802,11 @@
       "text": "Wie viele Sicherheitsbeauftragte muss ein Betrieb ab 20 AN bestellen?",
       "options": [
         "Keinen",
-        "Mindestens einen",
         "Mindestens zwei",
-        "Mindestens drei"
+        "Mindestens drei",
+        "Mindestens einen"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Nach § 22 SGB VII hat der Unternehmer ab 20 Beschäftigten mindestens einen Sicherheitsbeauftragten zu bestellen.",
       "difficulty": 2,
       "topic": "Arbeitsschutzrecht",
@@ -816,12 +816,12 @@
       "id": "rbh-055",
       "text": "Was ist der Arbeitsschutzausschuss (ASA)?",
       "options": [
+        "Eine Abteilung der Berufsgenossenschaft",
         "Ein Ausschuss des Betriebsrats",
-        "Ein Gremium das über Arbeitsschutz berät und mindestens vierteljährlich tagt",
         "Ein behördliches Kontrollgremium",
-        "Eine Abteilung der Berufsgenossenschaft"
+        "Ein Gremium das über Arbeitsschutz berät und mindestens vierteljährlich tagt"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Der ASA (§ 11 ASiG) berät über Arbeitsschutz und tagt mindestens vierteljährlich.",
       "difficulty": 2,
       "topic": "Arbeitsschutzrecht",
@@ -832,11 +832,11 @@
       "text": "Welches Dokument muss bei der Gefährdungsbeurteilung erstellt werden?",
       "options": [
         "Ein Arbeitsvertrag",
+        "Eine Gewerbeanmeldung",
         "Eine schriftliche Dokumentation der Ergebnisse",
-        "Ein Betriebsratsbeschluss",
-        "Eine Gewerbeanmeldung"
+        "Ein Betriebsratsbeschluss"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Nach § 6 ArbSchG muss der Arbeitgeber die Ergebnisse der Gefährdungsbeurteilung dokumentieren.",
       "difficulty": 1,
       "topic": "Arbeitsschutzrecht",
@@ -861,12 +861,12 @@
       "id": "rbh-058",
       "text": "Was sind persönliche Schutzausrüstungen (PSA)?",
       "options": [
-        "Private Arbeitskleidung",
         "Vom AG bereitgestellte Ausrüstung zum Schutz gegen Gefährdungen",
         "Schutzkleidung, die der AN selbst kaufen muss",
-        "Arbeitskleidung zu Werbezwecken"
+        "Arbeitskleidung zu Werbezwecken",
+        "Private Arbeitskleidung"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "PSA sind vom Arbeitgeber kostenlos bereitgestellte Ausrüstungen zum Schutz der Beschäftigten (§ 3 ArbSchG, PSA-BV).",
       "difficulty": 1,
       "topic": "Arbeitsschutzrecht",
@@ -876,12 +876,12 @@
       "id": "rbh-059",
       "text": "Was versteht man unter dem TOP-Prinzip im Arbeitsschutz?",
       "options": [
-        "Teamarbeit, Organisation, Personal",
-        "Technische, Organisatorische, Persönliche Schutzmaßnahmen in dieser Rangfolge",
         "Test, Optimierung, Prüfung",
-        "Theorie, Ordnung, Praxis"
+        "Theorie, Ordnung, Praxis",
+        "Technische, Organisatorische, Persönliche Schutzmaßnahmen in dieser Rangfolge",
+        "Teamarbeit, Organisation, Personal"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Das TOP-Prinzip gibt die Rangfolge der Schutzmaßnahmen vor: erst Technische, dann Organisatorische, zuletzt Persönliche Maßnahmen.",
       "difficulty": 2,
       "topic": "Arbeitsschutzrecht",
@@ -891,12 +891,12 @@
       "id": "rbh-060",
       "text": "Was muss bei einem Arbeitsunfall sofort geschehen?",
       "options": [
+        "Den Unfallort sofort aufräumen",
         "Nichts, wenn keine schwere Verletzung vorliegt",
-        "Erste Hilfe leisten und den Unfall dokumentieren",
         "Nur den Betriebsrat informieren",
-        "Den Unfallort sofort aufräumen"
+        "Erste Hilfe leisten und den Unfall dokumentieren"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Bei einem Arbeitsunfall muss sofort Erste Hilfe geleistet und der Unfall im Verbandbuch dokumentiert werden.",
       "difficulty": 1,
       "topic": "Arbeitsschutzrecht",
@@ -906,12 +906,12 @@
       "id": "rbh-061",
       "text": "Ab welcher Unfallschwere muss der AG den Unfall der BG melden?",
       "options": [
-        "Bei jeder Verletzung",
         "Bei Arbeitsunfähigkeit von mehr als 3 Kalendertagen",
         "Bei Arbeitsunfähigkeit von mehr als 7 Tagen",
-        "Nur bei tödlichen Unfällen"
+        "Nur bei tödlichen Unfällen",
+        "Bei jeder Verletzung"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Nach § 193 SGB VII ist ein Arbeitsunfall meldepflichtig, wenn der Verletzte mehr als 3 Kalendertage arbeitsunfähig ist.",
       "difficulty": 2,
       "topic": "Arbeitsschutzrecht",
@@ -921,12 +921,12 @@
       "id": "rbh-062",
       "text": "Was ist eine Betriebsanweisung?",
       "options": [
-        "Ein Arbeitsvertrag",
-        "Eine verbindliche Anweisung zum sicheren Umgang mit Gefahrstoffen oder Arbeitsmitteln",
+        "Ein Protokoll der Betriebsversammlung",
         "Eine Abmahnung",
-        "Ein Protokoll der Betriebsversammlung"
+        "Ein Arbeitsvertrag",
+        "Eine verbindliche Anweisung zum sicheren Umgang mit Gefahrstoffen oder Arbeitsmitteln"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Betriebsanweisungen sind verbindliche schriftliche Anordnungen des AG zum sicheren Umgang mit Arbeitsmitteln, Gefahrstoffen etc.",
       "difficulty": 2,
       "topic": "Arbeitsschutzrecht",
@@ -936,12 +936,12 @@
       "id": "rbh-063",
       "text": "Welche Aufgabe hat die Fachkraft für Arbeitssicherheit?",
       "options": [
-        "Kündigung von Mitarbeitern",
         "Beratung des Arbeitgebers in Fragen des Arbeitsschutzes",
-        "Festlegung der Arbeitszeiten",
-        "Gehaltsverhandlungen"
+        "Gehaltsverhandlungen",
+        "Kündigung von Mitarbeitern",
+        "Festlegung der Arbeitszeiten"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Die Fachkraft für Arbeitssicherheit (Sifa) berät und unterstützt den Arbeitgeber beim Arbeitsschutz (§ 6 ASiG).",
       "difficulty": 1,
       "topic": "Arbeitsschutzrecht",
@@ -953,8 +953,8 @@
       "options": [
         "Eine Verordnung über gefährliche Abfälle",
         "Eine Verordnung zum Schutz der Beschäftigten beim Umgang mit Gefahrstoffen",
-        "Eine Brandschutzvorschrift",
-        "Eine Verkehrsordnung"
+        "Eine Verkehrsordnung",
+        "Eine Brandschutzvorschrift"
       ],
       "correct": 1,
       "explanation": "Die GefStoffV regelt den Schutz der Beschäftigten und anderer Personen vor Gefährdungen durch Gefahrstoffe.",
@@ -966,12 +966,12 @@
       "id": "rbh-065",
       "text": "Was bedeutet GHS im Kontext des Arbeitsschutzes?",
       "options": [
+        "Gerätehandbuch für Sicherheit",
         "Grundlagen des Handwerks und Schutzes",
-        "Globally Harmonized System zur Einstufung und Kennzeichnung von Chemikalien",
         "Gesetzliche Handlungssicherheit",
-        "Gerätehandbuch für Sicherheit"
+        "Globally Harmonized System zur Einstufung und Kennzeichnung von Chemikalien"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "GHS ist ein weltweit einheitliches System zur Einstufung und Kennzeichnung von Chemikalien mittels Piktogrammen.",
       "difficulty": 2,
       "topic": "Arbeitsschutzrecht",
@@ -981,9 +981,9 @@
       "id": "rbh-066",
       "text": "Was ist der Unterschied zwischen Gefahr und Gefährdung?",
       "options": [
-        "Es gibt keinen Unterschied",
-        "Gefahr ist ein Zustand, Gefährdung die Möglichkeit eines Schadens durch Zusammentreffen von Gefahr und Mensch",
         "Gefährdung ist schlimmer als Gefahr",
+        "Gefahr ist ein Zustand, Gefährdung die Möglichkeit eines Schadens durch Zusammentreffen von Gefahr und Mensch",
+        "Es gibt keinen Unterschied",
         "Gefahr betrifft nur Maschinen"
       ],
       "correct": 1,
@@ -996,12 +996,12 @@
       "id": "rbh-067",
       "text": "Welche Pflicht haben Beschäftigte im Arbeitsschutz?",
       "options": [
-        "Keine Pflichten, nur der AG ist verantwortlich",
         "Mitwirkungspflicht und Befolgung der Weisungen",
         "Pflicht zur Bezahlung der PSA",
+        "Keine Pflichten, nur der AG ist verantwortlich",
         "Pflicht zur eigenständigen Gefährdungsbeurteilung"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Nach § 15 ArbSchG sind Beschäftigte verpflichtet, für ihre Sicherheit und Gesundheit Sorge zu tragen und Weisungen zu befolgen.",
       "difficulty": 1,
       "topic": "Arbeitsschutzrecht",
@@ -1011,10 +1011,10 @@
       "id": "rbh-068",
       "text": "Was ist ein Sicherheitsdatenblatt?",
       "options": [
-        "Ein Geheimhaltungsdokument",
+        "Eine Betriebsanleitung für Maschinen",
         "Ein Dokument mit Informationen über Eigenschaften und Gefahren eines Stoffes",
         "Ein Konstruktionsplan",
-        "Eine Betriebsanleitung für Maschinen"
+        "Ein Geheimhaltungsdokument"
       ],
       "correct": 1,
       "explanation": "Ein Sicherheitsdatenblatt enthält Informationen zu Gefahren, Handhabung, Lagerung und Entsorgung von Gefahrstoffen.",
@@ -1027,11 +1027,11 @@
       "text": "Was versteht man unter ergonomischer Arbeitsplatzgestaltung?",
       "options": [
         "Kostengünstige Einrichtung",
+        "Maximale Raumausnutzung",
         "Anpassung der Arbeitsbedingungen an den Menschen",
-        "Dekoration des Arbeitsplatzes",
-        "Maximale Raumausnutzung"
+        "Dekoration des Arbeitsplatzes"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Ergonomie bedeutet die menschengerechte Gestaltung der Arbeitsbedingungen zur Vermeidung von Gesundheitsschäden.",
       "difficulty": 1,
       "topic": "Arbeitsschutzrecht",
@@ -1041,12 +1041,12 @@
       "id": "rbh-070",
       "text": "Welche Vorschriften gelten für den Umgang mit Lärm am Arbeitsplatz?",
       "options": [
-        "Keine besonderen Vorschriften",
         "Die Lärm- und Vibrations-Arbeitsschutzverordnung",
+        "Keine besonderen Vorschriften",
         "Nur das BImSchG",
         "Nur Empfehlungen der BG"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Die LärmVibrationsArbSchV regelt den Schutz der Beschäftigten vor Lärm und Vibrationen am Arbeitsplatz.",
       "difficulty": 2,
       "topic": "Arbeitsschutzrecht",
@@ -1056,10 +1056,10 @@
       "id": "rbh-071",
       "text": "Ab welchem Tages-Lärmexpositionspegel muss Gehörschutz bereitgestellt werden?",
       "options": [
-        "70 dB(A)",
-        "80 dB(A)",
         "85 dB(A)",
-        "90 dB(A)"
+        "80 dB(A)",
+        "90 dB(A)",
+        "70 dB(A)"
       ],
       "correct": 1,
       "explanation": "Ab einem Tages-Lärmexpositionspegel von 80 dB(A) muss der AG Gehörschutz bereitstellen (unterer Auslösewert).",
@@ -1071,12 +1071,12 @@
       "id": "rbh-072",
       "text": "Ab welchem Pegel muss Gehörschutz getragen werden?",
       "options": [
-        "80 dB(A)",
         "85 dB(A)",
-        "90 dB(A)",
-        "95 dB(A)"
+        "95 dB(A)",
+        "80 dB(A)",
+        "90 dB(A)"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Ab 85 dB(A) (oberer Auslösewert) besteht Tragepflicht für Gehörschutz.",
       "difficulty": 2,
       "topic": "Arbeitsschutzrecht",
@@ -1086,12 +1086,12 @@
       "id": "rbh-073",
       "text": "Was ist eine arbeitsmedizinische Vorsorge?",
       "options": [
-        "Eine kostenlose Gesundheitsuntersuchung durch den Hausarzt",
-        "Eine vom AG veranlasste Untersuchung durch den Betriebsarzt",
         "Eine Selbstuntersuchung des AN",
-        "Eine Kontrolle durch die Krankenkasse"
+        "Eine Kontrolle durch die Krankenkasse",
+        "Eine kostenlose Gesundheitsuntersuchung durch den Hausarzt",
+        "Eine vom AG veranlasste Untersuchung durch den Betriebsarzt"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Die arbeitsmedizinische Vorsorge wird vom AG veranlasst und vom Betriebsarzt durchgeführt (ArbMedVV).",
       "difficulty": 2,
       "topic": "Arbeitsschutzrecht",
@@ -1101,12 +1101,12 @@
       "id": "rbh-074",
       "text": "Welche Arten der arbeitsmedizinischen Vorsorge gibt es?",
       "options": [
-        "Nur Pflichtvorsorge",
-        "Pflicht-, Angebots- und Wunschvorsorge",
         "Nur freiwillige Vorsorge",
-        "Jährliche und halbjährliche"
+        "Nur Pflichtvorsorge",
+        "Jährliche und halbjährliche",
+        "Pflicht-, Angebots- und Wunschvorsorge"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Die ArbMedVV unterscheidet Pflichtvorsorge, Angebotsvorsorge und Wunschvorsorge.",
       "difficulty": 2,
       "topic": "Arbeitsschutzrecht",
@@ -1116,12 +1116,12 @@
       "id": "rbh-075",
       "text": "Was ist der Grundsatz der Verhältnismäßigkeit im Arbeitsschutz?",
       "options": [
+        "Alle AN müssen gleich behandelt werden",
         "Alle Maßnahmen müssen gleich teuer sein",
         "Schutzmaßnahmen müssen in angemessenem Verhältnis zur Gefährdung stehen",
-        "Nur billige Maßnahmen sind erlaubt",
-        "Alle AN müssen gleich behandelt werden"
+        "Nur billige Maßnahmen sind erlaubt"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Der Grundsatz besagt, dass Arbeitsschutzmaßnahmen in angemessenem Verhältnis zur Schwere der Gefährdung stehen müssen.",
       "difficulty": 3,
       "topic": "Arbeitsschutzrecht",
@@ -1131,12 +1131,12 @@
       "id": "rbh-076",
       "text": "Was ist ein Tarifvertrag?",
       "options": [
-        "Ein Arbeitsvertrag",
-        "Ein schriftlicher Vertrag zwischen Gewerkschaft und Arbeitgeberverband",
         "Eine Betriebsvereinbarung",
-        "Ein Gesetz"
+        "Ein Gesetz",
+        "Ein schriftlicher Vertrag zwischen Gewerkschaft und Arbeitgeberverband",
+        "Ein Arbeitsvertrag"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Ein Tarifvertrag (§ 1 TVG) ist ein schriftlicher Vertrag zwischen Tarifvertragsparteien (Gewerkschaft und AG-Verband oder einzelner AG).",
       "difficulty": 1,
       "topic": "Tarifvertragsrecht",
@@ -1146,12 +1146,12 @@
       "id": "rbh-077",
       "text": "Was bedeutet Tarifbindung?",
       "options": [
-        "Jeder Arbeitnehmer ist automatisch tarifgebunden",
         "Nur Gewerkschaftsmitglieder und Mitglieder des AG-Verbandes sind gebunden",
+        "Nur der Staat ist gebunden",
         "Tarifverträge gelten für alle Bürger",
-        "Nur der Staat ist gebunden"
+        "Jeder Arbeitnehmer ist automatisch tarifgebunden"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Tarifgebunden sind nach § 3 TVG die Mitglieder der Tarifvertragsparteien und der AG, der selbst Partei ist.",
       "difficulty": 2,
       "topic": "Tarifvertragsrecht",
@@ -1161,12 +1161,12 @@
       "id": "rbh-078",
       "text": "Was versteht man unter der Friedenspflicht im Tarifrecht?",
       "options": [
-        "Verbot von Mobbing",
         "Verbot von Arbeitskampfmaßnahmen während der Laufzeit eines Tarifvertrages",
         "Pflicht zur Freundlichkeit",
-        "Verbot von Überstunden"
+        "Verbot von Überstunden",
+        "Verbot von Mobbing"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Während der Laufzeit eines Tarifvertrages dürfen die Tarifvertragsparteien keine Arbeitskampfmaßnahmen ergreifen.",
       "difficulty": 2,
       "topic": "Tarifvertragsrecht",
@@ -1177,11 +1177,11 @@
       "text": "Was besagt das Günstigkeitsprinzip?",
       "options": [
         "Der günstigere Preis gilt",
-        "Eine abweichende Regelung im Arbeitsvertrag gilt nur, wenn sie für den AN günstiger ist",
         "Der AG darf immer abweichen",
+        "Eine abweichende Regelung im Arbeitsvertrag gilt nur, wenn sie für den AN günstiger ist",
         "Der TV gilt immer uneingeschränkt"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Das Günstigkeitsprinzip (§ 4 Abs. 3 TVG) erlaubt abweichende Regelungen zugunsten des Arbeitnehmers.",
       "difficulty": 2,
       "topic": "Tarifvertragsrecht",
@@ -1191,12 +1191,12 @@
       "id": "rbh-080",
       "text": "Was ist eine Allgemeinverbindlicherklärung eines Tarifvertrages?",
       "options": [
-        "Der TV gilt automatisch",
-        "Das Bundesministerium erklärt den TV für alle AN und AG der Branche verbindlich",
         "Der BR muss zustimmen",
-        "Die Gewerkschaft beschließt die Geltung"
+        "Der TV gilt automatisch",
+        "Die Gewerkschaft beschließt die Geltung",
+        "Das Bundesministerium erklärt den TV für alle AN und AG der Branche verbindlich"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Durch Allgemeinverbindlicherklärung (§ 5 TVG) durch das BMAS gilt der TV auch für nicht tarifgebundene AG und AN der Branche.",
       "difficulty": 3,
       "topic": "Tarifvertragsrecht",
@@ -1206,12 +1206,12 @@
       "id": "rbh-081",
       "text": "Was ist der Unterschied zwischen Manteltarifvertrag und Entgelttarifvertrag?",
       "options": [
-        "Es gibt keinen Unterschied",
-        "Der Manteltarifvertrag regelt allgemeine Arbeitsbedingungen, der Entgelttarifvertrag die Vergütung",
         "Beide regeln nur Gehälter",
-        "Der Manteltarifvertrag gilt länger"
+        "Es gibt keinen Unterschied",
+        "Der Manteltarifvertrag gilt länger",
+        "Der Manteltarifvertrag regelt allgemeine Arbeitsbedingungen, der Entgelttarifvertrag die Vergütung"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Der Manteltarifvertrag regelt allgemeine Arbeitsbedingungen (Urlaub, Arbeitszeit), der Entgelttarifvertrag die Vergütung.",
       "difficulty": 2,
       "topic": "Tarifvertragsrecht",
@@ -1222,11 +1222,11 @@
       "text": "Wer ist tariffähig?",
       "options": [
         "Jeder Arbeitnehmer",
-        "Gewerkschaften, Arbeitgeberverbände und einzelne Arbeitgeber",
         "Nur der Staat",
+        "Gewerkschaften, Arbeitgeberverbände und einzelne Arbeitgeber",
         "Nur Betriebsräte"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Tariffähig sind nach § 2 TVG Gewerkschaften, Vereinigungen von AG und einzelne AG.",
       "difficulty": 1,
       "topic": "Tarifvertragsrecht",
@@ -1237,11 +1237,11 @@
       "text": "Was ist ein Haustarifvertrag?",
       "options": [
         "Ein Tarifvertrag für eine Hausgemeinschaft",
+        "Ein TV über Wohnkosten",
         "Ein Tarifvertrag zwischen einer Gewerkschaft und einem einzelnen Arbeitgeber",
-        "Ein TV für Heimarbeiter",
-        "Ein TV über Wohnkosten"
+        "Ein TV für Heimarbeiter"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Ein Haus- oder Firmentarifvertrag wird zwischen einer Gewerkschaft und einem einzelnen AG abgeschlossen.",
       "difficulty": 2,
       "topic": "Tarifvertragsrecht",
@@ -1251,12 +1251,12 @@
       "id": "rbh-084",
       "text": "Was passiert nach Ablauf eines Tarifvertrages?",
       "options": [
-        "Er verliert sofort seine Wirkung",
-        "Er wirkt nach, bis eine neue Regelung getroffen wird (Nachwirkung)",
         "Er verlängert sich automatisch um 5 Jahre",
-        "Er wird zum Gesetz"
+        "Er wird zum Gesetz",
+        "Er verliert sofort seine Wirkung",
+        "Er wirkt nach, bis eine neue Regelung getroffen wird (Nachwirkung)"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Nach § 4 Abs. 5 TVG wirken die Rechtsnormen des TV nach Ablauf weiter, bis sie durch eine andere Abmachung ersetzt werden.",
       "difficulty": 3,
       "topic": "Tarifvertragsrecht",
@@ -1266,12 +1266,12 @@
       "id": "rbh-085",
       "text": "Was versteht man unter Tarifautonomie?",
       "options": [
-        "Automatische Tarifanpassung",
-        "Das Recht der Tarifvertragsparteien, ohne staatliche Einmischung Arbeitsbedingungen zu regeln",
+        "Die Autonomie des Arbeitnehmers",
         "Die Unabhängigkeit des BR",
-        "Die Autonomie des Arbeitnehmers"
+        "Automatische Tarifanpassung",
+        "Das Recht der Tarifvertragsparteien, ohne staatliche Einmischung Arbeitsbedingungen zu regeln"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Tarifautonomie (Art. 9 Abs. 3 GG) garantiert das Recht, ohne staatliche Einmischung Arbeitsbedingungen zu vereinbaren.",
       "difficulty": 1,
       "topic": "Tarifvertragsrecht",
@@ -1281,12 +1281,12 @@
       "id": "rbh-086",
       "text": "Was ist eine Öffnungsklausel im Tarifvertrag?",
       "options": [
-        "Eine Klausel zur Kündigung",
         "Eine Regelung, die abweichende betriebliche Vereinbarungen erlaubt",
-        "Eine Klausel für Neueinstellungen",
-        "Eine Bestimmung über Betriebsfeiern"
+        "Eine Bestimmung über Betriebsfeiern",
+        "Eine Klausel zur Kündigung",
+        "Eine Klausel für Neueinstellungen"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Öffnungsklauseln erlauben es, durch Betriebsvereinbarung von tariflichen Regelungen abzuweichen.",
       "difficulty": 3,
       "topic": "Tarifvertragsrecht",
@@ -1296,12 +1296,12 @@
       "id": "rbh-087",
       "text": "Was bedeutet Koalitionsfreiheit?",
       "options": [
-        "Freiheit, Koalitionen in der Politik zu bilden",
         "Das Grundrecht, Gewerkschaften und AG-Verbände zu gründen und ihnen beizutreten",
+        "Freiheit, Koalitionen in der Politik zu bilden",
         "Freiheit von Tarifbindung",
         "Das Recht auf Streik"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Die Koalitionsfreiheit (Art. 9 Abs. 3 GG) schützt das Recht, Vereinigungen zur Wahrung der Arbeitsbedingungen zu bilden.",
       "difficulty": 1,
       "topic": "Tarifvertragsrecht",
@@ -1311,12 +1311,12 @@
       "id": "rbh-088",
       "text": "Was ist ein Warnstreik?",
       "options": [
-        "Ein unbefristeter Streik",
         "Ein kurzer, befristeter Streik während laufender Tarifverhandlungen",
+        "Ein stiller Protest",
         "Ein Streik gegen den Betriebsrat",
-        "Ein stiller Protest"
+        "Ein unbefristeter Streik"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Ein Warnstreik ist ein kurzfristiger Arbeitsniederlegung zur Unterstützung laufender Tarifverhandlungen.",
       "difficulty": 2,
       "topic": "Tarifvertragsrecht",
@@ -1326,12 +1326,12 @@
       "id": "rbh-089",
       "text": "Wann ist ein Streik rechtmäßig?",
       "options": [
-        "Immer",
-        "Wenn er von einer Gewerkschaft getragen wird und ein tariflich regelbares Ziel verfolgt",
+        "Wenn mehr als 50% der AN dafür stimmen",
         "Wenn der BR zustimmt",
-        "Wenn mehr als 50% der AN dafür stimmen"
+        "Immer",
+        "Wenn er von einer Gewerkschaft getragen wird und ein tariflich regelbares Ziel verfolgt"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Ein Streik ist rechtmäßig, wenn er gewerkschaftlich organisiert ist, ein tarifliches Ziel verfolgt und ultima ratio ist.",
       "difficulty": 3,
       "topic": "Tarifvertragsrecht",
@@ -1341,12 +1341,12 @@
       "id": "rbh-090",
       "text": "Was ist eine Aussperrung?",
       "options": [
-        "Einschluss der AN im Betrieb",
-        "Die vorübergehende Freistellung aller AN durch den AG als Arbeitskampfmittel",
         "Eine Form der Kündigung",
-        "Ein Betriebsausflug"
+        "Einschluss der AN im Betrieb",
+        "Ein Betriebsausflug",
+        "Die vorübergehende Freistellung aller AN durch den AG als Arbeitskampfmittel"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Aussperrung ist das Arbeitskampfmittel der AG-Seite, bei dem AN vorübergehend von der Arbeit ausgeschlossen werden.",
       "difficulty": 2,
       "topic": "Tarifvertragsrecht",
@@ -1356,12 +1356,12 @@
       "id": "rbh-091",
       "text": "Was ist das Prinzip der Kampfparität?",
       "options": [
+        "Gleiche Arbeitszeiten",
         "AG und AN haben gleich viele Vertreter",
-        "Die Arbeitskampfmittel beider Seiten sollen annähernd gleich stark sein",
         "Gleiche Bezahlung für alle",
-        "Gleiche Arbeitszeiten"
+        "Die Arbeitskampfmittel beider Seiten sollen annähernd gleich stark sein"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Kampfparität bedeutet, dass die Arbeitskampfmittel von AN-Seite (Streik) und AG-Seite (Aussperrung) gleichgewichtig sein sollen.",
       "difficulty": 3,
       "topic": "Tarifvertragsrecht",
@@ -1371,12 +1371,12 @@
       "id": "rbh-092",
       "text": "Was versteht man unter Tarifkonkurrenz?",
       "options": [
-        "Wenn kein TV existiert",
-        "Wenn auf ein Arbeitsverhältnis mehrere TVs anwendbar sind",
+        "Wenn der AG den TV ablehnt",
         "Wenn zwei Gewerkschaften konkurrieren",
-        "Wenn der AG den TV ablehnt"
+        "Wenn auf ein Arbeitsverhältnis mehrere TVs anwendbar sind",
+        "Wenn kein TV existiert"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Tarifkonkurrenz liegt vor, wenn für ein Arbeitsverhältnis mehrere Tarifverträge gelten könnten. Es gilt das Spezialitätsprinzip.",
       "difficulty": 3,
       "topic": "Tarifvertragsrecht",
@@ -1386,10 +1386,10 @@
       "id": "rbh-093",
       "text": "Welchen Teil eines Tarifvertrages nennt man normativen Teil?",
       "options": [
-        "Die Präambel",
+        "Die Unterschriften",
         "Den Teil mit unmittelbar geltenden Rechtsnormen über Inhalt und Abschluss von Arbeitsverhältnissen",
-        "Den Anhang",
-        "Die Unterschriften"
+        "Die Präambel",
+        "Den Anhang"
       ],
       "correct": 1,
       "explanation": "Der normative Teil enthält die Rechtsnormen, die unmittelbar und zwingend für die Tarifgebundenen gelten (§ 4 Abs. 1 TVG).",
@@ -1402,11 +1402,11 @@
       "text": "Was regelt der schuldrechtliche Teil eines Tarifvertrages?",
       "options": [
         "Die Gehälter",
-        "Die Rechte und Pflichten der Tarifvertragsparteien untereinander",
         "Die Arbeitszeiten",
-        "Den Urlaubsanspruch"
+        "Den Urlaubsanspruch",
+        "Die Rechte und Pflichten der Tarifvertragsparteien untereinander"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Der schuldrechtliche Teil regelt die Rechte und Pflichten zwischen den Tarifvertragsparteien, z.B. Friedenspflicht und Durchführungspflicht.",
       "difficulty": 3,
       "topic": "Tarifvertragsrecht",
@@ -1417,9 +1417,9 @@
       "text": "Was bedeutet das Subsidiaritätsprinzip im Verhältnis TV und Betriebsvereinbarung?",
       "options": [
         "TVs haben immer Vorrang",
-        "Betriebsvereinbarungen haben immer Vorrang",
+        "Es gibt kein solches Prinzip",
         "Betriebsvereinbarungen dürfen nur regeln, was der TV nicht regelt oder ausdrücklich zulässt",
-        "Es gibt kein solches Prinzip"
+        "Betriebsvereinbarungen haben immer Vorrang"
       ],
       "correct": 2,
       "explanation": "Nach § 77 Abs. 3 BetrVG können Arbeitsbedingungen, die durch TV geregelt sind, nicht Gegenstand einer Betriebsvereinbarung sein.",
@@ -1431,12 +1431,12 @@
       "id": "rbh-096",
       "text": "Welche Zweige gehören zur gesetzlichen Sozialversicherung?",
       "options": [
+        "Nur Arbeitslosenversicherung",
         "Nur Kranken- und Rentenversicherung",
         "Kranken-, Renten-, Arbeitslosen-, Unfall- und Pflegeversicherung",
-        "Nur Arbeitslosenversicherung",
         "Kranken- und Unfallversicherung"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Die 5 Säulen der Sozialversicherung sind: Kranken-, Renten-, Arbeitslosen-, Unfall- und Pflegeversicherung.",
       "difficulty": 1,
       "topic": "Sozialversicherungsrecht",
@@ -1446,12 +1446,12 @@
       "id": "rbh-097",
       "text": "Wer zahlt die Beiträge zur gesetzlichen Unfallversicherung?",
       "options": [
-        "AG und AN je zur Hälfte",
-        "Allein der Arbeitgeber",
         "Allein der Arbeitnehmer",
-        "Der Staat"
+        "Der Staat",
+        "Allein der Arbeitgeber",
+        "AG und AN je zur Hälfte"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Die Beiträge zur gesetzlichen Unfallversicherung trägt allein der Arbeitgeber.",
       "difficulty": 1,
       "topic": "Sozialversicherungsrecht",
@@ -1461,12 +1461,12 @@
       "id": "rbh-098",
       "text": "Wer ist Träger der gesetzlichen Unfallversicherung?",
       "options": [
-        "Die Krankenkassen",
         "Die Berufsgenossenschaften",
+        "Die Agentur für Arbeit",
         "Die Rentenversicherung",
-        "Die Agentur für Arbeit"
+        "Die Krankenkassen"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Träger der gesetzlichen Unfallversicherung sind die Berufsgenossenschaften und Unfallkassen.",
       "difficulty": 1,
       "topic": "Sozialversicherungsrecht",
@@ -1476,10 +1476,10 @@
       "id": "rbh-099",
       "text": "Welche Leistung erbringt die gesetzliche Unfallversicherung?",
       "options": [
-        "Arbeitslosengeld",
+        "Kindergeld",
         "Heilbehandlung und Rehabilitation nach Arbeitsunfällen und Berufskrankheiten",
-        "Elterngeld",
-        "Kindergeld"
+        "Arbeitslosengeld",
+        "Elterngeld"
       ],
       "correct": 1,
       "explanation": "Die UV erbringt u.a. Heilbehandlung, Rehabilitation, Verletztengeld und Unfallrenten.",
@@ -1491,12 +1491,12 @@
       "id": "rbh-100",
       "text": "Wie werden die Beiträge zur Krankenversicherung aufgeteilt?",
       "options": [
-        "100% Arbeitgeber",
-        "100% Arbeitnehmer",
         "Je zur Hälfte AG und AN",
-        "70% AG, 30% AN"
+        "100% Arbeitnehmer",
+        "70% AG, 30% AN",
+        "100% Arbeitgeber"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": "Die Beiträge zur gesetzlichen KV werden paritätisch, also je zur Hälfte von AG und AN getragen.",
       "difficulty": 1,
       "topic": "Sozialversicherungsrecht",
@@ -1506,10 +1506,10 @@
       "id": "rbh-101",
       "text": "Was ist die Beitragsbemessungsgrenze?",
       "options": [
-        "Die Grenze, ab der keine Beiträge mehr gezahlt werden müssen",
+        "Der Höchstbetrag der Rente",
         "Der Betrag, bis zu dem Einkommen für die Beitragsberechnung herangezogen wird",
-        "Der Mindestbeitrag",
-        "Der Höchstbetrag der Rente"
+        "Die Grenze, ab der keine Beiträge mehr gezahlt werden müssen",
+        "Der Mindestbeitrag"
       ],
       "correct": 1,
       "explanation": "Die BBG ist die Einkommensgrenze, bis zu der Sozialversicherungsbeiträge berechnet werden. Einkommen darüber ist beitragsfrei.",
@@ -1521,12 +1521,12 @@
       "id": "rbh-102",
       "text": "Welche Versicherung zahlt bei Arbeitslosigkeit?",
       "options": [
-        "Die Krankenversicherung",
         "Die Arbeitslosenversicherung (SGB III)",
-        "Die Rentenversicherung",
-        "Die Unfallversicherung"
+        "Die Krankenversicherung",
+        "Die Unfallversicherung",
+        "Die Rentenversicherung"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Die Arbeitslosenversicherung (Bundesagentur für Arbeit) zahlt Arbeitslosengeld nach SGB III.",
       "difficulty": 1,
       "topic": "Sozialversicherungsrecht",
@@ -1536,12 +1536,12 @@
       "id": "rbh-103",
       "text": "Wie lange wird Arbeitslosengeld I höchstens gezahlt (unter 50 Jahre)?",
       "options": [
-        "6 Monate",
         "12 Monate",
-        "18 Monate",
-        "24 Monate"
+        "6 Monate",
+        "24 Monate",
+        "18 Monate"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Unter 50-Jährige erhalten ALG I für maximal 12 Monate (bei mind. 24 Monaten Beitragszeit in den letzten 30 Monaten).",
       "difficulty": 2,
       "topic": "Sozialversicherungsrecht",
@@ -1551,12 +1551,12 @@
       "id": "rbh-104",
       "text": "Was versteht man unter einem Wegeunfall?",
       "options": [
-        "Ein Unfall am Arbeitsplatz",
-        "Ein Unfall auf dem direkten Weg zwischen Wohnung und Arbeitsstätte",
         "Ein Verkehrsunfall am Wochenende",
-        "Ein Unfall beim Sport"
+        "Ein Unfall am Arbeitsplatz",
+        "Ein Unfall beim Sport",
+        "Ein Unfall auf dem direkten Weg zwischen Wohnung und Arbeitsstätte"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Ein Wegeunfall ist ein Unfall auf dem unmittelbaren Weg zwischen Wohnung und Arbeitsstätte und ist durch die UV versichert (§ 8 Abs. 2 SGB VII).",
       "difficulty": 2,
       "topic": "Sozialversicherungsrecht",
@@ -1566,12 +1566,12 @@
       "id": "rbh-105",
       "text": "Was ist eine Berufskrankheit?",
       "options": [
-        "Jede Krankheit eines Arbeitnehmers",
         "Eine Krankheit, die durch besondere berufliche Einwirkungen verursacht wurde und in der BK-Liste steht",
+        "Burnout",
         "Eine Erkältung am Arbeitsplatz",
-        "Burnout"
+        "Jede Krankheit eines Arbeitnehmers"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Berufskrankheiten sind in der BK-Verordnung (BKV) gelistete Erkrankungen, die durch besondere berufliche Einwirkungen verursacht werden.",
       "difficulty": 2,
       "topic": "Sozialversicherungsrecht",
@@ -1581,12 +1581,12 @@
       "id": "rbh-106",
       "text": "Welches Prinzip gilt in der gesetzlichen Rentenversicherung?",
       "options": [
+        "Mischfinanzierung",
         "Kapitaldeckungsverfahren",
         "Umlageverfahren (Generationenvertrag)",
-        "Sparmodell",
-        "Mischfinanzierung"
+        "Sparmodell"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Die gesetzliche RV finanziert sich nach dem Umlageverfahren: aktuelle Beiträge finanzieren aktuelle Renten.",
       "difficulty": 1,
       "topic": "Sozialversicherungsrecht",
@@ -1596,12 +1596,12 @@
       "id": "rbh-107",
       "text": "Was ist die Versicherungspflichtgrenze in der Krankenversicherung?",
       "options": [
-        "Die Einkommensgrenze, ab der man sich privat versichern kann",
+        "Die Beitragsbemessungsgrenze",
         "Der Mindestbeitrag",
-        "Die maximale Leistung der KV",
-        "Die Beitragsbemessungsgrenze"
+        "Die Einkommensgrenze, ab der man sich privat versichern kann",
+        "Die maximale Leistung der KV"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": "Die Versicherungspflichtgrenze (Jahresarbeitsentgeltgrenze) ist die Einkommensgrenze, ab der AN von der KV-Pflicht befreit werden können.",
       "difficulty": 2,
       "topic": "Sozialversicherungsrecht",
@@ -1611,12 +1611,12 @@
       "id": "rbh-108",
       "text": "Wer zahlt die Beiträge zur Pflegeversicherung?",
       "options": [
+        "AG und AN je zur Hälfte",
         "Nur der AG",
         "Nur der AN",
-        "AG und AN je zur Hälfte",
         "Der Staat"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": "Die Beiträge zur Pflegeversicherung werden paritätisch von AG und AN getragen (Ausnahme: Sachsen).",
       "difficulty": 1,
       "topic": "Sozialversicherungsrecht",
@@ -1626,10 +1626,10 @@
       "id": "rbh-109",
       "text": "Was ist Kurzarbeitergeld?",
       "options": [
-        "Gehalt bei Überstunden",
+        "Urlaubsgeld",
         "Eine Lohnersatzleistung der Agentur für Arbeit bei vorübergehendem Arbeitsausfall",
         "Eine Prämie für kurze Arbeitszeiten",
-        "Urlaubsgeld"
+        "Gehalt bei Überstunden"
       ],
       "correct": 1,
       "explanation": "Kurzarbeitergeld wird bei vorübergehendem Arbeitsausfall gezahlt, um Entlassungen zu vermeiden (§§ 95 ff. SGB III).",
@@ -1641,12 +1641,12 @@
       "id": "rbh-110",
       "text": "Was ist der Unterschied zwischen SGB III und SGB II?",
       "options": [
-        "Es gibt keinen Unterschied",
         "SGB III regelt die Arbeitsförderung, SGB II die Grundsicherung für Arbeitsuchende",
-        "SGB III ist für Rentner",
-        "SGB II ist für Beamte"
+        "SGB II ist für Beamte",
+        "Es gibt keinen Unterschied",
+        "SGB III ist für Rentner"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "SGB III regelt die Arbeitsförderung (ALG I), SGB II die Grundsicherung für Arbeitsuchende (Bürgergeld).",
       "difficulty": 2,
       "topic": "Sozialversicherungsrecht",
@@ -1656,10 +1656,10 @@
       "id": "rbh-111",
       "text": "Was zahlt die Berufsgenossenschaft bei dauerhafter Minderung der Erwerbsfähigkeit?",
       "options": [
-        "Arbeitslosengeld",
+        "Pflegegeld",
         "Eine Unfallrente",
-        "Krankengeld",
-        "Pflegegeld"
+        "Arbeitslosengeld",
+        "Krankengeld"
       ],
       "correct": 1,
       "explanation": "Bei dauerhafter Minderung der Erwerbsfähigkeit um mindestens 20% zahlt die BG eine Unfallrente (§ 56 SGB VII).",
@@ -1672,11 +1672,11 @@
       "text": "Was sind Minijobs sozialversicherungsrechtlich?",
       "options": [
         "Vollversicherte Beschäftigungen",
-        "Geringfügig entlohnte Beschäftigungen mit reduzierter Sozialversicherungspflicht",
+        "Ehrenamtliche Tätigkeiten",
         "Schwarzarbeit",
-        "Ehrenamtliche Tätigkeiten"
+        "Geringfügig entlohnte Beschäftigungen mit reduzierter Sozialversicherungspflicht"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Minijobs (bis 538 EUR/Monat) sind geringfügig entlohnte Beschäftigungen mit pauschalen AG-Abgaben (§ 8 SGB IV).",
       "difficulty": 1,
       "topic": "Sozialversicherungsrecht",
@@ -1686,12 +1686,12 @@
       "id": "rbh-113",
       "text": "Was ist das Solidarprinzip in der Sozialversicherung?",
       "options": [
-        "Jeder zahlt für sich selbst",
         "Starke tragen Schwache mit – Beiträge nach Leistungsfähigkeit, Leistungen nach Bedarf",
+        "Jeder zahlt für sich selbst",
         "Nur der Staat zahlt",
         "Alle zahlen den gleichen Betrag"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Das Solidarprinzip bedeutet, dass die Beiträge einkommensabhängig sind und die Leistungen bedarfsgerecht erbracht werden.",
       "difficulty": 1,
       "topic": "Sozialversicherungsrecht",
@@ -1701,12 +1701,12 @@
       "id": "rbh-114",
       "text": "Wann wird Verletztengeld gezahlt?",
       "options": [
-        "Bei jeder Krankheit",
         "Wenn ein Versicherter wegen eines Arbeitsunfalls arbeitsunfähig ist und kein Entgeltfortzahlungsanspruch mehr besteht",
         "Bei Arbeitslosigkeit",
-        "Im Mutterschutz"
+        "Im Mutterschutz",
+        "Bei jeder Krankheit"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Verletztengeld wird nach Ablauf der Entgeltfortzahlung bei Arbeitsunfähigkeit infolge eines Arbeitsunfalls oder einer Berufskrankheit gezahlt.",
       "difficulty": 3,
       "topic": "Sozialversicherungsrecht",
@@ -1716,12 +1716,12 @@
       "id": "rbh-115",
       "text": "Was ist das Äquivalenzprinzip in der Rentenversicherung?",
       "options": [
-        "Alle bekommen die gleiche Rente",
-        "Die Höhe der Rente hängt von der Höhe und Dauer der eingezahlten Beiträge ab",
         "Nur Beamte haben Anspruch",
-        "Die Rente wird durch den Staat garantiert"
+        "Die Rente wird durch den Staat garantiert",
+        "Die Höhe der Rente hängt von der Höhe und Dauer der eingezahlten Beiträge ab",
+        "Alle bekommen die gleiche Rente"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Das Äquivalenzprinzip besagt, dass die Rentenleistung in einem angemessenen Verhältnis zu den eingezahlten Beiträgen steht.",
       "difficulty": 2,
       "topic": "Sozialversicherungsrecht",
@@ -1731,12 +1731,12 @@
       "id": "rbh-116",
       "text": "Ab wann greift der allgemeine Kündigungsschutz nach dem KSchG?",
       "options": [
-        "Sofort",
         "Nach 6 Monaten Betriebszugehörigkeit in Betrieben mit mehr als 10 AN",
         "Nach 1 Jahr",
+        "Sofort",
         "Nach der Probezeit"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Das KSchG gilt nach § 1 für AN, die länger als 6 Monate in einem Betrieb mit mehr als 10 AN beschäftigt sind.",
       "difficulty": 1,
       "topic": "Kündigungsschutz",
@@ -1746,12 +1746,12 @@
       "id": "rbh-117",
       "text": "Welche Kündigungsgründe kennt das KSchG?",
       "options": [
+        "Nur personenbedingte",
         "Nur betriebsbedingte",
         "Personenbedingte, verhaltensbedingte und betriebsbedingte Gründe",
-        "Nur verhaltensbedingte",
-        "Nur personenbedingte"
+        "Nur verhaltensbedingte"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Das KSchG unterscheidet drei Kündigungsgründe: personenbedingt, verhaltensbedingt und betriebsbedingt.",
       "difficulty": 1,
       "topic": "Kündigungsschutz",
@@ -1761,12 +1761,12 @@
       "id": "rbh-118",
       "text": "Wann ist eine Abmahnung vor der Kündigung erforderlich?",
       "options": [
-        "Immer",
         "In der Regel vor einer verhaltensbedingten Kündigung",
-        "Nie",
-        "Nur bei Diebstahl"
+        "Nur bei Diebstahl",
+        "Immer",
+        "Nie"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Vor einer verhaltensbedingten Kündigung ist in der Regel eine vorherige Abmahnung erforderlich.",
       "difficulty": 2,
       "topic": "Kündigungsschutz",
@@ -1776,12 +1776,12 @@
       "id": "rbh-119",
       "text": "Welche Funktion hat eine Abmahnung?",
       "options": [
-        "Sie ist eine Bestrafung",
-        "Sie hat eine Hinweis- und Warnfunktion",
+        "Sie ist eine Gehaltskürzung",
         "Sie ersetzt die Kündigung",
-        "Sie ist eine Gehaltskürzung"
+        "Sie hat eine Hinweis- und Warnfunktion",
+        "Sie ist eine Bestrafung"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Die Abmahnung hat eine Hinweisfunktion (Rüge des konkreten Verhaltens) und eine Warnfunktion (Androhung von Konsequenzen).",
       "difficulty": 1,
       "topic": "Kündigungsschutz",
@@ -1791,12 +1791,12 @@
       "id": "rbh-120",
       "text": "Was ist eine Sozialauswahl bei betriebsbedingter Kündigung?",
       "options": [
-        "Auswahl nach Sympathie",
-        "Auswahl der zu kündigenden AN nach sozialen Kriterien",
+        "Auswahl nach Gehaltshöhe",
         "Auswahl nach Qualifikation",
-        "Auswahl nach Gehaltshöhe"
+        "Auswahl nach Sympathie",
+        "Auswahl der zu kündigenden AN nach sozialen Kriterien"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Bei betriebsbedingter Kündigung muss der AG nach § 1 Abs. 3 KSchG soziale Gesichtspunkte berücksichtigen.",
       "difficulty": 2,
       "topic": "Kündigungsschutz",
@@ -1806,12 +1806,12 @@
       "id": "rbh-121",
       "text": "Welche Kriterien gelten bei der Sozialauswahl?",
       "options": [
-        "Geschlecht und Nationalität",
-        "Betriebszugehörigkeit, Lebensalter, Unterhaltspflichten, Schwerbehinderung",
         "Leistung und Qualifikation",
-        "Sympathie und Teamfähigkeit"
+        "Geschlecht und Nationalität",
+        "Sympathie und Teamfähigkeit",
+        "Betriebszugehörigkeit, Lebensalter, Unterhaltspflichten, Schwerbehinderung"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Die vier Kriterien der Sozialauswahl sind: Betriebszugehörigkeit, Lebensalter, Unterhaltspflichten und Schwerbehinderung (§ 1 Abs. 3 KSchG).",
       "difficulty": 2,
       "topic": "Kündigungsschutz",
@@ -1822,11 +1822,11 @@
       "text": "Innerhalb welcher Frist muss eine Kündigungsschutzklage erhoben werden?",
       "options": [
         "1 Woche",
-        "3 Wochen nach Zugang der Kündigung",
+        "3 Monate",
         "6 Wochen",
-        "3 Monate"
+        "3 Wochen nach Zugang der Kündigung"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Die Kündigungsschutzklage muss nach § 4 KSchG innerhalb von 3 Wochen nach Zugang der Kündigung erhoben werden.",
       "difficulty": 1,
       "topic": "Kündigungsschutz",
@@ -1836,12 +1836,12 @@
       "id": "rbh-123",
       "text": "Was ist eine außerordentliche (fristlose) Kündigung?",
       "options": [
-        "Eine Kündigung mit langer Frist",
         "Eine Kündigung aus wichtigem Grund ohne Einhaltung einer Frist",
+        "Eine Kündigung mit langer Frist",
         "Eine Kündigung durch den BR",
         "Eine automatische Kündigung"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Die außerordentliche Kündigung (§ 626 BGB) beendet das Arbeitsverhältnis sofort bei Vorliegen eines wichtigen Grundes.",
       "difficulty": 1,
       "topic": "Kündigungsschutz",
@@ -1851,12 +1851,12 @@
       "id": "rbh-124",
       "text": "Innerhalb welcher Frist muss eine fristlose Kündigung ausgesprochen werden?",
       "options": [
-        "Sofort",
         "2 Wochen nach Kenntnis des Kündigungsgrundes",
-        "4 Wochen",
-        "3 Monate"
+        "3 Monate",
+        "Sofort",
+        "4 Wochen"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Nach § 626 Abs. 2 BGB muss die fristlose Kündigung innerhalb von 2 Wochen ab Kenntnis des Grundes erklärt werden.",
       "difficulty": 2,
       "topic": "Kündigungsschutz",
@@ -1866,9 +1866,9 @@
       "id": "rbh-125",
       "text": "Wer hat besonderen Kündigungsschutz?",
       "options": [
-        "Nur Führungskräfte",
-        "Schwerbehinderte, Schwangere, BR-Mitglieder, Elternzeitler",
         "Nur Beamte",
+        "Schwerbehinderte, Schwangere, BR-Mitglieder, Elternzeitler",
+        "Nur Führungskräfte",
         "Nur ältere AN"
       ],
       "correct": 1,
@@ -1881,12 +1881,12 @@
       "id": "rbh-126",
       "text": "Was muss vor der Kündigung eines Schwerbehinderten eingeholt werden?",
       "options": [
-        "Zustimmung des Betriebsrats",
-        "Zustimmung des Integrationsamtes",
         "Genehmigung des Arbeitsamtes",
-        "Erlaubnis des Hausarztes"
+        "Erlaubnis des Hausarztes",
+        "Zustimmung des Betriebsrats",
+        "Zustimmung des Integrationsamtes"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Vor der Kündigung eines schwerbehinderten Menschen ist die vorherige Zustimmung des Integrationsamtes erforderlich (§ 168 SGB IX).",
       "difficulty": 2,
       "topic": "Kündigungsschutz",
@@ -1896,12 +1896,12 @@
       "id": "rbh-127",
       "text": "Was ist bei einer betriebsbedingten Kündigung zu prüfen?",
       "options": [
+        "Ob der AN verheiratet ist",
         "Ob der AN zu alt ist",
         "Ob dringende betriebliche Erfordernisse vorliegen und keine Weiterbeschäftigung möglich ist",
-        "Ob der AN Gewerkschaftsmitglied ist",
-        "Ob der AN verheiratet ist"
+        "Ob der AN Gewerkschaftsmitglied ist"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Es ist zu prüfen: dringende betriebliche Erfordernisse, keine Weiterbeschäftigungsmöglichkeit und korrekte Sozialauswahl.",
       "difficulty": 2,
       "topic": "Kündigungsschutz",
@@ -1911,12 +1911,12 @@
       "id": "rbh-128",
       "text": "Was ist ein Aufhebungsvertrag?",
       "options": [
-        "Eine einseitige Kündigung",
-        "Eine einvernehmliche Beendigung des Arbeitsverhältnisses",
+        "Eine Versetzung",
         "Ein neuer Arbeitsvertrag",
-        "Eine Versetzung"
+        "Eine einseitige Kündigung",
+        "Eine einvernehmliche Beendigung des Arbeitsverhältnisses"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Ein Aufhebungsvertrag (§ 623 BGB) beendet das Arbeitsverhältnis einvernehmlich. Er bedarf der Schriftform.",
       "difficulty": 1,
       "topic": "Kündigungsschutz",
@@ -1927,11 +1927,11 @@
       "text": "Welche Pflicht hat der AG vor jeder Kündigung gegenüber dem BR?",
       "options": [
         "Keine Pflicht",
-        "Anhörung des Betriebsrats nach § 102 BetrVG",
         "Zustimmung des BR",
+        "Anhörung des Betriebsrats nach § 102 BetrVG",
         "Information der Gewerkschaft"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Vor jeder Kündigung muss der BR nach § 102 BetrVG angehört werden. Eine ohne Anhörung ausgesprochene Kündigung ist unwirksam.",
       "difficulty": 1,
       "topic": "Kündigungsschutz",
@@ -1941,12 +1941,12 @@
       "id": "rbh-130",
       "text": "Was kann der BR bei einer Kündigung tun?",
       "options": [
-        "Nichts",
-        "Zustimmen, Bedenken äußern oder der Kündigung widersprechen",
+        "Selbst kündigen",
         "Die Kündigung verhindern",
-        "Selbst kündigen"
+        "Zustimmen, Bedenken äußern oder der Kündigung widersprechen",
+        "Nichts"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Der BR kann der Kündigung zustimmen, Bedenken äußern oder nach § 102 Abs. 3 BetrVG widersprechen.",
       "difficulty": 2,
       "topic": "Kündigungsschutz",
@@ -1971,10 +1971,10 @@
       "id": "rbh-132",
       "text": "Was ist eine personenbedingte Kündigung?",
       "options": [
-        "Eine Kündigung wegen Fehlverhaltens",
-        "Eine Kündigung wegen persönlicher Eigenschaften oder Fähigkeiten des AN",
         "Eine Kündigung wegen Betriebsstilllegung",
-        "Eine Kündigung in der Probezeit"
+        "Eine Kündigung wegen persönlicher Eigenschaften oder Fähigkeiten des AN",
+        "Eine Kündigung in der Probezeit",
+        "Eine Kündigung wegen Fehlverhaltens"
       ],
       "correct": 1,
       "explanation": "Eine personenbedingte Kündigung liegt vor, wenn der AN aufgrund seiner persönlichen Eigenschaften die Arbeit nicht mehr erbringen kann (z.B. Krankheit).",
@@ -1987,11 +1987,11 @@
       "text": "Wann kann eine krankheitsbedingte Kündigung gerechtfertigt sein?",
       "options": [
         "Sofort bei jeder Krankmeldung",
-        "Bei negativer Gesundheitsprognose und erheblicher Beeinträchtigung betrieblicher Interessen",
+        "Nur bei Berufsunfähigkeit",
         "Nach 3 Wochen Krankheit",
-        "Nur bei Berufsunfähigkeit"
+        "Bei negativer Gesundheitsprognose und erheblicher Beeinträchtigung betrieblicher Interessen"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Eine krankheitsbedingte Kündigung setzt eine negative Prognose, erhebliche betriebliche Beeinträchtigungen und eine Interessenabwägung voraus.",
       "difficulty": 3,
       "topic": "Kündigungsschutz",
@@ -2001,10 +2001,10 @@
       "id": "rbh-134",
       "text": "Was ist ein wichtiger Grund für eine fristlose Kündigung?",
       "options": [
-        "Einmaliges Zuspätkommen",
-        "Ein Umstand, der die Fortsetzung des Arbeitsverhältnisses unzumutbar macht",
         "Jede Vertragsverletzung",
-        "Schlechte Arbeitsleistung"
+        "Ein Umstand, der die Fortsetzung des Arbeitsverhältnisses unzumutbar macht",
+        "Schlechte Arbeitsleistung",
+        "Einmaliges Zuspätkommen"
       ],
       "correct": 1,
       "explanation": "Ein wichtiger Grund liegt vor, wenn Tatsachen vorliegen, die es unzumutbar machen, das Arbeitsverhältnis bis zum Ablauf der Kündigungsfrist fortzusetzen.",
@@ -2018,8 +2018,8 @@
       "options": [
         "Eine Kündigung bei Verdacht auf Krankheit",
         "Eine Kündigung bei dringendem Verdacht einer schweren Pflichtverletzung",
-        "Eine Kündigung auf Probe",
-        "Eine vorläufige Kündigung"
+        "Eine vorläufige Kündigung",
+        "Eine Kündigung auf Probe"
       ],
       "correct": 1,
       "explanation": "Bei einer Verdachtskündigung wird nicht die Tat selbst, sondern der dringende Verdacht einer schwerwiegenden Pflichtverletzung zum Kündigungsgrund.",
@@ -2031,12 +2031,12 @@
       "id": "rbh-136",
       "text": "Was ist eine Massenentlassungsanzeige?",
       "options": [
-        "Eine Pressemitteilung",
         "Eine Pflichtanzeige an die Agentur für Arbeit bei geplanter Entlassung vieler AN",
+        "Eine Pressemitteilung",
         "Eine Anzeige bei der Polizei",
         "Eine Mitteilung an die Gewerkschaft"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Bei Massenentlassungen (§ 17 KSchG) muss der AG der Agentur für Arbeit eine Anzeige erstatten.",
       "difficulty": 2,
       "topic": "Kündigungsschutz",
@@ -2046,12 +2046,12 @@
       "id": "rbh-137",
       "text": "Ab wie vielen Entlassungen in 30 Tagen gilt die Anzeigepflicht (Betrieb 60-499 AN)?",
       "options": [
-        "5 AN",
         "10% der AN oder mehr als 25 AN",
+        "5 AN",
         "20 AN",
         "50 AN"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "In Betrieben mit 60-499 AN ist eine Anzeige ab 10% der AN oder mehr als 25 AN innerhalb von 30 Tagen erforderlich (§ 17 KSchG).",
       "difficulty": 3,
       "topic": "Kündigungsschutz",
@@ -2061,10 +2061,10 @@
       "id": "rbh-138",
       "text": "Was passiert, wenn die Kündigung formell unwirksam ist?",
       "options": [
-        "Sie wird automatisch wirksam",
+        "Sie gilt als Abmahnung",
         "Sie ist von Anfang an nichtig und beendet das Arbeitsverhältnis nicht",
-        "Sie kann nachträglich geheilt werden",
-        "Sie gilt als Abmahnung"
+        "Sie wird automatisch wirksam",
+        "Sie kann nachträglich geheilt werden"
       ],
       "correct": 1,
       "explanation": "Eine formell unwirksame Kündigung (z.B. fehlende Schriftform) ist nichtig und beendet das Arbeitsverhältnis nicht.",
@@ -2076,12 +2076,12 @@
       "id": "rbh-139",
       "text": "Was ist der Unterschied zwischen Kündigung und Anfechtung?",
       "options": [
-        "Es gibt keinen",
         "Kündigung wirkt für die Zukunft, Anfechtung macht den Vertrag rückwirkend unwirksam",
+        "Beides wirkt nur für die Zukunft",
         "Beides wirkt rückwirkend",
-        "Beides wirkt nur für die Zukunft"
+        "Es gibt keinen"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Die Kündigung beendet das Arbeitsverhältnis für die Zukunft (ex nunc), die Anfechtung wirkt grundsätzlich rückwirkend (ex tunc).",
       "difficulty": 3,
       "topic": "Kündigungsschutz",
@@ -2091,12 +2091,12 @@
       "id": "rbh-140",
       "text": "Kann ein AG eine Kündigung zurücknehmen?",
       "options": [
+        "Automatisch nach 2 Wochen",
         "Ja, einseitig jederzeit",
         "Nur mit Zustimmung des AN",
-        "Nur mit Zustimmung des BR",
-        "Automatisch nach 2 Wochen"
+        "Nur mit Zustimmung des BR"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Eine Kündigung kann als einseitige Willenserklärung nicht einseitig zurückgenommen werden, sondern nur mit Zustimmung des Empfängers.",
       "difficulty": 2,
       "topic": "Kündigungsschutz",
@@ -2108,8 +2108,8 @@
       "options": [
         "8 Stunden",
         "10 Stunden",
-        "12 Stunden",
-        "14 Stunden"
+        "14 Stunden",
+        "12 Stunden"
       ],
       "correct": 1,
       "explanation": "Nach § 3 ArbZG kann auf bis zu 10 Std. verlängert werden, wenn in 6 Monaten im Schnitt 8 Std. nicht überschritten werden.",
@@ -2121,10 +2121,10 @@
       "id": "rbh-142",
       "text": "Welche Ruhepause ist nach 6 Stunden Arbeit vorgeschrieben?",
       "options": [
-        "15 Minuten",
+        "60 Minuten",
         "30 Minuten",
         "45 Minuten",
-        "60 Minuten"
+        "15 Minuten"
       ],
       "correct": 1,
       "explanation": "Nach § 4 ArbZG muss bei mehr als 6 Std. Arbeitszeit eine Pause von mindestens 30 Minuten gewährt werden.",
@@ -2138,10 +2138,10 @@
       "options": [
         "8 Stunden",
         "10 Stunden",
-        "11 Stunden",
-        "12 Stunden"
+        "12 Stunden",
+        "11 Stunden"
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": "Nach § 5 ArbZG müssen AN nach Ende der täglichen Arbeitszeit eine ununterbrochene Ruhezeit von mindestens 11 Stunden haben.",
       "difficulty": 1,
       "topic": "Arbeitszeitgesetz",
@@ -2152,11 +2152,11 @@
       "text": "An welchen Tagen dürfen Arbeitnehmer grundsätzlich NICHT beschäftigt werden?",
       "options": [
         "Montags",
+        "An Brückentagen",
         "Samstags",
-        "An Sonn- und Feiertagen",
-        "An Brückentagen"
+        "An Sonn- und Feiertagen"
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": "Nach § 9 ArbZG dürfen AN an Sonn- und gesetzlichen Feiertagen grundsätzlich nicht beschäftigt werden.",
       "difficulty": 1,
       "topic": "Arbeitszeitgesetz",
@@ -2166,12 +2166,12 @@
       "id": "rbh-145",
       "text": "Welche Ausnahme gilt für Nachtarbeit?",
       "options": [
-        "Nachtarbeit ist verboten",
-        "Nachtarbeitnehmer haben Anspruch auf angemessene Zuschläge oder Freizeitausgleich",
         "Nachtarbeit ist unbegrenzt erlaubt",
-        "Nur Männer dürfen nachts arbeiten"
+        "Nur Männer dürfen nachts arbeiten",
+        "Nachtarbeit ist verboten",
+        "Nachtarbeitnehmer haben Anspruch auf angemessene Zuschläge oder Freizeitausgleich"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Nach § 6 ArbZG haben Nachtarbeitnehmer Anspruch auf einen angemessenen Zuschlag oder eine angemessene Zahl bezahlter freier Tage.",
       "difficulty": 2,
       "topic": "Arbeitszeitgesetz",
@@ -2181,12 +2181,12 @@
       "id": "rbh-146",
       "text": "Was gilt als Nachtzeit im Sinne des ArbZG?",
       "options": [
-        "20:00 bis 6:00 Uhr",
         "23:00 bis 6:00 Uhr",
+        "20:00 bis 6:00 Uhr",
         "22:00 bis 6:00 Uhr",
         "0:00 bis 5:00 Uhr"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Nachtzeit ist nach § 2 Abs. 3 ArbZG die Zeit von 23 bis 6 Uhr (in Bäckereien von 22 bis 5 Uhr).",
       "difficulty": 2,
       "topic": "Arbeitszeitgesetz",
@@ -2196,12 +2196,12 @@
       "id": "rbh-147",
       "text": "Ab wann ist ein AN Nachtarbeitnehmer?",
       "options": [
+        "Wenn er Schichtarbeit leistet",
         "Bei jeder Nachtschicht",
         "Wenn er normalerweise oder in Wechselschicht mindestens 48 Tage/Jahr Nachtarbeit leistet",
-        "Wenn er nach 20 Uhr arbeitet",
-        "Wenn er Schichtarbeit leistet"
+        "Wenn er nach 20 Uhr arbeitet"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Nachtarbeitnehmer ist, wer normalerweise Nachtarbeit in Wechselschicht oder an mindestens 48 Tagen/Jahr Nachtarbeit leistet (§ 2 Abs. 5 ArbZG).",
       "difficulty": 3,
       "topic": "Arbeitszeitgesetz",
@@ -2211,12 +2211,12 @@
       "id": "rbh-148",
       "text": "Für wen gilt das Arbeitszeitgesetz NICHT?",
       "options": [
+        "Für Minijobber",
         "Für Teilzeitkräfte",
         "Für leitende Angestellte im Sinne des BetrVG",
-        "Für Auszubildende",
-        "Für Minijobber"
+        "Für Auszubildende"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Nach § 18 ArbZG gilt das Gesetz nicht für leitende Angestellte i.S.d. § 5 Abs. 3 BetrVG.",
       "difficulty": 2,
       "topic": "Arbeitszeitgesetz",
@@ -2242,11 +2242,11 @@
       "text": "Was muss der AG bei Überschreitung der Arbeitszeit von 8 Std. täglich tun?",
       "options": [
         "Nichts",
-        "Die Arbeitszeit aufzeichnen",
         "Eine Genehmigung einholen",
+        "Die Arbeitszeit aufzeichnen",
         "Den BR bezahlen"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Der AG ist nach § 16 Abs. 2 ArbZG verpflichtet, die über 8 Std. hinausgehende Arbeitszeit aufzuzeichnen.",
       "difficulty": 1,
       "topic": "Arbeitszeitgesetz",
@@ -2257,11 +2257,11 @@
       "text": "Welche Pause muss bei einer Arbeitszeit von mehr als 9 Stunden gewährt werden?",
       "options": [
         "30 Minuten",
-        "45 Minuten",
+        "90 Minuten",
         "60 Minuten",
-        "90 Minuten"
+        "45 Minuten"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Bei einer Arbeitszeit von mehr als 9 Stunden beträgt die Mindestpause 45 Minuten (§ 4 ArbZG).",
       "difficulty": 1,
       "topic": "Arbeitszeitgesetz",
@@ -2271,12 +2271,12 @@
       "id": "rbh-152",
       "text": "Können Pausen aufgeteilt werden?",
       "options": [
+        "Nur mit Genehmigung",
         "Nein",
-        "Ja, in Abschnitte von mindestens 15 Minuten",
         "Ja, in beliebig kleine Abschnitte",
-        "Nur mit Genehmigung"
+        "Ja, in Abschnitte von mindestens 15 Minuten"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Pausen können aufgeteilt werden, müssen aber jeweils mindestens 15 Minuten betragen (§ 4 ArbZG).",
       "difficulty": 2,
       "topic": "Arbeitszeitgesetz",
@@ -2288,8 +2288,8 @@
       "options": [
         "Der Betriebsrat",
         "Die Aufsichtsbehörde (Gewerbeaufsicht)",
-        "Die Polizei",
-        "Das Finanzamt"
+        "Das Finanzamt",
+        "Die Polizei"
       ],
       "correct": 1,
       "explanation": "Die zuständige Aufsichtsbehörde (Gewerbeaufsichtsamt) überwacht die Einhaltung des ArbZG (§ 17 ArbZG).",
@@ -2301,10 +2301,10 @@
       "id": "rbh-154",
       "text": "Welche Ordnungswidrigkeit begeht der AG bei Verstoß gegen das ArbZG?",
       "options": [
-        "Keine",
-        "Eine Ordnungswidrigkeit mit Bußgeld bis 30.000 EUR",
         "Nur eine Verwarnung",
-        "Strafrechtliche Konsequenzen bei jedem Verstoß"
+        "Eine Ordnungswidrigkeit mit Bußgeld bis 30.000 EUR",
+        "Strafrechtliche Konsequenzen bei jedem Verstoß",
+        "Keine"
       ],
       "correct": 1,
       "explanation": "Verstöße gegen das ArbZG können als Ordnungswidrigkeit mit bis zu 30.000 EUR Bußgeld geahndet werden (§ 22 ArbZG).",
@@ -2316,12 +2316,12 @@
       "id": "rbh-155",
       "text": "In welchen Branchen gelten Ausnahmen vom Verbot der Sonntagsarbeit?",
       "options": [
-        "In keiner Branche",
-        "In Krankenhäusern, Gastronomie, Feuerwehr u.a.",
+        "Nur im öffentlichen Dienst",
         "Nur in der Landwirtschaft",
-        "Nur im öffentlichen Dienst"
+        "In keiner Branche",
+        "In Krankenhäusern, Gastronomie, Feuerwehr u.a."
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "§ 10 ArbZG listet zahlreiche Ausnahmen auf, u.a. für Krankenhäuser, Gastronomie, Verkehr, Feuerwehr und Medien.",
       "difficulty": 1,
       "topic": "Arbeitszeitgesetz",
@@ -2331,12 +2331,12 @@
       "id": "rbh-156",
       "text": "Was gilt für die Arbeitszeit von Bereitschaftsdienst?",
       "options": [
-        "Bereitschaftsdienst zählt nicht als Arbeitszeit",
         "Bereitschaftsdienst ist nach EuGH-Rechtsprechung vollständig als Arbeitszeit zu werten",
         "Nur 50% zählen als Arbeitszeit",
-        "Bereitschaftsdienst ist verboten"
+        "Bereitschaftsdienst ist verboten",
+        "Bereitschaftsdienst zählt nicht als Arbeitszeit"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Nach der EuGH-Rechtsprechung ist Bereitschaftsdienst, bei dem der AN am Arbeitsplatz anwesend sein muss, vollständig Arbeitszeit.",
       "difficulty": 3,
       "topic": "Arbeitszeitgesetz",
@@ -2346,12 +2346,12 @@
       "id": "rbh-157",
       "text": "Was unterscheidet Rufbereitschaft von Bereitschaftsdienst?",
       "options": [
-        "Es gibt keinen Unterschied",
         "Bei Rufbereitschaft kann der AN seinen Aufenthaltsort frei wählen",
+        "Es gibt keinen Unterschied",
         "Rufbereitschaft ist länger",
         "Bereitschaftsdienst ist freiwillig"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Bei Rufbereitschaft kann der AN seinen Aufenthaltsort selbst bestimmen und muss nur erreichbar sein. Nur die Einsatzzeit ist Arbeitszeit.",
       "difficulty": 2,
       "topic": "Arbeitszeitgesetz",
@@ -2361,12 +2361,12 @@
       "id": "rbh-158",
       "text": "Wie viele Sonntage im Jahr müssen mindestens beschäftigungsfrei bleiben?",
       "options": [
+        "20",
         "10",
         "15",
-        "20",
         "26"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "AN müssen mindestens 15 Sonntage im Jahr beschäftigungsfrei haben (§ 11 Abs. 1 ArbZG).",
       "difficulty": 2,
       "topic": "Arbeitszeitgesetz",
@@ -2377,11 +2377,11 @@
       "text": "Was ist ein Arbeitszeitkonto?",
       "options": [
         "Ein Bankkonto für Gehalt",
-        "Ein System zur Erfassung und zum Ausgleich von Plus- und Minusstunden",
         "Ein Urlaubskonto",
+        "Ein System zur Erfassung und zum Ausgleich von Plus- und Minusstunden",
         "Ein Rentenkonto"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Ein Arbeitszeitkonto erfasst Über- und Unterstunden, die über einen Zeitraum ausgeglichen werden können.",
       "difficulty": 1,
       "topic": "Arbeitszeitgesetz",
@@ -2391,12 +2391,12 @@
       "id": "rbh-160",
       "text": "Welche maximale wöchentliche Arbeitszeit ergibt sich aus dem ArbZG?",
       "options": [
-        "40 Stunden",
-        "48 Stunden",
+        "60 Stunden",
         "54 Stunden",
-        "60 Stunden"
+        "40 Stunden",
+        "48 Stunden"
       ],
-      "correct": 3,
+      "correct": 0,
       "explanation": "Bei 6 Werktagen à max. 10 Std. ergibt sich eine max. Wochenarbeitszeit von 60 Std. (kurzfristig), im Schnitt max. 48 Std.",
       "difficulty": 3,
       "topic": "Arbeitszeitgesetz",
@@ -2406,12 +2406,12 @@
       "id": "rbh-161",
       "text": "Wie lang ist die Mutterschutzfrist vor der Entbindung?",
       "options": [
-        "4 Wochen",
-        "6 Wochen",
         "8 Wochen",
-        "10 Wochen"
+        "10 Wochen",
+        "6 Wochen",
+        "4 Wochen"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Die Schutzfrist vor der Entbindung beträgt 6 Wochen (§ 3 MuSchG).",
       "difficulty": 1,
       "topic": "Mutterschutzgesetz",
@@ -2422,9 +2422,9 @@
       "text": "Wie lang ist die Mutterschutzfrist nach der Entbindung?",
       "options": [
         "4 Wochen",
-        "6 Wochen",
+        "12 Wochen",
         "8 Wochen",
-        "12 Wochen"
+        "6 Wochen"
       ],
       "correct": 2,
       "explanation": "Die Schutzfrist nach der Entbindung beträgt 8 Wochen, bei Früh- oder Mehrlingsgeburten 12 Wochen (§ 3 MuSchG).",
@@ -2436,12 +2436,12 @@
       "id": "rbh-163",
       "text": "Darf eine Schwangere gekündigt werden?",
       "options": [
-        "Ja, jederzeit",
         "Nein, vom Beginn der Schwangerschaft bis 4 Monate nach der Entbindung",
+        "Nur mit Zustimmung des BR",
         "Nur in der Probezeit",
-        "Nur mit Zustimmung des BR"
+        "Ja, jederzeit"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Nach § 17 MuSchG ist die Kündigung während der Schwangerschaft und bis 4 Monate nach der Entbindung unzulässig.",
       "difficulty": 1,
       "topic": "Mutterschutzgesetz",
@@ -2451,12 +2451,12 @@
       "id": "rbh-164",
       "text": "Wer zahlt den Zuschuss zum Mutterschaftsgeld?",
       "options": [
-        "Die Krankenkasse allein",
-        "Der Arbeitgeber zahlt den Zuschuss zum Mutterschaftsgeld der Krankenkasse",
         "Die Agentur für Arbeit",
-        "Der Staat direkt"
+        "Der Staat direkt",
+        "Der Arbeitgeber zahlt den Zuschuss zum Mutterschaftsgeld der Krankenkasse",
+        "Die Krankenkasse allein"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Der AG zahlt den Zuschuss zum Mutterschaftsgeld, die Differenz zwischen 13 EUR/Tag (Krankenkasse) und dem Nettogehalt (§ 20 MuSchG).",
       "difficulty": 2,
       "topic": "Mutterschutzgesetz",
@@ -2496,9 +2496,9 @@
       "id": "rbh-167",
       "text": "Können beide Elternteile gleichzeitig Elternzeit nehmen?",
       "options": [
-        "Nein",
-        "Ja",
         "Nur im ersten Jahr",
+        "Ja",
+        "Nein",
         "Nur bei Zwillingen"
       ],
       "correct": 1,
@@ -2511,12 +2511,12 @@
       "id": "rbh-168",
       "text": "Besteht während der Elternzeit Kündigungsschutz?",
       "options": [
+        "Nur im ersten Jahr",
         "Nein",
         "Ja, ab Anmeldung der Elternzeit, frühestens 8 Wochen vor Beginn",
-        "Nur im ersten Jahr",
         "Nur bei Vollzeit-Elternzeit"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Ab Anmeldung der Elternzeit, frühestens 8 Wochen vor Beginn, besteht besonderer Kündigungsschutz (§ 18 BEEG).",
       "difficulty": 2,
       "topic": "Mutterschutzgesetz",
@@ -2528,8 +2528,8 @@
       "options": [
         "Nein",
         "Ja, bis zu 32 Stunden pro Woche",
-        "Nur mit Genehmigung des BR",
-        "Nur als Minijob"
+        "Nur als Minijob",
+        "Nur mit Genehmigung des BR"
       ],
       "correct": 1,
       "explanation": "Während der Elternzeit darf bis zu 32 Stunden pro Woche in Teilzeit gearbeitet werden (§ 15 Abs. 7 BEEG).",
@@ -2542,11 +2542,11 @@
       "text": "Darf eine Schwangere auf eigenen Wunsch vor der Entbindung arbeiten?",
       "options": [
         "Nein, das ist verboten",
-        "Ja, sie kann auf den Schutz vor der Entbindung verzichten",
         "Nur mit ärztlichem Attest",
-        "Nur halbtags"
+        "Nur halbtags",
+        "Ja, sie kann auf den Schutz vor der Entbindung verzichten"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Die werdende Mutter kann auf die 6-Wochen-Schutzfrist vor der Entbindung auf eigenen Wunsch verzichten (§ 3 Abs. 1 MuSchG).",
       "difficulty": 2,
       "topic": "Mutterschutzgesetz",
@@ -2556,10 +2556,10 @@
       "id": "rbh-171",
       "text": "Für wen gilt das Jugendarbeitsschutzgesetz?",
       "options": [
-        "Für alle Arbeitnehmer unter 25",
+        "Für alle Schüler",
         "Für Personen unter 18 Jahren, die beschäftigt werden",
         "Nur für Auszubildende",
-        "Für alle Schüler"
+        "Für alle Arbeitnehmer unter 25"
       ],
       "correct": 1,
       "explanation": "Das JArbSchG gilt für die Beschäftigung von Personen, die noch nicht 18 Jahre alt sind (§ 1 JArbSchG).",
@@ -2572,11 +2572,11 @@
       "text": "Wie viele Stunden dürfen Jugendliche täglich höchstens arbeiten?",
       "options": [
         "6 Stunden",
-        "7 Stunden",
         "8 Stunden",
-        "10 Stunden"
+        "10 Stunden",
+        "7 Stunden"
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation": "Jugendliche dürfen nicht mehr als 8 Stunden täglich und 40 Stunden wöchentlich arbeiten (§ 8 JArbSchG).",
       "difficulty": 1,
       "topic": "Jugendarbeitsschutzgesetz",
@@ -2586,12 +2586,12 @@
       "id": "rbh-173",
       "text": "Wie lang muss die Pause für Jugendliche bei einer Arbeitszeit von mehr als 6 Stunden sein?",
       "options": [
-        "15 Minuten",
         "30 Minuten",
-        "60 Minuten",
-        "90 Minuten"
+        "15 Minuten",
+        "90 Minuten",
+        "60 Minuten"
       ],
-      "correct": 2,
+      "correct": 3,
       "explanation": "Bei mehr als 6 Stunden Arbeitszeit müssen Jugendliche eine Pause von 60 Minuten haben (§ 11 JArbSchG).",
       "difficulty": 2,
       "topic": "Jugendarbeitsschutzgesetz",
@@ -2601,12 +2601,12 @@
       "id": "rbh-174",
       "text": "Dürfen Jugendliche am Wochenende beschäftigt werden?",
       "options": [
-        "Ja, immer",
-        "Grundsätzlich nicht an Samstagen und Sonntagen, mit Branchenausnahmen",
+        "Nur mit Genehmigung der Eltern",
         "Nur samstags",
-        "Nur mit Genehmigung der Eltern"
+        "Ja, immer",
+        "Grundsätzlich nicht an Samstagen und Sonntagen, mit Branchenausnahmen"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Jugendliche dürfen grundsätzlich nicht samstags und sonntags beschäftigt werden, mit Ausnahmen für bestimmte Branchen (§§ 16, 17 JArbSchG).",
       "difficulty": 2,
       "topic": "Jugendarbeitsschutzgesetz",
@@ -2616,8 +2616,8 @@
       "id": "rbh-175",
       "text": "Wie viel Urlaub haben Jugendliche unter 16 Jahren mindestens?",
       "options": [
-        "24 Werktage",
         "25 Werktage",
+        "24 Werktage",
         "27 Werktage",
         "30 Werktage"
       ],
@@ -2631,12 +2631,12 @@
       "id": "rbh-176",
       "text": "Wie viel Urlaub haben Jugendliche unter 17 Jahren mindestens?",
       "options": [
-        "24 Werktage",
-        "25 Werktage",
         "27 Werktage",
-        "30 Werktage"
+        "30 Werktage",
+        "24 Werktage",
+        "25 Werktage"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": "Jugendliche unter 17 Jahren haben mindestens 27 Werktage Urlaub (§ 19 JArbSchG).",
       "difficulty": 2,
       "topic": "Jugendarbeitsschutzgesetz",
@@ -2647,11 +2647,11 @@
       "text": "Dürfen Jugendliche Akkordarbeit leisten?",
       "options": [
         "Ja",
-        "Nein, Akkordarbeit und tempoabhängige Arbeiten sind verboten",
         "Nur mit Zustimmung der Eltern",
+        "Nein, Akkordarbeit und tempoabhängige Arbeiten sind verboten",
         "Nur in der Ausbildung"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Nach § 23 JArbSchG dürfen Jugendliche nicht mit Akkordarbeit und tempoabhängigen Arbeiten beschäftigt werden.",
       "difficulty": 1,
       "topic": "Jugendarbeitsschutzgesetz",
@@ -2661,12 +2661,12 @@
       "id": "rbh-178",
       "text": "Ab welchem Alter dürfen Kinder leichte Arbeiten verrichten?",
       "options": [
-        "Ab 10 Jahren",
         "Ab 13 Jahren mit Einwilligung der Eltern",
         "Ab 15 Jahren",
+        "Ab 10 Jahren",
         "Kinder dürfen nie arbeiten"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Kinder ab 13 Jahren dürfen mit Einwilligung der Personensorgeberechtigten leichte Arbeiten verrichten (§ 5 Abs. 3 JArbSchG).",
       "difficulty": 2,
       "topic": "Jugendarbeitsschutzgesetz",
@@ -2676,12 +2676,12 @@
       "id": "rbh-179",
       "text": "Welche ärztliche Untersuchung ist vor Beginn der Ausbildung Pflicht?",
       "options": [
+        "Ein Drogentest",
         "Keine",
         "Eine Erstuntersuchung nach § 32 JArbSchG",
-        "Ein Drogentest",
         "Eine Sehprüfung"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Jugendliche dürfen nur beschäftigt werden, wenn sie innerhalb der letzten 14 Monate ärztlich untersucht worden sind (§ 32 JArbSchG).",
       "difficulty": 1,
       "topic": "Jugendarbeitsschutzgesetz",
@@ -2691,12 +2691,12 @@
       "id": "rbh-180",
       "text": "Wie viele Stunden dürfen Jugendliche wöchentlich maximal arbeiten?",
       "options": [
+        "40 Stunden",
         "35 Stunden",
         "38,5 Stunden",
-        "40 Stunden",
         "48 Stunden"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": "Jugendliche dürfen maximal 40 Stunden wöchentlich arbeiten (§ 8 Abs. 1 JArbSchG).",
       "difficulty": 1,
       "topic": "Jugendarbeitsschutzgesetz",
@@ -2707,11 +2707,11 @@
       "text": "Welches Gesetz schützt vor Diskriminierung im Arbeitsleben?",
       "options": [
         "KSchG",
+        "BGB",
         "Das Allgemeine Gleichbehandlungsgesetz (AGG)",
-        "BetrVG",
-        "BGB"
+        "BetrVG"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Das AGG schützt vor Benachteiligungen aus Gründen der Rasse, Geschlecht, Religion, Behinderung, Alter oder sexuellen Identität.",
       "difficulty": 1,
       "topic": "AGG",
@@ -2721,8 +2721,8 @@
       "id": "rbh-182",
       "text": "Welches Merkmal ist NICHT im AGG als Diskriminierungsgrund genannt?",
       "options": [
-        "Geschlecht",
         "Alter",
+        "Geschlecht",
         "Parteizugehörigkeit",
         "Sexuelle Identität"
       ],
@@ -2736,9 +2736,9 @@
       "id": "rbh-183",
       "text": "Was versteht man unter mittelbarer Diskriminierung?",
       "options": [
-        "Offene Ungleichbehandlung",
-        "Scheinbar neutrale Regelungen, die bestimmte Gruppen benachteiligen",
         "Diskriminierung durch Dritte",
+        "Scheinbar neutrale Regelungen, die bestimmte Gruppen benachteiligen",
+        "Offene Ungleichbehandlung",
         "Positive Diskriminierung"
       ],
       "correct": 1,
@@ -2751,12 +2751,12 @@
       "id": "rbh-184",
       "text": "Innerhalb welcher Frist muss ein Verstoß gegen das AGG geltend gemacht werden?",
       "options": [
+        "3 Monate",
         "1 Monat",
         "2 Monate",
-        "3 Monate",
         "6 Monate"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Der Anspruch muss innerhalb von 2 Monaten schriftlich geltend gemacht werden (§ 15 Abs. 4 AGG).",
       "difficulty": 2,
       "topic": "AGG",
@@ -2767,11 +2767,11 @@
       "text": "Welche Pflicht hat der Arbeitgeber nach dem AGG?",
       "options": [
         "Keine besonderen Pflichten",
-        "Schutz vor Benachteiligung und Ergreifung von Maßnahmen bei Verstößen",
         "Pflicht zur Gleichbezahlung aller AN",
+        "Schutz vor Benachteiligung und Ergreifung von Maßnahmen bei Verstößen",
         "Pflicht zur Einstellung von Minderheiten"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Der AG hat nach §§ 12, 13 AGG die Pflicht, Maßnahmen zum Schutz vor Benachteiligungen zu treffen.",
       "difficulty": 1,
       "topic": "AGG",
@@ -2781,12 +2781,12 @@
       "id": "rbh-186",
       "text": "Was ist sexuelle Belästigung nach dem AGG?",
       "options": [
-        "Jedes Kompliment",
-        "Ein unerwünschtes sexuell bestimmtes Verhalten, das die Würde verletzt",
         "Jede körperliche Berührung",
-        "Nur strafrechtlich relevante Handlungen"
+        "Jedes Kompliment",
+        "Nur strafrechtlich relevante Handlungen",
+        "Ein unerwünschtes sexuell bestimmtes Verhalten, das die Würde verletzt"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Sexuelle Belästigung ist nach § 3 Abs. 4 AGG ein unerwünschtes, sexuell bestimmtes Verhalten, das die Würde der betreffenden Person verletzt.",
       "difficulty": 2,
       "topic": "AGG",
@@ -2796,12 +2796,12 @@
       "id": "rbh-187",
       "text": "Welche Maßnahme muss der AG bei sexueller Belästigung ergreifen?",
       "options": [
-        "Keine",
-        "Geeignete Maßnahmen wie Abmahnung, Umsetzung oder Kündigung des Belästigers",
         "Nur ein Gespräch führen",
-        "Die Polizei rufen"
+        "Die Polizei rufen",
+        "Geeignete Maßnahmen wie Abmahnung, Umsetzung oder Kündigung des Belästigers",
+        "Keine"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Der AG muss nach § 12 Abs. 3 AGG geeignete Maßnahmen ergreifen: Abmahnung, Umsetzung oder Kündigung des Belästigers.",
       "difficulty": 2,
       "topic": "AGG",
@@ -2811,10 +2811,10 @@
       "id": "rbh-188",
       "text": "Wann ist eine unterschiedliche Behandlung wegen des Alters zulässig?",
       "options": [
-        "Nie",
+        "Nur im öffentlichen Dienst",
         "Wenn sie objektiv, angemessen und durch ein legitimes Ziel gerechtfertigt ist",
         "Immer bei über 50-Jährigen",
-        "Nur im öffentlichen Dienst"
+        "Nie"
       ],
       "correct": 1,
       "explanation": "Unterschiedliche Behandlung wegen Alters ist zulässig, wenn sie objektiv, angemessen und durch ein legitimes Ziel gerechtfertigt ist (§ 10 AGG).",
@@ -2826,12 +2826,12 @@
       "id": "rbh-189",
       "text": "Darf in einer Stellenanzeige nach dem Geschlecht gefragt werden?",
       "options": [
-        "Ja, immer",
-        "Grundsätzlich nein, Stellen müssen geschlechtsneutral ausgeschrieben werden",
         "Nur für Führungspositionen",
-        "Nur im öffentlichen Dienst"
+        "Ja, immer",
+        "Nur im öffentlichen Dienst",
+        "Grundsätzlich nein, Stellen müssen geschlechtsneutral ausgeschrieben werden"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Stellenanzeigen müssen nach § 11 AGG geschlechtsneutral formuliert sein (m/w/d).",
       "difficulty": 1,
       "topic": "AGG",
@@ -2841,12 +2841,12 @@
       "id": "rbh-190",
       "text": "Was ist eine Beschwerdestelle nach dem AGG?",
       "options": [
-        "Ein Gericht",
-        "Eine vom AG einzurichtende Stelle, an die sich AN bei Diskriminierung wenden können",
+        "Eine Gewerkschaftsstelle",
         "Eine Behörde",
-        "Eine Gewerkschaftsstelle"
+        "Eine vom AG einzurichtende Stelle, an die sich AN bei Diskriminierung wenden können",
+        "Ein Gericht"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Nach § 13 AGG hat der AG eine Beschwerdestelle einzurichten, an die sich Beschäftigte bei Diskriminierung wenden können.",
       "difficulty": 2,
       "topic": "AGG",
@@ -2856,10 +2856,10 @@
       "id": "rbh-191",
       "text": "Welches Gesetz regelt den Datenschutz in Europa?",
       "options": [
-        "BDSG",
+        "BetrVG",
         "Die Datenschutz-Grundverordnung (DSGVO)",
-        "AGG",
-        "BetrVG"
+        "BDSG",
+        "AGG"
       ],
       "correct": 1,
       "explanation": "Die DSGVO (EU 2016/679) regelt den Schutz personenbezogener Daten in der gesamten EU.",
@@ -2872,11 +2872,11 @@
       "text": "Was sind personenbezogene Daten?",
       "options": [
         "Nur der Name",
+        "Nur die Adresse",
         "Alle Informationen, die sich auf eine identifizierte oder identifizierbare Person beziehen",
-        "Nur Bankdaten",
-        "Nur die Adresse"
+        "Nur Bankdaten"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Personenbezogene Daten sind nach Art. 4 Nr. 1 DSGVO alle Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person beziehen.",
       "difficulty": 1,
       "topic": "Datenschutz",
@@ -2887,11 +2887,11 @@
       "text": "Was ist das Prinzip der Datenminimierung?",
       "options": [
         "So viele Daten wie möglich sammeln",
+        "Daten verschlüsseln",
         "Nur die für den Zweck erforderlichen Daten erheben",
-        "Daten regelmäßig löschen",
-        "Daten verschlüsseln"
+        "Daten regelmäßig löschen"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Nach Art. 5 Abs. 1 lit. c DSGVO müssen personenbezogene Daten dem Zweck angemessen und auf das notwendige Maß beschränkt sein.",
       "difficulty": 2,
       "topic": "Datenschutz",
@@ -2901,12 +2901,12 @@
       "id": "rbh-194",
       "text": "Wann darf der AG Beschäftigtendaten verarbeiten?",
       "options": [
-        "Immer",
-        "Wenn es für die Durchführung des Arbeitsverhältnisses erforderlich ist",
         "Nur mit Einwilligung",
-        "Nur mit BR-Zustimmung"
+        "Nur mit BR-Zustimmung",
+        "Wenn es für die Durchführung des Arbeitsverhältnisses erforderlich ist",
+        "Immer"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Nach § 26 BDSG dürfen Beschäftigtendaten verarbeitet werden, wenn dies für die Begründung, Durchführung oder Beendigung des Arbeitsverhältnisses erforderlich ist.",
       "difficulty": 2,
       "topic": "Datenschutz",
@@ -2916,12 +2916,12 @@
       "id": "rbh-195",
       "text": "Wer ist der Datenschutzbeauftragte?",
       "options": [
-        "Der Betriebsratsvorsitzende",
-        "Eine Person, die die Einhaltung des Datenschutzes im Unternehmen überwacht",
         "Der IT-Leiter",
-        "Der Geschäftsführer"
+        "Der Geschäftsführer",
+        "Eine Person, die die Einhaltung des Datenschutzes im Unternehmen überwacht",
+        "Der Betriebsratsvorsitzende"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "Der Datenschutzbeauftragte überwacht die Einhaltung der Datenschutzvorschriften im Unternehmen (Art. 37 ff. DSGVO).",
       "difficulty": 1,
       "topic": "Datenschutz",
@@ -2931,10 +2931,10 @@
       "id": "rbh-196",
       "text": "Ab wie vielen Personen, die ständig mit Datenverarbeitung beschäftigt sind, ist ein DSB zu bestellen?",
       "options": [
-        "5",
         "10",
+        "50",
         "20",
-        "50"
+        "5"
       ],
       "correct": 2,
       "explanation": "Nach § 38 BDSG ist ein Datenschutzbeauftragter zu bestellen, wenn mindestens 20 Personen ständig mit der automatisierten Verarbeitung beschäftigt sind.",
@@ -2946,12 +2946,12 @@
       "id": "rbh-197",
       "text": "Was ist eine Datenschutz-Folgenabschätzung?",
       "options": [
-        "Eine Kostenberechnung",
         "Eine Analyse der Risiken einer Datenverarbeitung für die Betroffenen",
         "Eine Datensicherung",
-        "Ein Audit"
+        "Ein Audit",
+        "Eine Kostenberechnung"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Die DSFA (Art. 35 DSGVO) ist eine Vorabanalyse der Risiken einer geplanten Datenverarbeitung für die Rechte und Freiheiten der Betroffenen.",
       "difficulty": 3,
       "topic": "Datenschutz",
@@ -2961,12 +2961,12 @@
       "id": "rbh-198",
       "text": "Welches Recht haben Betroffene nach der DSGVO?",
       "options": [
-        "Kein Recht auf ihre Daten",
         "Recht auf Auskunft, Berichtigung, Löschung und Datenübertragbarkeit",
+        "Nur Recht auf Auskunft",
         "Nur Recht auf Löschung",
-        "Nur Recht auf Auskunft"
+        "Kein Recht auf ihre Daten"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Betroffene haben nach der DSGVO u.a. Recht auf Auskunft (Art. 15), Berichtigung (Art. 16), Löschung (Art. 17) und Datenübertragbarkeit (Art. 20).",
       "difficulty": 2,
       "topic": "Datenschutz",
@@ -2976,12 +2976,12 @@
       "id": "rbh-199",
       "text": "Was droht bei einem Verstoß gegen die DSGVO?",
       "options": [
-        "Keine Konsequenzen",
-        "Bußgelder bis zu 20 Mio. EUR oder 4% des weltweiten Jahresumsatzes",
         "Maximal 1.000 EUR Bußgeld",
-        "Nur eine Verwarnung"
+        "Nur eine Verwarnung",
+        "Keine Konsequenzen",
+        "Bußgelder bis zu 20 Mio. EUR oder 4% des weltweiten Jahresumsatzes"
       ],
-      "correct": 1,
+      "correct": 3,
       "explanation": "Bei schwerwiegenden Verstößen drohen Bußgelder bis zu 20 Mio. EUR oder 4% des weltweiten Jahresumsatzes (Art. 83 DSGVO).",
       "difficulty": 2,
       "topic": "Datenschutz",
@@ -2991,12 +2991,12 @@
       "id": "rbh-200",
       "text": "Darf der AG die E-Mails seiner Mitarbeiter ohne weiteres lesen?",
       "options": [
-        "Ja, immer",
         "Nein, das Lesen privater E-Mails ist grundsätzlich unzulässig, dienstliche bei erlaubter Privatnutzung ebenfalls eingeschränkt",
+        "Nur bei Verdacht auf Straftat",
         "Nur mit BR-Zustimmung",
-        "Nur bei Verdacht auf Straftat"
+        "Ja, immer"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "Das Lesen privater E-Mails ist unzulässig. Bei erlaubter Privatnutzung ist auch der Zugriff auf dienstliche E-Mails eingeschränkt (Fernmeldegeheimnis).",
       "difficulty": 3,
       "topic": "Datenschutz",
