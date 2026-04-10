@@ -1,0 +1,3006 @@
+{
+  "subject": "ikp",
+  "title": "Information, Kommunikation, Planung",
+  "questions": [
+    {
+      "id": "ikp-001",
+      "text": "Was beschreibt der kritische Pfad in einem Netzplan?",
+      "options": [
+        "Den kürzesten Weg durch das Projekt",
+        "Den längsten Weg durch das Projekt",
+        "Den kostengünstigsten Weg",
+        "Den Weg mit den meisten Ressourcen"
+      ],
+      "correct": 1,
+      "explanation": "Der kritische Pfad ist der längste Weg durch den Netzplan und bestimmt die minimale Projektdauer. Verzögerungen auf diesem Pfad verzögern das gesamte Projekt.",
+      "difficulty": 2,
+      "topic": "Projektmanagement",
+      "subtopic": "Netzplantechnik"
+    },
+    {
+      "id": "ikp-002",
+      "text": "Welche Phase gehört NICHT zu den klassischen Projektphasen?",
+      "options": [
+        "Initiierung",
+        "Planung",
+        "Routinebetrieb",
+        "Abschluss"
+      ],
+      "correct": 2,
+      "explanation": "Routinebetrieb ist keine Projektphase. Projekte sind zeitlich begrenzte Vorhaben mit den Phasen Initiierung, Planung, Durchführung, Überwachung und Abschluss.",
+      "difficulty": 1,
+      "topic": "Projektmanagement",
+      "subtopic": "Projektphasen"
+    },
+    {
+      "id": "ikp-003",
+      "text": "Was ist ein Meilenstein im Projektmanagement?",
+      "options": [
+        "Ein regelmäßiges Teammeeting",
+        "Ein wichtiges Zwischenergebnis mit definiertem Zeitpunkt",
+        "Eine Kostenaufstellung",
+        "Ein Arbeitspaket"
+      ],
+      "correct": 1,
+      "explanation": "Ein Meilenstein markiert ein wichtiges Zwischenergebnis oder Ereignis im Projektverlauf. Er hat keine Dauer und dient als Kontrollpunkt.",
+      "difficulty": 1,
+      "topic": "Projektmanagement",
+      "subtopic": "Meilensteine"
+    },
+    {
+      "id": "ikp-004",
+      "text": "Was zeigt ein Gantt-Diagramm?",
+      "options": [
+        "Die Kostenverteilung im Projekt",
+        "Den zeitlichen Ablauf von Vorgängen als Balkendiagramm",
+        "Die Organisationsstruktur",
+        "Die Risikoverteilung"
+      ],
+      "correct": 1,
+      "explanation": "Ein Gantt-Diagramm (Balkenplan) stellt den zeitlichen Ablauf von Projektaktivitäten grafisch als horizontale Balken auf einer Zeitachse dar.",
+      "difficulty": 1,
+      "topic": "Projektmanagement",
+      "subtopic": "Gantt-Diagramm"
+    },
+    {
+      "id": "ikp-005",
+      "text": "Welche Aussage zum Projektstrukturplan (PSP) ist richtig?",
+      "options": [
+        "Er zeigt die zeitliche Abfolge der Vorgänge",
+        "Er gliedert das Projekt hierarchisch in Teilprojekte und Arbeitspakete",
+        "Er stellt nur die Kosten dar",
+        "Er ersetzt den Netzplan vollständig"
+      ],
+      "correct": 1,
+      "explanation": "Der PSP gliedert das Gesamtprojekt hierarchisch in Teilprojekte, Teilaufgaben und Arbeitspakete. Er zeigt die sachliche Gliederung, nicht den zeitlichen Ablauf.",
+      "difficulty": 2,
+      "topic": "Projektmanagement",
+      "subtopic": "Projektstrukturplan"
+    },
+    {
+      "id": "ikp-006",
+      "text": "Was versteht man unter der Pufferzeit im Netzplan?",
+      "options": [
+        "Die Zeit für Pausen der Mitarbeiter",
+        "Die Zeitreserve, um die ein Vorgang verschoben werden kann, ohne das Projektende zu gefährden",
+        "Die geplante Überstundenzeit",
+        "Die Dauer des kritischen Pfades"
+      ],
+      "correct": 1,
+      "explanation": "Die Pufferzeit (Gesamtpuffer) gibt an, um wie viel ein Vorgang verzögert werden kann, ohne dass sich das Projektende verschiebt. Vorgänge auf dem kritischen Pfad haben keinen Puffer.",
+      "difficulty": 2,
+      "topic": "Projektmanagement",
+      "subtopic": "Netzplantechnik"
+    },
+    {
+      "id": "ikp-007",
+      "text": "Welche Organisationsform gibt dem Projektleiter die größte Weisungsbefugnis?",
+      "options": [
+        "Stabs-Projektorganisation",
+        "Matrix-Projektorganisation",
+        "Reine Projektorganisation",
+        "Linienorganisation"
+      ],
+      "correct": 2,
+      "explanation": "In der reinen Projektorganisation werden die Mitarbeiter vollständig aus der Linie herausgelöst und dem Projektleiter unterstellt. Er hat die volle Weisungsbefugnis.",
+      "difficulty": 2,
+      "topic": "Projektmanagement",
+      "subtopic": "Projektorganisation"
+    },
+    {
+      "id": "ikp-008",
+      "text": "Was ist das Magische Dreieck des Projektmanagements?",
+      "options": [
+        "Zeit, Kosten, Qualität/Leistung",
+        "Personal, Material, Maschinen",
+        "Planung, Durchführung, Kontrolle",
+        "Auftraggeber, Projektleiter, Team"
+      ],
+      "correct": 0,
+      "explanation": "Das Magische Dreieck beschreibt die drei konkurrierenden Zielgrößen Zeit, Kosten und Qualität/Leistungsumfang. Eine Änderung einer Größe beeinflusst die anderen.",
+      "difficulty": 1,
+      "topic": "Projektmanagement",
+      "subtopic": "Grundlagen"
+    },
+    {
+      "id": "ikp-009",
+      "text": "Was ist eine Stakeholder-Analyse?",
+      "options": [
+        "Eine Kostenanalyse der Projektbeteiligten",
+        "Die systematische Erfassung und Bewertung aller Interessengruppen eines Projekts",
+        "Eine Risikoberechnung",
+        "Die Analyse der Teamfähigkeit"
+      ],
+      "correct": 1,
+      "explanation": "Die Stakeholder-Analyse identifiziert alle Personen und Gruppen, die vom Projekt betroffen sind oder es beeinflussen können, und bewertet deren Einfluss und Interesse.",
+      "difficulty": 2,
+      "topic": "Projektmanagement",
+      "subtopic": "Stakeholder"
+    },
+    {
+      "id": "ikp-010",
+      "text": "Welches Werkzeug eignet sich am besten zur Risikoidentifikation im Projekt?",
+      "options": [
+        "Gantt-Diagramm",
+        "Risikomatrix",
+        "Organigramm",
+        "Stückliste"
+      ],
+      "correct": 1,
+      "explanation": "Die Risikomatrix bewertet identifizierte Risiken nach Eintrittswahrscheinlichkeit und Schadensausmaß und ermöglicht so eine Priorisierung der Risiken.",
+      "difficulty": 2,
+      "topic": "Projektmanagement",
+      "subtopic": "Risikoanalyse"
+    },
+    {
+      "id": "ikp-011",
+      "text": "Wie wird die früheste Lage (FAZ) eines Vorgangs im Netzplan berechnet?",
+      "options": [
+        "Durch Rückwärtsrechnung vom Projektende",
+        "Durch Vorwärtsrechnung vom Projektstart",
+        "Durch Mittelwertbildung",
+        "Durch Schätzung des Projektleiters"
+      ],
+      "correct": 1,
+      "explanation": "Die früheste Anfangszeit (FAZ) wird durch Vorwärtsrechnung ermittelt. Man addiert die Dauern der Vorgänge vom Projektstart aus und wählt bei mehreren Vorgängern den größten Wert.",
+      "difficulty": 3,
+      "topic": "Projektmanagement",
+      "subtopic": "Netzplantechnik"
+    },
+    {
+      "id": "ikp-012",
+      "text": "Was kennzeichnet ein Arbeitspaket im Projektstrukturplan?",
+      "options": [
+        "Es ist die kleinste nicht weiter zerlegte Einheit",
+        "Es umfasst immer das gesamte Projekt",
+        "Es hat keine definierte Dauer",
+        "Es wird nur vom Projektleiter bearbeitet"
+      ],
+      "correct": 0,
+      "explanation": "Ein Arbeitspaket ist die kleinste Einheit im PSP, die nicht weiter untergliedert wird. Es hat einen klaren Inhalt, Verantwortlichen, Termine und Ressourcen.",
+      "difficulty": 1,
+      "topic": "Projektmanagement",
+      "subtopic": "Projektstrukturplan"
+    },
+    {
+      "id": "ikp-013",
+      "text": "Was ist der Unterschied zwischen Gesamtpuffer und freiem Puffer?",
+      "options": [
+        "Es gibt keinen Unterschied",
+        "Der Gesamtpuffer bezieht sich auf das Projektende, der freie Puffer auf den frühesten Start des Nachfolgers",
+        "Der freie Puffer ist immer größer als der Gesamtpuffer",
+        "Puffer gibt es nur auf dem kritischen Pfad"
+      ],
+      "correct": 1,
+      "explanation": "Der Gesamtpuffer gibt an, wie weit ein Vorgang verschoben werden kann, ohne das Projektende zu gefährden. Der freie Puffer gibt an, wie weit verschoben werden kann, ohne den Nachfolger zu beeinflussen.",
+      "difficulty": 3,
+      "topic": "Projektmanagement",
+      "subtopic": "Netzplantechnik"
+    },
+    {
+      "id": "ikp-014",
+      "text": "Welche Methode eignet sich zur Aufwandsschätzung im Projekt?",
+      "options": [
+        "Dreipunktschätzung",
+        "Gantt-Diagramm",
+        "Organigramm",
+        "Stakeholder-Analyse"
+      ],
+      "correct": 0,
+      "explanation": "Die Dreipunktschätzung verwendet optimistischen, wahrscheinlichsten und pessimistischen Wert zur realistischen Aufwandsschätzung: (O + 4*W + P) / 6.",
+      "difficulty": 2,
+      "topic": "Projektmanagement",
+      "subtopic": "Projektplanung"
+    },
+    {
+      "id": "ikp-015",
+      "text": "Was ist ein Projektauftrag (Project Charter)?",
+      "options": [
+        "Ein Arbeitsvertrag für Projektmitarbeiter",
+        "Ein formales Dokument zur Autorisierung des Projekts mit Zielen, Rahmenbedingungen und Verantwortlichkeiten",
+        "Eine Rechnung für den Auftraggeber",
+        "Ein Abschlussbericht"
+      ],
+      "correct": 1,
+      "explanation": "Der Projektauftrag ist das formale Dokument, das ein Projekt offiziell genehmigt und die wesentlichen Rahmenbedingungen, Ziele und Befugnisse des Projektleiters definiert.",
+      "difficulty": 2,
+      "topic": "Projektmanagement",
+      "subtopic": "Projektphasen"
+    },
+    {
+      "id": "ikp-016",
+      "text": "Welche Aussage zur Stabs-Projektorganisation ist korrekt?",
+      "options": [
+        "Der Projektleiter hat volle Weisungsbefugnis",
+        "Der Projektleiter hat nur beratende und koordinierende Funktion",
+        "Die Mitarbeiter werden vollständig aus der Linie herausgelöst",
+        "Sie ist die stärkste Organisationsform für Projekte"
+      ],
+      "correct": 1,
+      "explanation": "In der Stabs-Projektorganisation hat der Projektleiter keine direkte Weisungsbefugnis. Er berät und koordiniert, die Entscheidungen treffen die Linienvorgesetzten.",
+      "difficulty": 2,
+      "topic": "Projektmanagement",
+      "subtopic": "Projektorganisation"
+    },
+    {
+      "id": "ikp-017",
+      "text": "Was beschreibt der Projektlebenszyklus?",
+      "options": [
+        "Die Lebensdauer der Projektergebnisse",
+        "Die Phasen von der Projektidee bis zum Projektabschluss",
+        "Die Karriere des Projektleiters",
+        "Die Nutzungsdauer der eingesetzten Maschinen"
+      ],
+      "correct": 1,
+      "explanation": "Der Projektlebenszyklus beschreibt die Gesamtheit der Phasen, die ein Projekt von der Initiierung bis zum Abschluss durchläuft.",
+      "difficulty": 1,
+      "topic": "Projektmanagement",
+      "subtopic": "Projektphasen"
+    },
+    {
+      "id": "ikp-018",
+      "text": "Was versteht man unter dem Projektcontrolling?",
+      "options": [
+        "Die reine Kostenkontrolle",
+        "Die systematische Überwachung und Steuerung des Projekts bezüglich Terminen, Kosten und Leistung",
+        "Die Kontrolle der Anwesenheit der Mitarbeiter",
+        "Die technische Prüfung der Projektergebnisse"
+      ],
+      "correct": 1,
+      "explanation": "Projektcontrolling umfasst die laufende Überwachung des Projektfortschritts, den Vergleich von Soll- und Ist-Werten sowie die Einleitung von Korrekturmaßnahmen.",
+      "difficulty": 2,
+      "topic": "Projektmanagement",
+      "subtopic": "Projektsteuerung"
+    },
+    {
+      "id": "ikp-019",
+      "text": "Welches Diagramm zeigt Abhängigkeiten zwischen Vorgängen am besten?",
+      "options": [
+        "Kreisdiagramm",
+        "Netzplan",
+        "Balkendiagramm ohne Verknüpfungen",
+        "Organigramm"
+      ],
+      "correct": 1,
+      "explanation": "Der Netzplan zeigt die logischen Abhängigkeiten (Anordnungsbeziehungen) zwischen den Vorgängen, z.B. Ende-Anfang, Anfang-Anfang, Ende-Ende.",
+      "difficulty": 2,
+      "topic": "Projektmanagement",
+      "subtopic": "Netzplantechnik"
+    },
+    {
+      "id": "ikp-020",
+      "text": "Was ist eine Normalfolge (Ende-Anfang-Beziehung) im Netzplan?",
+      "options": [
+        "Zwei Vorgänge starten gleichzeitig",
+        "Ein Vorgang kann erst beginnen, wenn der Vorgänger beendet ist",
+        "Zwei Vorgänge enden gleichzeitig",
+        "Ein Vorgang beginnt, bevor der Vorgänger endet"
+      ],
+      "correct": 1,
+      "explanation": "Die Normalfolge (Ende-Anfang) bedeutet, dass ein Nachfolger erst beginnen kann, wenn der Vorgänger abgeschlossen ist. Sie ist die häufigste Anordnungsbeziehung.",
+      "difficulty": 2,
+      "topic": "Projektmanagement",
+      "subtopic": "Netzplantechnik"
+    },
+    {
+      "id": "ikp-021",
+      "text": "Was wird bei einer Earned-Value-Analyse verglichen?",
+      "options": [
+        "Nur die geplanten und tatsächlichen Kosten",
+        "Plan-Wert, Ist-Kosten und Fertigstellungswert",
+        "Nur die Terminabweichungen",
+        "Die Mitarbeiterzufriedenheit und Projektfortschritt"
+      ],
+      "correct": 1,
+      "explanation": "Die Earned-Value-Analyse vergleicht Planned Value (PV), Actual Cost (AC) und Earned Value (EV), um Kosten- und Terminabweichungen zu ermitteln.",
+      "difficulty": 3,
+      "topic": "Projektmanagement",
+      "subtopic": "Projektcontrolling"
+    },
+    {
+      "id": "ikp-022",
+      "text": "Welche Projektphase folgt direkt auf die Planungsphase?",
+      "options": [
+        "Initiierung",
+        "Durchführung/Realisierung",
+        "Abschluss",
+        "Ideenfindung"
+      ],
+      "correct": 1,
+      "explanation": "Nach der Planungsphase folgt die Durchführungs- bzw. Realisierungsphase, in der die geplanten Arbeitspakete umgesetzt werden.",
+      "difficulty": 1,
+      "topic": "Projektmanagement",
+      "subtopic": "Projektphasen"
+    },
+    {
+      "id": "ikp-023",
+      "text": "Was versteht man unter Scope Creep?",
+      "options": [
+        "Die planmäßige Erweiterung des Projektumfangs",
+        "Die unkontrollierte, schleichende Ausweitung des Projektumfangs",
+        "Die Reduzierung des Projektbudgets",
+        "Die Verzögerung des Projektabschlusses"
+      ],
+      "correct": 1,
+      "explanation": "Scope Creep bezeichnet die unkontrollierte, schleichende Erweiterung des Projektumfangs ohne entsprechende Anpassung von Zeit, Kosten oder Ressourcen.",
+      "difficulty": 2,
+      "topic": "Projektmanagement",
+      "subtopic": "Projektsteuerung"
+    },
+    {
+      "id": "ikp-024",
+      "text": "Wie viele Vorgänge liegen mindestens auf dem kritischen Pfad?",
+      "options": [
+        "Keiner",
+        "Mindestens einer, nämlich der längste Vorgang",
+        "Alle Vorgänge vom Start bis zum Ende des Projekts auf dem längsten Weg",
+        "Genau die Hälfte aller Vorgänge"
+      ],
+      "correct": 2,
+      "explanation": "Der kritische Pfad umfasst alle Vorgänge auf dem längsten Weg vom Projektstart zum Projektende. Die Anzahl variiert je nach Projektstruktur.",
+      "difficulty": 2,
+      "topic": "Projektmanagement",
+      "subtopic": "Netzplantechnik"
+    },
+    {
+      "id": "ikp-025",
+      "text": "Was ist das Ziel eines Projekt-Kickoff-Meetings?",
+      "options": [
+        "Die Abnahme der Projektergebnisse",
+        "Den offiziellen Projektstart markieren und alle Beteiligten informieren",
+        "Die Rechnungsstellung an den Kunden",
+        "Die Erstellung des Netzplans"
+      ],
+      "correct": 1,
+      "explanation": "Das Kickoff-Meeting dient dem offiziellen Projektstart, der Vorstellung des Projekts, der Klärung von Rollen und Erwartungen sowie der Motivation des Teams.",
+      "difficulty": 1,
+      "topic": "Projektmanagement",
+      "subtopic": "Projektphasen"
+    },
+    {
+      "id": "ikp-026",
+      "text": "Welches Dokument wird am Projektende erstellt?",
+      "options": [
+        "Projektauftrag",
+        "Lastenheft",
+        "Abschlussbericht mit Lessons Learned",
+        "Pflichtenheft"
+      ],
+      "correct": 2,
+      "explanation": "Der Abschlussbericht dokumentiert die Projektergebnisse, vergleicht Soll- und Ist-Werte und enthält Lessons Learned für zukünftige Projekte.",
+      "difficulty": 1,
+      "topic": "Projektmanagement",
+      "subtopic": "Projektabschluss"
+    },
+    {
+      "id": "ikp-027",
+      "text": "Was ist ein Lastenheft?",
+      "options": [
+        "Die Beschreibung der Lösung durch den Auftragnehmer",
+        "Die Beschreibung der Anforderungen aus Sicht des Auftraggebers",
+        "Ein Kostenvoranschlag",
+        "Der Projektstrukturplan"
+      ],
+      "correct": 1,
+      "explanation": "Das Lastenheft beschreibt die Gesamtheit der Anforderungen des Auftraggebers an die Lieferungen und Leistungen des Auftragnehmers (Was und Wofür).",
+      "difficulty": 2,
+      "topic": "Projektmanagement",
+      "subtopic": "Projektphasen"
+    },
+    {
+      "id": "ikp-028",
+      "text": "Was unterscheidet das Pflichtenheft vom Lastenheft?",
+      "options": [
+        "Nichts, beide sind identisch",
+        "Das Pflichtenheft beschreibt die Umsetzung der Anforderungen durch den Auftragnehmer",
+        "Das Pflichtenheft wird vor dem Lastenheft erstellt",
+        "Das Pflichtenheft enthält nur die Kosten"
+      ],
+      "correct": 1,
+      "explanation": "Das Pflichtenheft beschreibt, wie und womit der Auftragnehmer die Anforderungen des Lastenhefts umsetzen will. Es ist die Antwort des Auftragnehmers auf das Lastenheft.",
+      "difficulty": 2,
+      "topic": "Projektmanagement",
+      "subtopic": "Projektphasen"
+    },
+    {
+      "id": "ikp-029",
+      "text": "Was versteht man unter einer Meilensteintrendanalyse?",
+      "options": [
+        "Eine Methode zur Kostenberechnung",
+        "Ein grafisches Werkzeug zur Überwachung von Meilensteinterminen über die Projektlaufzeit",
+        "Eine Technik zur Ressourcenplanung",
+        "Ein Verfahren zur Qualitätsprüfung"
+      ],
+      "correct": 1,
+      "explanation": "Die Meilensteintrendanalyse stellt die geplanten und fortgeschriebenen Meilensteintermine grafisch dar. Steigende Kurven zeigen Verzögerungen, fallende zeigen Beschleunigung.",
+      "difficulty": 3,
+      "topic": "Projektmanagement",
+      "subtopic": "Projektcontrolling"
+    },
+    {
+      "id": "ikp-030",
+      "text": "Welche Anordnungsbeziehung gibt es NICHT im Netzplan?",
+      "options": [
+        "Ende-Anfang (Normalfolge)",
+        "Anfang-Anfang (Anfangsfolge)",
+        "Ende-Ende (Endfolge)",
+        "Mitte-Mitte (Mittelfolge)"
+      ],
+      "correct": 3,
+      "explanation": "Es gibt vier Anordnungsbeziehungen: Ende-Anfang (Normalfolge), Anfang-Anfang (Anfangsfolge), Ende-Ende (Endfolge) und Anfang-Ende (Sprungfolge). Mitte-Mitte existiert nicht.",
+      "difficulty": 2,
+      "topic": "Projektmanagement",
+      "subtopic": "Netzplantechnik"
+    },
+    {
+      "id": "ikp-031",
+      "text": "Was ist ein ERP-System?",
+      "options": [
+        "Ein reines Buchhaltungsprogramm",
+        "Eine integrierte Software zur Steuerung aller betrieblichen Ressourcen und Prozesse",
+        "Ein Betriebssystem für Server",
+        "Ein Programm nur für die Personalverwaltung"
+      ],
+      "correct": 1,
+      "explanation": "ERP (Enterprise Resource Planning) ist eine integrierte Unternehmenssoftware, die alle Geschäftsprozesse wie Beschaffung, Produktion, Vertrieb, Finanzen und Personal in einem System abbildet.",
+      "difficulty": 1,
+      "topic": "Informationssysteme",
+      "subtopic": "ERP-Systeme"
+    },
+    {
+      "id": "ikp-032",
+      "text": "Welches ist ein Beispiel für ein weit verbreitetes ERP-System?",
+      "options": [
+        "Microsoft Word",
+        "SAP S/4HANA",
+        "Adobe Photoshop",
+        "Mozilla Firefox"
+      ],
+      "correct": 1,
+      "explanation": "SAP S/4HANA ist eines der weltweit am meisten verbreiteten ERP-Systeme und wird in vielen Industrieunternehmen zur Steuerung der Geschäftsprozesse eingesetzt.",
+      "difficulty": 1,
+      "topic": "Informationssysteme",
+      "subtopic": "ERP-Systeme"
+    },
+    {
+      "id": "ikp-033",
+      "text": "Was bedeutet die Abkürzung DSGVO?",
+      "options": [
+        "Datensicherheitsgrundverordnung",
+        "Datenschutz-Grundverordnung",
+        "Datenstruktur-Gesamtverordnung",
+        "Digitale Sicherheits- und Grundverordnung"
+      ],
+      "correct": 1,
+      "explanation": "Die DSGVO (Datenschutz-Grundverordnung) ist die europäische Verordnung zum Schutz personenbezogener Daten, die seit Mai 2018 gilt.",
+      "difficulty": 1,
+      "topic": "Informationssysteme",
+      "subtopic": "Datenschutz"
+    },
+    {
+      "id": "ikp-034",
+      "text": "Welches Prinzip der DSGVO besagt, dass nur die notwendigen Daten erhoben werden dürfen?",
+      "options": [
+        "Richtigkeit",
+        "Datenminimierung",
+        "Zweckbindung",
+        "Speicherbegrenzung"
+      ],
+      "correct": 1,
+      "explanation": "Das Prinzip der Datenminimierung (Art. 5 DSGVO) besagt, dass personenbezogene Daten dem Zweck angemessen und auf das notwendige Maß beschränkt sein müssen.",
+      "difficulty": 2,
+      "topic": "Informationssysteme",
+      "subtopic": "Datenschutz"
+    },
+    {
+      "id": "ikp-035",
+      "text": "Was ist eine relationale Datenbank?",
+      "options": [
+        "Eine Datenbank, die Daten in Tabellenform mit Beziehungen zwischen den Tabellen speichert",
+        "Eine Datenbank ohne Struktur",
+        "Eine Datenbank nur für Bilder",
+        "Eine Datenbank, die nur einen Nutzer erlaubt"
+      ],
+      "correct": 0,
+      "explanation": "Eine relationale Datenbank organisiert Daten in Tabellen (Relationen), die über Schlüsselfelder miteinander verknüpft sind. SQL wird zur Abfrage verwendet.",
+      "difficulty": 2,
+      "topic": "Informationssysteme",
+      "subtopic": "Datenbanken"
+    },
+    {
+      "id": "ikp-036",
+      "text": "Was ist ein Primärschlüssel in einer Datenbank?",
+      "options": [
+        "Ein Passwort für den Datenbankzugang",
+        "Ein eindeutiges Identifikationsmerkmal für jeden Datensatz in einer Tabelle",
+        "Die erste Spalte einer Tabelle",
+        "Ein Verschlüsselungsverfahren"
+      ],
+      "correct": 1,
+      "explanation": "Der Primärschlüssel identifiziert jeden Datensatz in einer Tabelle eindeutig. Er darf nicht leer sein und muss in der Tabelle einmalig sein.",
+      "difficulty": 2,
+      "topic": "Informationssysteme",
+      "subtopic": "Datenbanken"
+    },
+    {
+      "id": "ikp-037",
+      "text": "Was versteht man unter IT-Sicherheit?",
+      "options": [
+        "Nur den Virenschutz am PC",
+        "Den Schutz von IT-Systemen und Daten vor Bedrohungen hinsichtlich Vertraulichkeit, Integrität und Verfügbarkeit",
+        "Die Sicherung der Stromversorgung",
+        "Den physischen Schutz der Hardware"
+      ],
+      "correct": 1,
+      "explanation": "IT-Sicherheit umfasst alle Maßnahmen zum Schutz der Vertraulichkeit, Integrität und Verfügbarkeit von Informationen und IT-Systemen (CIA-Triade).",
+      "difficulty": 1,
+      "topic": "Informationssysteme",
+      "subtopic": "IT-Sicherheit"
+    },
+    {
+      "id": "ikp-038",
+      "text": "Was ist ein DMS (Dokumentenmanagementsystem)?",
+      "options": [
+        "Ein System zur Druckerverwaltung",
+        "Eine Software zur elektronischen Verwaltung, Archivierung und Steuerung von Dokumenten",
+        "Ein Datenbankformat",
+        "Ein E-Mail-Programm"
+      ],
+      "correct": 1,
+      "explanation": "Ein DMS ermöglicht die elektronische Verwaltung von Dokumenten über ihren gesamten Lebenszyklus: Erstellung, Bearbeitung, Freigabe, Archivierung und Vernichtung.",
+      "difficulty": 2,
+      "topic": "Informationssysteme",
+      "subtopic": "Dokumentenmanagement"
+    },
+    {
+      "id": "ikp-039",
+      "text": "Welche Schutzziele der Informationssicherheit bilden die CIA-Triade?",
+      "options": [
+        "Compliance, Integration, Authentifizierung",
+        "Confidentiality, Integrity, Availability",
+        "Control, Information, Access",
+        "Communication, Identity, Authorization"
+      ],
+      "correct": 1,
+      "explanation": "Die CIA-Triade umfasst Confidentiality (Vertraulichkeit), Integrity (Integrität) und Availability (Verfügbarkeit) als die drei grundlegenden Schutzziele der Informationssicherheit.",
+      "difficulty": 2,
+      "topic": "Informationssysteme",
+      "subtopic": "IT-Sicherheit"
+    },
+    {
+      "id": "ikp-040",
+      "text": "Was ist Phishing?",
+      "options": [
+        "Ein Verfahren zur Datensicherung",
+        "Der betrügerische Versuch, über gefälschte Nachrichten an sensible Daten zu gelangen",
+        "Ein Verschlüsselungsverfahren",
+        "Eine Methode der Datenkomprimierung"
+      ],
+      "correct": 1,
+      "explanation": "Phishing ist eine Form des Social Engineering, bei der Angreifer über gefälschte E-Mails, Websites oder Nachrichten versuchen, Zugangsdaten oder persönliche Informationen zu stehlen.",
+      "difficulty": 1,
+      "topic": "Informationssysteme",
+      "subtopic": "IT-Sicherheit"
+    },
+    {
+      "id": "ikp-041",
+      "text": "Was bedeutet Zweckbindung im Datenschutz?",
+      "options": [
+        "Daten dürfen beliebig weitergegeben werden",
+        "Personenbezogene Daten dürfen nur für den festgelegten Zweck verarbeitet werden",
+        "Daten müssen immer verschlüsselt werden",
+        "Daten dürfen nur in Deutschland gespeichert werden"
+      ],
+      "correct": 1,
+      "explanation": "Das Prinzip der Zweckbindung (Art. 5 DSGVO) besagt, dass personenbezogene Daten nur für den Zweck verwendet werden dürfen, für den sie erhoben wurden.",
+      "difficulty": 2,
+      "topic": "Informationssysteme",
+      "subtopic": "Datenschutz"
+    },
+    {
+      "id": "ikp-042",
+      "text": "Was ist eine Firewall?",
+      "options": [
+        "Ein Antivirenprogramm",
+        "Ein Sicherheitssystem, das den Netzwerkverkehr nach definierten Regeln filtert und kontrolliert",
+        "Ein Backup-System",
+        "Ein Verschlüsselungsstandard"
+      ],
+      "correct": 1,
+      "explanation": "Eine Firewall überwacht und kontrolliert den ein- und ausgehenden Netzwerkverkehr anhand festgelegter Sicherheitsregeln und schützt so vor unberechtigten Zugriffen.",
+      "difficulty": 1,
+      "topic": "Informationssysteme",
+      "subtopic": "IT-Sicherheit"
+    },
+    {
+      "id": "ikp-043",
+      "text": "Was versteht man unter einem Backup?",
+      "options": [
+        "Eine Aktualisierung der Software",
+        "Die Sicherungskopie von Daten zur Wiederherstellung bei Datenverlust",
+        "Die Löschung alter Daten",
+        "Eine Verschlüsselungsmethode"
+      ],
+      "correct": 1,
+      "explanation": "Ein Backup ist eine Sicherungskopie von Daten, die regelmäßig erstellt wird, um bei Datenverlust eine Wiederherstellung zu ermöglichen.",
+      "difficulty": 1,
+      "topic": "Informationssysteme",
+      "subtopic": "IT-Sicherheit"
+    },
+    {
+      "id": "ikp-044",
+      "text": "Welche Rechte hat eine betroffene Person nach DSGVO?",
+      "options": [
+        "Nur das Recht auf Information",
+        "Recht auf Auskunft, Berichtigung, Löschung, Einschränkung, Datenübertragbarkeit und Widerspruch",
+        "Nur das Recht auf Löschung",
+        "Keine besonderen Rechte"
+      ],
+      "correct": 1,
+      "explanation": "Die DSGVO gewährt betroffenen Personen umfangreiche Rechte: Auskunft (Art. 15), Berichtigung (Art. 16), Löschung (Art. 17), Einschränkung (Art. 18), Datenübertragbarkeit (Art. 20) und Widerspruch (Art. 21).",
+      "difficulty": 2,
+      "topic": "Informationssysteme",
+      "subtopic": "Datenschutz"
+    },
+    {
+      "id": "ikp-045",
+      "text": "Was ist ein MES (Manufacturing Execution System)?",
+      "options": [
+        "Ein ERP-System für kleine Unternehmen",
+        "Ein System zur Steuerung und Überwachung der Produktion in Echtzeit",
+        "Ein Buchhaltungsprogramm",
+        "Ein CAD-System"
+      ],
+      "correct": 1,
+      "explanation": "Ein MES ist ein produktionsnahes IT-System, das die Fertigungsprozesse in Echtzeit überwacht, steuert und dokumentiert. Es bildet die Brücke zwischen ERP und Shopfloor.",
+      "difficulty": 2,
+      "topic": "Informationssysteme",
+      "subtopic": "Betriebliche Informationssysteme"
+    },
+    {
+      "id": "ikp-046",
+      "text": "Was bedeutet Redundanz in der IT?",
+      "options": [
+        "Das Löschen doppelter Daten",
+        "Das mehrfache Vorhandensein von Systemkomponenten oder Daten zur Erhöhung der Ausfallsicherheit",
+        "Die Komprimierung von Daten",
+        "Die Verschlüsselung sensibler Informationen"
+      ],
+      "correct": 1,
+      "explanation": "Redundanz bezeichnet das bewusste mehrfache Vorhandensein von technischen Komponenten oder Daten, um bei Ausfall eines Elements die Funktionsfähigkeit sicherzustellen.",
+      "difficulty": 2,
+      "topic": "Informationssysteme",
+      "subtopic": "IT-Sicherheit"
+    },
+    {
+      "id": "ikp-047",
+      "text": "Was ist Cloud Computing?",
+      "options": [
+        "Das Speichern von Daten auf lokalen Festplatten",
+        "Die Bereitstellung von IT-Ressourcen wie Speicher, Rechenleistung und Software über das Internet",
+        "Ein lokales Netzwerk im Unternehmen",
+        "Eine Methode zur Datenverschlüsselung"
+      ],
+      "correct": 1,
+      "explanation": "Cloud Computing ermöglicht den Zugriff auf IT-Ressourcen (Speicher, Server, Anwendungen) über das Internet. Man unterscheidet IaaS, PaaS und SaaS.",
+      "difficulty": 2,
+      "topic": "Informationssysteme",
+      "subtopic": "Betriebliche Informationssysteme"
+    },
+    {
+      "id": "ikp-048",
+      "text": "Was ist ein Fremdschlüssel in einer relationalen Datenbank?",
+      "options": [
+        "Ein Schlüssel eines anderen Unternehmens",
+        "Ein Feld in einer Tabelle, das auf den Primärschlüssel einer anderen Tabelle verweist",
+        "Ein alternatives Passwort",
+        "Ein defekter Datenbankschlüssel"
+      ],
+      "correct": 1,
+      "explanation": "Ein Fremdschlüssel (Foreign Key) stellt die Beziehung zwischen zwei Tabellen her, indem er auf den Primärschlüssel der referenzierten Tabelle verweist.",
+      "difficulty": 2,
+      "topic": "Informationssysteme",
+      "subtopic": "Datenbanken"
+    },
+    {
+      "id": "ikp-049",
+      "text": "Was versteht man unter dem Generationenprinzip bei der Datensicherung?",
+      "options": [
+        "Daten werden nach Alter gelöscht",
+        "Es werden drei Sicherungsgenerationen aufbewahrt: Großvater, Vater, Sohn",
+        "Nur die neueste Sicherung wird aufbewahrt",
+        "Daten werden zwischen Generationen von Mitarbeitern weitergegeben"
+      ],
+      "correct": 1,
+      "explanation": "Das Generationenprinzip (Großvater-Vater-Sohn) bewahrt drei Sicherungsgenerationen auf und rotiert diese. So sind immer mindestens drei verschiedene Sicherungsstände verfügbar.",
+      "difficulty": 2,
+      "topic": "Informationssysteme",
+      "subtopic": "IT-Sicherheit"
+    },
+    {
+      "id": "ikp-050",
+      "text": "Was ist eine SQL-Abfrage?",
+      "options": [
+        "Ein Programmierbefehl für Grafiken",
+        "Eine strukturierte Anfrage an eine relationale Datenbank zur Datenabfrage oder -manipulation",
+        "Ein Verschlüsselungsverfahren",
+        "Ein Netzwerkprotokoll"
+      ],
+      "correct": 1,
+      "explanation": "SQL (Structured Query Language) ist die Standardsprache für relationale Datenbanken. Mit SELECT, INSERT, UPDATE und DELETE werden Daten abgefragt und verändert.",
+      "difficulty": 2,
+      "topic": "Informationssysteme",
+      "subtopic": "Datenbanken"
+    },
+    {
+      "id": "ikp-051",
+      "text": "Wer ist nach DSGVO für die Einhaltung des Datenschutzes verantwortlich?",
+      "options": [
+        "Nur der Datenschutzbeauftragte",
+        "Der Verantwortliche (in der Regel die Geschäftsleitung)",
+        "Jeder einzelne Mitarbeiter allein",
+        "Die Aufsichtsbehörde"
+      ],
+      "correct": 1,
+      "explanation": "Nach DSGVO ist der Verantwortliche (Art. 4 Nr. 7) für die Einhaltung des Datenschutzes verantwortlich. Dies ist in der Regel die Geschäftsleitung des Unternehmens.",
+      "difficulty": 2,
+      "topic": "Informationssysteme",
+      "subtopic": "Datenschutz"
+    },
+    {
+      "id": "ikp-052",
+      "text": "Was ist eine digitale Signatur?",
+      "options": [
+        "Ein eingescannter Namenszug",
+        "Ein kryptografisches Verfahren zur Sicherstellung von Authentizität und Integrität elektronischer Dokumente",
+        "Ein digitales Foto der Unterschrift",
+        "Ein Passwort für E-Mails"
+      ],
+      "correct": 1,
+      "explanation": "Eine digitale Signatur nutzt asymmetrische Kryptografie, um die Echtheit des Absenders und die Unverändertheit eines Dokuments mathematisch nachweisbar zu machen.",
+      "difficulty": 2,
+      "topic": "Informationssysteme",
+      "subtopic": "IT-Sicherheit"
+    },
+    {
+      "id": "ikp-053",
+      "text": "Was kennzeichnet ein PPS-System?",
+      "options": [
+        "Es dient nur der Personalplanung",
+        "Es unterstützt die Produktionsplanung und -steuerung bezüglich Mengen, Termine und Kapazitäten",
+        "Es ist ein reines Lagerverwaltungssystem",
+        "Es dient der Finanzbuchhaltung"
+      ],
+      "correct": 1,
+      "explanation": "PPS (Produktionsplanung und -steuerung) umfasst die Planung von Produktionsprogramm, Mengen, Terminen und Kapazitäten sowie die Steuerung der Fertigung.",
+      "difficulty": 2,
+      "topic": "Informationssysteme",
+      "subtopic": "Betriebliche Informationssysteme"
+    },
+    {
+      "id": "ikp-054",
+      "text": "Was versteht man unter einem Intranet?",
+      "options": [
+        "Das öffentliche Internet",
+        "Ein unternehmensinternes Netzwerk auf Basis von Internet-Technologien",
+        "Ein Antivirenprogramm",
+        "Eine Cloud-Lösung"
+      ],
+      "correct": 1,
+      "explanation": "Ein Intranet ist ein geschlossenes, unternehmensinternes Netzwerk, das Internet-Technologien nutzt. Es dient der internen Kommunikation und dem Wissensmanagement.",
+      "difficulty": 1,
+      "topic": "Informationssysteme",
+      "subtopic": "Betriebliche Informationssysteme"
+    },
+    {
+      "id": "ikp-055",
+      "text": "Was ist ein Berechtigungskonzept in der IT?",
+      "options": [
+        "Die Liste aller installierten Programme",
+        "Die systematische Regelung, welche Benutzer auf welche Daten und Funktionen zugreifen dürfen",
+        "Ein Vertrag mit dem IT-Dienstleister",
+        "Die Hardware-Konfiguration der Server"
+      ],
+      "correct": 1,
+      "explanation": "Ein Berechtigungskonzept definiert, welche Benutzer oder Benutzergruppen auf welche Daten, Systeme und Funktionen zugreifen dürfen. Es folgt dem Prinzip der minimalen Rechte.",
+      "difficulty": 2,
+      "topic": "Informationssysteme",
+      "subtopic": "IT-Sicherheit"
+    },
+    {
+      "id": "ikp-056",
+      "text": "Welches Kommunikationsmodell unterscheidet vier Seiten einer Nachricht?",
+      "options": [
+        "Watzlawick-Modell",
+        "Schulz von Thun - Vier-Ohren-Modell",
+        "Shannon-Weaver-Modell",
+        "Transaktionsanalyse"
+      ],
+      "correct": 1,
+      "explanation": "Das Vier-Ohren-Modell (Kommunikationsquadrat) von Schulz von Thun unterscheidet vier Ebenen: Sachinhalt, Selbstoffenbarung, Beziehung und Appell.",
+      "difficulty": 1,
+      "topic": "Kommunikationstechniken",
+      "subtopic": "Kommunikationsmodelle"
+    },
+    {
+      "id": "ikp-057",
+      "text": "Welche vier Seiten hat eine Nachricht nach Schulz von Thun?",
+      "options": [
+        "Sender, Empfänger, Kanal, Code",
+        "Sachinhalt, Selbstoffenbarung, Beziehung, Appell",
+        "Verbal, nonverbal, paraverbal, schriftlich",
+        "Frage, Antwort, Bestätigung, Ablehnung"
+      ],
+      "correct": 1,
+      "explanation": "Die vier Seiten: Sachinhalt (worüber informiert wird), Selbstoffenbarung (was der Sender über sich preisgibt), Beziehung (wie Sender und Empfänger zueinander stehen), Appell (was bewirkt werden soll).",
+      "difficulty": 2,
+      "topic": "Kommunikationstechniken",
+      "subtopic": "Kommunikationsmodelle"
+    },
+    {
+      "id": "ikp-058",
+      "text": "Welches Axiom von Watzlawick besagt: Man kann nicht nicht kommunizieren?",
+      "options": [
+        "Das dritte Axiom",
+        "Das fünfte Axiom",
+        "Das erste Axiom",
+        "Das vierte Axiom"
+      ],
+      "correct": 2,
+      "explanation": "Das erste Axiom von Watzlawick besagt, dass jedes Verhalten in einer sozialen Situation Kommunikation ist. Auch Schweigen oder Nichthandeln sendet eine Botschaft.",
+      "difficulty": 1,
+      "topic": "Kommunikationstechniken",
+      "subtopic": "Kommunikationsmodelle"
+    },
+    {
+      "id": "ikp-059",
+      "text": "Was versteht man unter aktivem Zuhören?",
+      "options": [
+        "Dem Sprecher ins Wort fallen",
+        "Aufmerksames, empathisches Zuhören mit Rückmeldung durch Paraphrasieren, Nachfragen und nonverbale Signale",
+        "Gleichzeitiges Zuhören und Arbeiten",
+        "Nur die Fakten aufnehmen"
+      ],
+      "correct": 1,
+      "explanation": "Aktives Zuhören nach Carl Rogers umfasst volle Aufmerksamkeit, Paraphrasieren des Gehörten, Nachfragen, Zusammenfassen und nonverbale Bestätigung wie Nicken und Blickkontakt.",
+      "difficulty": 1,
+      "topic": "Kommunikationstechniken",
+      "subtopic": "Gesprächsführung"
+    },
+    {
+      "id": "ikp-060",
+      "text": "Was ist das Ziel einer professionellen Moderation?",
+      "options": [
+        "Die eigene Meinung durchzusetzen",
+        "Eine Gruppe ergebnisorientiert durch einen strukturierten Arbeitsprozess zu führen",
+        "Konflikte zu vermeiden",
+        "Möglichst schnell zu einem Ergebnis zu kommen"
+      ],
+      "correct": 1,
+      "explanation": "Professionelle Moderation führt eine Gruppe neutral und ergebnisorientiert durch einen strukturierten Prozess. Der Moderator ist inhaltlich neutral und unterstützt methodisch.",
+      "difficulty": 2,
+      "topic": "Kommunikationstechniken",
+      "subtopic": "Moderation"
+    },
+    {
+      "id": "ikp-061",
+      "text": "Welche Feedbackregel ist korrekt?",
+      "options": [
+        "Feedback sollte verallgemeinernd und bewertend sein",
+        "Feedback sollte konkret, beschreibend und zeitnah gegeben werden",
+        "Feedback sollte nur bei negativen Anlässen gegeben werden",
+        "Feedback sollte vor der ganzen Gruppe gegeben werden"
+      ],
+      "correct": 1,
+      "explanation": "Professionelles Feedback ist konkret (bezieht sich auf beobachtbares Verhalten), beschreibend (nicht bewertend), zeitnah und wird in der Ich-Form formuliert.",
+      "difficulty": 1,
+      "topic": "Kommunikationstechniken",
+      "subtopic": "Feedback"
+    },
+    {
+      "id": "ikp-062",
+      "text": "Was bedeutet die Ich-Botschaft in der Kommunikation?",
+      "options": [
+        "Man spricht nur über sich selbst",
+        "Man drückt eigene Wahrnehmungen und Gefühle aus, statt den anderen zu beschuldigen",
+        "Man verwendet immer das Wort Ich",
+        "Man stellt sich selbst in den Mittelpunkt"
+      ],
+      "correct": 1,
+      "explanation": "Ich-Botschaften beschreiben die eigene Wahrnehmung und Wirkung eines Verhaltens, z.B. Ich fühle mich übergangen, wenn... statt Du ignorierst mich immer.",
+      "difficulty": 2,
+      "topic": "Kommunikationstechniken",
+      "subtopic": "Gesprächsführung"
+    },
+    {
+      "id": "ikp-063",
+      "text": "Was gehört NICHT zu den Grundregeln der Präsentation?",
+      "options": [
+        "Blickkontakt zum Publikum halten",
+        "Möglichst viel Text auf die Folien schreiben",
+        "Klare Struktur mit Einleitung, Hauptteil und Schluss",
+        "Freies Sprechen statt Ablesen"
+      ],
+      "correct": 1,
+      "explanation": "Eine gute Präsentation verwendet wenig Text auf Folien, nutzt stattdessen Stichworte und Visualisierungen. Überladene Folien überfordern das Publikum.",
+      "difficulty": 1,
+      "topic": "Kommunikationstechniken",
+      "subtopic": "Präsentation"
+    },
+    {
+      "id": "ikp-064",
+      "text": "Welche Körperhaltung signalisiert Offenheit und Interesse?",
+      "options": [
+        "Verschränkte Arme, zurückgelehnt",
+        "Aufrechte Haltung, offene Arme, Blickkontakt",
+        "Abgewandter Blick, eingezogene Schultern",
+        "Ständiges Auf-die-Uhr-schauen"
+      ],
+      "correct": 1,
+      "explanation": "Eine aufrechte Haltung, offene Arme, Blickkontakt und eine dem Gesprächspartner zugewandte Körperhaltung signalisieren Offenheit und Interesse.",
+      "difficulty": 1,
+      "topic": "Kommunikationstechniken",
+      "subtopic": "Gesprächsführung"
+    },
+    {
+      "id": "ikp-065",
+      "text": "Was ist Paraphrasieren?",
+      "options": [
+        "Das wörtliche Wiederholen einer Aussage",
+        "Das sinngemäße Wiedergeben einer Aussage in eigenen Worten",
+        "Das Bewerten einer Aussage",
+        "Das Ignorieren einer Aussage"
+      ],
+      "correct": 1,
+      "explanation": "Paraphrasieren bedeutet, das Gehörte in eigenen Worten sinngemäß wiederzugeben. Es zeigt Verständnis und gibt dem Gesprächspartner die Möglichkeit zur Korrektur.",
+      "difficulty": 1,
+      "topic": "Kommunikationstechniken",
+      "subtopic": "Gesprächsführung"
+    },
+    {
+      "id": "ikp-066",
+      "text": "Welches Axiom von Watzlawick unterscheidet zwischen Inhalts- und Beziehungsaspekt?",
+      "options": [
+        "Das erste Axiom",
+        "Das zweite Axiom",
+        "Das dritte Axiom",
+        "Das fünfte Axiom"
+      ],
+      "correct": 1,
+      "explanation": "Das zweite Axiom besagt, dass jede Kommunikation einen Inhalts- und einen Beziehungsaspekt hat, wobei der Beziehungsaspekt den Inhaltsaspekt bestimmt.",
+      "difficulty": 2,
+      "topic": "Kommunikationstechniken",
+      "subtopic": "Kommunikationsmodelle"
+    },
+    {
+      "id": "ikp-067",
+      "text": "Was versteht man unter paraverbaler Kommunikation?",
+      "options": [
+        "Schriftliche Kommunikation",
+        "Die Art und Weise, wie etwas gesprochen wird: Tonfall, Lautstärke, Sprechtempo, Betonung",
+        "Körpersprache",
+        "Kommunikation über technische Medien"
+      ],
+      "correct": 1,
+      "explanation": "Paraverbale Kommunikation umfasst alle stimmlichen Aspekte wie Tonfall, Lautstärke, Sprechtempo, Betonung, Pausen und Stimmlage.",
+      "difficulty": 2,
+      "topic": "Kommunikationstechniken",
+      "subtopic": "Grundlagen"
+    },
+    {
+      "id": "ikp-068",
+      "text": "Welche Fragetechnik öffnet ein Gespräch?",
+      "options": [
+        "Geschlossene Fragen",
+        "Offene Fragen (W-Fragen)",
+        "Suggestivfragen",
+        "Rhetorische Fragen"
+      ],
+      "correct": 1,
+      "explanation": "Offene Fragen (Was, Wie, Warum, Welche) regen zum ausführlichen Antworten an und öffnen das Gespräch. Geschlossene Fragen ermöglichen nur Ja/Nein-Antworten.",
+      "difficulty": 1,
+      "topic": "Kommunikationstechniken",
+      "subtopic": "Gesprächsführung"
+    },
+    {
+      "id": "ikp-069",
+      "text": "Was ist das Johari-Fenster?",
+      "options": [
+        "Ein Modell zur Analyse der Fensterkonstruktion",
+        "Ein Kommunikationsmodell zur Darstellung der Selbst- und Fremdwahrnehmung",
+        "Ein Projektmanagement-Tool",
+        "Ein Qualitätswerkzeug"
+      ],
+      "correct": 1,
+      "explanation": "Das Johari-Fenster zeigt vier Bereiche: Öffentlich (beiden bekannt), Blind (nur anderen bekannt), Verborgen (nur mir bekannt) und Unbekannt (beiden unbekannt).",
+      "difficulty": 2,
+      "topic": "Kommunikationstechniken",
+      "subtopic": "Kommunikationsmodelle"
+    },
+    {
+      "id": "ikp-070",
+      "text": "Was ist eine Metaplan-Technik?",
+      "options": [
+        "Eine Planungstechnik für große Projekte",
+        "Eine Moderationsmethode mit Karten, die an Pinnwänden gesammelt und geordnet werden",
+        "Eine Präsentationssoftware",
+        "Ein statistisches Verfahren"
+      ],
+      "correct": 1,
+      "explanation": "Die Metaplan-Technik ist eine Moderationsmethode, bei der Teilnehmer ihre Ideen auf Karten schreiben, die dann visualisiert, gruppiert und priorisiert werden.",
+      "difficulty": 1,
+      "topic": "Kommunikationstechniken",
+      "subtopic": "Moderation"
+    },
+    {
+      "id": "ikp-071",
+      "text": "Welcher Kommunikationskanal eignet sich am besten für komplexe, emotional schwierige Themen?",
+      "options": [
+        "E-Mail",
+        "Persönliches Gespräch",
+        "Rundschreiben",
+        "Aushang am schwarzen Brett"
+      ],
+      "correct": 1,
+      "explanation": "Bei komplexen und emotional schwierigen Themen ist das persönliche Gespräch am besten geeignet, da alle Kommunikationskanäle (verbal, paraverbal, nonverbal) genutzt werden.",
+      "difficulty": 1,
+      "topic": "Kommunikationstechniken",
+      "subtopic": "Grundlagen"
+    },
+    {
+      "id": "ikp-072",
+      "text": "Was ist das Sender-Empfänger-Modell?",
+      "options": [
+        "Ein Modell zur Beschreibung von Postversand",
+        "Ein grundlegendes Kommunikationsmodell, bei dem ein Sender eine Nachricht codiert und ein Empfänger sie decodiert",
+        "Ein Modell für Fernsehübertragungen",
+        "Ein Modell zur Beschreibung der Materiallogistik"
+      ],
+      "correct": 1,
+      "explanation": "Das Sender-Empfänger-Modell beschreibt Kommunikation als Übertragung: Der Sender codiert eine Nachricht, sendet sie über einen Kanal, der Empfänger decodiert sie. Störungen können auftreten.",
+      "difficulty": 1,
+      "topic": "Kommunikationstechniken",
+      "subtopic": "Kommunikationsmodelle"
+    },
+    {
+      "id": "ikp-073",
+      "text": "Was versteht man unter Kongruenz in der Kommunikation?",
+      "options": [
+        "Widersprüchliche Signale",
+        "Die Übereinstimmung von verbaler und nonverbaler Kommunikation",
+        "Lautstarkes Sprechen",
+        "Schnelles Reden"
+      ],
+      "correct": 1,
+      "explanation": "Kongruenz bedeutet, dass verbale Aussage, Körpersprache und Stimme übereinstimmen. Inkongruenz verunsichert den Empfänger und mindert die Glaubwürdigkeit.",
+      "difficulty": 2,
+      "topic": "Kommunikationstechniken",
+      "subtopic": "Grundlagen"
+    },
+    {
+      "id": "ikp-074",
+      "text": "Welche Phase kommt in einem strukturierten Moderationszyklus zuerst?",
+      "options": [
+        "Maßnahmenplanung",
+        "Einstieg und Themenorientierung",
+        "Abstimmung",
+        "Abschluss"
+      ],
+      "correct": 1,
+      "explanation": "Der Moderationszyklus beginnt mit dem Einstieg (Begrüßung, Vorstellung, Themenklärung), gefolgt von Themenbearbeitung, Maßnahmenplanung und Abschluss.",
+      "difficulty": 1,
+      "topic": "Kommunikationstechniken",
+      "subtopic": "Moderation"
+    },
+    {
+      "id": "ikp-075",
+      "text": "Was bedeutet nonverbale Kommunikation?",
+      "options": [
+        "Kommunikation über Telefon",
+        "Kommunikation über Körpersprache, Mimik, Gestik und Haltung ohne Worte",
+        "Schriftliche Kommunikation",
+        "Kommunikation per E-Mail"
+      ],
+      "correct": 1,
+      "explanation": "Nonverbale Kommunikation umfasst alle nicht-sprachlichen Signale wie Mimik, Gestik, Körperhaltung, Blickkontakt und räumliche Distanz.",
+      "difficulty": 1,
+      "topic": "Kommunikationstechniken",
+      "subtopic": "Grundlagen"
+    },
+    {
+      "id": "ikp-076",
+      "text": "Was ist ein Brainstorming?",
+      "options": [
+        "Eine analytische Bewertungsmethode",
+        "Eine kreative Ideensammlungsmethode, bei der Kritik zunächst verboten ist und Quantität vor Qualität geht",
+        "Eine Methode zur Fehleranalyse",
+        "Eine Technik zur Kostenberechnung"
+      ],
+      "correct": 1,
+      "explanation": "Beim Brainstorming werden in einer Gruppe möglichst viele Ideen gesammelt. Grundregeln: Kritik ist verboten, Quantität vor Qualität, Ideen dürfen aufgegriffen werden.",
+      "difficulty": 1,
+      "topic": "Kommunikationstechniken",
+      "subtopic": "Moderation"
+    },
+    {
+      "id": "ikp-077",
+      "text": "Welche Aussage zum Feedback ist falsch?",
+      "options": [
+        "Feedback sollte zeitnah erfolgen",
+        "Feedback sollte konkret und verhaltensbezogen sein",
+        "Feedback sollte immer öffentlich vor der gesamten Gruppe gegeben werden",
+        "Feedback sollte in der Ich-Form formuliert werden"
+      ],
+      "correct": 2,
+      "explanation": "Kritisches Feedback sollte unter vier Augen gegeben werden, nicht öffentlich vor der Gruppe. Öffentliches negatives Feedback kann beschämen.",
+      "difficulty": 1,
+      "topic": "Kommunikationstechniken",
+      "subtopic": "Feedback"
+    },
+    {
+      "id": "ikp-078",
+      "text": "Was ist die Sandwich-Methode beim Feedback?",
+      "options": [
+        "Feedback während des Mittagessens",
+        "Kritik wird zwischen zwei positive Aussagen eingebettet",
+        "Drei Personen geben gleichzeitig Feedback",
+        "Feedback wird schriftlich übergeben"
+      ],
+      "correct": 1,
+      "explanation": "Bei der Sandwich-Methode wird konstruktive Kritik zwischen ein positives Eingangsstatement und ein positives Abschlussstatement eingebettet.",
+      "difficulty": 1,
+      "topic": "Kommunikationstechniken",
+      "subtopic": "Feedback"
+    },
+    {
+      "id": "ikp-079",
+      "text": "Was versteht Watzlawick unter digitaler und analoger Kommunikation?",
+      "options": [
+        "Online- vs. Offline-Kommunikation",
+        "Digitale Kommunikation nutzt Worte/Sprache, analoge nutzt nonverbale Zeichen",
+        "Schnelle vs. langsame Kommunikation",
+        "Formelle vs. informelle Kommunikation"
+      ],
+      "correct": 1,
+      "explanation": "Das vierte Axiom unterscheidet digitale (verbale, eindeutige) und analoge (nonverbale, mehrdeutige) Kommunikation. Beides wird gleichzeitig gesendet.",
+      "difficulty": 3,
+      "topic": "Kommunikationstechniken",
+      "subtopic": "Kommunikationsmodelle"
+    },
+    {
+      "id": "ikp-080",
+      "text": "Was ist das Ziel einer Konfliktmoderation?",
+      "options": [
+        "Den Schuldigen zu finden",
+        "Die Parteien zu einer gemeinsamen, tragfähigen Lösung zu führen",
+        "Das Thema zu vermeiden",
+        "Eine Partei zu überzeugen"
+      ],
+      "correct": 1,
+      "explanation": "Konfliktmoderation zielt darauf ab, die Standpunkte der Parteien zu klären, gegenseitiges Verständnis zu fördern und eine tragfähige Lösung zu erarbeiten.",
+      "difficulty": 2,
+      "topic": "Kommunikationstechniken",
+      "subtopic": "Moderation"
+    },
+    {
+      "id": "ikp-081",
+      "text": "Was ist eine SWOT-Analyse?",
+      "options": [
+        "Eine Kostenberechnungsmethode",
+        "Eine Methode zur Analyse von Stärken, Schwächen, Chancen und Risiken",
+        "Ein Verschlüsselungsverfahren",
+        "Eine Qualitätsprüfung"
+      ],
+      "correct": 1,
+      "explanation": "SWOT steht für Strengths (Stärken), Weaknesses (Schwächen), Opportunities (Chancen) und Threats (Risiken). Sie verbindet interne und externe Analyse.",
+      "difficulty": 1,
+      "topic": "Planungsmethoden",
+      "subtopic": "SWOT-Analyse"
+    },
+    {
+      "id": "ikp-082",
+      "text": "Welche Faktoren der SWOT-Analyse sind intern?",
+      "options": [
+        "Chancen und Risiken",
+        "Stärken und Schwächen",
+        "Stärken und Chancen",
+        "Schwächen und Risiken"
+      ],
+      "correct": 1,
+      "explanation": "Stärken und Schwächen sind interne Faktoren (beeinflussbar). Chancen und Risiken sind externe Faktoren aus dem Umfeld (nicht direkt beeinflussbar).",
+      "difficulty": 2,
+      "topic": "Planungsmethoden",
+      "subtopic": "SWOT-Analyse"
+    },
+    {
+      "id": "ikp-083",
+      "text": "Was ist das Ziel der ABC-Analyse?",
+      "options": [
+        "Alphabetische Sortierung von Artikeln",
+        "Die Klassifizierung von Objekten nach ihrer Bedeutung in drei Kategorien",
+        "Die Fehleranalyse in der Produktion",
+        "Die Berechnung von Durchlaufzeiten"
+      ],
+      "correct": 1,
+      "explanation": "Die ABC-Analyse teilt Objekte nach wirtschaftlicher Bedeutung ein: A-Teile (hoher Wertanteil, geringe Menge), B-Teile (mittel), C-Teile (geringer Wertanteil, große Menge).",
+      "difficulty": 1,
+      "topic": "Planungsmethoden",
+      "subtopic": "ABC-Analyse"
+    },
+    {
+      "id": "ikp-084",
+      "text": "Wie verteilt sich typischerweise die ABC-Analyse bei Materialien?",
+      "options": [
+        "A: 80% Menge, 20% Wert",
+        "A: ca. 20% Menge, ca. 80% Wert; C: ca. 50% Menge, ca. 5% Wert",
+        "Gleichmäßig je ein Drittel",
+        "A: 50% Menge, 50% Wert"
+      ],
+      "correct": 1,
+      "explanation": "Typisch: A-Teile ca. 20% der Menge, ca. 80% des Werts. B-Teile ca. 30% Menge, ca. 15% Wert. C-Teile ca. 50% Menge, ca. 5% Wert.",
+      "difficulty": 2,
+      "topic": "Planungsmethoden",
+      "subtopic": "ABC-Analyse"
+    },
+    {
+      "id": "ikp-085",
+      "text": "Was ist eine Nutzwertanalyse?",
+      "options": [
+        "Eine Methode zur Berechnung des Gewinns",
+        "Ein Bewertungsverfahren, das verschiedene Alternativen anhand gewichteter Kriterien vergleicht",
+        "Eine Kostenvergleichsrechnung",
+        "Eine Methode zur Zeitplanung"
+      ],
+      "correct": 1,
+      "explanation": "Die Nutzwertanalyse bewertet Alternativen anhand gewichteter Kriterien mit Punkten. Der Gesamtnutzwert ergibt sich aus der Summe der gewichteten Einzelbewertungen.",
+      "difficulty": 2,
+      "topic": "Planungsmethoden",
+      "subtopic": "Nutzwertanalyse"
+    },
+    {
+      "id": "ikp-086",
+      "text": "Welcher Schritt kommt bei der Nutzwertanalyse zuerst?",
+      "options": [
+        "Bewertung der Alternativen",
+        "Festlegung und Gewichtung der Bewertungskriterien",
+        "Berechnung der Nutzwerte",
+        "Auswahl der besten Alternative"
+      ],
+      "correct": 1,
+      "explanation": "Zuerst werden Bewertungskriterien festgelegt und gewichtet. Dann erfolgt die Bewertung, die Berechnung der gewichteten Nutzwerte und die Rangfolge.",
+      "difficulty": 2,
+      "topic": "Planungsmethoden",
+      "subtopic": "Nutzwertanalyse"
+    },
+    {
+      "id": "ikp-087",
+      "text": "Was ist ein Ishikawa-Diagramm?",
+      "options": [
+        "Ein Balkendiagramm",
+        "Ein Ursache-Wirkungs-Diagramm in Fischgrätenform zur systematischen Fehleranalyse",
+        "Ein Netzplan",
+        "Ein Organigramm"
+      ],
+      "correct": 1,
+      "explanation": "Das Ishikawa-Diagramm (Fischgrätendiagramm) stellt systematisch die möglichen Ursachen eines Problems dar, gegliedert in Kategorien wie Mensch, Maschine, Material, Methode, Mitwelt, Messung.",
+      "difficulty": 1,
+      "topic": "Planungsmethoden",
+      "subtopic": "Ishikawa"
+    },
+    {
+      "id": "ikp-088",
+      "text": "Welche Hauptkategorien werden im Ishikawa-Diagramm typischerweise verwendet?",
+      "options": [
+        "Kosten, Zeit, Qualität, Personal",
+        "Mensch, Maschine, Material, Methode, Mitwelt, Messung (6M)",
+        "Planung, Durchführung, Kontrolle",
+        "Input, Prozess, Output"
+      ],
+      "correct": 1,
+      "explanation": "Die 6M des Ishikawa-Diagramms: Mensch, Maschine, Material, Methode, Mitwelt (Umwelt) und Messung bilden die typischen Hauptkategorien.",
+      "difficulty": 2,
+      "topic": "Planungsmethoden",
+      "subtopic": "Ishikawa"
+    },
+    {
+      "id": "ikp-089",
+      "text": "Was besagt das Pareto-Prinzip?",
+      "options": [
+        "Alle Ursachen sind gleich wichtig",
+        "Ca. 80% der Wirkungen werden durch ca. 20% der Ursachen hervorgerufen",
+        "100% der Probleme haben genau eine Ursache",
+        "Nur 50% aller Probleme sind lösbar"
+      ],
+      "correct": 1,
+      "explanation": "Das Pareto-Prinzip (80/20-Regel) besagt, dass etwa 80% der Auswirkungen durch etwa 20% der Ursachen entstehen.",
+      "difficulty": 1,
+      "topic": "Planungsmethoden",
+      "subtopic": "Pareto-Prinzip"
+    },
+    {
+      "id": "ikp-090",
+      "text": "Was ist Mind-Mapping?",
+      "options": [
+        "Eine GPS-basierte Navigationsmethode",
+        "Eine visuelle Kreativitätstechnik, bei der Ideen ausgehend von einem zentralen Thema verzweigt dargestellt werden",
+        "Eine statistische Analysemethode",
+        "Ein Projektplanungstool"
+      ],
+      "correct": 1,
+      "explanation": "Mind-Mapping stellt Ideen grafisch dar: Ein zentrales Thema in der Mitte, davon zweigen Hauptäste und Unteräste ab. Es fördert assoziatives Denken.",
+      "difficulty": 1,
+      "topic": "Planungsmethoden",
+      "subtopic": "Mind-Mapping"
+    },
+    {
+      "id": "ikp-091",
+      "text": "Was ist eine Entscheidungsmatrix?",
+      "options": [
+        "Ein Organigramm",
+        "Ein tabellarisches Werkzeug zur systematischen Bewertung von Alternativen anhand definierter Kriterien",
+        "Ein Zeitplan",
+        "Eine Kostenaufstellung"
+      ],
+      "correct": 1,
+      "explanation": "Die Entscheidungsmatrix stellt Alternativen und Kriterien in einer Tabelle gegenüber. Durch Bewertung und Gewichtung wird die beste Alternative ermittelt.",
+      "difficulty": 2,
+      "topic": "Planungsmethoden",
+      "subtopic": "Entscheidungsmatrix"
+    },
+    {
+      "id": "ikp-092",
+      "text": "Wofür eignet sich die ABC-Analyse in der Materialwirtschaft besonders?",
+      "options": [
+        "Zur Berechnung von Stückkosten",
+        "Zur Priorisierung des Beschaffungsaufwands: A-Teile erhalten mehr Aufmerksamkeit",
+        "Zur Erstellung von Netzplänen",
+        "Zur Mitarbeiterbewertung"
+      ],
+      "correct": 1,
+      "explanation": "In der Materialwirtschaft hilft die ABC-Analyse, den Beschaffungsaufwand zu priorisieren: A-Teile werden intensiv disponiert, C-Teile vereinfacht bestellt.",
+      "difficulty": 2,
+      "topic": "Planungsmethoden",
+      "subtopic": "ABC-Analyse"
+    },
+    {
+      "id": "ikp-093",
+      "text": "Was unterscheidet eine Nutzwertanalyse von einer Kostenvergleichsrechnung?",
+      "options": [
+        "Nichts, beide sind identisch",
+        "Die Nutzwertanalyse berücksichtigt auch nicht-monetäre, qualitative Kriterien",
+        "Die Nutzwertanalyse betrachtet nur Kosten",
+        "Die Kostenvergleichsrechnung ist umfassender"
+      ],
+      "correct": 1,
+      "explanation": "Die Nutzwertanalyse kann auch qualitative, nicht in Geld messbare Kriterien einbeziehen, während die Kostenvergleichsrechnung nur monetäre Größen betrachtet.",
+      "difficulty": 2,
+      "topic": "Planungsmethoden",
+      "subtopic": "Nutzwertanalyse"
+    },
+    {
+      "id": "ikp-094",
+      "text": "Was ist der Morphologische Kasten (Zwicky-Box)?",
+      "options": [
+        "Eine Aufbewahrungsbox für Werkzeuge",
+        "Eine systematische Kreativitätstechnik, bei der für Teilprobleme Lösungsvarianten aufgelistet und kombiniert werden",
+        "Ein Lagersystem",
+        "Eine Verpackungsmethode"
+      ],
+      "correct": 1,
+      "explanation": "Der Morphologische Kasten listet Parameter eines Problems in einer Matrix auf und ordnet jedem verschiedene Ausprägungen zu. Durch Kombination entstehen neue Lösungen.",
+      "difficulty": 3,
+      "topic": "Planungsmethoden",
+      "subtopic": "Kreativitätstechniken"
+    },
+    {
+      "id": "ikp-095",
+      "text": "Was ist das Ziel der Kraftfeldanalyse nach Lewin?",
+      "options": [
+        "Die Berechnung physikalischer Kräfte",
+        "Die Identifikation von fördernden und hemmenden Faktoren einer Veränderung",
+        "Die Analyse der Muskelkraft",
+        "Die Berechnung von Maschinenkräften"
+      ],
+      "correct": 1,
+      "explanation": "Die Kraftfeldanalyse identifiziert treibende und bremsende Kräfte einer Veränderung. Sie hilft, Maßnahmen zur Überwindung von Widerständen zu planen.",
+      "difficulty": 2,
+      "topic": "Planungsmethoden",
+      "subtopic": "Analysemethoden"
+    },
+    {
+      "id": "ikp-096",
+      "text": "Welche Aussage zur SWOT-Analyse ist richtig?",
+      "options": [
+        "Sie betrachtet nur interne Faktoren",
+        "Sie betrachtet nur externe Faktoren",
+        "Sie verbindet interne Stärken/Schwächen mit externen Chancen/Risiken",
+        "Sie analysiert nur finanzielle Aspekte"
+      ],
+      "correct": 2,
+      "explanation": "Die SWOT-Analyse verbindet die interne Analyse (Stärken, Schwächen) mit der externen Analyse (Chancen, Risiken) und leitet daraus Strategien ab.",
+      "difficulty": 2,
+      "topic": "Planungsmethoden",
+      "subtopic": "SWOT-Analyse"
+    },
+    {
+      "id": "ikp-097",
+      "text": "Was versteht man unter der 635-Methode?",
+      "options": [
+        "6 Personen, 3 Maschinen, 5 Produkte",
+        "6 Teilnehmer schreiben je 3 Ideen in 5 Minuten auf und geben das Blatt weiter",
+        "6 Stunden, 3 Pausen, 5 Themen",
+        "6 Kriterien, 3 Bewertungsstufen, 5 Alternativen"
+      ],
+      "correct": 1,
+      "explanation": "Bei der 635-Methode (Brainwriting) schreiben 6 Teilnehmer je 3 Ideen in 5 Minuten auf ein Blatt, das weitergereicht wird. Nach 6 Runden entstehen bis zu 108 Ideen.",
+      "difficulty": 2,
+      "topic": "Planungsmethoden",
+      "subtopic": "Kreativitätstechniken"
+    },
+    {
+      "id": "ikp-098",
+      "text": "Was ist ein Pareto-Diagramm?",
+      "options": [
+        "Ein Kreisdiagramm",
+        "Ein Säulendiagramm, das Ursachen nach Häufigkeit sortiert mit kumulierter Häufigkeitskurve",
+        "Ein Liniendiagramm",
+        "Ein Netzdiagramm"
+      ],
+      "correct": 1,
+      "explanation": "Das Pareto-Diagramm ordnet Ursachen nach absteigender Häufigkeit. Die kumulierte Kurve zeigt, ab wann 80% der Probleme erfasst sind.",
+      "difficulty": 2,
+      "topic": "Planungsmethoden",
+      "subtopic": "Pareto-Prinzip"
+    },
+    {
+      "id": "ikp-099",
+      "text": "Welche SWOT-Strategie nutzt Stärken, um Chancen auszuschöpfen?",
+      "options": [
+        "WT-Strategie",
+        "SO-Strategie (Ausbaustrategie)",
+        "WO-Strategie",
+        "ST-Strategie"
+      ],
+      "correct": 1,
+      "explanation": "Die SO-Strategie nutzt interne Stärken, um externe Chancen optimal auszuschöpfen. Sie ist die offensivste Strategie der SWOT-Matrix.",
+      "difficulty": 3,
+      "topic": "Planungsmethoden",
+      "subtopic": "SWOT-Analyse"
+    },
+    {
+      "id": "ikp-100",
+      "text": "Welches Werkzeug kombiniert die ABC-Analyse sinnvoll?",
+      "options": [
+        "Das Gantt-Diagramm",
+        "Die XYZ-Analyse zur Klassifikation nach Verbrauchsverlauf",
+        "Die SWOT-Analyse",
+        "Das Ishikawa-Diagramm"
+      ],
+      "correct": 1,
+      "explanation": "Die Kombination von ABC-Analyse (Wertklassen) und XYZ-Analyse (Verbrauchsverlauf: regelmäßig, schwankend, unregelmäßig) ergibt eine differenziertere Materialklassifikation.",
+      "difficulty": 3,
+      "topic": "Planungsmethoden",
+      "subtopic": "ABC-Analyse"
+    },
+    {
+      "id": "ikp-101",
+      "text": "Was ist ein Ergebnisprotokoll?",
+      "options": [
+        "Ein Protokoll, das den gesamten Gesprächsverlauf wörtlich wiedergibt",
+        "Ein Protokoll, das nur die wesentlichen Ergebnisse, Beschlüsse und Maßnahmen festhält",
+        "Ein Protokoll über Produktionsergebnisse",
+        "Ein Protokoll der Qualitätsprüfung"
+      ],
+      "correct": 1,
+      "explanation": "Das Ergebnisprotokoll dokumentiert nur die wesentlichen Ergebnisse, Beschlüsse und vereinbarten Maßnahmen einer Besprechung, nicht den gesamten Diskussionsverlauf.",
+      "difficulty": 1,
+      "topic": "Betriebliche Kommunikation",
+      "subtopic": "Protokollführung"
+    },
+    {
+      "id": "ikp-102",
+      "text": "Was unterscheidet ein Verlaufsprotokoll von einem Ergebnisprotokoll?",
+      "options": [
+        "Es enthält weniger Details",
+        "Es gibt den chronologischen Verlauf der Besprechung mit den wichtigsten Argumenten wieder",
+        "Es wird nur von der Führungskraft erstellt",
+        "Es enthält nur Zahlen und Daten"
+      ],
+      "correct": 1,
+      "explanation": "Das Verlaufsprotokoll dokumentiert den chronologischen Ablauf einer Besprechung mit den wesentlichen Beiträgen und Argumenten. Es ist ausführlicher als das Ergebnisprotokoll.",
+      "difficulty": 2,
+      "topic": "Betriebliche Kommunikation",
+      "subtopic": "Protokollführung"
+    },
+    {
+      "id": "ikp-103",
+      "text": "Was gehört in jeden Protokollkopf?",
+      "options": [
+        "Nur das Datum",
+        "Datum, Ort, Teilnehmer, Thema, Protokollführer und Verteiler",
+        "Nur die Namen der Teilnehmer",
+        "Nur die Tagesordnung"
+      ],
+      "correct": 1,
+      "explanation": "Der Protokollkopf enthält: Datum, Uhrzeit, Ort, Teilnehmer (anwesend/abwesend), Besprechungsthema, Protokollführer, ggf. Verteiler und Bezeichnung.",
+      "difficulty": 1,
+      "topic": "Betriebliche Kommunikation",
+      "subtopic": "Protokollführung"
+    },
+    {
+      "id": "ikp-104",
+      "text": "Was ist das Ziel eines betrieblichen Berichtswesens?",
+      "options": [
+        "Die Unterhaltung der Mitarbeiter",
+        "Die systematische Bereitstellung entscheidungsrelevanter Informationen für die Führungsebenen",
+        "Die Archivierung alter Dokumente",
+        "Die Erstellung von Werbematerialien"
+      ],
+      "correct": 1,
+      "explanation": "Das betriebliche Berichtswesen (Reporting) liefert systematisch aufbereitete Informationen für Entscheidungsträger. Es umfasst Standardberichte, Abweichungsberichte und Bedarfsberichte.",
+      "difficulty": 2,
+      "topic": "Betriebliche Kommunikation",
+      "subtopic": "Berichtswesen"
+    },
+    {
+      "id": "ikp-105",
+      "text": "Welche Visualisierungstechnik eignet sich am besten für Anteile an einem Ganzen?",
+      "options": [
+        "Balkendiagramm",
+        "Kreisdiagramm (Tortendiagramm)",
+        "Liniendiagramm",
+        "Netzdiagramm"
+      ],
+      "correct": 1,
+      "explanation": "Das Kreisdiagramm zeigt die Anteile einzelner Kategorien an einer Gesamtheit (100%). Es eignet sich besonders für die Darstellung von Verteilungen und Strukturen.",
+      "difficulty": 1,
+      "topic": "Betriebliche Kommunikation",
+      "subtopic": "Visualisierungstechniken"
+    },
+    {
+      "id": "ikp-106",
+      "text": "Was ist ein Standardbericht im betrieblichen Berichtswesen?",
+      "options": [
+        "Ein einmaliger Sonderbericht",
+        "Ein regelmäßig in festem Rhythmus erstellter Bericht mit definiertem Inhalt und Format",
+        "Ein mündlicher Bericht",
+        "Ein Bericht nur für externe Stellen"
+      ],
+      "correct": 1,
+      "explanation": "Standardberichte werden regelmäßig (täglich, wöchentlich, monatlich) in festem Format erstellt und enthalten vordefinierte Kennzahlen und Informationen.",
+      "difficulty": 1,
+      "topic": "Betriebliche Kommunikation",
+      "subtopic": "Berichtswesen"
+    },
+    {
+      "id": "ikp-107",
+      "text": "Welche Aufgabe hat der Besprechungsleiter?",
+      "options": [
+        "Alle Entscheidungen allein treffen",
+        "Die Besprechung strukturiert führen, Zeitmanagement sicherstellen und Ergebnisse zusammenfassen",
+        "Nur das Protokoll schreiben",
+        "Die Teilnehmer bewerten"
+      ],
+      "correct": 1,
+      "explanation": "Der Besprechungsleiter führt durch die Tagesordnung, achtet auf Zeitmanagement, sorgt für Beteiligung aller, fasst Ergebnisse zusammen und stellt die Beschlussfähigkeit sicher.",
+      "difficulty": 2,
+      "topic": "Betriebliche Kommunikation",
+      "subtopic": "Besprechungsleitung"
+    },
+    {
+      "id": "ikp-108",
+      "text": "Was gehört zu einer professionellen Besprechungsvorbereitung?",
+      "options": [
+        "Nur den Raum reservieren",
+        "Tagesordnung erstellen und versenden, Teilnehmer einladen, Unterlagen vorbereiten, Raum und Technik organisieren",
+        "Nur die Einladung verschicken",
+        "Keine Vorbereitung nötig"
+      ],
+      "correct": 1,
+      "explanation": "Eine professionelle Besprechungsvorbereitung umfasst: Zielsetzung klären, Tagesordnung erstellen, Teilnehmer einladen, Unterlagen versenden, Raum und Technik vorbereiten.",
+      "difficulty": 1,
+      "topic": "Betriebliche Kommunikation",
+      "subtopic": "Besprechungsleitung"
+    },
+    {
+      "id": "ikp-109",
+      "text": "Was versteht man unter dem Informationsfluss im Unternehmen?",
+      "options": [
+        "Den Postweg von Briefen",
+        "Die gezielte Weitergabe und den Austausch von Informationen zwischen Personen und Abteilungen",
+        "Den Stromfluss in der IT-Anlage",
+        "Die Bewegung von Materialien"
+      ],
+      "correct": 1,
+      "explanation": "Der Informationsfluss beschreibt, wie Informationen im Unternehmen weitergegeben werden: vertikal (von oben nach unten und umgekehrt) und horizontal (zwischen Abteilungen).",
+      "difficulty": 1,
+      "topic": "Betriebliche Kommunikation",
+      "subtopic": "Informationsfluss"
+    },
+    {
+      "id": "ikp-110",
+      "text": "Welches Diagramm eignet sich am besten zur Darstellung von Entwicklungen über die Zeit?",
+      "options": [
+        "Kreisdiagramm",
+        "Liniendiagramm",
+        "Organigramm",
+        "Ishikawa-Diagramm"
+      ],
+      "correct": 1,
+      "explanation": "Liniendiagramme eignen sich ideal zur Darstellung von zeitlichen Verläufen und Trends, da sie Veränderungen über Zeiträume gut sichtbar machen.",
+      "difficulty": 1,
+      "topic": "Betriebliche Kommunikation",
+      "subtopic": "Visualisierungstechniken"
+    },
+    {
+      "id": "ikp-111",
+      "text": "Was ist eine Holschuld bei der Information?",
+      "options": [
+        "Der Mitarbeiter wartet, bis er informiert wird",
+        "Der Mitarbeiter muss sich die benötigten Informationen selbst aktiv beschaffen",
+        "Die Führungskraft holt Informationen vom Mitarbeiter",
+        "Die Information wird per Post zugestellt"
+      ],
+      "correct": 1,
+      "explanation": "Bei der Holschuld muss sich der Informationsempfänger die benötigten Informationen selbst aktiv beschaffen. Sie ergänzt die Bringschuld des Informationsgebers.",
+      "difficulty": 2,
+      "topic": "Betriebliche Kommunikation",
+      "subtopic": "Informationsfluss"
+    },
+    {
+      "id": "ikp-112",
+      "text": "Was versteht man unter Bringschuld bei der Information?",
+      "options": [
+        "Der Empfänger muss die Information holen",
+        "Der Informationsinhaber ist verpflichtet, relevante Informationen aktiv weiterzugeben",
+        "Informationen werden nur auf Nachfrage gegeben",
+        "Informationen werden nur schriftlich weitergegeben"
+      ],
+      "correct": 1,
+      "explanation": "Bei der Bringschuld ist der Informationsinhaber verpflichtet, relevante Informationen aktiv und rechtzeitig an die betroffenen Personen weiterzuleiten.",
+      "difficulty": 2,
+      "topic": "Betriebliche Kommunikation",
+      "subtopic": "Informationsfluss"
+    },
+    {
+      "id": "ikp-113",
+      "text": "Welche Aussage zum Aushang als Kommunikationsmittel ist richtig?",
+      "options": [
+        "Aushänge erreichen alle Mitarbeiter sofort und zuverlässig",
+        "Aushänge eignen sich für allgemeine Informationen, erfordern aber keine Rückmeldung und erreichen nicht alle zeitnah",
+        "Aushänge ersetzen persönliche Gespräche vollständig",
+        "Aushänge sind die modernste Kommunikationsform"
+      ],
+      "correct": 1,
+      "explanation": "Aushänge am Schwarzen Brett eignen sich für allgemeine Informationen, haben aber Nachteile: keine Rückmeldung, nicht alle lesen sie, zeitverzögert.",
+      "difficulty": 1,
+      "topic": "Betriebliche Kommunikation",
+      "subtopic": "Informationsfluss"
+    },
+    {
+      "id": "ikp-114",
+      "text": "Was ist ein Abweichungsbericht?",
+      "options": [
+        "Ein Bericht über abwesende Mitarbeiter",
+        "Ein Bericht, der bei Abweichungen vom Soll-Zustand erstellt wird und Ursachen und Maßnahmen enthält",
+        "Ein Standardbericht",
+        "Ein Jahresbericht"
+      ],
+      "correct": 1,
+      "explanation": "Ein Abweichungsbericht wird erstellt, wenn Ist-Werte erheblich von Soll-Werten abweichen. Er analysiert Ursachen und schlägt Korrekturmaßnahmen vor.",
+      "difficulty": 2,
+      "topic": "Betriebliche Kommunikation",
+      "subtopic": "Berichtswesen"
+    },
+    {
+      "id": "ikp-115",
+      "text": "Welche Regel gilt für die Gestaltung von Präsentationsfolien?",
+      "options": [
+        "Je mehr Text, desto besser",
+        "Maximal 6-7 Zeilen pro Folie, Schriftgröße mindestens 24 Punkt",
+        "Nur Text, keine Bilder verwenden",
+        "Möglichst viele verschiedene Schriftarten"
+      ],
+      "correct": 1,
+      "explanation": "Die 6x7-Regel empfiehlt maximal 6-7 Zeilen mit je 6-7 Wörtern pro Folie. Große Schrift (min. 24 pt), wenig Text und aussagekräftige Visualisierungen erhöhen die Wirkung.",
+      "difficulty": 1,
+      "topic": "Betriebliche Kommunikation",
+      "subtopic": "Visualisierungstechniken"
+    },
+    {
+      "id": "ikp-116",
+      "text": "Was ist der PDCA-Zyklus?",
+      "options": [
+        "Ein Produktionszyklus",
+        "Ein kontinuierlicher Verbesserungsprozess mit den Phasen Plan, Do, Check, Act",
+        "Ein Buchungszyklus",
+        "Ein Schichtmodell"
+      ],
+      "correct": 1,
+      "explanation": "Der PDCA-Zyklus (Deming-Kreis) ist ein iterativer Verbesserungsprozess: Plan (Planen), Do (Umsetzen), Check (Überprüfen), Act (Handeln/Standardisieren).",
+      "difficulty": 1,
+      "topic": "Qualitätsmanagement",
+      "subtopic": "PDCA-Zyklus"
+    },
+    {
+      "id": "ikp-117",
+      "text": "Was passiert in der Check-Phase des PDCA-Zyklus?",
+      "options": [
+        "Neue Maßnahmen werden geplant",
+        "Die Ergebnisse der Umsetzung werden überprüft und mit den Zielen verglichen",
+        "Maßnahmen werden umgesetzt",
+        "Ergebnisse werden standardisiert"
+      ],
+      "correct": 1,
+      "explanation": "In der Check-Phase werden die Ergebnisse der Umsetzung (Do-Phase) überprüft und mit den geplanten Zielen verglichen. Abweichungen werden analysiert.",
+      "difficulty": 2,
+      "topic": "Qualitätsmanagement",
+      "subtopic": "PDCA-Zyklus"
+    },
+    {
+      "id": "ikp-118",
+      "text": "Was ist ein Qualitätszirkel?",
+      "options": [
+        "Eine Abteilung im Unternehmen",
+        "Eine kleine Gruppe von Mitarbeitern, die sich regelmäßig freiwillig trifft, um Qualitätsprobleme zu lösen",
+        "Ein Zertifizierungsverfahren",
+        "Ein Prüfprotokoll"
+      ],
+      "correct": 1,
+      "explanation": "Qualitätszirkel sind kleine Gruppen (5-10) von Mitarbeitern der gleichen Arbeitsebene, die sich regelmäßig treffen, um Probleme aus ihrem Arbeitsbereich zu identifizieren und Lösungen zu erarbeiten.",
+      "difficulty": 1,
+      "topic": "Qualitätsmanagement",
+      "subtopic": "Qualitätszirkel"
+    },
+    {
+      "id": "ikp-119",
+      "text": "Was ist eine Fehlersammelkarte?",
+      "options": [
+        "Eine Karte mit Telefonnummern für Notfälle",
+        "Ein Formular zur systematischen Erfassung und Häufigkeitszählung von Fehlerarten",
+        "Eine Mitgliedskarte eines Qualitätszirkels",
+        "Ein Ersatzteilkatalog"
+      ],
+      "correct": 1,
+      "explanation": "Die Fehlersammelkarte (Strichliste) erfasst systematisch die Art und Häufigkeit von Fehlern über einen definierten Zeitraum. Sie ist die Grundlage für Pareto-Analysen.",
+      "difficulty": 1,
+      "topic": "Qualitätsmanagement",
+      "subtopic": "Fehlersammelkarte"
+    },
+    {
+      "id": "ikp-120",
+      "text": "Was zeigt ein Histogramm?",
+      "options": [
+        "Den zeitlichen Verlauf einer Kennzahl",
+        "Die Häufigkeitsverteilung von Messwerten in Klassen",
+        "Den Zusammenhang zwischen zwei Merkmalen",
+        "Die Rangfolge von Fehlerarten"
+      ],
+      "correct": 1,
+      "explanation": "Ein Histogramm stellt die Häufigkeitsverteilung von Messwerten als Säulendiagramm dar. Es zeigt, ob die Verteilung symmetrisch, schief oder mehrgipfelig ist.",
+      "difficulty": 2,
+      "topic": "Qualitätsmanagement",
+      "subtopic": "Histogramm"
+    },
+    {
+      "id": "ikp-121",
+      "text": "Was ist eine Regelkarte (Control Chart)?",
+      "options": [
+        "Eine Karte mit Verhaltensregeln",
+        "Ein Diagramm zur Überwachung eines Prozesses mit Eingriffsgrenzen zur Erkennung von Abweichungen",
+        "Eine Landkarte",
+        "Ein Organigramm"
+      ],
+      "correct": 1,
+      "explanation": "Die Regelkarte überwacht Prozessmerkmale über die Zeit. Sie enthält einen Mittelwert und obere/untere Eingriffsgrenzen. Werte außerhalb zeigen systematische Störungen an.",
+      "difficulty": 2,
+      "topic": "Qualitätsmanagement",
+      "subtopic": "Regelkarte"
+    },
+    {
+      "id": "ikp-122",
+      "text": "Was versteht man unter einem Audit?",
+      "options": [
+        "Eine Verkaufsprüfung",
+        "Eine systematische, unabhängige Untersuchung zur Bewertung der Konformität mit festgelegten Anforderungen",
+        "Eine Jahresabschlussfeier",
+        "Eine Mitarbeiterbefragung"
+      ],
+      "correct": 1,
+      "explanation": "Ein Audit ist eine systematische, dokumentierte Prüfung, ob ein QM-System, Prozesse oder Produkte die festgelegten Anforderungen erfüllen. Es gibt interne und externe Audits.",
+      "difficulty": 2,
+      "topic": "Qualitätsmanagement",
+      "subtopic": "Audit"
+    },
+    {
+      "id": "ikp-123",
+      "text": "Was bedeutet eine ISO 9001-Zertifizierung?",
+      "options": [
+        "Das Unternehmen hat die höchste Produktqualität",
+        "Das Qualitätsmanagementsystem des Unternehmens erfüllt die Anforderungen der ISO 9001",
+        "Alle Produkte sind fehlerfrei",
+        "Das Unternehmen hat die meisten Mitarbeiter"
+      ],
+      "correct": 1,
+      "explanation": "Die ISO 9001-Zertifizierung bestätigt, dass das QM-System eines Unternehmens die internationalen Anforderungen der Norm erfüllt. Sie wird durch externe Zertifizierungsstellen vergeben.",
+      "difficulty": 2,
+      "topic": "Qualitätsmanagement",
+      "subtopic": "Zertifizierung"
+    },
+    {
+      "id": "ikp-124",
+      "text": "Welche Auditarten gibt es?",
+      "options": [
+        "Nur Systemaudits",
+        "Systemaudit, Prozessaudit und Produktaudit",
+        "Nur interne Audits",
+        "Nur Kundenaudits"
+      ],
+      "correct": 1,
+      "explanation": "Es gibt drei Hauptarten: Systemaudit (QM-System insgesamt), Prozessaudit (einzelne Prozesse) und Produktaudit (Produktkonformität). Zudem unterscheidet man interne und externe Audits.",
+      "difficulty": 2,
+      "topic": "Qualitätsmanagement",
+      "subtopic": "Audit"
+    },
+    {
+      "id": "ikp-125",
+      "text": "Was passiert in der Act-Phase des PDCA-Zyklus?",
+      "options": [
+        "Neue Probleme werden identifiziert",
+        "Erfolgreiche Maßnahmen werden standardisiert oder bei Misserfolg wird der Zyklus neu gestartet",
+        "Die Umsetzung wird durchgeführt",
+        "Die Ziele werden festgelegt"
+      ],
+      "correct": 1,
+      "explanation": "In der Act-Phase werden erfolgreiche Maßnahmen als neuer Standard übernommen. Bei Nichterreichen der Ziele wird der PDCA-Zyklus erneut mit angepassten Maßnahmen durchlaufen.",
+      "difficulty": 2,
+      "topic": "Qualitätsmanagement",
+      "subtopic": "PDCA-Zyklus"
+    },
+    {
+      "id": "ikp-126",
+      "text": "Was sind die sieben Qualitätswerkzeuge (Q7)?",
+      "options": [
+        "Sieben verschiedene Prüfgeräte",
+        "Fehlersammelkarte, Histogramm, Qualitätsregelkarte, Pareto-Diagramm, Korrelationsdiagramm, Ishikawa-Diagramm, Flussdiagramm",
+        "Sieben Managementmethoden",
+        "Sieben Auditarten"
+      ],
+      "correct": 1,
+      "explanation": "Die Q7 (Elementary Quality Tools) sind sieben grundlegende Werkzeuge zur Qualitätssicherung, die einfach anzuwenden sind und die meisten Qualitätsprobleme analysieren können.",
+      "difficulty": 2,
+      "topic": "Qualitätsmanagement",
+      "subtopic": "Qualitätswerkzeuge"
+    },
+    {
+      "id": "ikp-127",
+      "text": "Was zeigt ein Korrelationsdiagramm (Streudiagramm)?",
+      "options": [
+        "Die zeitliche Entwicklung",
+        "Den Zusammenhang zwischen zwei Merkmalen als Punktwolke",
+        "Die Häufigkeitsverteilung",
+        "Die Fehlerarten"
+      ],
+      "correct": 1,
+      "explanation": "Das Korrelationsdiagramm stellt zwei Merkmale gegeneinander dar. Die Punktwolke zeigt, ob ein positiver, negativer oder kein Zusammenhang besteht.",
+      "difficulty": 2,
+      "topic": "Qualitätsmanagement",
+      "subtopic": "Qualitätswerkzeuge"
+    },
+    {
+      "id": "ikp-128",
+      "text": "Was bedeutet KVP?",
+      "options": [
+        "Kostenvoranschlagsprüfung",
+        "Kontinuierlicher Verbesserungsprozess",
+        "Kundenvertrauensprüfung",
+        "Kontrolliertes Verfahren zur Prüfung"
+      ],
+      "correct": 1,
+      "explanation": "KVP (Kontinuierlicher Verbesserungsprozess) ist eine Grundhaltung, die auf ständige Verbesserung in kleinen Schritten durch alle Mitarbeiter setzt. Es basiert auf dem PDCA-Zyklus.",
+      "difficulty": 1,
+      "topic": "Qualitätsmanagement",
+      "subtopic": "PDCA-Zyklus"
+    },
+    {
+      "id": "ikp-129",
+      "text": "Was ist ein internes Audit?",
+      "options": [
+        "Ein Audit durch den Kunden",
+        "Ein Audit, das vom Unternehmen selbst durchgeführt wird, um das eigene QM-System zu überprüfen",
+        "Ein Audit durch die Zertifizierungsstelle",
+        "Ein Audit durch die Behörde"
+      ],
+      "correct": 1,
+      "explanation": "Interne Audits (First-Party-Audits) werden vom Unternehmen selbst durchgeführt, um die Wirksamkeit des eigenen QM-Systems zu überprüfen und Verbesserungspotenziale zu erkennen.",
+      "difficulty": 2,
+      "topic": "Qualitätsmanagement",
+      "subtopic": "Audit"
+    },
+    {
+      "id": "ikp-130",
+      "text": "Welches Qualitätswerkzeug eignet sich zur Visualisierung eines Prozessablaufs?",
+      "options": [
+        "Histogramm",
+        "Flussdiagramm (Ablaufdiagramm)",
+        "Korrelationsdiagramm",
+        "Fehlersammelkarte"
+      ],
+      "correct": 1,
+      "explanation": "Das Flussdiagramm (Flowchart) stellt den Ablauf eines Prozesses mit standardisierten Symbolen dar und macht Prozessschritte, Entscheidungen und Verzweigungen sichtbar.",
+      "difficulty": 1,
+      "topic": "Qualitätsmanagement",
+      "subtopic": "Qualitätswerkzeuge"
+    },
+    {
+      "id": "ikp-131",
+      "text": "Was versteht man unter TQM (Total Quality Management)?",
+      "options": [
+        "Nur die Qualitätsprüfung am Endprodukt",
+        "Ein umfassendes Managementkonzept, bei dem Qualität als Aufgabe aller Mitarbeiter in allen Bereichen verstanden wird",
+        "Ein statistisches Prüfverfahren",
+        "Eine Methode zur Kostenreduzierung"
+      ],
+      "correct": 1,
+      "explanation": "TQM ist ein ganzheitlicher Managementansatz, bei dem alle Mitarbeiter in allen Bereichen zur kontinuierlichen Verbesserung der Qualität beitragen. Kundenorientierung steht im Mittelpunkt.",
+      "difficulty": 2,
+      "topic": "Qualitätsmanagement",
+      "subtopic": "Grundlagen"
+    },
+    {
+      "id": "ikp-132",
+      "text": "Was ist die Aufgabe des Qualitätsmanagementbeauftragten (QMB)?",
+      "options": [
+        "Die alleinige Verantwortung für die Produktqualität",
+        "Die Aufrechterhaltung und Weiterentwicklung des QM-Systems sowie die Berichterstattung an die Leitung",
+        "Die Durchführung aller Qualitätsprüfungen",
+        "Die Schulung aller Mitarbeiter"
+      ],
+      "correct": 1,
+      "explanation": "Der QMB ist für die Einführung, Aufrechterhaltung und Weiterentwicklung des QM-Systems verantwortlich und berichtet der obersten Leitung über die Leistung des Systems.",
+      "difficulty": 2,
+      "topic": "Qualitätsmanagement",
+      "subtopic": "Grundlagen"
+    },
+    {
+      "id": "ikp-133",
+      "text": "Was sind Eingriffsgrenzen in einer Regelkarte?",
+      "options": [
+        "Die Grenzen des Maschinenarbeitsraums",
+        "Statistische Grenzen, bei deren Überschreitung in den Prozess eingegriffen werden muss",
+        "Die Toleranzgrenzen des Produkts",
+        "Die Arbeitszeitgrenzen"
+      ],
+      "correct": 1,
+      "explanation": "Eingriffsgrenzen (obere und untere) werden statistisch berechnet (z.B. Mittelwert +/- 3 Sigma). Werte außerhalb zeigen systematische Prozessstörungen an.",
+      "difficulty": 3,
+      "topic": "Qualitätsmanagement",
+      "subtopic": "Regelkarte"
+    },
+    {
+      "id": "ikp-134",
+      "text": "Was versteht man unter dem arithmetischen Mittelwert?",
+      "options": [
+        "Den häufigsten Wert",
+        "Die Summe aller Werte geteilt durch die Anzahl der Werte",
+        "Den mittleren Wert einer sortierten Reihe",
+        "Die Differenz zwischen größtem und kleinstem Wert"
+      ],
+      "correct": 1,
+      "explanation": "Der arithmetische Mittelwert ist das bekannteste Lagemaß. Er berechnet sich als Summe aller Messwerte geteilt durch deren Anzahl.",
+      "difficulty": 1,
+      "topic": "Statistische Methoden",
+      "subtopic": "Mittelwert"
+    },
+    {
+      "id": "ikp-135",
+      "text": "Was ist der Median?",
+      "options": [
+        "Der Durchschnittswert",
+        "Der mittlere Wert einer der Größe nach sortierten Datenreihe",
+        "Der häufigste Wert",
+        "Die Standardabweichung"
+      ],
+      "correct": 1,
+      "explanation": "Der Median teilt eine sortierte Datenreihe in zwei gleich große Hälften. Bei ungerader Anzahl ist es der mittlere Wert, bei gerader Anzahl der Mittelwert der beiden mittleren Werte.",
+      "difficulty": 1,
+      "topic": "Statistische Methoden",
+      "subtopic": "Median"
+    },
+    {
+      "id": "ikp-136",
+      "text": "Was beschreibt die Standardabweichung?",
+      "options": [
+        "Den Durchschnittswert",
+        "Die Streuung der Messwerte um den Mittelwert",
+        "Den maximalen Messwert",
+        "Die Anzahl der Messwerte"
+      ],
+      "correct": 1,
+      "explanation": "Die Standardabweichung ist ein Maß für die Streuung der Messwerte um den Mittelwert. Eine kleine Standardabweichung zeigt eng zusammenliegende Werte an.",
+      "difficulty": 2,
+      "topic": "Statistische Methoden",
+      "subtopic": "Standardabweichung"
+    },
+    {
+      "id": "ikp-137",
+      "text": "Was kennzeichnet eine Normalverteilung?",
+      "options": [
+        "Eine asymmetrische Verteilung",
+        "Eine symmetrische, glockenförmige Verteilung um den Mittelwert",
+        "Eine gleichmäßige Verteilung aller Werte",
+        "Eine Verteilung mit nur zwei Werten"
+      ],
+      "correct": 1,
+      "explanation": "Die Normalverteilung (Gaußsche Glockenkurve) ist symmetrisch um den Mittelwert. Ca. 68,3% der Werte liegen innerhalb +/- 1 Sigma, 95,4% innerhalb +/- 2 Sigma, 99,7% innerhalb +/- 3 Sigma.",
+      "difficulty": 2,
+      "topic": "Statistische Methoden",
+      "subtopic": "Normalverteilung"
+    },
+    {
+      "id": "ikp-138",
+      "text": "Was bedeutet der Prozessfähigkeitsindex cp?",
+      "options": [
+        "Die Produktionskosten",
+        "Das Verhältnis von Toleranzbreite zu Prozessstreuung (6 Sigma)",
+        "Die Kundenzufriedenheit",
+        "Die Maschinenleistung"
+      ],
+      "correct": 1,
+      "explanation": "Der cp-Wert beschreibt die potenzielle Prozessfähigkeit: cp = (obere Toleranz - untere Toleranz) / (6 * Sigma). Er setzt voraus, dass der Prozess zentriert ist.",
+      "difficulty": 3,
+      "topic": "Statistische Methoden",
+      "subtopic": "Prozessfähigkeit"
+    },
+    {
+      "id": "ikp-139",
+      "text": "Was unterscheidet cp von cpk?",
+      "options": [
+        "Es gibt keinen Unterschied",
+        "cpk berücksichtigt zusätzlich die Lage des Mittelwerts gegenüber den Toleranzgrenzen",
+        "cp berücksichtigt die Lage, cpk nicht",
+        "cpk ist immer größer als cp"
+      ],
+      "correct": 1,
+      "explanation": "cp betrachtet nur die Streuung im Verhältnis zur Toleranz. cpk berücksichtigt zusätzlich die Lage des Prozessmittelwerts. cpk ist immer kleiner oder gleich cp.",
+      "difficulty": 3,
+      "topic": "Statistische Methoden",
+      "subtopic": "Prozessfähigkeit"
+    },
+    {
+      "id": "ikp-140",
+      "text": "Ab welchem cp-Wert gilt ein Prozess als fähig?",
+      "options": [
+        "cp größer als 0,5",
+        "cp größer oder gleich 1,33",
+        "cp größer als 0,67",
+        "cp gleich 1,0"
+      ],
+      "correct": 1,
+      "explanation": "Ein cp-Wert von mindestens 1,33 wird in der Industrie als Mindestanforderung für einen fähigen Prozess angesehen. Bei Sicherheitsteilen wird oft cp >= 1,67 gefordert.",
+      "difficulty": 2,
+      "topic": "Statistische Methoden",
+      "subtopic": "Prozessfähigkeit"
+    },
+    {
+      "id": "ikp-141",
+      "text": "Was ist eine Stichprobenprüfung?",
+      "options": [
+        "Die Prüfung aller produzierten Teile",
+        "Die Prüfung einer zufällig ausgewählten Teilmenge zur Beurteilung der Gesamtheit",
+        "Die Prüfung nur des ersten Teils",
+        "Die Prüfung nur bei Reklamationen"
+      ],
+      "correct": 1,
+      "explanation": "Bei der Stichprobenprüfung wird nur eine zufällige Teilmenge geprüft und anhand der Ergebnisse auf die Qualität der gesamten Produktion geschlossen.",
+      "difficulty": 1,
+      "topic": "Statistische Methoden",
+      "subtopic": "Stichprobenprüfung"
+    },
+    {
+      "id": "ikp-142",
+      "text": "Was ist der Vorteil der Stichprobenprüfung gegenüber der 100%-Prüfung?",
+      "options": [
+        "Höhere Prüfsicherheit",
+        "Geringerer Prüfaufwand und Kosten bei akzeptablem Risiko",
+        "Keine Fehler werden übersehen",
+        "Die Prüfung ist schneller und erkennt alle Fehler"
+      ],
+      "correct": 1,
+      "explanation": "Die Stichprobenprüfung reduziert Prüfaufwand und -kosten erheblich. Das Risiko, fehlerhafte Teile nicht zu erkennen, wird durch statistische Verfahren beherrschbar gemacht.",
+      "difficulty": 1,
+      "topic": "Statistische Methoden",
+      "subtopic": "Stichprobenprüfung"
+    },
+    {
+      "id": "ikp-143",
+      "text": "Was bedeutet AQL (Acceptable Quality Level)?",
+      "options": [
+        "Die höchste akzeptable Fehlerquote",
+        "Die maximal zulässige Fehlerquote, die als akzeptabel angesehen wird und als Basis für Stichprobenpläne dient",
+        "Die Anzahl der Qualitätslabore",
+        "Der Automatisierungsgrad der Qualitätslenkung"
+      ],
+      "correct": 1,
+      "explanation": "Der AQL (Annehmbare Qualitätsgrenzlage) definiert den maximalen Prozentsatz fehlerhafter Einheiten, der als zufriedenstellend gilt. Er ist Grundlage für Stichprobenpläne nach ISO 2859.",
+      "difficulty": 3,
+      "topic": "Statistische Methoden",
+      "subtopic": "Stichprobenprüfung"
+    },
+    {
+      "id": "ikp-144",
+      "text": "Was ist die Spannweite (Range) einer Messreihe?",
+      "options": [
+        "Der Mittelwert",
+        "Die Differenz zwischen dem größten und dem kleinsten Messwert",
+        "Die Standardabweichung",
+        "Der Median"
+      ],
+      "correct": 1,
+      "explanation": "Die Spannweite (R) ist das einfachste Streuungsmaß: R = Xmax - Xmin. Sie ist leicht zu berechnen, aber empfindlich gegenüber Ausreißern.",
+      "difficulty": 1,
+      "topic": "Statistische Methoden",
+      "subtopic": "Grundlagen"
+    },
+    {
+      "id": "ikp-145",
+      "text": "Wie viel Prozent der Werte liegen bei einer Normalverteilung innerhalb von +/- 2 Sigma?",
+      "options": [
+        "68,3%",
+        "95,4%",
+        "99,7%",
+        "50%"
+      ],
+      "correct": 1,
+      "explanation": "Bei einer Normalverteilung liegen ca. 68,3% innerhalb +/- 1 Sigma, ca. 95,4% innerhalb +/- 2 Sigma und ca. 99,7% innerhalb +/- 3 Sigma um den Mittelwert.",
+      "difficulty": 2,
+      "topic": "Statistische Methoden",
+      "subtopic": "Normalverteilung"
+    },
+    {
+      "id": "ikp-146",
+      "text": "Was ist eine Attributprüfung?",
+      "options": [
+        "Eine Prüfung mit Messgeräten",
+        "Eine Prüfung, bei der nur zwischen gut und schlecht (konform/nicht konform) unterschieden wird",
+        "Eine Prüfung der Mitarbeiterqualifikation",
+        "Eine Prüfung der Maschinenattribute"
+      ],
+      "correct": 1,
+      "explanation": "Bei der Attributprüfung wird das Prüfmerkmal nur nach gut/schlecht (io/nio) beurteilt, ohne einen Messwert zu ermitteln. Im Gegensatz dazu steht die Variablenprüfung.",
+      "difficulty": 2,
+      "topic": "Statistische Methoden",
+      "subtopic": "Stichprobenprüfung"
+    },
+    {
+      "id": "ikp-147",
+      "text": "Was ist eine Variablenprüfung?",
+      "options": [
+        "Eine Prüfung mit wechselnden Prüfern",
+        "Eine Prüfung, bei der konkrete Messwerte ermittelt und ausgewertet werden",
+        "Eine Prüfung, die nur bei Bedarf durchgeführt wird",
+        "Eine Prüfung verschiedener Produkte gleichzeitig"
+      ],
+      "correct": 1,
+      "explanation": "Bei der Variablenprüfung werden konkrete Messwerte erfasst (z.B. Durchmesser in mm). Sie liefert mehr Informationen als die Attributprüfung und ermöglicht statistische Auswertungen.",
+      "difficulty": 2,
+      "topic": "Statistische Methoden",
+      "subtopic": "Stichprobenprüfung"
+    },
+    {
+      "id": "ikp-148",
+      "text": "Was versteht man unter dem Modus (Modalwert)?",
+      "options": [
+        "Den Mittelwert",
+        "Den am häufigsten vorkommenden Wert in einer Datenreihe",
+        "Den mittleren Wert",
+        "Die Standardabweichung"
+      ],
+      "correct": 1,
+      "explanation": "Der Modus ist der Wert, der in einer Datenreihe am häufigsten vorkommt. Eine Verteilung kann unimodal (ein Gipfel), bimodal (zwei Gipfel) oder multimodal sein.",
+      "difficulty": 1,
+      "topic": "Statistische Methoden",
+      "subtopic": "Grundlagen"
+    },
+    {
+      "id": "ikp-149",
+      "text": "Was ist eine Messunsicherheit?",
+      "options": [
+        "Ein defektes Messgerät",
+        "Der Bereich, innerhalb dessen der wahre Messwert mit einer bestimmten Wahrscheinlichkeit liegt",
+        "Die Unsicherheit des Prüfers",
+        "Die Toleranz des Werkstücks"
+      ],
+      "correct": 1,
+      "explanation": "Die Messunsicherheit gibt an, in welchem Bereich der wahre Wert des Messergebnisses mit einer bestimmten Wahrscheinlichkeit liegt. Sie wird bei der Prozessfähigkeitsanalyse berücksichtigt.",
+      "difficulty": 3,
+      "topic": "Statistische Methoden",
+      "subtopic": "Grundlagen"
+    },
+    {
+      "id": "ikp-150",
+      "text": "Was versteht man unter Prozessstreuung?",
+      "options": [
+        "Die Streuung der Mitarbeiterfluktuation",
+        "Die natürliche Schwankungsbreite der Messwerte eines Prozesses",
+        "Die Verteilung der Produktionsstandorte",
+        "Die Streuung der Kosten"
+      ],
+      "correct": 1,
+      "explanation": "Die Prozessstreuung beschreibt die natürliche Schwankungsbreite der Ergebnisse eines Prozesses, die durch zufällige Einflüsse entsteht. Sie wird durch die Standardabweichung quantifiziert.",
+      "difficulty": 2,
+      "topic": "Statistische Methoden",
+      "subtopic": "Prozessfähigkeit"
+    },
+    {
+      "id": "ikp-151",
+      "text": "Was ist die Aufgabe der Arbeitsvorbereitung (AV)?",
+      "options": [
+        "Nur die Bereitstellung von Werkzeugen",
+        "Die Planung und Steuerung der Produktion hinsichtlich Arbeitsabläufen, Terminen, Kapazitäten und Material",
+        "Die Einstellung neuer Mitarbeiter",
+        "Die Buchhaltung der Fertigung"
+      ],
+      "correct": 1,
+      "explanation": "Die AV umfasst Arbeitsplanung (wie wird gefertigt?) und Arbeitssteuerung (wann und wo wird gefertigt?). Sie sorgt für wirtschaftliche und termingerechte Fertigung.",
+      "difficulty": 1,
+      "topic": "Arbeitsvorbereitung",
+      "subtopic": "Grundlagen"
+    },
+    {
+      "id": "ikp-152",
+      "text": "Was ist eine Stückliste?",
+      "options": [
+        "Eine Einkaufsliste",
+        "Eine geordnete Aufstellung aller Einzelteile, Baugruppen und Rohstoffe, die für die Herstellung eines Produkts benötigt werden",
+        "Eine Inventurliste",
+        "Eine Preisliste"
+      ],
+      "correct": 1,
+      "explanation": "Die Stückliste enthält alle Komponenten eines Erzeugnisses mit Mengenangaben. Sie ist die Grundlage für Materialbedarfsplanung, Kalkulation und Fertigungssteuerung.",
+      "difficulty": 1,
+      "topic": "Arbeitsvorbereitung",
+      "subtopic": "Stücklisten"
+    },
+    {
+      "id": "ikp-153",
+      "text": "Welche Arten von Stücklisten gibt es?",
+      "options": [
+        "Nur Mengenstücklisten",
+        "Mengenübersichtsstückliste, Strukturstückliste und Baukastenstückliste",
+        "Nur alphabetische Stücklisten",
+        "Nur numerische Stücklisten"
+      ],
+      "correct": 1,
+      "explanation": "Mengenübersichtsstückliste (alle Teile aufgelistet), Strukturstückliste (zeigt alle Fertigungsstufen) und Baukastenstückliste (nur die direkt untergeordneten Teile einer Baugruppe).",
+      "difficulty": 2,
+      "topic": "Arbeitsvorbereitung",
+      "subtopic": "Stücklisten"
+    },
+    {
+      "id": "ikp-154",
+      "text": "Was ist ein Arbeitsplan?",
+      "options": [
+        "Ein Dienstplan für Mitarbeiter",
+        "Eine Beschreibung der Arbeitsfolge zur Herstellung eines Teils mit Arbeitsgängen, Maschinen und Zeiten",
+        "Ein Urlaubsplan",
+        "Ein Schichtplan"
+      ],
+      "correct": 1,
+      "explanation": "Der Arbeitsplan beschreibt die Reihenfolge der Arbeitsgänge, die einzusetzenden Betriebsmittel, die Vorgabezeiten und ggf. Werkzeuge für die Herstellung eines Teils.",
+      "difficulty": 2,
+      "topic": "Arbeitsvorbereitung",
+      "subtopic": "Arbeitspläne"
+    },
+    {
+      "id": "ikp-155",
+      "text": "Was versteht man unter Kapazitätsplanung?",
+      "options": [
+        "Die Planung der Parkplätze",
+        "Die Abstimmung von Kapazitätsbedarf und Kapazitätsangebot der Betriebsmittel und Arbeitskräfte",
+        "Die Planung der Gebäudekapazität",
+        "Die Planung des Lagerplatzes"
+      ],
+      "correct": 1,
+      "explanation": "Die Kapazitätsplanung vergleicht den Kapazitätsbedarf (aus den Aufträgen) mit dem Kapazitätsangebot (verfügbare Maschinen- und Personalkapazität) und gleicht Engpässe aus.",
+      "difficulty": 2,
+      "topic": "Arbeitsvorbereitung",
+      "subtopic": "Kapazitätsplanung"
+    },
+    {
+      "id": "ikp-156",
+      "text": "Wie wird der Kapazitätsbedarf berechnet?",
+      "options": [
+        "Durch Schätzung des Meisters",
+        "Durch Multiplikation der Auftragsmenge mit der Vorgabezeit je Einheit",
+        "Durch Division des Umsatzes durch die Mitarbeiteranzahl",
+        "Durch Addition aller Maschinenlaufzeiten"
+      ],
+      "correct": 1,
+      "explanation": "Kapazitätsbedarf = Auftragsmenge x Vorgabezeit je Einheit (+ ggf. Rüstzeiten). Er wird für jede Kapazitätsgruppe (Maschine, Arbeitsplatz) ermittelt.",
+      "difficulty": 2,
+      "topic": "Arbeitsvorbereitung",
+      "subtopic": "Kapazitätsplanung"
+    },
+    {
+      "id": "ikp-157",
+      "text": "Was ist die Durchlaufzeit eines Auftrags?",
+      "options": [
+        "Die Arbeitszeit eines Mitarbeiters",
+        "Die gesamte Zeit vom Auftragsstart bis zur Fertigstellung, einschließlich Bearbeitungs-, Rüst-, Transport-, Liege- und Wartezeiten",
+        "Nur die reine Bearbeitungszeit",
+        "Die Lieferzeit des Materials"
+      ],
+      "correct": 1,
+      "explanation": "Die Durchlaufzeit umfasst alle Zeitanteile: Rüstzeit, Bearbeitungszeit, Transportzeit, Liegezeit und Wartezeit. Die Bearbeitungszeit macht oft nur 5-10% der Durchlaufzeit aus.",
+      "difficulty": 2,
+      "topic": "Arbeitsvorbereitung",
+      "subtopic": "Terminplanung"
+    },
+    {
+      "id": "ikp-158",
+      "text": "Was versteht man unter Vorwärtsterminierung?",
+      "options": [
+        "Terminierung vom Liefertermin zurück",
+        "Terminierung vom frühestmöglichen Starttermin vorwärts zum Endtermin",
+        "Terminierung ohne Zeitvorgaben",
+        "Terminierung nur der ersten Phase"
+      ],
+      "correct": 1,
+      "explanation": "Bei der Vorwärtsterminierung wird vom frühestmöglichen Starttermin aus vorwärts gerechnet, um den frühestmöglichen Fertigstellungstermin zu ermitteln.",
+      "difficulty": 2,
+      "topic": "Arbeitsvorbereitung",
+      "subtopic": "Terminplanung"
+    },
+    {
+      "id": "ikp-159",
+      "text": "Was versteht man unter Rückwärtsterminierung?",
+      "options": [
+        "Terminierung vom Starttermin vorwärts",
+        "Terminierung vom gewünschten Endtermin (Liefertermin) zurück zum spätestmöglichen Starttermin",
+        "Terminierung in umgekehrter Reihenfolge",
+        "Nachträgliche Terminkorrektur"
+      ],
+      "correct": 1,
+      "explanation": "Bei der Rückwärtsterminierung wird vom Liefertermin zurückgerechnet, um den spätestmöglichen Starttermin zu ermitteln. Sie zeigt, wann spätestens begonnen werden muss.",
+      "difficulty": 2,
+      "topic": "Arbeitsvorbereitung",
+      "subtopic": "Terminplanung"
+    },
+    {
+      "id": "ikp-160",
+      "text": "Was ist die Brutto-Materialbedarfsplanung?",
+      "options": [
+        "Die Berechnung des Materialbedarfs ohne Berücksichtigung von Lagerbeständen",
+        "Die Berechnung des Materialbedarfs unter Berücksichtigung von Lagerbeständen",
+        "Die Berechnung nur der Rohstoffe",
+        "Die Berechnung der Verpackungsmaterialien"
+      ],
+      "correct": 0,
+      "explanation": "Der Bruttobedarf ist der Gesamtbedarf an Material ohne Berücksichtigung vorhandener Bestände. Nettobedarf = Bruttobedarf - Lagerbestand - Bestellbestand + Reservierungen.",
+      "difficulty": 2,
+      "topic": "Arbeitsvorbereitung",
+      "subtopic": "Materialbedarfsplanung"
+    },
+    {
+      "id": "ikp-161",
+      "text": "Was ist der Nettobedarf?",
+      "options": [
+        "Der Gesamtbedarf ohne Abzüge",
+        "Der Bruttobedarf abzüglich Lagerbestand und offener Bestellungen",
+        "Nur der Sicherheitsbestand",
+        "Der doppelte Bruttobedarf"
+      ],
+      "correct": 1,
+      "explanation": "Nettobedarf = Bruttobedarf - verfügbarer Lagerbestand - offene Bestellungen + Reservierungen + Sicherheitsbestand. Er zeigt die tatsächlich zu beschaffende Menge.",
+      "difficulty": 2,
+      "topic": "Arbeitsvorbereitung",
+      "subtopic": "Materialbedarfsplanung"
+    },
+    {
+      "id": "ikp-162",
+      "text": "Was unterscheidet die Mengenübersichtsstückliste von der Strukturstückliste?",
+      "options": [
+        "Nichts, beide sind identisch",
+        "Die Mengenübersichtsstückliste zeigt alle Teile in einer Ebene, die Strukturstückliste zeigt die hierarchische Gliederung mit allen Fertigungsstufen",
+        "Die Strukturstückliste enthält keine Mengenangaben",
+        "Die Mengenübersichtsstückliste ist ausführlicher"
+      ],
+      "correct": 1,
+      "explanation": "Die Mengenübersichtsstückliste listet alle Teile auf einer Ebene mit Gesamtmengen auf. Die Strukturstückliste zeigt die hierarchische Erzeugnisstruktur mit allen Fertigungsstufen.",
+      "difficulty": 2,
+      "topic": "Arbeitsvorbereitung",
+      "subtopic": "Stücklisten"
+    },
+    {
+      "id": "ikp-163",
+      "text": "Was versteht man unter Fertigungssteuerung?",
+      "options": [
+        "Die Entwicklung neuer Fertigungsverfahren",
+        "Die Veranlassung, Überwachung und Sicherung der Auftragsabwicklung in der Fertigung",
+        "Die Konstruktion von Fertigungsmaschinen",
+        "Die Qualitätsprüfung fertiger Produkte"
+      ],
+      "correct": 1,
+      "explanation": "Die Fertigungssteuerung umfasst Auftragsfreigabe, Reihenfolgeplanung, Kapazitätssteuerung und Fortschrittskontrolle. Sie setzt die Planung der AV operativ um.",
+      "difficulty": 2,
+      "topic": "Arbeitsvorbereitung",
+      "subtopic": "Fertigungssteuerung"
+    },
+    {
+      "id": "ikp-164",
+      "text": "Was ist eine Baukastenstückliste?",
+      "options": [
+        "Eine Stückliste für Spielzeug",
+        "Eine Stückliste, die nur die direkt einer Baugruppe zugehörigen Teile und Untergruppen enthält",
+        "Eine komplette Stückliste aller Ebenen",
+        "Eine Stückliste ohne Mengenangaben"
+      ],
+      "correct": 1,
+      "explanation": "Die Baukastenstückliste listet nur die Teile und Baugruppen auf, die einer Baugruppe direkt zugeordnet sind (eine Ebene). Für tiefere Ebenen gibt es eigene Baukastenstücklisten.",
+      "difficulty": 2,
+      "topic": "Arbeitsvorbereitung",
+      "subtopic": "Stücklisten"
+    },
+    {
+      "id": "ikp-165",
+      "text": "Was versteht man unter Rüstzeit?",
+      "options": [
+        "Die Arbeitszeit der Nachtschicht",
+        "Die Zeit für das Einrichten und Umrüsten einer Maschine für einen neuen Auftrag",
+        "Die Pausenzeit",
+        "Die Transportzeit"
+      ],
+      "correct": 1,
+      "explanation": "Die Rüstzeit umfasst alle Tätigkeiten zum Vorbereiten der Maschine für einen neuen Auftrag: Werkzeugwechsel, Einrichten, Probelauf. Sie ist ein wesentlicher Faktor der Durchlaufzeit.",
+      "difficulty": 1,
+      "topic": "Arbeitsvorbereitung",
+      "subtopic": "Arbeitspläne"
+    },
+    {
+      "id": "ikp-166",
+      "text": "Was ist das Ziel der Losgrößenplanung?",
+      "options": [
+        "Möglichst große Lose zu fertigen",
+        "Die wirtschaftlich optimale Fertigungsmenge zu bestimmen, die Rüstkosten und Lagerhaltungskosten minimiert",
+        "Möglichst kleine Lose zu fertigen",
+        "Die maximale Maschinenauslastung zu erreichen"
+      ],
+      "correct": 1,
+      "explanation": "Die optimale Losgröße minimiert die Summe aus Rüstkosten (sinken mit steigender Losgröße) und Lagerhaltungskosten (steigen mit steigender Losgröße).",
+      "difficulty": 2,
+      "topic": "Arbeitsvorbereitung",
+      "subtopic": "Fertigungssteuerung"
+    },
+    {
+      "id": "ikp-167",
+      "text": "Was ist die Andler-Formel?",
+      "options": [
+        "Eine Formel zur Gehaltsberechnung",
+        "Eine Formel zur Berechnung der optimalen Bestellmenge bzw. Losgröße",
+        "Eine Formel zur Berechnung der Maschinenleistung",
+        "Eine Formel zur Berechnung der Durchlaufzeit"
+      ],
+      "correct": 1,
+      "explanation": "Die Andler-Formel berechnet die optimale Bestellmenge: q = Wurzel aus (2 * Jahresbedarf * Bestellkosten) / (Einstandspreis * Lagerkostensatz). Sie minimiert die Gesamtkosten.",
+      "difficulty": 3,
+      "topic": "Arbeitsvorbereitung",
+      "subtopic": "Materialbedarfsplanung"
+    },
+    {
+      "id": "ikp-168",
+      "text": "Was versteht man unter programmgebundener Materialbedarfsermittlung?",
+      "options": [
+        "Der Bedarf wird geschätzt",
+        "Der Bedarf wird aus dem Produktionsprogramm und den Stücklisten exakt berechnet (deterministisch)",
+        "Der Bedarf wird aus Vergangenheitswerten abgeleitet",
+        "Der Bedarf wird vom Lieferanten vorgegeben"
+      ],
+      "correct": 1,
+      "explanation": "Bei der programmgebundenen (deterministischen) Bedarfsermittlung wird der Materialbedarf aus dem Produktionsprogramm und den Stücklisten exakt berechnet.",
+      "difficulty": 2,
+      "topic": "Arbeitsvorbereitung",
+      "subtopic": "Materialbedarfsplanung"
+    },
+    {
+      "id": "ikp-169",
+      "text": "Was ist eine verbrauchsgebundene Materialbedarfsermittlung?",
+      "options": [
+        "Die exakte Berechnung aus dem Produktionsprogramm",
+        "Die Bedarfsermittlung auf Basis von Vergangenheitswerten mittels statistischer Methoden (stochastisch)",
+        "Die Bedarfsermittlung durch den Kunden",
+        "Die Bedarfsermittlung durch Schätzung des Meisters"
+      ],
+      "correct": 1,
+      "explanation": "Bei der verbrauchsgebundenen (stochastischen) Bedarfsermittlung wird der zukünftige Bedarf aus Vergangenheitswerten mit statistischen Methoden prognostiziert.",
+      "difficulty": 2,
+      "topic": "Arbeitsvorbereitung",
+      "subtopic": "Materialbedarfsplanung"
+    },
+    {
+      "id": "ikp-170",
+      "text": "Was versteht man unter Kapazitätsangebot?",
+      "options": [
+        "Die Menge der bestellten Materialien",
+        "Die maximal verfügbare Leistung eines Arbeitsplatzes oder einer Maschinengruppe in einer Zeitperiode",
+        "Die Anzahl der Mitarbeiter",
+        "Die Anzahl der Fertigungsaufträge"
+      ],
+      "correct": 1,
+      "explanation": "Das Kapazitätsangebot ergibt sich aus der Anzahl der Arbeitstage, der täglichen Arbeitszeit, dem Nutzungsgrad und der Anzahl der Maschinen/Arbeitsplätze.",
+      "difficulty": 2,
+      "topic": "Arbeitsvorbereitung",
+      "subtopic": "Kapazitätsplanung"
+    },
+    {
+      "id": "ikp-171",
+      "text": "Was ist ein Kapazitätsabgleich?",
+      "options": [
+        "Die Überprüfung der Gebäudestatik",
+        "Die Anpassung von Kapazitätsbedarf und -angebot bei Über- oder Unterlast",
+        "Die Berechnung der Stromkapazität",
+        "Der Vergleich von Lagerkapazitäten"
+      ],
+      "correct": 1,
+      "explanation": "Beim Kapazitätsabgleich werden Maßnahmen ergriffen, um Kapazitätsbedarf und -angebot auszugleichen: Überstunden, Zusatzschichten, Verlagerung, Fremdvergabe oder Terminverschiebung.",
+      "difficulty": 2,
+      "topic": "Arbeitsvorbereitung",
+      "subtopic": "Kapazitätsplanung"
+    },
+    {
+      "id": "ikp-172",
+      "text": "Was enthält ein Arbeitsplan typischerweise?",
+      "options": [
+        "Nur den Maschinennamen",
+        "Arbeitsgangfolge, Arbeitsplatz/Maschine, Vorgabezeiten (Rüst- und Stückzeit), Werkzeuge und Fertigungshilfsmittel",
+        "Nur die Materialkosten",
+        "Nur die Zeichnungsnummer"
+      ],
+      "correct": 1,
+      "explanation": "Der Arbeitsplan enthält die Reihenfolge der Arbeitsgänge mit Angaben zu Arbeitsplatz, Maschine, Werkzeugen, Vorgabezeiten und ggf. Prüfanweisungen.",
+      "difficulty": 2,
+      "topic": "Arbeitsvorbereitung",
+      "subtopic": "Arbeitspläne"
+    },
+    {
+      "id": "ikp-173",
+      "text": "Was ist der Unterschied zwischen Arbeitsplanung und Arbeitssteuerung?",
+      "options": [
+        "Es gibt keinen Unterschied",
+        "Die Arbeitsplanung bestimmt das Wie (Verfahren, Abläufe), die Arbeitssteuerung das Wann und Wo (Termine, Reihenfolge)",
+        "Die Arbeitssteuerung kommt vor der Arbeitsplanung",
+        "Die Arbeitsplanung ist nur für neue Produkte zuständig"
+      ],
+      "correct": 1,
+      "explanation": "Arbeitsplanung legt fest, wie ein Produkt gefertigt wird (Verfahren, Arbeitspläne). Arbeitssteuerung legt fest, wann, wo und in welcher Reihenfolge gefertigt wird.",
+      "difficulty": 2,
+      "topic": "Arbeitsvorbereitung",
+      "subtopic": "Grundlagen"
+    },
+    {
+      "id": "ikp-174",
+      "text": "Was ist ein Fertigungsauftrag?",
+      "options": [
+        "Ein Kaufvertrag mit dem Kunden",
+        "Ein interner Auftrag zur Herstellung einer bestimmten Menge eines Produkts mit Termin- und Mengenvorgaben",
+        "Ein Reparaturauftrag",
+        "Ein Bestellvorschlag"
+      ],
+      "correct": 1,
+      "explanation": "Ein Fertigungsauftrag ist die interne Anweisung zur Produktion eines Erzeugnisses in bestimmter Menge bis zu einem bestimmten Termin auf Basis des Arbeitsplans.",
+      "difficulty": 1,
+      "topic": "Arbeitsvorbereitung",
+      "subtopic": "Fertigungssteuerung"
+    },
+    {
+      "id": "ikp-175",
+      "text": "Was versteht man unter der Liegezeit in der Durchlaufzeit?",
+      "options": [
+        "Die Ruhezeit der Mitarbeiter",
+        "Die Zeit, in der ein Werkstück auf die Weiterbearbeitung wartet, ohne dass daran gearbeitet wird",
+        "Die Maschinenlaufzeit",
+        "Die Transportzeit"
+      ],
+      "correct": 1,
+      "explanation": "Die Liegezeit ist die unproduktive Wartezeit zwischen zwei Arbeitsgängen. Sie macht oft den größten Anteil der Durchlaufzeit aus und birgt hohes Optimierungspotenzial.",
+      "difficulty": 1,
+      "topic": "Arbeitsvorbereitung",
+      "subtopic": "Terminplanung"
+    },
+    {
+      "id": "ikp-176",
+      "text": "Was ist ein Sicherheitsbestand?",
+      "options": [
+        "Der Bestand an Sicherheitsausrüstung",
+        "Ein Mindestbestand im Lager, der unvorhergesehene Bedarfsschwankungen oder Lieferverzögerungen abfangen soll",
+        "Der Maximalbestand im Lager",
+        "Der Bestand an Ersatzteilen für Maschinen"
+      ],
+      "correct": 1,
+      "explanation": "Der Sicherheitsbestand (Mindestbestand) dient als Puffer gegen unerwartete Nachfrageschwankungen oder Lieferverzögerungen und soll Produktionsstillstände verhindern.",
+      "difficulty": 1,
+      "topic": "Arbeitsvorbereitung",
+      "subtopic": "Materialbedarfsplanung"
+    },
+    {
+      "id": "ikp-177",
+      "text": "Was versteht man unter dem Bestellpunktverfahren?",
+      "options": [
+        "Bestellung zu festen Terminen",
+        "Eine Bestellung wird ausgelöst, wenn der Lagerbestand einen definierten Meldebestand (Bestellpunkt) unterschreitet",
+        "Bestellung nur am Monatsende",
+        "Bestellung nur bei Kundenwunsch"
+      ],
+      "correct": 1,
+      "explanation": "Beim Bestellpunktverfahren wird bestellt, wenn der Bestand den Meldebestand erreicht. Meldebestand = Verbrauch je Zeiteinheit * Wiederbeschaffungszeit + Sicherheitsbestand.",
+      "difficulty": 2,
+      "topic": "Arbeitsvorbereitung",
+      "subtopic": "Materialbedarfsplanung"
+    },
+    {
+      "id": "ikp-178",
+      "text": "Was ist ein Flussdiagramm in der Prozessplanung?",
+      "options": [
+        "Ein Diagramm über Wasserflüsse",
+        "Eine grafische Darstellung eines Prozessablaufs mit standardisierten Symbolen für Aktivitäten, Entscheidungen und Verbindungen",
+        "Ein Organigramm",
+        "Ein Netzplan"
+      ],
+      "correct": 1,
+      "explanation": "Das Flussdiagramm nutzt standardisierte Symbole (Rechteck = Aktivität, Raute = Entscheidung, Oval = Start/Ende) zur übersichtlichen Darstellung von Prozessabläufen.",
+      "difficulty": 1,
+      "topic": "Arbeitsvorbereitung",
+      "subtopic": "Fertigungssteuerung"
+    },
+    {
+      "id": "ikp-179",
+      "text": "Was ist die Vorgabezeit?",
+      "options": [
+        "Die tatsächlich benötigte Zeit",
+        "Die im Arbeitsplan festgelegte Soll-Zeit für die Durchführung eines Arbeitsgangs",
+        "Die Wartezeit des Kunden",
+        "Die Transportzeit"
+      ],
+      "correct": 1,
+      "explanation": "Die Vorgabezeit ist die geplante Soll-Zeit für einen Arbeitsgang. Sie umfasst Rüstzeit und Stückzeit und wird durch Zeitstudien (z.B. REFA) ermittelt.",
+      "difficulty": 2,
+      "topic": "Arbeitsvorbereitung",
+      "subtopic": "Arbeitspläne"
+    },
+    {
+      "id": "ikp-180",
+      "text": "Was versteht man unter Kanban in der Fertigungssteuerung?",
+      "options": [
+        "Eine japanische Kampfkunst",
+        "Ein Pull-basiertes Steuerungssystem mit Signalkarten, das die Produktion nach dem Verbrauchsprinzip steuert",
+        "Ein Push-System mit zentraler Steuerung",
+        "Eine Methode der Qualitätsprüfung"
+      ],
+      "correct": 1,
+      "explanation": "Kanban (japanisch: Karte/Signal) ist ein dezentrales Steuerungssystem, bei dem die verbrauchende Stelle die Nachproduktion durch Signalkarten auslöst (Pull-Prinzip).",
+      "difficulty": 2,
+      "topic": "Arbeitsvorbereitung",
+      "subtopic": "Fertigungssteuerung"
+    },
+    {
+      "id": "ikp-181",
+      "text": "Was unterscheidet das Push-Prinzip vom Pull-Prinzip in der Fertigung?",
+      "options": [
+        "Es gibt keinen Unterschied",
+        "Beim Push-Prinzip wird nach Plan produziert, beim Pull-Prinzip wird nur nach tatsächlichem Bedarf produziert",
+        "Push ist schneller als Pull",
+        "Pull erzeugt mehr Lagerbestände als Push"
+      ],
+      "correct": 1,
+      "explanation": "Push: Produktion wird zentral geplant und durch den Plan ausgelöst. Pull: Produktion wird durch den tatsächlichen Verbrauch der nachfolgenden Stufe ausgelöst (z.B. Kanban).",
+      "difficulty": 2,
+      "topic": "Arbeitsvorbereitung",
+      "subtopic": "Fertigungssteuerung"
+    },
+    {
+      "id": "ikp-182",
+      "text": "Was ist ein Engpass in der Kapazitätsplanung?",
+      "options": [
+        "Ein schmaler Flur in der Fabrik",
+        "Eine Kapazitätsgruppe, deren Bedarf das Angebot übersteigt und die den Durchsatz begrenzt",
+        "Ein Lagerplatz für kleine Teile",
+        "Eine Maschine mit geringem Stromverbrauch"
+      ],
+      "correct": 1,
+      "explanation": "Ein Engpass (Bottleneck) ist die Ressource, die die Gesamtleistung des Systems begrenzt. Die Optimierung des Engpasses hat die größte Wirkung auf den Gesamtdurchsatz.",
+      "difficulty": 2,
+      "topic": "Arbeitsvorbereitung",
+      "subtopic": "Kapazitätsplanung"
+    },
+    {
+      "id": "ikp-183",
+      "text": "Welche Maßnahmen können bei Kapazitätsüberlast ergriffen werden?",
+      "options": [
+        "Nur Mitarbeiter entlassen",
+        "Überstunden, Zusatzschichten, Fremdvergabe, Terminverschiebung oder Kapazitätserweiterung",
+        "Nur die Aufträge ablehnen",
+        "Die Qualität senken"
+      ],
+      "correct": 1,
+      "explanation": "Bei Überbelastung kommen verschiedene Maßnahmen in Frage: Überstunden, Sonderschichten, Leiharbeit, Fremdvergabe, Terminverschiebung, Priorisierung oder langfristig Kapazitätserweiterung.",
+      "difficulty": 1,
+      "topic": "Arbeitsvorbereitung",
+      "subtopic": "Kapazitätsplanung"
+    },
+    {
+      "id": "ikp-184",
+      "text": "Was versteht man unter der Auftragszeit nach REFA?",
+      "options": [
+        "Nur die Maschinenzeit",
+        "Die Summe aus Rüstzeit und Ausführungszeit, die für die Erledigung eines Auftrags benötigt wird",
+        "Nur die Transportzeit",
+        "Die Wartezeit bis zur Auftragsannahme"
+      ],
+      "correct": 1,
+      "explanation": "Die Auftragszeit nach REFA gliedert sich in Rüstzeit (tr) und Ausführungszeit (ta). Die Ausführungszeit besteht aus Stückzeit mal Stückzahl.",
+      "difficulty": 2,
+      "topic": "Arbeitsvorbereitung",
+      "subtopic": "Arbeitspläne"
+    },
+    {
+      "id": "ikp-185",
+      "text": "Was ist eine Prioritätsregel in der Fertigungssteuerung?",
+      "options": [
+        "Die Regel, dass der Chef immer Vorrang hat",
+        "Eine Regel zur Festlegung der Bearbeitungsreihenfolge von Aufträgen an einem Arbeitsplatz",
+        "Eine Sicherheitsvorschrift",
+        "Eine Qualitätsrichtlinie"
+      ],
+      "correct": 1,
+      "explanation": "Prioritätsregeln bestimmen die Reihenfolge, in der wartende Aufträge abgearbeitet werden: z.B. FIFO (First In First Out), kürzeste Operationszeit, frühester Liefertermin.",
+      "difficulty": 2,
+      "topic": "Arbeitsvorbereitung",
+      "subtopic": "Fertigungssteuerung"
+    },
+    {
+      "id": "ikp-186",
+      "text": "Was besagt die FIFO-Regel?",
+      "options": [
+        "Der teuerste Auftrag wird zuerst bearbeitet",
+        "Der zuerst eingetroffene Auftrag wird zuerst bearbeitet (First In First Out)",
+        "Der kürzeste Auftrag wird zuerst bearbeitet",
+        "Der Auftrag mit dem größten Gewinn wird zuerst bearbeitet"
+      ],
+      "correct": 1,
+      "explanation": "FIFO (First In First Out) bedeutet, dass Aufträge in der Reihenfolge ihres Eintreffens bearbeitet werden. Es ist die einfachste und fairste Prioritätsregel.",
+      "difficulty": 1,
+      "topic": "Arbeitsvorbereitung",
+      "subtopic": "Fertigungssteuerung"
+    },
+    {
+      "id": "ikp-187",
+      "text": "Was versteht man unter Just-in-Time (JIT)?",
+      "options": [
+        "Produktion auf Vorrat",
+        "Ein Konzept, bei dem Material und Teile genau zum benötigten Zeitpunkt in der richtigen Menge am richtigen Ort bereitgestellt werden",
+        "Lieferung nur einmal im Jahr",
+        "Produktion nur auf Bestellung"
+      ],
+      "correct": 1,
+      "explanation": "JIT zielt auf die bestandsarme Produktion ab, bei der Material genau dann angeliefert wird, wenn es gebraucht wird. Es reduziert Lagerbestände und Durchlaufzeiten.",
+      "difficulty": 1,
+      "topic": "Arbeitsvorbereitung",
+      "subtopic": "Fertigungssteuerung"
+    },
+    {
+      "id": "ikp-188",
+      "text": "Was ist eine Terminliste?",
+      "options": [
+        "Eine Liste aller Feiertage",
+        "Eine chronologische Aufstellung aller Aufträge mit Start- und Endterminen der Arbeitsgänge",
+        "Eine Liste der Arzttermine",
+        "Eine Liste der Besprechungstermine"
+      ],
+      "correct": 1,
+      "explanation": "Die Terminliste zeigt für jeden Fertigungsauftrag die geplanten Start- und Endtermine der einzelnen Arbeitsgänge und dient der Überwachung der Termineinhaltung.",
+      "difficulty": 1,
+      "topic": "Arbeitsvorbereitung",
+      "subtopic": "Terminplanung"
+    },
+    {
+      "id": "ikp-189",
+      "text": "Was versteht man unter Kapazitätsbelastungsausgleich?",
+      "options": [
+        "Die gleichmäßige Verteilung des Gewichts auf einer Maschine",
+        "Die zeitliche Verschiebung von Aufträgen, um Kapazitätsspitzen zu glätten und eine gleichmäßige Auslastung zu erreichen",
+        "Die Verteilung von Mitarbeitern auf Abteilungen",
+        "Die Berechnung der Maschinenlast"
+      ],
+      "correct": 1,
+      "explanation": "Der Kapazitätsbelastungsausgleich verschiebt Aufträge innerhalb ihrer Pufferzeiten, um Überlastungsspitzen zu glätten und eine gleichmäßigere Ressourcenauslastung zu erreichen.",
+      "difficulty": 2,
+      "topic": "Arbeitsvorbereitung",
+      "subtopic": "Kapazitätsplanung"
+    },
+    {
+      "id": "ikp-190",
+      "text": "Was versteht man unter dem Nutzungsgrad einer Maschine?",
+      "options": [
+        "Den Kaufpreis der Maschine",
+        "Das Verhältnis von tatsächlicher Nutzungszeit zur theoretisch verfügbaren Zeit",
+        "Die Energieeffizienz",
+        "Die Anzahl der produzierten Teile"
+      ],
+      "correct": 1,
+      "explanation": "Der Nutzungsgrad ist das Verhältnis der tatsächlichen Hauptnutzungszeit zur geplanten Belegungszeit. Er berücksichtigt Störungen, Wartung und organisatorische Ausfälle.",
+      "difficulty": 2,
+      "topic": "Arbeitsvorbereitung",
+      "subtopic": "Kapazitätsplanung"
+    },
+    {
+      "id": "ikp-191",
+      "text": "Was ist ein Korrelationsdiagramm in der Qualitätssicherung?",
+      "options": [
+        "Ein Organigramm",
+        "Ein Streudiagramm, das den Zusammenhang zwischen zwei Merkmalen grafisch darstellt",
+        "Ein Balkendiagramm",
+        "Ein Flussdiagramm"
+      ],
+      "correct": 1,
+      "explanation": "Das Korrelationsdiagramm (Streudiagramm) stellt Wertepaare zweier Merkmale als Punkte dar. Die Punktwolke zeigt, ob ein positiver, negativer oder kein Zusammenhang besteht.",
+      "difficulty": 2,
+      "topic": "Qualitätsmanagement",
+      "subtopic": "Qualitätswerkzeuge"
+    },
+    {
+      "id": "ikp-192",
+      "text": "Was ist Six Sigma?",
+      "options": [
+        "Eine Methode mit genau sechs Schritten",
+        "Eine Qualitätsmanagement-Methodik, die auf statistische Prozesskontrolle setzt und maximal 3,4 Fehler pro Million Möglichkeiten anstrebt",
+        "Ein Teambuilding-Konzept mit sechs Mitgliedern",
+        "Eine Sicherheitsnorm"
+      ],
+      "correct": 1,
+      "explanation": "Six Sigma strebt eine Prozessfähigkeit von 6 Sigma an, was maximal 3,4 DPMO (Defects Per Million Opportunities) entspricht. Die DMAIC-Methodik wird zur Verbesserung genutzt.",
+      "difficulty": 3,
+      "topic": "Qualitätsmanagement",
+      "subtopic": "Grundlagen"
+    },
+    {
+      "id": "ikp-193",
+      "text": "Was bedeutet DMAIC im Six-Sigma-Kontext?",
+      "options": [
+        "Design, Model, Analyze, Improve, Control",
+        "Define, Measure, Analyze, Improve, Control",
+        "Develop, Maintain, Apply, Inspect, Correct",
+        "Define, Monitor, Adjust, Implement, Check"
+      ],
+      "correct": 1,
+      "explanation": "DMAIC ist die Vorgehensmethodik von Six Sigma: Define (Problem definieren), Measure (Messen), Analyze (Analysieren), Improve (Verbessern), Control (Steuern/Absichern).",
+      "difficulty": 3,
+      "topic": "Qualitätsmanagement",
+      "subtopic": "Grundlagen"
+    },
+    {
+      "id": "ikp-194",
+      "text": "Was ist ein Affinitätsdiagramm?",
+      "options": [
+        "Ein Verwandtschaftsdiagramm",
+        "Eine Methode zur Gruppierung von Ideen nach inhaltlicher Zusammengehörigkeit",
+        "Ein Schaltplan",
+        "Ein Organigramm"
+      ],
+      "correct": 1,
+      "explanation": "Das Affinitätsdiagramm (KJ-Methode) gruppiert eine große Menge von Ideen oder Problemen nach ihrer natürlichen Zusammengehörigkeit in Cluster.",
+      "difficulty": 2,
+      "topic": "Planungsmethoden",
+      "subtopic": "Kreativitätstechniken"
+    },
+    {
+      "id": "ikp-195",
+      "text": "Was versteht man unter einem Benchmarking?",
+      "options": [
+        "Die Bewertung einer Parkbank",
+        "Der systematische Vergleich eigener Prozesse und Leistungen mit den Besten der Branche oder Klasse",
+        "Die Prüfung von Laborgeräten",
+        "Die Bewertung von Mitarbeitern"
+      ],
+      "correct": 1,
+      "explanation": "Benchmarking ist der systematische Vergleich von Produkten, Dienstleistungen und Prozessen mit den besten Unternehmen, um Verbesserungspotenziale zu identifizieren.",
+      "difficulty": 2,
+      "topic": "Planungsmethoden",
+      "subtopic": "Analysemethoden"
+    },
+    {
+      "id": "ikp-196",
+      "text": "Was ist eine Portfolioanalyse?",
+      "options": [
+        "Eine Fotosammlung",
+        "Eine strategische Methode zur Positionierung von Produkten in einer Matrix nach zwei Dimensionen",
+        "Eine Kostenrechnung",
+        "Eine Personalplanung"
+      ],
+      "correct": 1,
+      "explanation": "Die Portfolioanalyse (z.B. BCG-Matrix) positioniert Produkte in einer Matrix z.B. nach Marktwachstum und Marktanteil und leitet Normstrategien ab (Stars, Cash Cows, etc.).",
+      "difficulty": 2,
+      "topic": "Planungsmethoden",
+      "subtopic": "Analysemethoden"
+    },
+    {
+      "id": "ikp-197",
+      "text": "Was ist ein Netzdiagramm (Radardiagramm)?",
+      "options": [
+        "Ein Diagramm für Computernetzwerke",
+        "Eine Darstellung, die mehrere Merkmale gleichzeitig auf Achsen vom Mittelpunkt aus visualisiert",
+        "Ein Netzplan",
+        "Ein Organigramm"
+      ],
+      "correct": 1,
+      "explanation": "Das Netzdiagramm (Radar-/Spinnendiagramm) stellt mehrere quantitative Variablen auf Achsen dar, die vom gleichen Punkt ausgehen. Es eignet sich gut für Stärken-Schwächen-Profile.",
+      "difficulty": 2,
+      "topic": "Betriebliche Kommunikation",
+      "subtopic": "Visualisierungstechniken"
+    },
+    {
+      "id": "ikp-198",
+      "text": "Was ist der Unterschied zwischen Primärbedarf und Sekundärbedarf?",
+      "options": [
+        "Es gibt keinen Unterschied",
+        "Primärbedarf ist der Bedarf an Enderzeugnissen, Sekundärbedarf der daraus abgeleitete Bedarf an Baugruppen, Einzelteilen und Rohstoffen",
+        "Primärbedarf ist wichtiger als Sekundärbedarf",
+        "Sekundärbedarf wird immer geschätzt"
+      ],
+      "correct": 1,
+      "explanation": "Primärbedarf = Bedarf an verkaufsfähigen Endprodukten. Sekundärbedarf = daraus abgeleiteter Bedarf an Baugruppen, Einzelteilen und Rohstoffen (mittels Stücklisten). Tertiärbedarf = Hilfs-/Betriebsstoffe.",
+      "difficulty": 2,
+      "topic": "Arbeitsvorbereitung",
+      "subtopic": "Materialbedarfsplanung"
+    },
+    {
+      "id": "ikp-199",
+      "text": "Was versteht man unter einem Spaghetti-Diagramm?",
+      "options": [
+        "Ein Diagramm über Lebensmittelproduktion",
+        "Eine Darstellung der tatsächlichen Bewegungswege von Material oder Personen in einem Layout zur Identifikation von Verschwendung",
+        "Ein Organigramm mit vielen Verbindungen",
+        "Ein Netzplan mit vielen Vorgängen"
+      ],
+      "correct": 1,
+      "explanation": "Das Spaghetti-Diagramm zeichnet die tatsächlichen Wege auf einem Grundriss nach. Die oft chaotisch wirkenden Linien zeigen unnötige Wege und Optimierungspotenziale auf.",
+      "difficulty": 2,
+      "topic": "Arbeitsvorbereitung",
+      "subtopic": "Fertigungssteuerung"
+    },
+    {
+      "id": "ikp-200",
+      "text": "Was ist der Unterschied zwischen Belastungsprofil und Kapazitätsprofil?",
+      "options": [
+        "Es gibt keinen Unterschied",
+        "Das Belastungsprofil zeigt den Kapazitätsbedarf über die Zeit, das Kapazitätsprofil das verfügbare Kapazitätsangebot",
+        "Das Kapazitätsprofil zeigt immer mehr als das Belastungsprofil",
+        "Beide zeigen nur die Kosten"
+      ],
+      "correct": 1,
+      "explanation": "Das Belastungsprofil stellt den zeitlichen Verlauf des Kapazitätsbedarfs dar. Das Kapazitätsprofil zeigt das verfügbare Angebot. Deren Überlagerung zeigt Über- und Unterlast.",
+      "difficulty": 2,
+      "topic": "Arbeitsvorbereitung",
+      "subtopic": "Kapazitätsplanung"
+    }
+  ]
+}

@@ -1,0 +1,3006 @@
+{
+  "subject": "ntg",
+  "title": "Naturwissenschaftliche und technische Gesetzmäßigkeiten",
+  "questions": [
+    {
+      "id": "ntg-001",
+      "text": "Einheit der Kraft?",
+      "options": [
+        "Watt",
+        "Joule",
+        "Newton",
+        "Pascal"
+      ],
+      "correct": 2,
+      "explanation": "Kraft wird in Newton (N) gemessen. 1 N = 1 kg·m/s².",
+      "difficulty": 1,
+      "topic": "Mechanik",
+      "subtopic": "Kräfte"
+    },
+    {
+      "id": "ntg-002",
+      "text": "Formel für Arbeit?",
+      "options": [
+        "W = F × s",
+        "W = m × g",
+        "W = P × t",
+        "W = F / s"
+      ],
+      "correct": 0,
+      "explanation": "Arbeit = Kraft × Weg (W = F·s). Einheit: Joule (J).",
+      "difficulty": 1,
+      "topic": "Mechanik",
+      "subtopic": "Arbeit"
+    },
+    {
+      "id": "ntg-003",
+      "text": "Newtons 1. Gesetz?",
+      "options": [
+        "F = m·a",
+        "Körper bleibt in Ruhe oder gleichförmiger Bewegung ohne Kraft",
+        "Actio = Reactio",
+        "Schwere fallen schneller"
+      ],
+      "correct": 1,
+      "explanation": "Trägheitsgesetz: Körper verharrt in Ruhe oder gleichförmiger Bewegung ohne äußere Kraft.",
+      "difficulty": 1,
+      "topic": "Mechanik",
+      "subtopic": "Newton"
+    },
+    {
+      "id": "ntg-004",
+      "text": "Newtons 2. Gesetz?",
+      "options": [
+        "F = m·v",
+        "F = m·a",
+        "F = m·g·h",
+        "F = m/t"
+      ],
+      "correct": 1,
+      "explanation": "F = m·a. Beschleunigung ist proportional zur Kraft, umgekehrt proportional zur Masse.",
+      "difficulty": 1,
+      "topic": "Mechanik",
+      "subtopic": "Newton"
+    },
+    {
+      "id": "ntg-005",
+      "text": "Newtons 3. Gesetz?",
+      "options": [
+        "F = m·a",
+        "Actio = Reactio",
+        "Trägheitsgesetz",
+        "Energieerhaltung"
+      ],
+      "correct": 1,
+      "explanation": "Zu jeder Kraft gibt es eine gleich große, entgegengesetzte Gegenkraft.",
+      "difficulty": 1,
+      "topic": "Mechanik",
+      "subtopic": "Newton"
+    },
+    {
+      "id": "ntg-006",
+      "text": "Was ist ein Drehmoment?",
+      "options": [
+        "M = F × l",
+        "M = m × v",
+        "M = P × t",
+        "M = F / A"
+      ],
+      "correct": 0,
+      "explanation": "Drehmoment M = F × l (Kraft mal Hebelarm). Einheit: Nm.",
+      "difficulty": 1,
+      "topic": "Mechanik",
+      "subtopic": "Drehmoment"
+    },
+    {
+      "id": "ntg-007",
+      "text": "Hebelgesetz?",
+      "options": [
+        "F₁×l₁ = F₂×l₂",
+        "F = m·a",
+        "P = F·v",
+        "W = F·s"
+      ],
+      "correct": 0,
+      "explanation": "F₁×l₁ = F₂×l₂. Gleichgewicht wenn Drehmomente gleich.",
+      "difficulty": 1,
+      "topic": "Mechanik",
+      "subtopic": "Hebel"
+    },
+    {
+      "id": "ntg-008",
+      "text": "Hebel: Kraftarm 2m, Lastarm 0.5m, Last 400N. Kraft?",
+      "options": [
+        "200 N",
+        "100 N",
+        "800 N",
+        "50 N"
+      ],
+      "correct": 1,
+      "explanation": "F₁ = F₂×l₂/l₁ = 400×0.5/2 = 100 N.",
+      "difficulty": 2,
+      "topic": "Mechanik",
+      "subtopic": "Hebel"
+    },
+    {
+      "id": "ntg-009",
+      "text": "Was ist der Wirkungsgrad?",
+      "options": [
+        "Zugeführte/Nutz",
+        "Nutzleistung/zugeführte Leistung × 100%",
+        "Arbeit/Zeit",
+        "F × v"
+      ],
+      "correct": 1,
+      "explanation": "η = Pnutz/Pzu × 100%. Immer < 100% wegen Verlusten.",
+      "difficulty": 1,
+      "topic": "Mechanik",
+      "subtopic": "Wirkungsgrad"
+    },
+    {
+      "id": "ntg-010",
+      "text": "Einheit der Leistung?",
+      "options": [
+        "Joule",
+        "Newton",
+        "Watt",
+        "Pascal"
+      ],
+      "correct": 2,
+      "explanation": "Leistung in Watt (W). 1 W = 1 J/s. P = W/t.",
+      "difficulty": 1,
+      "topic": "Mechanik",
+      "subtopic": "Leistung"
+    },
+    {
+      "id": "ntg-011",
+      "text": "Druckformel?",
+      "options": [
+        "p = F×A",
+        "p = F/A",
+        "p = m×g",
+        "p = V×ρ"
+      ],
+      "correct": 1,
+      "explanation": "p = F/A. Einheit: Pascal (Pa) = N/m².",
+      "difficulty": 1,
+      "topic": "Mechanik",
+      "subtopic": "Druck"
+    },
+    {
+      "id": "ntg-012",
+      "text": "Hydrostatischer Druck?",
+      "options": [
+        "p = ρ·g·h",
+        "p = F/A",
+        "p = m·v",
+        "p = P/t"
+      ],
+      "correct": 0,
+      "explanation": "p = ρ·g·h. Unabhängig von Gefäßform.",
+      "difficulty": 2,
+      "topic": "Mechanik",
+      "subtopic": "Druck"
+    },
+    {
+      "id": "ntg-013",
+      "text": "Flaschenzug 4 Seile, 800N Last. Kraft?",
+      "options": [
+        "800 N",
+        "400 N",
+        "200 N",
+        "100 N"
+      ],
+      "correct": 2,
+      "explanation": "F = Last/n = 800/4 = 200 N.",
+      "difficulty": 1,
+      "topic": "Mechanik",
+      "subtopic": "Flaschenzug"
+    },
+    {
+      "id": "ntg-014",
+      "text": "Was ist die schiefe Ebene?",
+      "options": [
+        "Horizontale Fläche",
+        "Geneigte Fläche, spart Kraft, verlängert Weg",
+        "Vertikale Wand",
+        "Hebeltyp"
+      ],
+      "correct": 1,
+      "explanation": "FH = m·g·sin(α). Flacherer Winkel = weniger Kraft, mehr Weg.",
+      "difficulty": 1,
+      "topic": "Mechanik",
+      "subtopic": "Schiefe Ebene"
+    },
+    {
+      "id": "ntg-015",
+      "text": "Reibungskraft-Formel?",
+      "options": [
+        "FR = μ×FN",
+        "FR = m×a",
+        "FR = F×s",
+        "FR = p×A"
+      ],
+      "correct": 0,
+      "explanation": "FR = μ×FN. Haftreibung > Gleitreibung > Rollreibung.",
+      "difficulty": 1,
+      "topic": "Mechanik",
+      "subtopic": "Reibung"
+    },
+    {
+      "id": "ntg-016",
+      "text": "Was ist Impuls?",
+      "options": [
+        "p = m·a",
+        "p = m·v",
+        "p = F·t",
+        "p = W/t"
+      ],
+      "correct": 1,
+      "explanation": "Impuls p = m·v (Masse mal Geschwindigkeit). Einheit: kg·m/s.",
+      "difficulty": 2,
+      "topic": "Mechanik",
+      "subtopic": "Impuls"
+    },
+    {
+      "id": "ntg-017",
+      "text": "Gleichförmige Bewegung: v = ?",
+      "options": [
+        "s/t",
+        "a·t",
+        "F/m",
+        "m·a"
+      ],
+      "correct": 0,
+      "explanation": "v = s/t (Weg/Zeit). Geschwindigkeit ist konstant.",
+      "difficulty": 1,
+      "topic": "Mechanik",
+      "subtopic": "Bewegung"
+    },
+    {
+      "id": "ntg-018",
+      "text": "Beschleunigte Bewegung: s = ?",
+      "options": [
+        "v·t",
+        "½·a·t²",
+        "F·s",
+        "P·t"
+      ],
+      "correct": 1,
+      "explanation": "s = ½·a·t² (bei Start aus Ruhe). Weg wächst quadratisch mit Zeit.",
+      "difficulty": 2,
+      "topic": "Mechanik",
+      "subtopic": "Bewegung"
+    },
+    {
+      "id": "ntg-019",
+      "text": "Maschine: 2000W Nutzleistung, 80% Wirkungsgrad. Zugeführte Leistung?",
+      "options": [
+        "1600 W",
+        "2000 W",
+        "2500 W",
+        "4000 W"
+      ],
+      "correct": 2,
+      "explanation": "Pzu = Pnutz/η = 2000/0.8 = 2500 W.",
+      "difficulty": 2,
+      "topic": "Mechanik",
+      "subtopic": "Wirkungsgrad"
+    },
+    {
+      "id": "ntg-020",
+      "text": "Was ist potentielle Energie?",
+      "options": [
+        "Epot = m·v²/2",
+        "Epot = m·g·h",
+        "Epot = F·s",
+        "Epot = P·t"
+      ],
+      "correct": 1,
+      "explanation": "Potentielle (Lage-)Energie Epot = m·g·h.",
+      "difficulty": 1,
+      "topic": "Mechanik",
+      "subtopic": "Energie"
+    },
+    {
+      "id": "ntg-021",
+      "text": "Was ist kinetische Energie?",
+      "options": [
+        "Ekin = m·g·h",
+        "Ekin = ½·m·v²",
+        "Ekin = F·s",
+        "Ekin = P·t"
+      ],
+      "correct": 1,
+      "explanation": "Kinetische (Bewegungs-)Energie Ekin = ½·m·v².",
+      "difficulty": 1,
+      "topic": "Mechanik",
+      "subtopic": "Energie"
+    },
+    {
+      "id": "ntg-022",
+      "text": "Energieerhaltungssatz?",
+      "options": [
+        "Energie geht verloren",
+        "Energie kann nicht erzeugt oder vernichtet, nur umgewandelt werden",
+        "Energie nimmt immer zu",
+        "Nur in geschlossenen Systemen"
+      ],
+      "correct": 1,
+      "explanation": "In einem abgeschlossenen System bleibt die Gesamtenergie konstant.",
+      "difficulty": 1,
+      "topic": "Mechanik",
+      "subtopic": "Energieerhaltung"
+    },
+    {
+      "id": "ntg-023",
+      "text": "1 kWh = ? Joule",
+      "options": [
+        "1000 J",
+        "3600 J",
+        "3.600.000 J",
+        "100.000 J"
+      ],
+      "correct": 2,
+      "explanation": "1 kWh = 1000W × 3600s = 3.600.000 J = 3,6 MJ.",
+      "difficulty": 2,
+      "topic": "Mechanik",
+      "subtopic": "Energie"
+    },
+    {
+      "id": "ntg-024",
+      "text": "Körper 50kg wird 3m gehoben. Arbeit? (g=10)",
+      "options": [
+        "150 J",
+        "500 J",
+        "1500 J",
+        "5000 J"
+      ],
+      "correct": 2,
+      "explanation": "W = m·g·h = 50×10×3 = 1500 J.",
+      "difficulty": 1,
+      "topic": "Mechanik",
+      "subtopic": "Arbeit"
+    },
+    {
+      "id": "ntg-025",
+      "text": "Was ist Leistung?",
+      "options": [
+        "Kraft mal Weg",
+        "Arbeit pro Zeiteinheit",
+        "Masse mal Beschleunigung",
+        "Druck mal Fläche"
+      ],
+      "correct": 1,
+      "explanation": "P = W/t. Auch: P = F·v.",
+      "difficulty": 1,
+      "topic": "Mechanik",
+      "subtopic": "Leistung"
+    },
+    {
+      "id": "ntg-026",
+      "text": "Ohmsches Gesetz?",
+      "options": [
+        "U = R·I",
+        "U = P·I",
+        "U = R/I",
+        "U = I/R"
+      ],
+      "correct": 0,
+      "explanation": "U = R·I. R = U/I, I = U/R.",
+      "difficulty": 1,
+      "topic": "Elektrotechnik",
+      "subtopic": "Ohmsches Gesetz"
+    },
+    {
+      "id": "ntg-027",
+      "text": "Einheit des Widerstands?",
+      "options": [
+        "Ampere",
+        "Volt",
+        "Ohm",
+        "Watt"
+      ],
+      "correct": 2,
+      "explanation": "Widerstand in Ohm (Ω). 1 Ω = 1 V/A.",
+      "difficulty": 1,
+      "topic": "Elektrotechnik",
+      "subtopic": "Grundlagen"
+    },
+    {
+      "id": "ntg-028",
+      "text": "Reihenschaltung: Rges = ?",
+      "options": [
+        "R₁×R₂",
+        "R₁+R₂+...",
+        "1/(1/R₁+1/R₂)",
+        "R₁-R₂"
+      ],
+      "correct": 1,
+      "explanation": "Rges = R₁+R₂+... Widerstände addieren sich.",
+      "difficulty": 1,
+      "topic": "Elektrotechnik",
+      "subtopic": "Reihenschaltung"
+    },
+    {
+      "id": "ntg-029",
+      "text": "Parallelschaltung: Rges = ?",
+      "options": [
+        "R₁+R₂",
+        "R₁×R₂",
+        "1/Rges = 1/R₁+1/R₂+...",
+        "R₁/R₂"
+      ],
+      "correct": 2,
+      "explanation": "1/Rges = 1/R₁+1/R₂+... Rges < kleinster Einzelwiderstand.",
+      "difficulty": 2,
+      "topic": "Elektrotechnik",
+      "subtopic": "Parallelschaltung"
+    },
+    {
+      "id": "ntg-030",
+      "text": "Elektrische Leistung?",
+      "options": [
+        "P = U·I",
+        "P = U/I",
+        "P = R·I",
+        "P = U·R"
+      ],
+      "correct": 0,
+      "explanation": "P = U·I. Auch: P = U²/R = I²·R.",
+      "difficulty": 1,
+      "topic": "Elektrotechnik",
+      "subtopic": "Leistung"
+    },
+    {
+      "id": "ntg-031",
+      "text": "10Ω und 20Ω in Reihe: Rges?",
+      "options": [
+        "5 Ω",
+        "15 Ω",
+        "30 Ω",
+        "200 Ω"
+      ],
+      "correct": 2,
+      "explanation": "Rges = 10+20 = 30 Ω.",
+      "difficulty": 1,
+      "topic": "Elektrotechnik",
+      "subtopic": "Reihenschaltung"
+    },
+    {
+      "id": "ntg-032",
+      "text": "Kirchhoffsche Knotenregel?",
+      "options": [
+        "ΣU = 0",
+        "ΣI = 0 an einem Knoten",
+        "R steigt mit T",
+        "P = U·I"
+      ],
+      "correct": 1,
+      "explanation": "1. Kirchhoff: Summe aller Ströme an einem Knoten = 0.",
+      "difficulty": 2,
+      "topic": "Elektrotechnik",
+      "subtopic": "Kirchhoff"
+    },
+    {
+      "id": "ntg-033",
+      "text": "Kirchhoffsche Maschenregel?",
+      "options": [
+        "ΣI = 0",
+        "ΣU in Masche = 0",
+        "R = U/I",
+        "P = U·I"
+      ],
+      "correct": 1,
+      "explanation": "2. Kirchhoff: Summe aller Spannungen in geschlossener Masche = 0.",
+      "difficulty": 2,
+      "topic": "Elektrotechnik",
+      "subtopic": "Kirchhoff"
+    },
+    {
+      "id": "ntg-034",
+      "text": "Was ist Wechselstrom?",
+      "options": [
+        "Ändert periodisch Richtung",
+        "Fließt nur in eine Richtung",
+        "Strom ohne Spannung",
+        "Aus Batterien"
+      ],
+      "correct": 0,
+      "explanation": "AC ändert periodisch Richtung und Betrag. Europa: 50 Hz, 230 V.",
+      "difficulty": 1,
+      "topic": "Elektrotechnik",
+      "subtopic": "Wechselstrom"
+    },
+    {
+      "id": "ntg-035",
+      "text": "Netzfrequenz Europa?",
+      "options": [
+        "60 Hz",
+        "50 Hz",
+        "100 Hz",
+        "25 Hz"
+      ],
+      "correct": 1,
+      "explanation": "Europäisches Netz: 50 Hz. USA: 60 Hz.",
+      "difficulty": 1,
+      "topic": "Elektrotechnik",
+      "subtopic": "Wechselstrom"
+    },
+    {
+      "id": "ntg-036",
+      "text": "Transformator-Formel?",
+      "options": [
+        "U₁/U₂ = N₁/N₂",
+        "U₁/U₂ = N₂/N₁",
+        "U = R·I",
+        "P = U·I"
+      ],
+      "correct": 0,
+      "explanation": "U₁/U₂ = N₁/N₂ (Spannungsverhältnis = Windungsverhältnis).",
+      "difficulty": 2,
+      "topic": "Elektrotechnik",
+      "subtopic": "Transformator"
+    },
+    {
+      "id": "ntg-037",
+      "text": "Trafo: 230V Primär, N₁=1000, N₂=100. Sekundärspannung?",
+      "options": [
+        "2300 V",
+        "230 V",
+        "23 V",
+        "2,3 V"
+      ],
+      "correct": 2,
+      "explanation": "U₂ = U₁×N₂/N₁ = 230×100/1000 = 23 V.",
+      "difficulty": 2,
+      "topic": "Elektrotechnik",
+      "subtopic": "Transformator"
+    },
+    {
+      "id": "ntg-038",
+      "text": "Was ist Drehstrom?",
+      "options": [
+        "Einphasiger Wechselstrom",
+        "Dreiphasiger Wechselstrom mit 120° Phasenverschiebung",
+        "Gleichstrom",
+        "Hochfrequenzstrom"
+      ],
+      "correct": 1,
+      "explanation": "Drehstrom: 3 Wechselspannungen mit 120° Phasenverschiebung. Verkettete Spannung: 400V.",
+      "difficulty": 2,
+      "topic": "Elektrotechnik",
+      "subtopic": "Drehstrom"
+    },
+    {
+      "id": "ntg-039",
+      "text": "Leitungswiderstand: R = ?",
+      "options": [
+        "R = ρ·l/A",
+        "R = U/I",
+        "R = P/I²",
+        "R = U²/P"
+      ],
+      "correct": 0,
+      "explanation": "R = ρ·l/A (spez. Widerstand × Länge / Querschnitt).",
+      "difficulty": 2,
+      "topic": "Elektrotechnik",
+      "subtopic": "Leitungswiderstand"
+    },
+    {
+      "id": "ntg-040",
+      "text": "12Ω und 12Ω parallel: Rges?",
+      "options": [
+        "24 Ω",
+        "12 Ω",
+        "6 Ω",
+        "144 Ω"
+      ],
+      "correct": 2,
+      "explanation": "1/Rges = 1/12+1/12 = 2/12 → Rges = 6 Ω. Gleiche R: Rges = R/n.",
+      "difficulty": 1,
+      "topic": "Elektrotechnik",
+      "subtopic": "Parallelschaltung"
+    },
+    {
+      "id": "ntg-041",
+      "text": "Elektrische Arbeit: W = ?",
+      "options": [
+        "W = P·t",
+        "W = U/I",
+        "W = R·I",
+        "W = F·s"
+      ],
+      "correct": 0,
+      "explanation": "W = P·t = U·I·t. Einheit: Ws = J oder kWh.",
+      "difficulty": 1,
+      "topic": "Elektrotechnik",
+      "subtopic": "Arbeit"
+    },
+    {
+      "id": "ntg-042",
+      "text": "230V, 10A. Leistung?",
+      "options": [
+        "23 W",
+        "230 W",
+        "2300 W",
+        "23000 W"
+      ],
+      "correct": 2,
+      "explanation": "P = U·I = 230×10 = 2300 W = 2,3 kW.",
+      "difficulty": 1,
+      "topic": "Elektrotechnik",
+      "subtopic": "Leistung"
+    },
+    {
+      "id": "ntg-043",
+      "text": "Was ist Blindleistung?",
+      "options": [
+        "Nutzbare Leistung",
+        "Leistung die zwischen Quelle und Verbraucher pendelt",
+        "Verlustleistung",
+        "Gleichstromleistung"
+      ],
+      "correct": 1,
+      "explanation": "Blindleistung Q pendelt bei Wechselstrom zwischen Erzeuger und induktivem/kapazitivem Verbraucher. Einheit: var.",
+      "difficulty": 3,
+      "topic": "Elektrotechnik",
+      "subtopic": "Wechselstrom"
+    },
+    {
+      "id": "ntg-044",
+      "text": "Was ist der Leistungsfaktor cos φ?",
+      "options": [
+        "Verhältnis Blind-/Wirkleistung",
+        "Verhältnis Wirkleistung/Scheinleistung",
+        "Verhältnis Spannung/Strom",
+        "Verhältnis Frequenz/Spannung"
+      ],
+      "correct": 1,
+      "explanation": "cos φ = P/S (Wirkleistung/Scheinleistung). Ideal: cos φ = 1 (rein ohmsch).",
+      "difficulty": 2,
+      "topic": "Elektrotechnik",
+      "subtopic": "Wechselstrom"
+    },
+    {
+      "id": "ntg-045",
+      "text": "Spezifischer Widerstand von Kupfer vs. Aluminium?",
+      "options": [
+        "Kupfer hat höheren",
+        "Kupfer hat niedrigeren",
+        "Beide gleich",
+        "Nicht vergleichbar"
+      ],
+      "correct": 1,
+      "explanation": "Kupfer: ρ ≈ 0,0178 Ω·mm²/m. Aluminium: ρ ≈ 0,0287. Kupfer leitet besser.",
+      "difficulty": 2,
+      "topic": "Elektrotechnik",
+      "subtopic": "Leitungswiderstand"
+    },
+    {
+      "id": "ntg-046",
+      "text": "Temperaturausdehnung: Δl = ?",
+      "options": [
+        "Δl = l₀·α·ΔT",
+        "Δl = m·c·ΔT",
+        "Δl = F/A",
+        "Δl = V·p"
+      ],
+      "correct": 0,
+      "explanation": "Lineare Wärmedehnung: Δl = l₀·α·ΔT (Ausgangslänge × Ausdehnungskoeffizient × Temperaturänderung).",
+      "difficulty": 2,
+      "topic": "Thermodynamik",
+      "subtopic": "Wärmeausdehnung"
+    },
+    {
+      "id": "ntg-047",
+      "text": "Wärmemenge: Q = ?",
+      "options": [
+        "Q = m·c·ΔT",
+        "Q = m·g·h",
+        "Q = F·s",
+        "Q = P·t"
+      ],
+      "correct": 0,
+      "explanation": "Q = m·c·ΔT (Masse × spez. Wärmekapazität × Temperaturänderung). Einheit: J.",
+      "difficulty": 1,
+      "topic": "Thermodynamik",
+      "subtopic": "Wärmekapazität"
+    },
+    {
+      "id": "ntg-048",
+      "text": "Welche Wärmeübertragung braucht kein Medium?",
+      "options": [
+        "Leitung",
+        "Konvektion",
+        "Strahlung",
+        "Alle brauchen Medium"
+      ],
+      "correct": 2,
+      "explanation": "Wärmestrahlung (Infrarot) kann auch im Vakuum übertragen werden (z.B. Sonnenstrahlung).",
+      "difficulty": 1,
+      "topic": "Thermodynamik",
+      "subtopic": "Wärmeübertragung"
+    },
+    {
+      "id": "ntg-049",
+      "text": "Schmelzpunkt von Eis?",
+      "options": [
+        "−10 °C",
+        "0 °C",
+        "50 °C",
+        "100 °C"
+      ],
+      "correct": 1,
+      "explanation": "Wasser schmilzt bei 0 °C (273,15 K) bei Normaldruck.",
+      "difficulty": 1,
+      "topic": "Thermodynamik",
+      "subtopic": "Aggregatzustände"
+    },
+    {
+      "id": "ntg-050",
+      "text": "Siedepunkt von Wasser?",
+      "options": [
+        "50 °C",
+        "80 °C",
+        "100 °C",
+        "120 °C"
+      ],
+      "correct": 2,
+      "explanation": "Wasser siedet bei 100 °C (373,15 K) bei Normaldruck (1013 hPa).",
+      "difficulty": 1,
+      "topic": "Thermodynamik",
+      "subtopic": "Aggregatzustände"
+    },
+    {
+      "id": "ntg-051",
+      "text": "Was ist Wärmeleitung?",
+      "options": [
+        "Strahlung",
+        "Energietransport durch Teilchenbewegung in festen Stoffen",
+        "Konvektion",
+        "Verdampfung"
+      ],
+      "correct": 1,
+      "explanation": "Wärmeleitung (Konduktion): Wärmetransport durch Teilchenschwingungen, vor allem in Festkörpern. Metalle leiten gut.",
+      "difficulty": 1,
+      "topic": "Thermodynamik",
+      "subtopic": "Wärmeübertragung"
+    },
+    {
+      "id": "ntg-052",
+      "text": "Was ist Konvektion?",
+      "options": [
+        "Wärmeleitung",
+        "Wärmetransport durch Strömung in Flüssigkeiten/Gasen",
+        "Strahlung",
+        "Kondensation"
+      ],
+      "correct": 1,
+      "explanation": "Konvektion: Wärmetransport durch Strömung beweglicher Teilchen in Fluiden (z.B. Heizungswasser, Warmluft).",
+      "difficulty": 1,
+      "topic": "Thermodynamik",
+      "subtopic": "Wärmeübertragung"
+    },
+    {
+      "id": "ntg-053",
+      "text": "5 kg Wasser von 20°C auf 70°C erwärmen. Q=? (c=4,2 kJ/kgK)",
+      "options": [
+        "210 kJ",
+        "1050 kJ",
+        "2100 kJ",
+        "4200 kJ"
+      ],
+      "correct": 1,
+      "explanation": "Q = m·c·ΔT = 5×4,2×50 = 1050 kJ.",
+      "difficulty": 2,
+      "topic": "Thermodynamik",
+      "subtopic": "Wärmekapazität"
+    },
+    {
+      "id": "ntg-054",
+      "text": "Was ist Schmelzwärme?",
+      "options": [
+        "Wärme beim Kochen",
+        "Energie zum Übergang fest→flüssig bei gleicher Temperatur",
+        "Wärme beim Abkühlen",
+        "Strahlungsenergie"
+      ],
+      "correct": 1,
+      "explanation": "Schmelzwärme: Energie für den Phasenübergang fest→flüssig. Eis: 334 kJ/kg.",
+      "difficulty": 2,
+      "topic": "Thermodynamik",
+      "subtopic": "Aggregatzustände"
+    },
+    {
+      "id": "ntg-055",
+      "text": "Verdampfungswärme von Wasser?",
+      "options": [
+        "334 kJ/kg",
+        "1000 kJ/kg",
+        "2257 kJ/kg",
+        "4200 kJ/kg"
+      ],
+      "correct": 2,
+      "explanation": "Verdampfungswärme von Wasser: 2257 kJ/kg. Sehr hoher Wert durch starke Wasserstoffbrücken.",
+      "difficulty": 2,
+      "topic": "Thermodynamik",
+      "subtopic": "Aggregatzustände"
+    },
+    {
+      "id": "ntg-056",
+      "text": "Stahlstab 1m, α=12×10⁻⁶/K, ΔT=100K. Ausdehnung?",
+      "options": [
+        "0,12 mm",
+        "1,2 mm",
+        "12 mm",
+        "120 mm"
+      ],
+      "correct": 1,
+      "explanation": "Δl = l₀·α·ΔT = 1×12×10⁻⁶×100 = 0,0012 m = 1,2 mm.",
+      "difficulty": 2,
+      "topic": "Thermodynamik",
+      "subtopic": "Wärmeausdehnung"
+    },
+    {
+      "id": "ntg-057",
+      "text": "Dreisatz: 5 Teile kosten 30€. Was kosten 8 Teile?",
+      "options": [
+        "38€",
+        "40€",
+        "48€",
+        "56€"
+      ],
+      "correct": 2,
+      "explanation": "5 Teile → 30€, 1 Teil → 6€, 8 Teile → 48€.",
+      "difficulty": 1,
+      "topic": "Mathematik",
+      "subtopic": "Dreisatz"
+    },
+    {
+      "id": "ntg-058",
+      "text": "25% von 400?",
+      "options": [
+        "25",
+        "50",
+        "100",
+        "125"
+      ],
+      "correct": 2,
+      "explanation": "25% × 400 = 0,25 × 400 = 100.",
+      "difficulty": 1,
+      "topic": "Mathematik",
+      "subtopic": "Prozentrechnung"
+    },
+    {
+      "id": "ntg-059",
+      "text": "Preis steigt von 80€ auf 100€. Prozentuale Steigerung?",
+      "options": [
+        "20%",
+        "25%",
+        "80%",
+        "125%"
+      ],
+      "correct": 1,
+      "explanation": "(100-80)/80 × 100 = 20/80 × 100 = 25%.",
+      "difficulty": 1,
+      "topic": "Mathematik",
+      "subtopic": "Prozentrechnung"
+    },
+    {
+      "id": "ntg-060",
+      "text": "Pythagoras: a=3, b=4, c=?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "12"
+      ],
+      "correct": 0,
+      "explanation": "c² = a²+b² = 9+16 = 25 → c = 5.",
+      "difficulty": 1,
+      "topic": "Mathematik",
+      "subtopic": "Pythagoras"
+    },
+    {
+      "id": "ntg-061",
+      "text": "Kreisfläche: A = ?",
+      "options": [
+        "A = 2πr",
+        "A = πr²",
+        "A = πd",
+        "A = 2πr²"
+      ],
+      "correct": 1,
+      "explanation": "A = πr² = π(d/2)². Umfang: U = 2πr = πd.",
+      "difficulty": 1,
+      "topic": "Mathematik",
+      "subtopic": "Flächenberechnung"
+    },
+    {
+      "id": "ntg-062",
+      "text": "Volumen eines Zylinders?",
+      "options": [
+        "V = πr²h",
+        "V = πr²",
+        "V = 2πrh",
+        "V = 4/3πr³"
+      ],
+      "correct": 0,
+      "explanation": "V = πr²·h (Grundfläche × Höhe).",
+      "difficulty": 1,
+      "topic": "Mathematik",
+      "subtopic": "Volumenberechnung"
+    },
+    {
+      "id": "ntg-063",
+      "text": "sin 30° = ?",
+      "options": [
+        "0",
+        "0,5",
+        "0,707",
+        "1"
+      ],
+      "correct": 1,
+      "explanation": "sin 30° = 0,5. Weitere: sin 0°=0, sin 45°≈0,707, sin 60°≈0,866, sin 90°=1.",
+      "difficulty": 2,
+      "topic": "Mathematik",
+      "subtopic": "Trigonometrie"
+    },
+    {
+      "id": "ntg-064",
+      "text": "Was ist der Tangens?",
+      "options": [
+        "Gegenkathete/Hypotenuse",
+        "Ankathete/Hypotenuse",
+        "Gegenkathete/Ankathete",
+        "Hypotenuse/Gegenkathete"
+      ],
+      "correct": 2,
+      "explanation": "tan α = Gegenkathete/Ankathete. sin = GK/Hyp, cos = AK/Hyp.",
+      "difficulty": 1,
+      "topic": "Mathematik",
+      "subtopic": "Trigonometrie"
+    },
+    {
+      "id": "ntg-065",
+      "text": "Mittelwert von 2, 4, 6, 8, 10?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "8"
+      ],
+      "correct": 2,
+      "explanation": "x̄ = (2+4+6+8+10)/5 = 30/5 = 6.",
+      "difficulty": 1,
+      "topic": "Mathematik",
+      "subtopic": "Statistik"
+    },
+    {
+      "id": "ntg-066",
+      "text": "Zylinder r=5cm, h=10cm. Volumen?",
+      "options": [
+        "250π cm³",
+        "500π cm³",
+        "100π cm³",
+        "50π cm³"
+      ],
+      "correct": 0,
+      "explanation": "V = πr²h = π×25×10 = 250π ≈ 785 cm³.",
+      "difficulty": 2,
+      "topic": "Mathematik",
+      "subtopic": "Volumenberechnung"
+    },
+    {
+      "id": "ntg-067",
+      "text": "Was ist der Zugversuch?",
+      "options": [
+        "Druckprüfung",
+        "Prüfung mechanischer Eigenschaften durch Zugbelastung",
+        "Biegeprüfung",
+        "Ultraschallprüfung"
+      ],
+      "correct": 1,
+      "explanation": "Zugversuch nach DIN EN ISO 6892: Probe wird bis zum Bruch gezogen. Ermittelt: Streckgrenze, Zugfestigkeit, Bruchdehnung.",
+      "difficulty": 1,
+      "topic": "Werkstofftechnik",
+      "subtopic": "Zugversuch"
+    },
+    {
+      "id": "ntg-068",
+      "text": "Was zeigt das Spannungs-Dehnungs-Diagramm?",
+      "options": [
+        "Temperaturverlauf",
+        "Zusammenhang zwischen Belastung und Verformung",
+        "Kosten pro Stück",
+        "Zeitverlauf"
+      ],
+      "correct": 1,
+      "explanation": "Das σ-ε-Diagramm aus dem Zugversuch zeigt: elastischer Bereich, Streckgrenze, plastischer Bereich, Zugfestigkeit, Bruch.",
+      "difficulty": 2,
+      "topic": "Werkstofftechnik",
+      "subtopic": "Zugversuch"
+    },
+    {
+      "id": "ntg-069",
+      "text": "Was ist die Streckgrenze Re?",
+      "options": [
+        "Bruchpunkt",
+        "Spannung, ab der plastische Verformung beginnt",
+        "Maximale Spannung",
+        "Elastizitätsgrenze"
+      ],
+      "correct": 1,
+      "explanation": "Re: Spannung, ab der der Werkstoff sich bleibend (plastisch) verformt. Wichtig für Konstruktion.",
+      "difficulty": 2,
+      "topic": "Werkstofftechnik",
+      "subtopic": "Zugversuch"
+    },
+    {
+      "id": "ntg-070",
+      "text": "Was ist die Zugfestigkeit Rm?",
+      "options": [
+        "Streckgrenze",
+        "Maximale Spannung im Zugversuch vor Einschnürung",
+        "Bruchdehnung",
+        "Elastizitätsmodul"
+      ],
+      "correct": 1,
+      "explanation": "Rm: maximale Spannung, die der Werkstoff aushalten kann. Darüber beginnt Einschnürung.",
+      "difficulty": 2,
+      "topic": "Werkstofftechnik",
+      "subtopic": "Zugversuch"
+    },
+    {
+      "id": "ntg-071",
+      "text": "Härteprüfung nach Brinell?",
+      "options": [
+        "Diamantspitze",
+        "Kugel wird in Werkstoff gedrückt, Eindruckfläche gemessen",
+        "Rückprallhöhe",
+        "Ultraschall"
+      ],
+      "correct": 1,
+      "explanation": "Brinell: Hartmetallkugel wird in die Oberfläche gedrückt. HBW = F/(π·D·t).",
+      "difficulty": 1,
+      "topic": "Werkstofftechnik",
+      "subtopic": "Härteprüfung"
+    },
+    {
+      "id": "ntg-072",
+      "text": "Härteprüfung nach Vickers?",
+      "options": [
+        "Kugel",
+        "Diamantpyramide wird eingedrückt",
+        "Fallgewicht",
+        "Ritzhärte"
+      ],
+      "correct": 1,
+      "explanation": "Vickers: Diamantpyramide mit 136° wird eingedrückt. HV = 0,189·F/d².",
+      "difficulty": 2,
+      "topic": "Werkstofftechnik",
+      "subtopic": "Härteprüfung"
+    },
+    {
+      "id": "ntg-073",
+      "text": "Härteprüfung nach Rockwell?",
+      "options": [
+        "Große Kugel",
+        "Diamantkegel oder Kugel, Eindringtiefe gemessen",
+        "Ultraschall",
+        "Ritzprobe"
+      ],
+      "correct": 1,
+      "explanation": "Rockwell: Diamantkegel (HRC) oder Kugel (HRB). Misst die Eindringtiefe, nicht die Fläche.",
+      "difficulty": 2,
+      "topic": "Werkstofftechnik",
+      "subtopic": "Härteprüfung"
+    },
+    {
+      "id": "ntg-074",
+      "text": "Was ist Härten von Stahl?",
+      "options": [
+        "Langsames Abkühlen",
+        "Erwärmen über Ac3 und schnelles Abschrecken",
+        "Erhitzen auf Schmelzpunkt",
+        "Walzen"
+      ],
+      "correct": 1,
+      "explanation": "Härten: Erwärmen auf Austenitisierungstemperatur (>Ac3), dann schnelles Abschrecken in Wasser/Öl → Martensit.",
+      "difficulty": 2,
+      "topic": "Werkstofftechnik",
+      "subtopic": "Wärmebehandlung"
+    },
+    {
+      "id": "ntg-075",
+      "text": "Was ist Anlassen?",
+      "options": [
+        "Erneutes Härten",
+        "Erwärmen nach dem Härten zur Spannungsreduzierung",
+        "Abkühlen an Luft",
+        "Glühen"
+      ],
+      "correct": 1,
+      "explanation": "Anlassen: Erwärmen des gehärteten Stahls auf 150-650°C. Reduziert Sprödigkeit bei akzeptablem Härteverlust.",
+      "difficulty": 2,
+      "topic": "Werkstofftechnik",
+      "subtopic": "Wärmebehandlung"
+    },
+    {
+      "id": "ntg-076",
+      "text": "Was ist Vergüten?",
+      "options": [
+        "Lackieren",
+        "Härten + Anlassen bei hoher Temperatur für Festigkeit + Zähigkeit",
+        "Schmieden",
+        "Gießen"
+      ],
+      "correct": 1,
+      "explanation": "Vergüten = Härten + Anlassen (450-650°C). Ergibt optimale Kombination aus Festigkeit und Zähigkeit.",
+      "difficulty": 2,
+      "topic": "Werkstofftechnik",
+      "subtopic": "Wärmebehandlung"
+    },
+    {
+      "id": "ntg-077",
+      "text": "Was ist Glühen?",
+      "options": [
+        "Schnelles Abkühlen",
+        "Langsames Erwärmen und Abkühlen zur Gefügeveränderung",
+        "Härten",
+        "Beschichten"
+      ],
+      "correct": 1,
+      "explanation": "Glühen: Erwärmen auf bestimmte Temperatur, Halten, langsames Abkühlen. Arten: Normalglühen, Spannungsarmglühen, Weichglühen.",
+      "difficulty": 1,
+      "topic": "Werkstofftechnik",
+      "subtopic": "Wärmebehandlung"
+    },
+    {
+      "id": "ntg-078",
+      "text": "Was ist der Kohlenstoffgehalt von Stahl?",
+      "options": [
+        "Über 2,06%",
+        "Unter 2,06% C",
+        "Über 6%",
+        "Genau 1%"
+      ],
+      "correct": 1,
+      "explanation": "Stahl: < 2,06% C. Gusseisen: > 2,06% C. Der C-Gehalt bestimmt Härte und Schmiedbarkeit.",
+      "difficulty": 1,
+      "topic": "Werkstofftechnik",
+      "subtopic": "Stahl"
+    },
+    {
+      "id": "ntg-079",
+      "text": "Was zeigt das Eisen-Kohlenstoff-Diagramm?",
+      "options": [
+        "Produktionskosten",
+        "Phasen und Gefüge von Fe-C-Legierungen bei verschiedenen Temperaturen",
+        "Preise von Stahl",
+        "Korrosionsverhalten"
+      ],
+      "correct": 1,
+      "explanation": "Das EKD zeigt Phasenumwandlungen: Austenit, Ferrit, Zementit, Perlit, Martensit abhängig von C-Gehalt und Temperatur.",
+      "difficulty": 2,
+      "topic": "Werkstofftechnik",
+      "subtopic": "EKD"
+    },
+    {
+      "id": "ntg-080",
+      "text": "Was ist Korrosion?",
+      "options": [
+        "Mechanischer Verschleiß",
+        "Chemische/elektrochemische Zerstörung eines Werkstoffs durch Umgebungseinflüsse",
+        "Thermische Belastung",
+        "Ermüdung"
+      ],
+      "correct": 1,
+      "explanation": "Korrosion: Reaktion des Werkstoffs mit seiner Umgebung (Sauerstoff, Wasser). Schutz: Beschichtung, Legierung, kathodischer Schutz.",
+      "difficulty": 1,
+      "topic": "Werkstofftechnik",
+      "subtopic": "Korrosion"
+    },
+    {
+      "id": "ntg-081",
+      "text": "Welcher Kunststofftyp ist durch Erwärmen verformbar?",
+      "options": [
+        "Duroplast",
+        "Thermoplast",
+        "Elastomer",
+        "Keramik"
+      ],
+      "correct": 1,
+      "explanation": "Thermoplaste (PE, PP, PVC) sind bei Erwärmung wiederholt verformbar. Lineare/verzweigte Molekülketten.",
+      "difficulty": 1,
+      "topic": "Werkstofftechnik",
+      "subtopic": "Kunststoffe"
+    },
+    {
+      "id": "ntg-082",
+      "text": "Was ist ein Duroplast?",
+      "options": [
+        "Wiederholt verformbar",
+        "Nach Aushärtung nicht mehr verformbar (engmaschig vernetzt)",
+        "Gummiartig elastisch",
+        "Ein Metall"
+      ],
+      "correct": 1,
+      "explanation": "Duroplaste (Epoxidharz, Bakelit) sind nach der Vernetzung nicht mehr schmelz-/verformbar. Engmaschig vernetzt.",
+      "difficulty": 2,
+      "topic": "Werkstofftechnik",
+      "subtopic": "Kunststoffe"
+    },
+    {
+      "id": "ntg-083",
+      "text": "Was ist ein Elastomer?",
+      "options": [
+        "Hart und spröde",
+        "Gummielastisch, begrenzt verformbar, kehrt zurück",
+        "Metallisch",
+        "Kristallin"
+      ],
+      "correct": 1,
+      "explanation": "Elastomere (Gummi, Silikon) sind weitmaschig vernetzt, gummielastisch und kehren nach Verformung in Ursprungsform zurück.",
+      "difficulty": 2,
+      "topic": "Werkstofftechnik",
+      "subtopic": "Kunststoffe"
+    },
+    {
+      "id": "ntg-084",
+      "text": "Was ist Aluminium als Werkstoff?",
+      "options": [
+        "Schwerstes NE-Metall",
+        "Leichtes NE-Metall mit guter Korrosionsbeständigkeit",
+        "Eisenlegierung",
+        "Kunststoff"
+      ],
+      "correct": 1,
+      "explanation": "Aluminium: leicht (ρ≈2,7 g/cm³), korrosionsbeständig (Oxidschicht), guter Leiter, gut verformbar. Häufig als Legierung.",
+      "difficulty": 1,
+      "topic": "Werkstofftechnik",
+      "subtopic": "NE-Metalle"
+    },
+    {
+      "id": "ntg-085",
+      "text": "Was ist Kupfer als Werkstoff?",
+      "options": [
+        "Magnet",
+        "Sehr guter elektrischer Leiter, weich, korrosionsbeständig",
+        "Leichtmetall",
+        "Kunststoff"
+      ],
+      "correct": 1,
+      "explanation": "Kupfer: bester metallischer Leiter nach Silber, weich, korrosionsbeständig (Patina). Legierungen: Messing, Bronze.",
+      "difficulty": 1,
+      "topic": "Werkstofftechnik",
+      "subtopic": "NE-Metalle"
+    },
+    {
+      "id": "ntg-086",
+      "text": "Periodensystem: Was ist die Ordnungszahl?",
+      "options": [
+        "Atomgewicht",
+        "Anzahl der Protonen im Kern",
+        "Anzahl der Neutronen",
+        "Masse des Atoms"
+      ],
+      "correct": 1,
+      "explanation": "Die Ordnungszahl Z = Anzahl der Protonen. Bestimmt das Element. Z.B. Wasserstoff Z=1, Eisen Z=26.",
+      "difficulty": 1,
+      "topic": "Chemie",
+      "subtopic": "Periodensystem"
+    },
+    {
+      "id": "ntg-087",
+      "text": "Was sind Elektronen?",
+      "options": [
+        "Positiv geladene Teilchen",
+        "Negativ geladene Teilchen in der Atomhülle",
+        "Neutrale Teilchen",
+        "Teilchen im Kern"
+      ],
+      "correct": 1,
+      "explanation": "Elektronen: negativ geladen, umkreisen den Atomkern. Bestimmen chemische Eigenschaften und Bindungen.",
+      "difficulty": 1,
+      "topic": "Chemie",
+      "subtopic": "Atombau"
+    },
+    {
+      "id": "ntg-088",
+      "text": "Was ist eine Ionenbindung?",
+      "options": [
+        "Bindung durch gemeinsame Elektronen",
+        "Bindung durch Elektronenübertragung (Kation + Anion)",
+        "Metallbindung",
+        "Van-der-Waals-Kräfte"
+      ],
+      "correct": 1,
+      "explanation": "Ionenbindung: Ein Atom gibt Elektronen ab (Kation +), das andere nimmt auf (Anion -). Z.B. NaCl.",
+      "difficulty": 1,
+      "topic": "Chemie",
+      "subtopic": "Bindungen"
+    },
+    {
+      "id": "ntg-089",
+      "text": "Was ist eine kovalente Bindung?",
+      "options": [
+        "Ionenbindung",
+        "Bindung durch gemeinsam genutzte Elektronenpaare",
+        "Metallbindung",
+        "Wasserstoffbrücke"
+      ],
+      "correct": 1,
+      "explanation": "Kovalente (Atom-)Bindung: Atome teilen sich Elektronenpaare. Z.B. H₂, O₂, H₂O.",
+      "difficulty": 1,
+      "topic": "Chemie",
+      "subtopic": "Bindungen"
+    },
+    {
+      "id": "ntg-090",
+      "text": "Was ist der pH-Wert?",
+      "options": [
+        "Temperatur",
+        "Maß für den sauren oder basischen Charakter einer Lösung",
+        "Dichte",
+        "Viskosität"
+      ],
+      "correct": 1,
+      "explanation": "pH = -log[H₃O⁺]. pH < 7: sauer, pH = 7: neutral, pH > 7: basisch/alkalisch.",
+      "difficulty": 1,
+      "topic": "Chemie",
+      "subtopic": "Säuren und Basen"
+    },
+    {
+      "id": "ntg-091",
+      "text": "Was ist Oxidation?",
+      "options": [
+        "Elektronenaufnahme",
+        "Elektronenabgabe (Reaktion mit Sauerstoff im weiteren Sinne)",
+        "Reduktion",
+        "Neutralisation"
+      ],
+      "correct": 1,
+      "explanation": "Oxidation: Elektronenabgabe. Im engeren Sinne: Reaktion mit Sauerstoff. Oxidationszahl steigt.",
+      "difficulty": 1,
+      "topic": "Chemie",
+      "subtopic": "Redox"
+    },
+    {
+      "id": "ntg-092",
+      "text": "Was ist Reduktion?",
+      "options": [
+        "Elektronenabgabe",
+        "Elektronenaufnahme",
+        "Oxidation",
+        "Neutralisation"
+      ],
+      "correct": 1,
+      "explanation": "Reduktion: Elektronenaufnahme. Oxidationszahl sinkt. Immer gekoppelt mit Oxidation (Redoxreaktion).",
+      "difficulty": 1,
+      "topic": "Chemie",
+      "subtopic": "Redox"
+    },
+    {
+      "id": "ntg-093",
+      "text": "Was ist eine Säure?",
+      "options": [
+        "Protonenakzeptor",
+        "Protonendonator (gibt H⁺-Ionen ab)",
+        "Neutraler Stoff",
+        "Base"
+      ],
+      "correct": 1,
+      "explanation": "Säure (Brönsted): Protonendonator, gibt H⁺ ab. Z.B. HCl, H₂SO₄. pH < 7.",
+      "difficulty": 1,
+      "topic": "Chemie",
+      "subtopic": "Säuren und Basen"
+    },
+    {
+      "id": "ntg-094",
+      "text": "Was ist eine Base?",
+      "options": [
+        "Protonendonator",
+        "Protonenakzeptor (nimmt H⁺-Ionen auf)",
+        "Säure",
+        "Salz"
+      ],
+      "correct": 1,
+      "explanation": "Base (Brönsted): Protonenakzeptor, nimmt H⁺ auf. Z.B. NaOH, KOH. pH > 7.",
+      "difficulty": 1,
+      "topic": "Chemie",
+      "subtopic": "Säuren und Basen"
+    },
+    {
+      "id": "ntg-095",
+      "text": "Was entsteht bei Neutralisation?",
+      "options": [
+        "Nur Wasser",
+        "Salz und Wasser",
+        "Nur Salz",
+        "Gas"
+      ],
+      "correct": 1,
+      "explanation": "Säure + Base → Salz + Wasser. Z.B. HCl + NaOH → NaCl + H₂O.",
+      "difficulty": 1,
+      "topic": "Chemie",
+      "subtopic": "Neutralisation"
+    },
+    {
+      "id": "ntg-096",
+      "text": "Was sind Stoffgemische?",
+      "options": [
+        "Reine Elemente",
+        "Mischung aus zwei oder mehr Stoffen",
+        "Verbindungen",
+        "Einzelne Atome"
+      ],
+      "correct": 1,
+      "explanation": "Stoffgemische: homogen (Lösung, Legierung) oder heterogen (Suspension, Emulsion). Trennbar durch physikalische Verfahren.",
+      "difficulty": 1,
+      "topic": "Chemie",
+      "subtopic": "Stoffgemische"
+    },
+    {
+      "id": "ntg-097",
+      "text": "Was ist Konzentration?",
+      "options": [
+        "Temperatur",
+        "Anteil eines gelösten Stoffes am Gesamtvolumen/-masse",
+        "Druck",
+        "pH-Wert"
+      ],
+      "correct": 1,
+      "explanation": "Konzentration: Menge des gelösten Stoffes pro Volumen (mol/l) oder Masse (g/l, %, ppm).",
+      "difficulty": 1,
+      "topic": "Chemie",
+      "subtopic": "Konzentration"
+    },
+    {
+      "id": "ntg-098",
+      "text": "Was bedeuten Maßtoleranzen?",
+      "options": [
+        "Exakte Maße",
+        "Zulässige Abweichungen vom Nennmaß",
+        "Fehler in der Zeichnung",
+        "Falsche Maße"
+      ],
+      "correct": 1,
+      "explanation": "Toleranz = Differenz zwischen Höchst- und Mindestmaß. T = Go - Gu. Je enger, desto aufwändiger die Fertigung.",
+      "difficulty": 1,
+      "topic": "Techn. Kommunikation",
+      "subtopic": "Toleranzen"
+    },
+    {
+      "id": "ntg-099",
+      "text": "Was ist eine ISO-Toleranz?",
+      "options": [
+        "Beliebige Toleranz",
+        "Genormtes System aus Toleranzklassen und Grundabmaßen",
+        "Hersteller-Toleranz",
+        "Keine Toleranz"
+      ],
+      "correct": 1,
+      "explanation": "ISO-Toleranzsystem: Toleranzklassen IT01-IT18 (Qualität) und Grundabmaße (a-z, A-Z) definieren Passungen.",
+      "difficulty": 2,
+      "topic": "Techn. Kommunikation",
+      "subtopic": "ISO-Toleranzen"
+    },
+    {
+      "id": "ntg-100",
+      "text": "Was ist eine Passung?",
+      "options": [
+        "Schraubverbindung",
+        "Maßliche Beziehung zwischen Welle und Bohrung",
+        "Schweißnaht",
+        "Klebung"
+      ],
+      "correct": 1,
+      "explanation": "Passung: Zusammenspiel von Bohrung und Welle. Spielpassung, Übergangspassung, Presspassung.",
+      "difficulty": 2,
+      "topic": "Techn. Kommunikation",
+      "subtopic": "Passungen"
+    },
+    {
+      "id": "ntg-101",
+      "text": "Was ist eine Spielpassung?",
+      "options": [
+        "Feste Verbindung",
+        "Bohrung immer größer als Welle (Spiel)",
+        "Welle größer als Bohrung",
+        "Gleiche Maße"
+      ],
+      "correct": 1,
+      "explanation": "Spielpassung: Istmaß der Bohrung > Istmaß der Welle → Spiel. Z.B. Lager, Führungen. H7/f7.",
+      "difficulty": 1,
+      "topic": "Techn. Kommunikation",
+      "subtopic": "Passungen"
+    },
+    {
+      "id": "ntg-102",
+      "text": "Was ist eine Presspassung?",
+      "options": [
+        "Spiel zwischen Teilen",
+        "Welle immer größer als Bohrung (Übermaß)",
+        "Lose Verbindung",
+        "Gleichmaß"
+      ],
+      "correct": 1,
+      "explanation": "Presspassung: Istmaß der Welle > Istmaß der Bohrung → Übermaß, kraftschlüssig. Z.B. Nabe-Welle. H7/p6.",
+      "difficulty": 2,
+      "topic": "Techn. Kommunikation",
+      "subtopic": "Passungen"
+    },
+    {
+      "id": "ntg-103",
+      "text": "Was bedeutet Ra in der Oberflächentechnik?",
+      "options": [
+        "Radius",
+        "Arithmetischer Mittenrauwert der Oberfläche",
+        "Reaktionszeit",
+        "Radioaktivität"
+      ],
+      "correct": 1,
+      "explanation": "Ra: arithmetischer Mittenrauwert. Mittlere Abweichung des Profils von der Mittellinie. Je kleiner, desto glatter.",
+      "difficulty": 2,
+      "topic": "Techn. Kommunikation",
+      "subtopic": "Oberflächenangaben"
+    },
+    {
+      "id": "ntg-104",
+      "text": "Technische Zeichnung: Was bedeutet ein Maß in Klammern?",
+      "options": [
+        "Hauptmaß",
+        "Hilfsmaß (Info, nicht zur Fertigung)",
+        "Toleriertes Maß",
+        "Fehlerhaftes Maß"
+      ],
+      "correct": 1,
+      "explanation": "Maße in Klammern sind Hilfsmaße: nur zur Information, nicht fertigungsrelevant, nicht geprüft.",
+      "difficulty": 1,
+      "topic": "Techn. Kommunikation",
+      "subtopic": "Zeichnungen"
+    },
+    {
+      "id": "ntg-105",
+      "text": "Was ist eine Schnittdarstellung?",
+      "options": [
+        "Außenansicht",
+        "Darstellung des Inneren durch gedachten Schnitt",
+        "Draufsicht",
+        "Seitenansicht"
+      ],
+      "correct": 1,
+      "explanation": "Schnittdarstellung zeigt das Innere eines Werkstücks. Schnittflächen werden schraffiert (45°, Linienabstand einheitlich).",
+      "difficulty": 1,
+      "topic": "Techn. Kommunikation",
+      "subtopic": "Zeichnungen"
+    },
+    {
+      "id": "ntg-106",
+      "text": "Energieformen: Was ist mechanische Energie?",
+      "options": [
+        "Wärmeenergie",
+        "Summe aus kinetischer und potentieller Energie",
+        "Elektrische Energie",
+        "Chemische Energie"
+      ],
+      "correct": 1,
+      "explanation": "Mechanische Energie = Ekin + Epot. Kann zwischen beiden Formen umgewandelt werden (z.B. Pendel).",
+      "difficulty": 1,
+      "topic": "Energie",
+      "subtopic": "Energieformen"
+    },
+    {
+      "id": "ntg-107",
+      "text": "Was ist der 1. Hauptsatz der Thermodynamik?",
+      "options": [
+        "Energie wird vernichtet",
+        "Energie kann nur umgewandelt, nicht erzeugt oder vernichtet werden",
+        "Entropie nimmt zu",
+        "Absoluter Nullpunkt"
+      ],
+      "correct": 1,
+      "explanation": "1. Hauptsatz = Energieerhaltungssatz der Thermodynamik: ΔU = Q + W. Energie bleibt konstant.",
+      "difficulty": 2,
+      "topic": "Thermodynamik",
+      "subtopic": "Hauptsätze"
+    },
+    {
+      "id": "ntg-108",
+      "text": "Was ist Wirkungsgrad einer Maschine mit 1500W Nutzleistung bei 2000W Aufnahme?",
+      "options": [
+        "50%",
+        "60%",
+        "75%",
+        "80%"
+      ],
+      "correct": 2,
+      "explanation": "η = Pnutz/Pzu = 1500/2000 = 0,75 = 75%.",
+      "difficulty": 1,
+      "topic": "Mechanik",
+      "subtopic": "Wirkungsgrad"
+    },
+    {
+      "id": "ntg-109",
+      "text": "Spezifische Wärmekapazität: Was gibt sie an?",
+      "options": [
+        "Schmelzpunkt",
+        "Wärmemenge pro kg und Kelvin für 1K Temperaturerhöhung",
+        "Siedepunkt",
+        "Dichte"
+      ],
+      "correct": 1,
+      "explanation": "c [J/(kg·K)]: Wärmemenge, die 1 kg eines Stoffes um 1 K erwärmt. Wasser: c = 4186 J/(kg·K).",
+      "difficulty": 1,
+      "topic": "Thermodynamik",
+      "subtopic": "Wärmekapazität"
+    },
+    {
+      "id": "ntg-110",
+      "text": "Welches Material hat die höchste spez. Wärmekapazität?",
+      "options": [
+        "Eisen",
+        "Kupfer",
+        "Wasser",
+        "Aluminium"
+      ],
+      "correct": 2,
+      "explanation": "Wasser: c ≈ 4186 J/(kg·K). Eisen: c ≈ 452, Kupfer: c ≈ 385, Alu: c ≈ 897.",
+      "difficulty": 1,
+      "topic": "Thermodynamik",
+      "subtopic": "Wärmekapazität"
+    },
+    {
+      "id": "ntg-111",
+      "text": "0°C in Kelvin?",
+      "options": [
+        "0 K",
+        "-273 K",
+        "273,15 K",
+        "373,15 K"
+      ],
+      "correct": 2,
+      "explanation": "T[K] = T[°C] + 273,15. Also 0°C = 273,15 K.",
+      "difficulty": 1,
+      "topic": "Thermodynamik",
+      "subtopic": "Temperatur"
+    },
+    {
+      "id": "ntg-112",
+      "text": "Was ist der absolute Nullpunkt?",
+      "options": [
+        "0°C",
+        "-273,15°C = 0 K",
+        "100°C",
+        "-100°C"
+      ],
+      "correct": 1,
+      "explanation": "-273,15°C = 0 K. Theoretisch tiefste mögliche Temperatur. Teilchenbewegung minimal.",
+      "difficulty": 1,
+      "topic": "Thermodynamik",
+      "subtopic": "Temperatur"
+    },
+    {
+      "id": "ntg-113",
+      "text": "Volumenstrom: Q = ?",
+      "options": [
+        "Q = V/t",
+        "Q = m/V",
+        "Q = p × A",
+        "Q = F/A"
+      ],
+      "correct": 0,
+      "explanation": "Volumenstrom Q = V/t [m³/s]. Auch: Q = A × v (Querschnitt × Strömungsgeschwindigkeit).",
+      "difficulty": 2,
+      "topic": "Mechanik",
+      "subtopic": "Strömung"
+    },
+    {
+      "id": "ntg-114",
+      "text": "Was ist Viskosität?",
+      "options": [
+        "Dichte",
+        "Zähflüssigkeit/innere Reibung einer Flüssigkeit",
+        "Temperatur",
+        "Oberflächenspannung"
+      ],
+      "correct": 1,
+      "explanation": "Viskosität: Maß für die innere Reibung eines Fluids. Hohe Viskosität = dickflüssig (Honig). Sinkt bei Temperaturanstieg.",
+      "difficulty": 2,
+      "topic": "Mechanik",
+      "subtopic": "Strömung"
+    },
+    {
+      "id": "ntg-115",
+      "text": "Dichte: ρ = ?",
+      "options": [
+        "ρ = V/m",
+        "ρ = m/V",
+        "ρ = F/A",
+        "ρ = p × V"
+      ],
+      "correct": 1,
+      "explanation": "Dichte ρ = m/V [kg/m³]. Wasser: 1000 kg/m³. Stahl: ~7850. Alu: ~2700.",
+      "difficulty": 1,
+      "topic": "Mechanik",
+      "subtopic": "Dichte"
+    },
+    {
+      "id": "ntg-116",
+      "text": "Auftrieb in Flüssigkeiten: Archimedisches Prinzip?",
+      "options": [
+        "Körper sinkt immer",
+        "Auftriebskraft = Gewicht der verdrängten Flüssigkeit",
+        "Körper schwebt immer",
+        "Kein Auftrieb"
+      ],
+      "correct": 1,
+      "explanation": "FA = ρ_Fl × g × V_eingetaucht. Schwimmen: wenn ρ_Körper < ρ_Flüssigkeit.",
+      "difficulty": 2,
+      "topic": "Mechanik",
+      "subtopic": "Auftrieb"
+    },
+    {
+      "id": "ntg-117",
+      "text": "Leistung P = 500W, Zeit t = 2h. Arbeit W = ?",
+      "options": [
+        "1000 J",
+        "250 Wh",
+        "1000 Wh",
+        "1 kWh"
+      ],
+      "correct": 3,
+      "explanation": "W = P × t = 500W × 2h = 1000 Wh = 1 kWh.",
+      "difficulty": 1,
+      "topic": "Elektrotechnik",
+      "subtopic": "Arbeit"
+    },
+    {
+      "id": "ntg-118",
+      "text": "Widerstand eines Leiters: R = ρ × l / A. Leiter doppelt so lang → R = ?",
+      "options": [
+        "Halb so groß",
+        "Gleich",
+        "Doppelt so groß",
+        "Vierfach"
+      ],
+      "correct": 2,
+      "explanation": "R ~ l. Doppelte Länge → doppelter Widerstand.",
+      "difficulty": 1,
+      "topic": "Elektrotechnik",
+      "subtopic": "Leitungswiderstand"
+    },
+    {
+      "id": "ntg-119",
+      "text": "Leiterquerschnitt verdoppelt → R = ?",
+      "options": [
+        "Doppelt",
+        "Gleich",
+        "Halb so groß",
+        "Vierfach"
+      ],
+      "correct": 2,
+      "explanation": "R ~ 1/A. Doppelter Querschnitt → halber Widerstand.",
+      "difficulty": 1,
+      "topic": "Elektrotechnik",
+      "subtopic": "Leitungswiderstand"
+    },
+    {
+      "id": "ntg-120",
+      "text": "Was ist Induktion?",
+      "options": [
+        "Statische Aufladung",
+        "Erzeugung von Spannung durch Magnetfeldänderung",
+        "Gleichstrom",
+        "Widerstand"
+      ],
+      "correct": 1,
+      "explanation": "Elektromagnetische Induktion (Faraday): Änderung des magnetischen Flusses erzeugt Spannung. Basis für Generator und Trafo.",
+      "difficulty": 2,
+      "topic": "Elektrotechnik",
+      "subtopic": "Induktion"
+    },
+    {
+      "id": "ntg-121",
+      "text": "Motor 5 kW, η = 85%. Aufgenommene Leistung?",
+      "options": [
+        "4,25 kW",
+        "5 kW",
+        "5,88 kW",
+        "6,5 kW"
+      ],
+      "correct": 2,
+      "explanation": "Pzu = Pab/η = 5/0,85 ≈ 5,88 kW.",
+      "difficulty": 2,
+      "topic": "Elektrotechnik",
+      "subtopic": "Wirkungsgrad"
+    },
+    {
+      "id": "ntg-122",
+      "text": "Gleichung lösen: 2x + 5 = 15. x = ?",
+      "options": [
+        "3",
+        "5",
+        "10",
+        "15"
+      ],
+      "correct": 1,
+      "explanation": "2x + 5 = 15 → 2x = 10 → x = 5.",
+      "difficulty": 1,
+      "topic": "Mathematik",
+      "subtopic": "Gleichungen"
+    },
+    {
+      "id": "ntg-123",
+      "text": "Fläche Rechteck 8m × 5m?",
+      "options": [
+        "13 m²",
+        "26 m²",
+        "40 m²",
+        "80 m²"
+      ],
+      "correct": 2,
+      "explanation": "A = a × b = 8 × 5 = 40 m².",
+      "difficulty": 1,
+      "topic": "Mathematik",
+      "subtopic": "Flächenberechnung"
+    },
+    {
+      "id": "ntg-124",
+      "text": "Umfang Kreis d = 10 cm?",
+      "options": [
+        "10π cm",
+        "5π cm",
+        "20π cm",
+        "100π cm"
+      ],
+      "correct": 0,
+      "explanation": "U = π × d = 10π ≈ 31,4 cm.",
+      "difficulty": 1,
+      "topic": "Mathematik",
+      "subtopic": "Kreisberechnung"
+    },
+    {
+      "id": "ntg-125",
+      "text": "Volumen Kugel r = 3 cm?",
+      "options": [
+        "36π cm³",
+        "27π cm³",
+        "108π cm³",
+        "12π cm³"
+      ],
+      "correct": 0,
+      "explanation": "V = 4/3 × π × r³ = 4/3 × π × 27 = 36π ≈ 113 cm³.",
+      "difficulty": 2,
+      "topic": "Mathematik",
+      "subtopic": "Volumenberechnung"
+    },
+    {
+      "id": "ntg-126",
+      "text": "Volumen Kegel?",
+      "options": [
+        "V = πr²h",
+        "V = 1/3·πr²h",
+        "V = 2πr²h",
+        "V = 4/3πr³"
+      ],
+      "correct": 1,
+      "explanation": "V = 1/3·πr²h. Ein Drittel des Zylindervolumens mit gleichem r und h.",
+      "difficulty": 2,
+      "topic": "Mathematik",
+      "subtopic": "Volumenberechnung"
+    },
+    {
+      "id": "ntg-127",
+      "text": "cos 60° = ?",
+      "options": [
+        "0",
+        "0,5",
+        "0,707",
+        "1"
+      ],
+      "correct": 1,
+      "explanation": "cos 60° = 0,5. cos 0°=1, cos 30°≈0,866, cos 45°≈0,707, cos 90°=0.",
+      "difficulty": 2,
+      "topic": "Mathematik",
+      "subtopic": "Trigonometrie"
+    },
+    {
+      "id": "ntg-128",
+      "text": "Mantelfläche Zylinder?",
+      "options": [
+        "πr²",
+        "2πrh",
+        "πr²h",
+        "2πr²"
+      ],
+      "correct": 1,
+      "explanation": "Mantelfläche M = 2πrh = πdh. Gesamtoberfläche = 2πrh + 2πr².",
+      "difficulty": 1,
+      "topic": "Mathematik",
+      "subtopic": "Flächenberechnung"
+    },
+    {
+      "id": "ntg-129",
+      "text": "3² + 4² = ?",
+      "options": [
+        "7",
+        "12",
+        "25",
+        "49"
+      ],
+      "correct": 2,
+      "explanation": "3² + 4² = 9 + 16 = 25 = 5².",
+      "difficulty": 1,
+      "topic": "Mathematik",
+      "subtopic": "Grundrechenarten"
+    },
+    {
+      "id": "ntg-130",
+      "text": "Was ist eine Legierung?",
+      "options": [
+        "Reines Metall",
+        "Mischung aus zwei oder mehr Metallen (oder Metall + Nichtmetall)",
+        "Kunststoff",
+        "Keramik"
+      ],
+      "correct": 1,
+      "explanation": "Legierung: Mischung von Metallen. Z.B. Messing (Cu+Zn), Bronze (Cu+Sn), Stahl (Fe+C).",
+      "difficulty": 1,
+      "topic": "Werkstofftechnik",
+      "subtopic": "Legierungen"
+    },
+    {
+      "id": "ntg-131",
+      "text": "Was ist Messing?",
+      "options": [
+        "Eisen-Kohlenstoff",
+        "Kupfer-Zink-Legierung",
+        "Aluminium-Magnesium",
+        "Zinn-Blei"
+      ],
+      "correct": 1,
+      "explanation": "Messing: Cu + Zn. Gelblich, gut verformbar, korrosionsbeständig. Verwendung: Armaturen, Beschläge.",
+      "difficulty": 1,
+      "topic": "Werkstofftechnik",
+      "subtopic": "Legierungen"
+    },
+    {
+      "id": "ntg-132",
+      "text": "Was ist Bronze?",
+      "options": [
+        "Kupfer-Zink",
+        "Kupfer-Zinn-Legierung",
+        "Eisen-Chrom",
+        "Aluminium-Kupfer"
+      ],
+      "correct": 1,
+      "explanation": "Bronze: Cu + Sn. Hart, korrosionsbeständig, gute Gleiteigenschaften. Verwendung: Lager, Glocken.",
+      "difficulty": 1,
+      "topic": "Werkstofftechnik",
+      "subtopic": "Legierungen"
+    },
+    {
+      "id": "ntg-133",
+      "text": "Stahl mit >10,5% Chrom heißt?",
+      "options": [
+        "Baustahl",
+        "Nichtrostender (Edel-)Stahl",
+        "Werkzeugstahl",
+        "Gusseisen"
+      ],
+      "correct": 1,
+      "explanation": "Edelstahl (rostfrei): >10,5% Cr bildet schützende Oxidschicht (Passivierung). Oft mit Ni und Mo legiert.",
+      "difficulty": 1,
+      "topic": "Werkstofftechnik",
+      "subtopic": "Stahl"
+    },
+    {
+      "id": "ntg-134",
+      "text": "Was ist Bruchdehnung?",
+      "options": [
+        "Zugfestigkeit",
+        "Bleibende Längenänderung nach Bruch im Zugversuch (in %)",
+        "Streckgrenze",
+        "Härte"
+      ],
+      "correct": 1,
+      "explanation": "Bruchdehnung A [%] = (Lu-L0)/L0 × 100. Maß für die Verformbarkeit/Duktilität eines Werkstoffs.",
+      "difficulty": 2,
+      "topic": "Werkstofftechnik",
+      "subtopic": "Zugversuch"
+    },
+    {
+      "id": "ntg-135",
+      "text": "Was ist das Elastizitätsmodul (E-Modul)?",
+      "options": [
+        "Bruchdehnung",
+        "Verhältnis Spannung/Dehnung im elastischen Bereich (Steifigkeit)",
+        "Zugfestigkeit",
+        "Dichte"
+      ],
+      "correct": 1,
+      "explanation": "E-Modul E = σ/ε [N/mm²]. Maß für die Steifigkeit. Stahl: ~210.000 N/mm², Alu: ~70.000.",
+      "difficulty": 2,
+      "topic": "Werkstofftechnik",
+      "subtopic": "Mechanische Kennwerte"
+    },
+    {
+      "id": "ntg-136",
+      "text": "Regenerative Energiequelle?",
+      "options": [
+        "Kohle",
+        "Solarenergie",
+        "Erdgas",
+        "Erdöl"
+      ],
+      "correct": 1,
+      "explanation": "Regenerativ/erneuerbar: Solar, Wind, Wasser, Biomasse, Geothermie. Unerschöpflich, CO2-arm.",
+      "difficulty": 1,
+      "topic": "Energie",
+      "subtopic": "Regenerative Energien"
+    },
+    {
+      "id": "ntg-137",
+      "text": "Was ist Photovoltaik?",
+      "options": [
+        "Wärmeerzeugung",
+        "Direkte Umwandlung von Sonnenlicht in elektrischen Strom",
+        "Windenergie",
+        "Wasserkraft"
+      ],
+      "correct": 1,
+      "explanation": "PV: Solarzellen wandeln Licht direkt in Gleichstrom um (photoelektrischer Effekt). Wirkungsgrad: 15-25%.",
+      "difficulty": 1,
+      "topic": "Energie",
+      "subtopic": "Regenerative Energien"
+    },
+    {
+      "id": "ntg-138",
+      "text": "Was ist eine Wärmepumpe?",
+      "options": [
+        "Heizkörper",
+        "Nutzt Umgebungswärme und hebt sie auf höheres Temperaturniveau",
+        "Kühlaggregat",
+        "Verbrennungsmotor"
+      ],
+      "correct": 1,
+      "explanation": "Wärmepumpe: entzieht Umgebung (Luft/Wasser/Erdreich) Wärme und gibt sie auf höherem Niveau ab. COP: 3-5.",
+      "difficulty": 2,
+      "topic": "Energie",
+      "subtopic": "Wärmetechnik"
+    },
+    {
+      "id": "ntg-139",
+      "text": "Energiekennzahl: Was ist der COP?",
+      "options": [
+        "Kosten",
+        "Coefficient of Performance: Verhältnis Nutzwärme zu eingesetzter Energie",
+        "Wirkungsgrad",
+        "Kapazität"
+      ],
+      "correct": 1,
+      "explanation": "COP = Nutzwärme/eingesetzte elektrische Energie. COP 4 bedeutet: 1 kWh Strom → 4 kWh Wärme.",
+      "difficulty": 2,
+      "topic": "Energie",
+      "subtopic": "Kennzahlen"
+    },
+    {
+      "id": "ntg-140",
+      "text": "Formel Kreisumfang?",
+      "options": [
+        "U = πr²",
+        "U = 2πr",
+        "U = πr",
+        "U = 4πr²"
+      ],
+      "correct": 1,
+      "explanation": "U = 2πr = πd. d = Durchmesser, r = Radius.",
+      "difficulty": 1,
+      "topic": "Mathematik",
+      "subtopic": "Kreisberechnung"
+    },
+    {
+      "id": "ntg-141",
+      "text": "Elektrischer Strom: I = ?",
+      "options": [
+        "I = U × R",
+        "I = U / R",
+        "I = R / U",
+        "I = P / R"
+      ],
+      "correct": 1,
+      "explanation": "Nach Ohmschem Gesetz: I = U/R. Stromstärke in Ampere (A).",
+      "difficulty": 1,
+      "topic": "Elektrotechnik",
+      "subtopic": "Ohmsches Gesetz"
+    },
+    {
+      "id": "ntg-142",
+      "text": "Scheinleistung bei Wechselstrom: S = ?",
+      "options": [
+        "S = U × I",
+        "S = P + Q",
+        "S = P × cos φ",
+        "S = U / I"
+      ],
+      "correct": 0,
+      "explanation": "S = U × I [VA]. S² = P² + Q² (Leistungsdreieck). P = S × cos φ.",
+      "difficulty": 2,
+      "topic": "Elektrotechnik",
+      "subtopic": "Wechselstrom"
+    },
+    {
+      "id": "ntg-143",
+      "text": "Was sind Ferrite?",
+      "options": [
+        "Keramik",
+        "Im EKD: kubisch-raumzentriertes Eisen (weich, magnetisch)",
+        "Kunststoff",
+        "Glas"
+      ],
+      "correct": 1,
+      "explanation": "Ferrit (α-Eisen): krz-Gitter, weich, magnetisch, geringe C-Löslichkeit (max. 0,02% bei 723°C).",
+      "difficulty": 3,
+      "topic": "Werkstofftechnik",
+      "subtopic": "EKD"
+    },
+    {
+      "id": "ntg-144",
+      "text": "Was ist Austenit?",
+      "options": [
+        "Gehärteter Stahl",
+        "Im EKD: kubisch-flächenzentriertes Eisen (unmagnetisch, bei hoher T)",
+        "Gusseisen",
+        "Rost"
+      ],
+      "correct": 1,
+      "explanation": "Austenit (γ-Eisen): kfz-Gitter, unmagnetisch, hohe C-Löslichkeit (max. 2,06%). Oberhalb 723°C stabil.",
+      "difficulty": 3,
+      "topic": "Werkstofftechnik",
+      "subtopic": "EKD"
+    },
+    {
+      "id": "ntg-145",
+      "text": "Was ist Martensit?",
+      "options": [
+        "Weicher Stahl",
+        "Sehr hartes, tetragonal verzerrtes Gefüge durch schnelles Abschrecken",
+        "Gusseisen",
+        "Perlit"
+      ],
+      "correct": 1,
+      "explanation": "Martensit: durch schnelles Abschrecken von Austenit entsteht nadeliges, sehr hartes aber sprödes Gefüge.",
+      "difficulty": 3,
+      "topic": "Werkstofftechnik",
+      "subtopic": "Wärmebehandlung"
+    },
+    {
+      "id": "ntg-146",
+      "text": "Spezifischer Widerstand: Was ist die Einheit?",
+      "options": [
+        "Ω",
+        "Ω·mm²/m",
+        "Ω/m",
+        "A/m"
+      ],
+      "correct": 1,
+      "explanation": "ρ [Ω·mm²/m]: Widerstand eines Leiters mit 1 mm² Querschnitt und 1 m Länge.",
+      "difficulty": 2,
+      "topic": "Elektrotechnik",
+      "subtopic": "Leitungswiderstand"
+    },
+    {
+      "id": "ntg-147",
+      "text": "Dreisatz: 3 MA brauchen 12 Tage. 6 MA brauchen?",
+      "options": [
+        "24 Tage",
+        "6 Tage",
+        "3 Tage",
+        "18 Tage"
+      ],
+      "correct": 1,
+      "explanation": "Antiproportional: 3×12 = 36 Manntage. 36/6 = 6 Tage.",
+      "difficulty": 1,
+      "topic": "Mathematik",
+      "subtopic": "Dreisatz"
+    },
+    {
+      "id": "ntg-148",
+      "text": "Prozentrechnung: 15% von 800?",
+      "options": [
+        "80",
+        "100",
+        "120",
+        "150"
+      ],
+      "correct": 2,
+      "explanation": "15% × 800 = 0,15 × 800 = 120.",
+      "difficulty": 1,
+      "topic": "Mathematik",
+      "subtopic": "Prozentrechnung"
+    },
+    {
+      "id": "ntg-149",
+      "text": "Trapezfläche?",
+      "options": [
+        "A = a × b",
+        "A = (a+c)/2 × h",
+        "A = a × h",
+        "A = πr²"
+      ],
+      "correct": 1,
+      "explanation": "A = (a+c)/2 × h. a und c sind die parallelen Seiten, h die Höhe.",
+      "difficulty": 2,
+      "topic": "Mathematik",
+      "subtopic": "Flächenberechnung"
+    },
+    {
+      "id": "ntg-150",
+      "text": "Was ist Wärmedämmung?",
+      "options": [
+        "Wärmeleitung erhöhen",
+        "Verringerung der Wärmeübertragung durch isolierende Materialien",
+        "Wärmestrahlung",
+        "Konvektion erhöhen"
+      ],
+      "correct": 1,
+      "explanation": "Wärmedämmung: Materialien mit niedriger Wärmeleitfähigkeit (z.B. Styropor, Mineralwolle) reduzieren Wärmeverluste.",
+      "difficulty": 1,
+      "topic": "Thermodynamik",
+      "subtopic": "Wärmeübertragung"
+    },
+    {
+      "id": "ntg-151",
+      "text": "Was ist der Wärmedurchgangskoeffizient (U-Wert)?",
+      "options": [
+        "Temperatur",
+        "Maß für den Wärmeverlust durch ein Bauteil [W/(m²·K)]",
+        "Druck",
+        "Leistung"
+      ],
+      "correct": 1,
+      "explanation": "U-Wert: je kleiner, desto besser die Dämmung. Fenster: 0,8-1,3. Gut gedämmte Wand: 0,15-0,25 W/(m²·K).",
+      "difficulty": 2,
+      "topic": "Thermodynamik",
+      "subtopic": "Wärmedämmung"
+    },
+    {
+      "id": "ntg-152",
+      "text": "Was ist Wärmeleitfähigkeit λ?",
+      "options": [
+        "Temperatur",
+        "Stoffeigenschaft: Wärmestrom pro Fläche und Temperaturgefälle [W/(m·K)]",
+        "Dichte",
+        "Viskosität"
+      ],
+      "correct": 1,
+      "explanation": "λ [W/(m·K)]: Kupfer ≈ 380, Stahl ≈ 50, Wasser ≈ 0,6, Luft ≈ 0,025, Styropor ≈ 0,04.",
+      "difficulty": 2,
+      "topic": "Thermodynamik",
+      "subtopic": "Wärmeübertragung"
+    },
+    {
+      "id": "ntg-153",
+      "text": "Reihenschaltung: Strom I?",
+      "options": [
+        "Unterschiedlich an jedem R",
+        "Überall gleich",
+        "Nur am Anfang",
+        "Null"
+      ],
+      "correct": 1,
+      "explanation": "Reihenschaltung: I = Iges = I₁ = I₂ = ... Strom ist überall gleich groß.",
+      "difficulty": 1,
+      "topic": "Elektrotechnik",
+      "subtopic": "Reihenschaltung"
+    },
+    {
+      "id": "ntg-154",
+      "text": "Parallelschaltung: Spannung U?",
+      "options": [
+        "Unterschiedlich",
+        "An allen R gleich (= Gesamtspannung)",
+        "Null",
+        "Doppelt"
+      ],
+      "correct": 1,
+      "explanation": "Parallelschaltung: U = Uges = U₁ = U₂ = ... Spannung ist überall gleich.",
+      "difficulty": 1,
+      "topic": "Elektrotechnik",
+      "subtopic": "Parallelschaltung"
+    },
+    {
+      "id": "ntg-155",
+      "text": "Energie eines Kondensators: W = ?",
+      "options": [
+        "W = ½·C·U²",
+        "W = C·U",
+        "W = U/C",
+        "W = C²·U"
+      ],
+      "correct": 0,
+      "explanation": "W = ½·C·U² (Kapazität × Spannung²). Kondensator speichert elektrische Energie im Feld.",
+      "difficulty": 2,
+      "topic": "Elektrotechnik",
+      "subtopic": "Kondensator"
+    },
+    {
+      "id": "ntg-156",
+      "text": "Was ist Kapazität C?",
+      "options": [
+        "Widerstand",
+        "Fähigkeit eines Kondensators, Ladung zu speichern [F = Farad]",
+        "Induktivität",
+        "Frequenz"
+      ],
+      "correct": 1,
+      "explanation": "C = Q/U [Farad]. 1F = 1 As/V. Praxis: μF, nF, pF.",
+      "difficulty": 2,
+      "topic": "Elektrotechnik",
+      "subtopic": "Kondensator"
+    },
+    {
+      "id": "ntg-157",
+      "text": "Was ist Induktivität L?",
+      "options": [
+        "Kapazität",
+        "Eigenschaft einer Spule, Energie im Magnetfeld zu speichern [H = Henry]",
+        "Widerstand",
+        "Spannung"
+      ],
+      "correct": 1,
+      "explanation": "L [Henry]: Maß für die Fähigkeit einer Spule, magnetische Energie zu speichern. W = ½·L·I².",
+      "difficulty": 2,
+      "topic": "Elektrotechnik",
+      "subtopic": "Spule"
+    },
+    {
+      "id": "ntg-158",
+      "text": "Schaltzeichen: Dreieck mit Strich = ?",
+      "options": [
+        "Widerstand",
+        "Diode",
+        "Kondensator",
+        "Spule"
+      ],
+      "correct": 1,
+      "explanation": "Diode: lässt Strom nur in einer Richtung durch (Pfeilrichtung). Wichtig für Gleichrichtung.",
+      "difficulty": 1,
+      "topic": "Elektrotechnik",
+      "subtopic": "Bauteile"
+    },
+    {
+      "id": "ntg-159",
+      "text": "Fläche Dreieck?",
+      "options": [
+        "A = a × b",
+        "A = ½ × g × h",
+        "A = a² + b²",
+        "A = π × r²"
+      ],
+      "correct": 1,
+      "explanation": "A = ½ × Grundseite × Höhe. Allgemein: A = ½·a·b·sin(γ).",
+      "difficulty": 1,
+      "topic": "Mathematik",
+      "subtopic": "Flächenberechnung"
+    },
+    {
+      "id": "ntg-160",
+      "text": "2³ = ?",
+      "options": [
+        "6",
+        "8",
+        "9",
+        "16"
+      ],
+      "correct": 1,
+      "explanation": "2³ = 2×2×2 = 8.",
+      "difficulty": 1,
+      "topic": "Mathematik",
+      "subtopic": "Potenzen"
+    },
+    {
+      "id": "ntg-161",
+      "text": "√144 = ?",
+      "options": [
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "correct": 1,
+      "explanation": "√144 = 12. 12² = 144.",
+      "difficulty": 1,
+      "topic": "Mathematik",
+      "subtopic": "Wurzeln"
+    },
+    {
+      "id": "ntg-162",
+      "text": "Umrechnung: 1 bar = ? Pascal",
+      "options": [
+        "1000 Pa",
+        "10.000 Pa",
+        "100.000 Pa",
+        "1.000.000 Pa"
+      ],
+      "correct": 2,
+      "explanation": "1 bar = 100.000 Pa = 10⁵ Pa. Atmosphärischer Druck ≈ 1,013 bar.",
+      "difficulty": 1,
+      "topic": "Mechanik",
+      "subtopic": "Einheiten"
+    },
+    {
+      "id": "ntg-163",
+      "text": "Dichte Stahl ≈ ?",
+      "options": [
+        "2700 kg/m³",
+        "7850 kg/m³",
+        "8900 kg/m³",
+        "11300 kg/m³"
+      ],
+      "correct": 1,
+      "explanation": "Stahl ≈ 7850 kg/m³. Alu ≈ 2700. Kupfer ≈ 8900. Blei ≈ 11340.",
+      "difficulty": 1,
+      "topic": "Werkstofftechnik",
+      "subtopic": "Dichte"
+    },
+    {
+      "id": "ntg-164",
+      "text": "Höhe einer Flüssigkeitssäule erzeugt 1 bar. Wasser: h ≈ ?",
+      "options": [
+        "1 m",
+        "5 m",
+        "10 m",
+        "100 m"
+      ],
+      "correct": 2,
+      "explanation": "p = ρ·g·h → h = p/(ρ·g) = 100000/(1000×9,81) ≈ 10,2 m.",
+      "difficulty": 2,
+      "topic": "Mechanik",
+      "subtopic": "Druck"
+    },
+    {
+      "id": "ntg-165",
+      "text": "Was ist ein Hebelarm?",
+      "options": [
+        "Kraft",
+        "Senkrechter Abstand der Kraftlinie zum Drehpunkt",
+        "Masse",
+        "Geschwindigkeit"
+      ],
+      "correct": 1,
+      "explanation": "Hebelarm l: senkrechter Abstand zwischen Wirkungslinie der Kraft und Drehpunkt. M = F × l.",
+      "difficulty": 1,
+      "topic": "Mechanik",
+      "subtopic": "Hebel"
+    },
+    {
+      "id": "ntg-166",
+      "text": "Wie viele Grundeinheiten hat das SI-System?",
+      "options": [
+        "5",
+        "7",
+        "9",
+        "10"
+      ],
+      "correct": 1,
+      "explanation": "7 SI-Basiseinheiten: Meter, Kilogramm, Sekunde, Ampere, Kelvin, Mol, Candela.",
+      "difficulty": 1,
+      "topic": "Mechanik",
+      "subtopic": "Einheiten"
+    },
+    {
+      "id": "ntg-167",
+      "text": "Was ist eine Federkonstante?",
+      "options": [
+        "Gewicht",
+        "Maß für die Steifigkeit einer Feder: F = c × s",
+        "Temperatur",
+        "Drehzahl"
+      ],
+      "correct": 1,
+      "explanation": "Federrate c [N/mm]: F = c × s (Hooke-Gesetz). Je höher c, desto steifer die Feder.",
+      "difficulty": 2,
+      "topic": "Mechanik",
+      "subtopic": "Elastizität"
+    },
+    {
+      "id": "ntg-168",
+      "text": "Was ist Schwingungsdämpfung?",
+      "options": [
+        "Verstärkung",
+        "Verringerung der Schwingungsamplitude durch Energiedissipation",
+        "Resonanz",
+        "Frequenz"
+      ],
+      "correct": 1,
+      "explanation": "Dämpfung: Schwingungsenergie wird in Wärme umgewandelt. Wichtig bei Maschinen, Fahrzeugen, Gebäuden.",
+      "difficulty": 2,
+      "topic": "Mechanik",
+      "subtopic": "Schwingungen"
+    },
+    {
+      "id": "ntg-169",
+      "text": "Was ist Resonanz?",
+      "options": [
+        "Dämpfung",
+        "Maximale Schwingungsamplitude wenn Erregerfrequenz = Eigenfrequenz",
+        "Minimale Schwingung",
+        "Stillstand"
+      ],
+      "correct": 1,
+      "explanation": "Resonanz: Erregerfrequenz = Eigenfrequenz → maximale Amplitude. Kann zu Schäden führen (Brücken, Maschinen).",
+      "difficulty": 2,
+      "topic": "Mechanik",
+      "subtopic": "Schwingungen"
+    },
+    {
+      "id": "ntg-170",
+      "text": "Spannungsabfall über Leitung: ΔU = ?",
+      "options": [
+        "ΔU = R × I",
+        "ΔU = P × t",
+        "ΔU = U²/R",
+        "ΔU = I/R"
+      ],
+      "correct": 0,
+      "explanation": "ΔU = R × I = (ρ × 2l)/(A) × I. Spannungsabfall begrenzt Leitungslänge.",
+      "difficulty": 2,
+      "topic": "Elektrotechnik",
+      "subtopic": "Leitungswiderstand"
+    },
+    {
+      "id": "ntg-171",
+      "text": "Energie: 1 kWh kostet 0,30€. 2000W Heizung 5h: Kosten?",
+      "options": [
+        "1,50€",
+        "3,00€",
+        "6,00€",
+        "10,00€"
+      ],
+      "correct": 1,
+      "explanation": "W = 2kW × 5h = 10 kWh. Kosten = 10 × 0,30€ = 3,00€.",
+      "difficulty": 1,
+      "topic": "Elektrotechnik",
+      "subtopic": "Kostenberechnung"
+    },
+    {
+      "id": "ntg-172",
+      "text": "Was ist eine LED?",
+      "options": [
+        "Widerstand",
+        "Licht emittierende Diode (Halbleiterbauelement)",
+        "Kondensator",
+        "Transformator"
+      ],
+      "correct": 1,
+      "explanation": "LED: Halbleiterdiode die bei Stromfluss Licht emittiert. Energieeffizient, langlebig, geringe Wärmeentwicklung.",
+      "difficulty": 1,
+      "topic": "Elektrotechnik",
+      "subtopic": "Bauteile"
+    },
+    {
+      "id": "ntg-173",
+      "text": "Was ist ein Transistor?",
+      "options": [
+        "Passives Bauelement",
+        "Aktives Halbleiterbauelement zum Schalten und Verstärken",
+        "Widerstand",
+        "Kondensator"
+      ],
+      "correct": 1,
+      "explanation": "Transistor: Halbleiterbauelement mit 3 Anschlüssen (Basis, Kollektor, Emitter). Basis der digitalen Elektronik.",
+      "difficulty": 2,
+      "topic": "Elektrotechnik",
+      "subtopic": "Bauteile"
+    },
+    {
+      "id": "ntg-174",
+      "text": "Hebelgesetz: F₁=200N, l₁=3m, l₂=2m. F₂=?",
+      "options": [
+        "133 N",
+        "200 N",
+        "300 N",
+        "600 N"
+      ],
+      "correct": 2,
+      "explanation": "F₁×l₁ = F₂×l₂ → F₂ = 200×3/2 = 300 N.",
+      "difficulty": 1,
+      "topic": "Mechanik",
+      "subtopic": "Hebel"
+    },
+    {
+      "id": "ntg-175",
+      "text": "Geschwindigkeit v=72 km/h in m/s?",
+      "options": [
+        "7,2 m/s",
+        "20 m/s",
+        "72 m/s",
+        "720 m/s"
+      ],
+      "correct": 1,
+      "explanation": "72 km/h ÷ 3,6 = 20 m/s. Umrechnung: km/h ÷ 3,6 = m/s.",
+      "difficulty": 1,
+      "topic": "Mathematik",
+      "subtopic": "Einheitenumrechnung"
+    },
+    {
+      "id": "ntg-176",
+      "text": "Beschleunigung: a = ?",
+      "options": [
+        "a = v × t",
+        "a = Δv / Δt",
+        "a = s / t",
+        "a = F × m"
+      ],
+      "correct": 1,
+      "explanation": "a = Δv/Δt [m/s²]. Auch: a = F/m (aus Newton 2).",
+      "difficulty": 1,
+      "topic": "Mechanik",
+      "subtopic": "Bewegung"
+    },
+    {
+      "id": "ntg-177",
+      "text": "Fallbeschleunigung g ≈ ?",
+      "options": [
+        "1 m/s²",
+        "5 m/s²",
+        "9,81 m/s²",
+        "15 m/s²"
+      ],
+      "correct": 2,
+      "explanation": "g ≈ 9,81 m/s² (Erdbeschleunigung). Gerundet oft 10 m/s² in Aufgaben.",
+      "difficulty": 1,
+      "topic": "Mechanik",
+      "subtopic": "Gravitation"
+    },
+    {
+      "id": "ntg-178",
+      "text": "Gewichtskraft: FG = ?",
+      "options": [
+        "FG = m × v",
+        "FG = m × g",
+        "FG = m × a",
+        "FG = F × s"
+      ],
+      "correct": 1,
+      "explanation": "FG = m × g. 1 kg → FG ≈ 9,81 N ≈ 10 N.",
+      "difficulty": 1,
+      "topic": "Mechanik",
+      "subtopic": "Kräfte"
+    },
+    {
+      "id": "ntg-179",
+      "text": "Körper 20 kg fällt frei. Gewichtskraft? (g=10)",
+      "options": [
+        "20 N",
+        "100 N",
+        "200 N",
+        "2000 N"
+      ],
+      "correct": 2,
+      "explanation": "FG = m × g = 20 × 10 = 200 N.",
+      "difficulty": 1,
+      "topic": "Mechanik",
+      "subtopic": "Kräfte"
+    },
+    {
+      "id": "ntg-180",
+      "text": "Was ist Drehzahl?",
+      "options": [
+        "Geschwindigkeit",
+        "Umdrehungen pro Zeiteinheit [1/min oder 1/s]",
+        "Beschleunigung",
+        "Kraft"
+      ],
+      "correct": 1,
+      "explanation": "Drehzahl n [1/min]: Umdrehungen pro Minute. Zusammenhang: v = π × d × n.",
+      "difficulty": 1,
+      "topic": "Mechanik",
+      "subtopic": "Rotation"
+    },
+    {
+      "id": "ntg-181",
+      "text": "Umfangsgeschwindigkeit: v = ?",
+      "options": [
+        "v = s/t",
+        "v = π × d × n",
+        "v = a × t",
+        "v = F/m"
+      ],
+      "correct": 1,
+      "explanation": "v = π × d × n. d = Durchmesser, n = Drehzahl. Wichtig für Schnittgeschwindigkeit beim Drehen/Fräsen.",
+      "difficulty": 2,
+      "topic": "Mechanik",
+      "subtopic": "Rotation"
+    },
+    {
+      "id": "ntg-182",
+      "text": "Verbrennungsdreieck: Was braucht Feuer?",
+      "options": [
+        "Nur Hitze",
+        "Brennstoff, Sauerstoff und Zündenergie",
+        "Nur Brennstoff",
+        "Nur Sauerstoff"
+      ],
+      "correct": 1,
+      "explanation": "Verbrennungsdreieck: Brennstoff + Sauerstoff + Zündenergie. Fehlt ein Element, erlischt das Feuer (Löschprinzip).",
+      "difficulty": 1,
+      "topic": "Chemie",
+      "subtopic": "Verbrennung"
+    },
+    {
+      "id": "ntg-183",
+      "text": "Brandklasse A?",
+      "options": [
+        "Brennbare Flüssigkeiten",
+        "Feste glutbildende Stoffe (Holz, Papier, Textilien)",
+        "Brennbare Gase",
+        "Metalle"
+      ],
+      "correct": 1,
+      "explanation": "Klasse A: feste Stoffe (Holz, Papier). B: Flüssigkeiten. C: Gase. D: Metalle. F: Speisefette.",
+      "difficulty": 1,
+      "topic": "Chemie",
+      "subtopic": "Brandschutz"
+    },
+    {
+      "id": "ntg-184",
+      "text": "Löscher für Klasse B (brennbare Flüssigkeiten)?",
+      "options": [
+        "Wasser",
+        "Schaum oder CO2",
+        "Sand",
+        "Nur Pulver"
+      ],
+      "correct": 1,
+      "explanation": "Klasse B: Schaum, CO2, Pulver. NICHT Wasser (Fettexplosion bei Öl). CO2 erstickend.",
+      "difficulty": 1,
+      "topic": "Chemie",
+      "subtopic": "Brandschutz"
+    },
+    {
+      "id": "ntg-185",
+      "text": "Molare Masse: Was ist 1 mol?",
+      "options": [
+        "1 kg",
+        "6,022 × 10²³ Teilchen (Avogadro-Zahl)",
+        "1 Liter",
+        "1000 Teilchen"
+      ],
+      "correct": 1,
+      "explanation": "1 mol = 6,022 × 10²³ Teilchen (Avogadro-Konstante). Molare Masse in g/mol = Atommasse in u.",
+      "difficulty": 2,
+      "topic": "Chemie",
+      "subtopic": "Grundlagen"
+    },
+    {
+      "id": "ntg-186",
+      "text": "Was ist Elektrolyse?",
+      "options": [
+        "Stromerzeugung",
+        "Zerlegung eines Stoffes durch elektrischen Strom",
+        "Magnetismus",
+        "Induktion"
+      ],
+      "correct": 1,
+      "explanation": "Elektrolyse: Erzwungene Redoxreaktion durch Gleichstrom. Z.B. Wasserelektrolyse: 2H₂O → 2H₂ + O₂.",
+      "difficulty": 2,
+      "topic": "Chemie",
+      "subtopic": "Elektrochemie"
+    },
+    {
+      "id": "ntg-187",
+      "text": "Was ist galvanische Korrosion?",
+      "options": [
+        "Keine Korrosion",
+        "Korrosion durch Kontakt unterschiedlich edler Metalle in Elektrolyt",
+        "Luftkorrosion",
+        "Erosion"
+      ],
+      "correct": 1,
+      "explanation": "Galvanische Korrosion: unedleres Metall wird Anode und löst sich auf. Vermeidung: gleiche Metalle oder Isolation.",
+      "difficulty": 2,
+      "topic": "Werkstofftechnik",
+      "subtopic": "Korrosion"
+    },
+    {
+      "id": "ntg-188",
+      "text": "Spannungsreihe: Was ist ein edles Metall?",
+      "options": [
+        "Zink",
+        "Metall mit positivem Standardpotential (z.B. Gold, Platin)",
+        "Eisen",
+        "Aluminium"
+      ],
+      "correct": 1,
+      "explanation": "Edle Metalle: Gold, Platin, Silber. Hohes Standardpotential, schwer oxidierbar. Unedle: Zn, Fe, Al.",
+      "difficulty": 2,
+      "topic": "Chemie",
+      "subtopic": "Elektrochemie"
+    },
+    {
+      "id": "ntg-189",
+      "text": "Was bedeutet ISO?",
+      "options": [
+        "International Standard Order",
+        "International Organization for Standardization",
+        "Integrated System Operation",
+        "Internal Safety Office"
+      ],
+      "correct": 1,
+      "explanation": "ISO: Internationale Organisation für Normung. Erstellt weltweit gültige Standards (z.B. ISO 9001, ISO 14001).",
+      "difficulty": 1,
+      "topic": "Techn. Kommunikation",
+      "subtopic": "Normen"
+    },
+    {
+      "id": "ntg-190",
+      "text": "Was ist eine Stücklistenauflösung?",
+      "options": [
+        "Recycling",
+        "Zerlegung eines Produkts in alle Einzelteile und Baugruppen mit Mengen",
+        "Produktrückruf",
+        "Entsorgung"
+      ],
+      "correct": 1,
+      "explanation": "Stücklistenauflösung: hierarchische Zerlegung in alle Komponenten. Basis für Materialbedarfsplanung (MRP).",
+      "difficulty": 2,
+      "topic": "Techn. Kommunikation",
+      "subtopic": "Stücklisten"
+    },
+    {
+      "id": "ntg-191",
+      "text": "Maßstab 1:2 bedeutet?",
+      "options": [
+        "Originalgröße",
+        "Zeichnung halb so groß wie Original (Verkleinerung)",
+        "Zeichnung doppelt so groß",
+        "Zeichnung 10× kleiner"
+      ],
+      "correct": 1,
+      "explanation": "1:2 = Verkleinerung. 1mm auf Zeichnung = 2mm in Realität. 2:1 = Vergrößerung.",
+      "difficulty": 1,
+      "topic": "Techn. Kommunikation",
+      "subtopic": "Zeichnungen"
+    },
+    {
+      "id": "ntg-192",
+      "text": "Dritte Winkel Projektion: Was ist die Vorderansicht?",
+      "options": [
+        "Draufsicht",
+        "Wichtigste Ansicht, zeigt die meisten Details",
+        "Seitenansicht",
+        "Schnittansicht"
+      ],
+      "correct": 1,
+      "explanation": "Vorderansicht: Hauptansicht einer technischen Zeichnung. Zeigt die charakteristischste Seite des Werkstücks.",
+      "difficulty": 1,
+      "topic": "Techn. Kommunikation",
+      "subtopic": "Zeichnungen"
+    },
+    {
+      "id": "ntg-193",
+      "text": "Was ist Emissionsschutz?",
+      "options": [
+        "Einwanderungsschutz",
+        "Begrenzung von Schadstoffen, Lärm und Strahlung an der Quelle",
+        "Sonnenschutz",
+        "Datenschutz"
+      ],
+      "correct": 1,
+      "explanation": "Emissionsschutz (BImSchG): Begrenzung der Freisetzung von Luftschadstoffen, Lärm, Erschütterungen, Strahlung.",
+      "difficulty": 1,
+      "topic": "Energie",
+      "subtopic": "Umweltschutz"
+    },
+    {
+      "id": "ntg-194",
+      "text": "Was ist der Treibhauseffekt?",
+      "options": [
+        "Pflanzenanbau",
+        "Erwärmung der Atmosphäre durch Absorption von Wärmestrahlung durch Treibhausgase",
+        "Ozonloch",
+        "Saurer Regen"
+      ],
+      "correct": 1,
+      "explanation": "Treibhausgase (CO₂, CH₄, N₂O) absorbieren Wärmestrahlung der Erde. Anthropogene Verstärkung → Klimawandel.",
+      "difficulty": 1,
+      "topic": "Energie",
+      "subtopic": "Umweltschutz"
+    },
+    {
+      "id": "ntg-195",
+      "text": "Wirkungsgrad Kohlekraftwerk ≈ ?",
+      "options": [
+        "20%",
+        "35-45%",
+        "80%",
+        "95%"
+      ],
+      "correct": 1,
+      "explanation": "Kohlekraftwerk: η ≈ 35-45%. GuD-Kraftwerk (Gas und Dampf): bis 60%. Wärmepumpe: COP 3-5.",
+      "difficulty": 2,
+      "topic": "Energie",
+      "subtopic": "Wirkungsgrad"
+    },
+    {
+      "id": "ntg-196",
+      "text": "Windkraft: Welcher Energiewandler?",
+      "options": [
+        "Solarzelle",
+        "Generator, angetrieben durch Windturbine",
+        "Brennstoffzelle",
+        "Akku"
+      ],
+      "correct": 1,
+      "explanation": "Windkraftanlage: kinetische Windenergie → mechanische Rotation → elektrische Energie (Generator). Theoretisch max. 59,3% (Betz).",
+      "difficulty": 1,
+      "topic": "Energie",
+      "subtopic": "Regenerative Energien"
+    },
+    {
+      "id": "ntg-197",
+      "text": "Kraft F = 500N auf A = 0,1 m². Druck p = ?",
+      "options": [
+        "50 Pa",
+        "500 Pa",
+        "5000 Pa",
+        "50000 Pa"
+      ],
+      "correct": 2,
+      "explanation": "p = F/A = 500/0,1 = 5000 Pa = 50 hPa.",
+      "difficulty": 1,
+      "topic": "Mechanik",
+      "subtopic": "Druck"
+    },
+    {
+      "id": "ntg-198",
+      "text": "Spannung U = 12V, R = 4Ω. Strom I = ?",
+      "options": [
+        "0,33 A",
+        "3 A",
+        "48 A",
+        "16 A"
+      ],
+      "correct": 1,
+      "explanation": "I = U/R = 12/4 = 3 A.",
+      "difficulty": 1,
+      "topic": "Elektrotechnik",
+      "subtopic": "Ohmsches Gesetz"
+    },
+    {
+      "id": "ntg-199",
+      "text": "Leistung P = 2300W, Spannung U = 230V. Strom I = ?",
+      "options": [
+        "1 A",
+        "10 A",
+        "23 A",
+        "100 A"
+      ],
+      "correct": 1,
+      "explanation": "I = P/U = 2300/230 = 10 A.",
+      "difficulty": 1,
+      "topic": "Elektrotechnik",
+      "subtopic": "Leistung"
+    },
+    {
+      "id": "ntg-200",
+      "text": "Masse 5000g in kg?",
+      "options": [
+        "0,5 kg",
+        "5 kg",
+        "50 kg",
+        "500 kg"
+      ],
+      "correct": 1,
+      "explanation": "5000 g = 5000/1000 = 5 kg.",
+      "difficulty": 1,
+      "topic": "Mathematik",
+      "subtopic": "Einheitenumrechnung"
+    }
+  ]
+}
