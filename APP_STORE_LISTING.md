@@ -64,7 +64,7 @@ Industriemeister,BQ,Prüfung,IHK,Basisqualifikation,Lernen,Metall,Elektro,Meiste
 https://bqpruefung.de/#support
 
 ## Datenschutz-URL
-https://bqpruefung.de/#datenschutz
+https://bqpruefung.de/datenschutz.html
 
 ## Marketing-URL
 https://bqpruefung.de
